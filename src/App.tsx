@@ -1,6 +1,13 @@
 import { useState } from 'react'
-import MedicalFlow from './components/MedicalFlow'
-import MedicalSidebar from './components/MedicalSidebar'
+import { Routes, Route } from 'react-router-dom'
+import HomePage from './components/HomePage'
+import GuidelinesPage from './components/GuidelinesPage'
+import TrialsPage from './components/TrialsPage'
+import FinancialHelpPage from './components/FinancialHelpPage'
+import MedicationPage from './components/MedicationPage'
+import MyPlanPage from './components/MyPlanPage'
+import AccountPage from './components/AccountPage'
+import MedicalPathwayPage from './components/MedicalPathwayPage'
 import { AuthProvider } from './lib/auth'
 import { AuthModal } from './components/AuthModal'
 import { useAuth } from './lib/auth'
@@ -30,15 +37,15 @@ function AppContent() {
   }
 
   return (
-    <div className="flex h-screen bg-background">
+    <div className="h-screen bg-background">
       {/* Header */}
-      <header className="absolute top-0 left-0 right-0 z-10 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 border-b border-border">
-        <div className="flex items-center justify-between px-6 py-4">
+      <header className="bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 border-b border-border px-6 py-4">
+        <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
               <Heart className="w-4 h-4 text-primary-foreground" />
             </div>
-            <h1 className="text-xl font-bold">Medical GuidedPath</h1>
+            <h1 className="text-xl font-bold">GuidePath AI</h1>
           </div>
 
           <div className="flex items-center space-x-4">
@@ -62,16 +69,17 @@ function AppContent() {
         </div>
       </header>
 
-      {/* Main content */}
-      <div className="flex flex-1 pt-16">
-        {/* Main graph area */}
-        <div className="flex-1 relative">
-          <MedicalFlow />
-        </div>
-
-        {/* Sidebar */}
-        <MedicalSidebar />
-      </div>
+      {/* Main Routes */}
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/guidelines" element={<GuidelinesPage />} />
+        <Route path="/trials" element={<TrialsPage />} />
+        <Route path="/financial-help" element={<FinancialHelpPage />} />
+        <Route path="/medication" element={<MedicationPage />} />
+        <Route path="/my-plan" element={<MyPlanPage />} />
+        <Route path="/account" element={<AccountPage />} />
+        <Route path="/pathway" element={<MedicalPathwayPage />} />
+      </Routes>
 
       {/* Auth Modal */}
       <AuthModal
