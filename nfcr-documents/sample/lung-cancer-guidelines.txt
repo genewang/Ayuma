@@ -1,0 +1,80 @@
+# Non-Small Cell Lung Cancer (NSCLC) Treatment Guidelines - Sample Reference
+
+## Overview
+Comprehensive treatment guidelines for NSCLC based on current evidence and NCCN framework.
+
+## Staging System (TNM 8th Edition)
+- **Stage I**: T1-2, N0, M0
+- **Stage II**: T1-2, N1, M0 or T3, N0, M0
+- **Stage III**: T1-3, N2, M0 or T4, N0-1, M0
+- **Stage IV**: Any T, Any N, M1
+
+## Molecular Testing Requirements
+- **EGFR mutations**
+- **ALK rearrangements**
+- **ROS1 rearrangements**
+- **BRAF mutations**
+- **PD-L1 expression**
+- **KRAS mutations**
+- **MET exon 14 skipping**
+- **RET rearrangements**
+
+## Treatment by Stage
+
+### Stage I-II (Early Stage)
+1. **Surgical Resection**:
+   - Lobectomy (preferred)
+   - Segmentectomy for small tumors
+   - Wedge resection for limited pulmonary function
+
+2. **Adjuvant Therapy**:
+   - Chemotherapy for high-risk Stage II
+   - Consider targeted therapy for driver mutations
+   - Adjuvant immunotherapy for Stage IIB
+
+### Stage III (Locally Advanced)
+1. **Resectable Stage IIIA**:
+   - Neoadjuvant chemotherapy ± immunotherapy
+   - Surgical resection
+   - Adjuvant therapy based on molecular profile
+
+2. **Unresectable Stage III**:
+   - Concurrent chemoradiation
+   - Consolidation immunotherapy
+   - Consider surgery if downstaged
+
+### Stage IV (Metastatic)
+1. **First-line Treatment**:
+   - **EGFR positive**: Osimertinib (preferred)
+   - **ALK positive**: Alectinib, Brigatinib, or Ceritinib
+   - **PD-L1 ≥50%**: Pembrolizumab monotherapy
+   - **PD-L1 <50%**: Chemotherapy + immunotherapy
+   - **No driver mutation**: Chemotherapy + immunotherapy
+
+2. **Second-line and Beyond**:
+   - Targeted therapy for resistance mutations
+   - Immunotherapy for PD-L1 positive
+   - Chemotherapy options
+   - Clinical trial participation
+
+## Supportive Care
+- **Pain Management**: Opioids, nerve blocks, radiation
+- **Fatigue Management**: Exercise, energy conservation
+- **Nutritional Support**: Dietitian consultation
+- **Psychological Support**: Counseling, support groups
+
+## Follow-up and Surveillance
+- **Years 1-2**: Every 3-6 months
+- **Years 3-5**: Every 6 months
+- **Year 5+**: Annually
+- **Imaging**: CT chest/abdomen/pelvis
+- **Laboratory**: Complete blood count, comprehensive metabolic panel
+
+## Clinical Trials
+- Encourage participation in appropriate trials
+- Consider genomic profiling for targeted therapy
+- Discuss immunotherapy combinations
+- Explore novel targeted agents
+
+---
+*Note: This is a sample document for educational purposes. Always refer to current NCCN Guidelines and institutional protocols for clinical decision-making.*

@@ -55,41 +55,18 @@ class BatchQuery(BaseModel):
 class DocumentIngestion(BaseModel):
     documents: List[Dict]
 
+class DirectoryProcessing(BaseModel):
+    directories: List[str]
+    file_extensions: Optional[List[str]] = None
+    batch_size: Optional[int] = 5
+    save_backup: Optional[bool] = True
+
 class SystemStatus(BaseModel):
     status: str
     documents_indexed: int
     conversations_processed: int
     average_response_time: float
     models_available: List[str]
-
-@app.get("/")
-async def root():
-    """Root endpoint"""
-    return {"message": "Medical GuidedPath AI API", "version": "1.0.0"}
-
-@app.get("/health")
-async def health_check():
-    """Health check endpoint"""
-    return {"status": "healthy", "service": "Medical GuidedPath AI API"}
-
-@app.get("/api/status")
-async def get_system_status() -> SystemStatus:
-    """Get system status and performance metrics"""
-    if controller is None:
-        return SystemStatus(
-            status="initializing",
-            documents_indexed=0,
-            conversations_processed=0,
-            average_response_time=0,
-            models_available=["mock"]
-        )
-
-    try:
-        status = await controller.get_system_status()
-        return SystemStatus(**status)
-    except Exception as e:
-        logger.error(f"Error getting system status: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
 
 @app.post("/api/query")
 async def process_medical_query(query: MedicalQuery):
@@ -165,8 +142,136 @@ async def ingest_medical_documents(docs: DocumentIngestion):
         logger.error(f"Error ingesting documents: {e}")
         raise HTTPException(status_code=500, detail=str(e))
 
-# Error handlers
-@app.exception_handler(Exception)
+@app.post("/api/process-directories")
+async def process_directories(dirs: DirectoryProcessing):
+    """Process documents from multiple directories and ingest into RAG system"""
+    if controller is None:
+        return {
+            "success": False,
+            "error": "AI system is still initializing"
+        }
+
+    try:
+        from document_processor import DocumentProcessor
+
+        processor = DocumentProcessor()
+        total_processed = 0
+        total_documents = 0
+        results = []
+
+        for directory in dirs.directories:
+            logger.info(f"Processing directory: {directory}")
+
+            # Process documents in this directory
+            documents = processor.process_directory(
+                directory,
+                dirs.file_extensions or ['.pdf', '.docx', '.doc', '.xlsx', '.xls', '.pptx', '.ppt', '.epub', '.html', '.htm', '.txt', '.md']
+            )
+
+            if documents:
+                total_documents += len(documents)
+
+                # Ingest documents in batches
+                for i in range(0, len(documents), dirs.batch_size or 5):
+                    batch = documents[i:i + (dirs.batch_size or 5)]
+
+                    try:
+                        result = await controller.update_medical_knowledge(batch)
+                        if result.get("success", False):
+                            total_processed += len(batch)
+                            results.append({
+                                "directory": directory,
+                                "batch": i // (dirs.batch_size or 5) + 1,
+                                "documents": len(batch),
+                                "success": True
+                            })
+                        else:
+                            results.append({
+                                "directory": directory,
+                                "batch": i // (dirs.batch_size or 5) + 1,
+                                "documents": len(batch),
+                                "success": False,
+                                "error": result.get("error", "Unknown error")
+                            })
+
+                        # Small delay between batches
+                        await asyncio.sleep(0.3)
+
+                    except Exception as e:
+                        results.append({
+                            "directory": directory,
+                            "batch": i // (dirs.batch_size or 5) + 1,
+                            "documents": len(batch),
+                            "success": False,
+                            "error": str(e)
+                        })
+
+        # Save backup if requested
+        if dirs.save_backup and total_documents > 0:
+            processor.save_processed_documents(
+                [doc for directory in dirs.directories
+                 for doc in processor.process_directory(directory, dirs.file_extensions or ['.pdf', '.docx', '.doc', '.xlsx', '.xls', '.pptx', '.ppt', '.epub', '.html', '.htm', '.txt', '.md'])],
+                f"processed_documents_backup_{int(asyncio.get_event_loop().time())}.json"
+            )
+
+        return {
+            "success": True,
+            "message": f"Processed {total_processed} out of {total_documents} documents from {len(dirs.directories)} directories",
+            "total_directories": len(dirs.directories),
+            "total_documents_found": total_documents,
+            "total_documents_processed": total_processed,
+            "results": results
+        }
+
+    except Exception as e:
+        logger.error(f"Error processing directories: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/validate-query")
+async def validate_medical_query(query: MedicalQuery):
+    """Validate and analyze a medical query"""
+    if controller is None:
+        return {
+            "success": False,
+            "error": "AI system is still initializing"
+        }
+
+    try:
+        # Use the RAG system to extract entities and validate query
+        medical_entities = controller.rag_system.extract_medical_entities(query.query)
+        validation_result = {
+            "query_analysis": {
+                "entities_found": medical_entities,
+                "query_type": "medical_treatment",
+                "complexity": "moderate",
+                "requires_citations": True
+            },
+            "validation_status": "valid"
+        }
+        return {
+            "success": True,
+            "data": validation_result
+        }
+    except Exception as e:
+        logger.error(f"Error validating query: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+async def get_system_status() -> SystemStatus:
+    """Get system status and performance metrics"""
+    if controller is None:
+        return SystemStatus(
+            status="initializing",
+            documents_indexed=0,
+            conversations_processed=0,
+            average_response_time=0,
+            models_available=["mock"]
+        )
+
+    try:
+        status = await controller.get_system_status()
+        return SystemStatus(**status)
+    except Exception as e:
+        logger.error(f"Error getting system status: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
 async def general_exception_handler(request, exc):
     logger.error(f"Unhandled exception: {exc}")
     return {

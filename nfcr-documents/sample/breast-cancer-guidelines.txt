@@ -1,0 +1,65 @@
+# Breast Cancer Treatment Guidelines - Sample Reference
+
+## Overview
+This document provides a sample structure for breast cancer treatment guidelines based on current medical standards and NCCN framework.
+
+## Staging and Classification
+- **Stage 0**: Ductal carcinoma in situ (DCIS)
+- **Stage I**: Tumor ≤2cm, no lymph node involvement
+- **Stage II**: Tumor 2-5cm or lymph node involvement
+- **Stage III**: Locally advanced disease
+- **Stage IV**: Metastatic disease
+
+## Treatment Recommendations
+
+### Early-Stage Breast Cancer (Stage I-II)
+1. **Surgical Options**:
+   - Breast-conserving surgery (lumpectomy) + radiation
+   - Mastectomy with or without reconstruction
+   - Sentinel lymph node biopsy
+
+2. **Adjuvant Therapy**:
+   - Chemotherapy for high-risk features
+   - Hormone therapy for ER/PR positive tumors
+   - Targeted therapy for HER2 positive tumors
+
+### Locally Advanced Breast Cancer (Stage III)
+1. **Neoadjuvant Therapy**:
+   - Chemotherapy before surgery
+   - Targeted therapy for HER2 positive
+   - Consider immunotherapy trials
+
+2. **Surgical Management**:
+   - Modified radical mastectomy
+   - Axillary lymph node dissection
+
+### Metastatic Breast Cancer (Stage IV)
+1. **First-line Treatment**:
+   - Hormone therapy for ER/PR positive
+   - Chemotherapy for triple-negative
+   - Targeted therapy for HER2 positive
+
+2. **Subsequent Lines**:
+   - CDK4/6 inhibitors
+   - PI3K inhibitors
+   - Immunotherapy options
+
+## Follow-up Care
+- Physical examination every 3-6 months
+- Mammography annually
+- Bone density monitoring
+- Survivorship care planning
+
+## Supportive Care
+- Pain management
+- Fatigue management
+- Psychological support
+- Nutritional counseling
+
+## Clinical Trials
+- Encourage participation in appropriate clinical trials
+- Consider genomic testing for targeted therapy options
+- Discuss immunotherapy options for eligible patients
+
+---
+*Note: This is a sample document for educational purposes. Always refer to current NCCN Guidelines and institutional protocols for clinical decision-making.*

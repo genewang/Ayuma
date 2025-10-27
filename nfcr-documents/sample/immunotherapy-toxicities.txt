@@ -1,0 +1,117 @@
+# Management of Immunotherapy-Related Toxicities - Sample Guidelines
+
+## Overview
+Comprehensive management strategies for immune-related adverse events (irAEs) associated with cancer immunotherapy.
+
+## General Principles
+1. **Early Recognition**: Monitor for symptoms during and after treatment
+2. **Multidisciplinary Approach**: Involve specialists as needed
+3. **Patient Education**: Inform patients about potential toxicities
+4. **Proactive Management**: Treat early to prevent severe complications
+
+## Common Immune-Related Adverse Events
+
+### Dermatologic Toxicities
+**Grade 1-2 (Mild-Moderate)**:
+- Topical corticosteroids
+- Antihistamines for pruritus
+- Moisturizers and gentle skin care
+- Continue immunotherapy with monitoring
+
+**Grade 3-4 (Severe)**:
+- Hold immunotherapy
+- Systemic corticosteroids (prednisone 1-2 mg/kg/day)
+- Dermatology consultation
+- Consider permanent discontinuation
+
+### Gastrointestinal Toxicities
+**Colitis (Most Common)**:
+- **Grade 1**: Symptomatic management, continue treatment
+- **Grade 2**: Hold immunotherapy, oral corticosteroids
+- **Grade 3-4**: Hospitalization, IV corticosteroids, gastroenterology consult
+
+**Hepatitis**:
+- Monitor liver function tests
+- Grade 2+: Hold immunotherapy, consider corticosteroids
+- Grade 3-4: Permanent discontinuation, hepatology consult
+
+### Endocrine Toxicities
+**Thyroid Dysfunction**:
+- Monitor TSH and free T4
+- Hypothyroidism: Levothyroxine replacement
+- Hyperthyroidism: Beta-blockers, consider endocrinology
+
+**Adrenal Insufficiency**:
+- Monitor cortisol and ACTH
+- Hydrocortisone replacement
+- Endocrinology consultation
+
+**Type 1 Diabetes**:
+- Monitor blood glucose
+- Insulin therapy
+- Endocrinology consultation
+
+### Pulmonary Toxicities
+**Pneumonitis**:
+- **Grade 1**: Monitor closely, continue treatment
+- **Grade 2**: Hold immunotherapy, oral corticosteroids
+- **Grade 3-4**: Hospitalization, IV corticosteroids, pulmonology consult
+
+### Neurologic Toxicities
+**Myasthenia Gravis**:
+- Neurology consultation
+- Acetylcholinesterase inhibitors
+- Immunosuppressive therapy
+- Consider plasmapheresis
+
+**Guillain-Barré Syndrome**:
+- Neurology consultation
+- IV immunoglobulin or plasmapheresis
+- Permanent discontinuation
+
+## Management Algorithm
+
+### Step 1: Assessment
+1. Determine toxicity grade (1-4)
+2. Identify affected organ system
+3. Assess patient's overall condition
+4. Review concurrent medications
+
+### Step 2: Treatment Decision
+1. **Grade 1**: Continue immunotherapy, symptomatic care
+2. **Grade 2**: Hold immunotherapy, oral corticosteroids
+3. **Grade 3**: Hold immunotherapy, IV corticosteroids
+4. **Grade 4**: Permanent discontinuation, aggressive treatment
+
+### Step 3: Monitoring
+1. Daily assessment for improvement
+2. Laboratory monitoring as indicated
+3. Imaging studies if needed
+4. Specialist consultation
+
+## Corticosteroid Management
+- **Prednisone**: 1-2 mg/kg/day for moderate toxicities
+- **Methylprednisolone**: 1-2 mg/kg/day IV for severe toxicities
+- **Tapering**: Gradual reduction over 4-6 weeks
+- **Monitoring**: Watch for rebound toxicity
+
+## Rechallenge Considerations
+- **Grade 1**: Usually safe to continue
+- **Grade 2**: May rechallenge after resolution
+- **Grade 3**: Consider permanent discontinuation
+- **Grade 4**: Permanent discontinuation
+
+## Prevention Strategies
+1. **Baseline Assessment**: Complete history and physical
+2. **Risk Stratification**: Identify high-risk patients
+3. **Patient Education**: Symptom recognition
+4. **Regular Monitoring**: Laboratory and clinical assessment
+
+## Emergency Management
+- **Severe toxicities**: Immediate hospitalization
+- **Life-threatening**: ICU care, aggressive immunosuppression
+- **Multidisciplinary team**: Involve all relevant specialists
+- **Supportive care**: Maintain organ function
+
+---
+*Note: This is a sample document for educational purposes. Always refer to current NCCN Guidelines and institutional protocols for clinical decision-making.*

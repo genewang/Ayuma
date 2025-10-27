@@ -16,6 +16,9 @@ class MedicalGuidedPathController:
         self.evidence_ranker = EvidenceBasedRanker()
         self.conversation_history = []
 
+        # Log LangChain integration status
+        self.logger.info(f"Medical RAG System initialized with LangChain support: {self.rag_system.use_langchain_store if hasattr(self.rag_system, 'use_langchain_store') else 'Unknown'}")
+
     async def process_medical_query(self, query: str, patient_context: Dict = None) -> Dict:
         """Main method to process medical queries with full pipeline"""
 
@@ -200,11 +203,23 @@ class MedicalGuidedPathController:
         """Get system status and performance metrics"""
         try:
             # Get collection stats
-            collection_stats = self.rag_system.collection.count() if hasattr(self.rag_system.collection, 'count') else 0
+            collection_stats = 0
+            try:
+                if hasattr(self.rag_system, 'collection') and self.rag_system.collection:
+                    collection_stats = self.rag_system.collection.count()
+            except Exception:
+                pass
 
             # Calculate average response times from history
             recent_conversations = [c for c in self.conversation_history[-20:] if 'processing_time' in c]
             avg_response_time = sum(c['processing_time'] for c in recent_conversations) / len(recent_conversations) if recent_conversations else 0
+
+            # Get LangChain integration status
+            langchain_status = {
+                "langchain_available": getattr(self.rag_system, 'use_langchain_store', False),
+                "embedding_model": getattr(self.rag_system, 'use_langchain', False),
+                "processing_method": "LangChain" if getattr(self.rag_system, 'use_langchain_store', False) else "Fallback"
+            }
 
             return {
                 "status": "healthy",
@@ -212,6 +227,7 @@ class MedicalGuidedPathController:
                 "conversations_processed": len(self.conversation_history),
                 "average_response_time": round(avg_response_time, 2),
                 "models_available": list(self.llm_coordinator.models.keys()),
+                "langchain_integration": langchain_status,
                 "timestamp": time.time()
             }
         except Exception as e:
