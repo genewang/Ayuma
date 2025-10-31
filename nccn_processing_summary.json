@@ -1,0 +1,266 @@
+{
+  "timestamp": "2025-10-31T17:20:01.291682",
+  "total_files": 43,
+  "processed_successfully": 43,
+  "failed": 0,
+  "details": [
+    {
+      "file": "Multiple Myeloma.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Multiple Myeloma_processed.json",
+      "content_length": 478555
+    },
+    {
+      "file": "Pediatric Central Nervous System Cancers.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Pediatric Central Nervous System Cancers_processed.json",
+      "content_length": 306912
+    },
+    {
+      "file": "Anal Carcinoma.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Anal Carcinoma_processed.json",
+      "content_length": 262122
+    },
+    {
+      "file": "Systemic Light Chain Amyloidosis.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Systemic Light Chain Amyloidosis_processed.json",
+      "content_length": 148137
+    },
+    {
+      "file": "Neuroblastoma.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Neuroblastoma_processed.json",
+      "content_length": 303887
+    },
+    {
+      "file": "Acute Myeloid Leukemia.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Acute Myeloid Leukemia_processed.json",
+      "content_length": 788587
+    },
+    {
+      "file": "Vaginal Cancer.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Vaginal Cancer_processed.json",
+      "content_length": 243492
+    },
+    {
+      "file": "Waldenström Macroglobulinemia_Lymphoplasmacytic Lymphoma.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Waldenström Macroglobulinemia_Lymphoplasmacytic Lymphoma_processed.json",
+      "content_length": 149479
+    },
+    {
+      "file": "Ampullary Adenocarcinoma.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Ampullary Adenocarcinoma_processed.json",
+      "content_length": 270850
+    },
+    {
+      "file": "Myelodysplastic Syndromes.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Myelodysplastic Syndromes_processed.json",
+      "content_length": 518262
+    },
+    {
+      "file": "Prostate Cancer.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Prostate Cancer_processed.json",
+      "content_length": 903814
+    },
+    {
+      "file": "Gastric Cancer.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Gastric Cancer_processed.json",
+      "content_length": 552566
+    },
+    {
+      "file": "Chronic Myeloid Leukemia.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Chronic Myeloid Leukemia_processed.json",
+      "content_length": 409088
+    },
+    {
+      "file": "Breast Cancer.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Breast Cancer_processed.json",
+      "content_length": 1054563
+    },
+    {
+      "file": "Occult Primary.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Occult Primary_processed.json",
+      "content_length": 273243
+    },
+    {
+      "file": "Hepatobiliary Cancers.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Hepatobiliary Cancers_processed.json",
+      "content_length": 235
+    },
+    {
+      "file": "Ovarian Cancer_Fallopian Tube Cancer_Primary Peritoneal Cancer.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Ovarian Cancer_Fallopian Tube Cancer_Primary Peritoneal Cancer_processed.json",
+      "content_length": 1009994
+    },
+    {
+      "file": "Castleman Disease.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Castleman Disease_processed.json",
+      "content_length": 106068
+    },
+    {
+      "file": "Testicular Cancer.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Testicular Cancer_processed.json",
+      "content_length": 354933
+    },
+    {
+      "file": "Bladder Cancer.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Bladder Cancer_processed.json",
+      "content_length": 501431
+    },
+    {
+      "file": "Head and Neck Cancers.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Head and Neck Cancers_processed.json",
+      "content_length": 987941
+    },
+    {
+      "file": "Myeloid_Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase Gene Fusions.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Myeloid_Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase Gene Fusions_processed.json",
+      "content_length": 187142
+    },
+    {
+      "file": "Systemic Mastocytosis.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Systemic Mastocytosis_processed.json",
+      "content_length": 282002
+    },
+    {
+      "file": "Merkel Cell Carcinoma.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Merkel Cell Carcinoma_processed.json",
+      "content_length": 261377
+    },
+    {
+      "file": "Biliary Tract Cancers.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Biliary Tract Cancers_processed.json",
+      "content_length": 426655
+    },
+    {
+      "file": "Thymomas and Thymic Carcinomas.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Thymomas and Thymic Carcinomas_processed.json",
+      "content_length": 166299
+    },
+    {
+      "file": "Basal Cell Skin Cancer.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Basal Cell Skin Cancer_processed.json",
+      "content_length": 197540
+    },
+    {
+      "file": "Small Cell Lung Cancer.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Small Cell Lung Cancer_processed.json",
+      "content_length": 344590
+    },
+    {
+      "file": "Kaposi Sarcoma.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Kaposi Sarcoma_processed.json",
+      "content_length": 175918
+    },
+    {
+      "file": "Bone Cancer.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Bone Cancer_processed.json",
+      "content_length": 409715
+    },
+    {
+      "file": "Pancreatic Adenocarcinoma.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Pancreatic Adenocarcinoma_processed.json",
+      "content_length": 608597
+    },
+    {
+      "file": "Primary Cutaneous Lymphomas.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Primary Cutaneous Lymphomas_processed.json",
+      "content_length": 534331
+    },
+    {
+      "file": "Histiocytic Neoplasms.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Histiocytic Neoplasms_processed.json",
+      "content_length": 246358
+    },
+    {
+      "file": "Penile Cancer.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Penile Cancer_processed.json",
+      "content_length": 197874
+    },
+    {
+      "file": "Vulvar Cancer.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Vulvar Cancer_processed.json",
+      "content_length": 271098
+    },
+    {
+      "file": "Gestational Trophoblastic Neoplasia.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Gestational Trophoblastic Neoplasia_processed.json",
+      "content_length": 180357
+    },
+    {
+      "file": "Dermatofibrosarcoma Protuberans.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Dermatofibrosarcoma Protuberans_processed.json",
+      "content_length": 66528
+    },
+    {
+      "file": "Gastrointestinal Stromal Tumors .pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Gastrointestinal Stromal Tumors _processed.json",
+      "content_length": 209897
+    },
+    {
+      "file": "Wilms Tumor (Nephroblastoma).pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Wilms Tumor (Nephroblastoma)_processed.json",
+      "content_length": 324151
+    },
+    {
+      "file": "Mesothelioma- Peritoneal.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Mesothelioma- Peritoneal_processed.json",
+      "content_length": 158078
+    },
+    {
+      "file": "Hairy Cell Leukemia.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Hairy Cell Leukemia_processed.json",
+      "content_length": 110566
+    },
+    {
+      "file": "Mesothelioma- Pleural.pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Mesothelioma- Pleural_processed.json",
+      "content_length": 237589
+    },
+    {
+      "file": "Small Bowel Adenocarcinoma .pdf",
+      "status": "success",
+      "output_file": "nccn_processed/Small Bowel Adenocarcinoma _processed.json",
+      "content_length": 231984
+    }
+  ]
+}
