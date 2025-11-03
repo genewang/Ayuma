@@ -5,16 +5,22 @@ import asyncio
 from pydantic import BaseModel
 import logging
 import json
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
 
 class ModelType(Enum):
-    GPT4_MEDICAL = "gpt-4-1106-preview"  # Latest GPT-4 for complex reasoning
-    GPT4_TURBO = "gpt-4-1106-preview"    # Fast GPT-4
+    GPT_OSS_20B = "gpt-oss:20b"  # Local Ollama model
+    GPT4_MEDICAL = "gpt-oss:20b"  # Using local model for medical queries
+    GPT4_TURBO = "gpt-oss:20b"    # Using local model for fast responses
     CLAUDE3 = "claude-3-sonnet-20240229"
     CLINICAL_BERT = "emilyalsentzer/Bio_ClinicalBERT"
     BIOBERT = "dmis-lab/biobert-v1.1"
     PUBMEDBERT = "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract"
-    EMBEDDING_MEDICAL = "text-embedding-ada-002"
-    EMBEDDING_GENERAL = "text-embedding-ada-002"
+    EMBEDDING_MEDICAL = "text-embedding-3-small"  # Updated to a newer embedding model
+    EMBEDDING_GENERAL = "text-embedding-3-small"
 
 class QueryComplexity(BaseModel):
     score: float  # 0-1 scale
@@ -28,22 +34,32 @@ class LLMCoordinator:
         self.models = self._initialize_models()
         self.logger = logging.getLogger(__name__)
 
-    def _initialize_models(self) -> Dict[ModelType, Any]:
-        """Initialize all LLM models with proper configuration"""
+    def _initialize_models(self) -> Dict[ModelType, Dict]:
+        """Initialize model configurations"""
         return {
+            ModelType.GPT_OSS_20B: {
+                "client": "ollama",
+                "model": "gpt-oss:20b",  # Using the exact model name from Ollama
+                "max_tokens": 4000,
+                "temperature": 0.2,
+                "top_p": 0.9,
+                "frequency_penalty": 0.0,
+                "presence_penalty": 0.0,
+                "cost_per_token": 0.0  # Local model, no cost
+            },
             ModelType.GPT4_MEDICAL: {
-                "client": "openai",
-                "model": "gpt-4-1106-preview",
+                "client": "ollama",
+                "model": "gpt-oss:20b",  # Using the exact model name from Ollama
                 "max_tokens": 4000,
                 "temperature": 0.1,
-                "cost_per_token": 0.03  # $ per 1K tokens
+                "cost_per_token": 0.0  # Local model, no cost
             },
             ModelType.GPT4_TURBO: {
-                "client": "openai",
-                "model": "gpt-4-1106-preview",
+                "client": "ollama",
+                "model": "gpt-oss:20b",  # Using the exact model name from Ollama
                 "max_tokens": 2000,
                 "temperature": 0.2,
-                "cost_per_token": 0.03
+                "cost_per_token": 0.0  # Local model, no cost
             },
             ModelType.CLAUDE3: {
                 "client": "anthropic",
@@ -116,33 +132,26 @@ class LLMCoordinator:
         """Route query to appropriate LLM based on complexity analysis"""
         complexity = await self.analyze_query_complexity(query)
 
-        if complexity.medical_specificity > 0.8:
-            if complexity.requires_reasoning:
-                # Complex medical reasoning - use best medical model
-                return {
-                    "model": ModelType.GPT4_MEDICAL,
-                    "reason": "High medical specificity with complex reasoning",
-                    "complexity": complexity
-                }
-            else:
-                # Medical fact retrieval - use specialized medical model
-                return {
-                    "model": ModelType.CLINICAL_BERT,
-                    "reason": "Medical fact retrieval",
-                    "complexity": complexity
-                }
-        elif complexity.medical_specificity > 0.5:
-            # Moderate medical content
+        # Default to GPT-OSS 120B for most cases
+        if complexity.medical_specificity > 0.7 or complexity.requires_reasoning:
+            # Use GPT-OSS 20B for medical and complex reasoning tasks
             return {
-                "model": ModelType.CLAUDE3,
-                "reason": "Moderate medical specificity",
+                "model": ModelType.GPT_OSS_20B,
+                "reason": "Using GPT-OSS 20B for medical and complex reasoning tasks",
+                "complexity": complexity
+            }
+        elif complexity.medical_specificity > 0.3:
+            # For moderate medical content, use GPT-OSS 20B
+            return {
+                "model": ModelType.GPT_OSS_20B,
+                "reason": "Using GPT-OSS 20B for medical content",
                 "complexity": complexity
             }
         else:
-            # General medical information
+            # For general questions, use GPT-OSS 20B as the default
             return {
-                "model": ModelType.GPT4_TURBO,
-                "reason": "General medical information",
+                "model": ModelType.GPT_OSS_20B,
+                "reason": "Using GPT-OSS 20B as the default model",
                 "complexity": complexity
             }
 
@@ -152,7 +161,9 @@ class LLMCoordinator:
         model_config = self.models[routing["model"]]
 
         try:
-            if model_config["client"] == "openai":
+            if model_config["client"] == "ollama":
+                return await self._call_ollama(model_config, query, context)
+            elif model_config["client"] == "openai":
                 return await self._call_openai(model_config, query, context)
             elif model_config["client"] == "anthropic":
                 return await self._call_anthropic(model_config, query, context)
@@ -163,11 +174,61 @@ class LLMCoordinator:
             # Fallback to reliable model
             return await self._fallback_query(query, context)
 
+    async def _call_ollama(self, config: Dict, query: str, context: List[str]) -> Dict:
+        """Call local Ollama models"""
+        try:
+            import aiohttp
+            import json
+            
+            # Use the generate endpoint instead of chat
+            url = "http://localhost:11434/api/generate"
+            
+            # Build the prompt with context if available
+            prompt = ""
+            if context:
+                prompt += f"Context: {' '.join(context)}\n\n"
+            prompt += f"Question: {query}\n\nAnswer:"
+            
+            payload = {
+                "model": config["model"],
+                "prompt": prompt,
+                "options": {
+                    "num_ctx": config.get("max_tokens", 4000),
+                    "temperature": config.get("temperature", 0.2),
+                    "top_p": config.get("top_p", 0.9),
+                },
+                "stream": False
+            }
+            
+            async with aiohttp.ClientSession() as session:
+                async with session.post(url, json=payload) as response:
+                    if response.status != 200:
+                        error_text = await response.text()
+                        raise Exception(f"Ollama API error: {error_text}")
+                    
+                    response_data = await response.json()
+                    
+                    return {
+                        "content": response_data.get('response', 'No response generated'),
+                        "model": config["model"],
+                        "tokens_used": response_data.get('eval_count', len(response_data.get('response', '').split())),
+                        "cost": 0.0  # Local model, no cost
+                    }
+        except Exception as e:
+            self.logger.warning(f"Ollama API not available: {e}")
+            return await self._mock_response(query, context)
+
     async def _call_openai(self, config: Dict, query: str, context: List[str]) -> Dict:
         """Call OpenAI models"""
         try:
             from openai import AsyncOpenAI
-            client = AsyncOpenAI()
+            
+            # Get API key from environment
+            api_key = os.getenv('OPENAI_API_KEY')
+            if not api_key:
+                raise ValueError("OPENAI_API_KEY environment variable not set")
+                
+            client = AsyncOpenAI(api_key=api_key)
 
             messages = []
             if context:

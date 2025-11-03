@@ -1,40 +1,31 @@
 # medical_rag.py
-import chromadb
+# Import numpy first to ensure it's patched if needed
+import numpy as np
+if not hasattr(np, 'float_'):
+    np.float_ = np.float64
+
+# Now import other dependencies
 from sentence_transformers import SentenceTransformer
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Any
 import pandas as pd
 from datetime import datetime
 import json
 import logging
+import os
+import chromadb
+from chromadb import PersistentClient as ChromaClient
+from chromadb.api.types import Documents, EmbeddingFunction, Embeddings
 
-# Import LangChain components
-try:
-    # Vector stores and embeddings from langchain_community
-    from langchain_community.vectorstores import Chroma
-    from langchain_huggingface import HuggingFaceEmbeddings
-    from langchain_text_splitters import RecursiveCharacterTextSplitter
+# Disable LangChain for now since we're having compatibility issues
+LANGCHAIN_AVAILABLE = False
+Chroma = None
+HuggingFaceEmbeddings = None
+RecursiveCharacterTextSplitter = None
+Document = None
 
-    # Core LangChain components
-    try:
-        from langchain.schema import Document
-    except ImportError:
-        from langchain_core.documents import Document
-
-    # Force LangChain to be available
-    LANGCHAIN_AVAILABLE = True
-    logging.info("LangChain components successfully imported")
-except ImportError as e:
-    logging.error(f"LangChain import failed: {e}")
-    # Still set to True to attempt initialization
-    LANGCHAIN_AVAILABLE = True
-    # Create fallback classes
-    class Document:
-        def __init__(self, page_content: str, metadata: dict = None):
-            self.page_content = page_content
-            self.metadata = metadata or {}
-    Chroma = None
-    HuggingFaceEmbeddings = None
-    RecursiveCharacterTextSplitter = None
+# Initialize logger
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 class MedicalRAGSystem:
     def __init__(self):
@@ -84,46 +75,34 @@ class MedicalRAGSystem:
             self.use_langchain = False
 
     def _initialize_vector_store(self):
-        """Initialize vector database"""
-        if LANGCHAIN_AVAILABLE and Chroma and HuggingFaceEmbeddings:
-            try:
-                # Use LangChain Chroma vector store
-                self.chroma_client = chromadb.PersistentClient(path="./medical_chroma_db")
-
-                # Initialize LangChain Chroma vector store
-                self.langchain_collection = Chroma(
-                    collection_name="medical_guidelines",
-                    embedding_function=self.medical_embedding_model,
-                    persist_directory="./medical_chroma_db"
-                )
-
-                # Also maintain direct ChromaDB access for compatibility
-                self.collection = self.chroma_client.get_or_create_collection("medical_guidelines")
-                self.medical_collection = self.chroma_client.get_or_create_collection("medical_documents")
-
-                self.logger.info("Successfully initialized LangChain vector store")
-                self.use_langchain_store = True
-                return
-            except Exception as e:
-                self.logger.error(f"Failed to initialize LangChain vector store: {e}")
-                self.logger.info("Falling back to direct ChromaDB implementation")
-
-        # Fallback to direct ChromaDB
+        """Initialize vector database with patched ChromaDB client"""
         try:
-            self.chroma_client = chromadb.PersistentClient(path="./medical_chroma_db")
-            self.collection = self.chroma_client.get_or_create_collection("medical_guidelines")
-            self.medical_collection = self.chroma_client.get_or_create_collection("medical_documents")
+            # Create directory for ChromaDB if it doesn't exist
+            chroma_dir = "./chroma_data"
+            os.makedirs(chroma_dir, exist_ok=True)
+            
+            # Initialize patched ChromaDB client
+            self.logger.info(f"Initializing ChromaDB with directory: {os.path.abspath(chroma_dir)}")
+            self.chroma_client = ChromaClient(path=chroma_dir)
+            
+            # Create or get collections with explicit settings
+            self.collection = self.chroma_client.get_or_create_collection(
+                name="medical_guidelines",
+                metadata={"hnsw:space": "cosine"}
+            )
+            
+            self.medical_collection = self.chroma_client.get_or_create_collection(
+                name="medical_documents",
+                metadata={"hnsw:space": "cosine"}
+            )
+            
             self.use_langchain_store = False
             self.langchain_collection = None
-            self.logger.info("Successfully initialized fallback vector database")
+            self.logger.info("Successfully initialized patched ChromaDB vector store")
+            
         except Exception as e:
-            self.logger.error(f"Failed to initialize fallback vector database: {e}")
-            # Final fallback to in-memory storage
-            self.chroma_client = chromadb.EphemeralClient()
-            self.collection = self.chroma_client.get_or_create_collection("medical_guidelines")
-            self.medical_collection = self.chroma_client.get_or_create_collection("medical_documents")
-            self.use_langchain_store = False
-            self.langchain_collection = None
+            self.logger.error(f"Failed to initialize ChromaDB: {e}", exc_info=True)
+            raise RuntimeError(f"Failed to initialize vector store: {e}")
 
     def extract_medical_entities(self, text: str) -> Dict[str, List[str]]:
         """Extract medical entities from text using rule-based approach"""
@@ -222,20 +201,26 @@ class MedicalRAGSystem:
 
             for doc in documents:
                 # Create LangChain Document
+                # Ensure all metadata values are non-None and properly formatted
+                metadata = {
+                    **{k: v for k, v in doc.get("metadata", {}).items() if v is not None},
+                    "source": doc.get("source", "unknown"),
+                    "institution": doc.get("institution", "unknown"),
+                    "evidence_level": doc.get("evidence_level", "unknown"),
+                    "publication_date": doc.get("publication_date", ""),
+                    "document_type": doc.get("document_type", "guideline"),
+                    "cancer_type": doc.get("cancer_type", "unknown"),
+                    "document_id": doc.get("id", ""),
+                    # Extract and add medical entities as a string
+                    "entities_str": str(self.extract_medical_entities(doc["content"]) or [])
+                }
+                
+                # Ensure no None values in metadata
+                metadata = {k: (v if v is not None else "") for k, v in metadata.items()}
+                
                 langchain_doc = Document(
                     page_content=doc["content"],
-                    metadata={
-                        **doc.get("metadata", {}),
-                        "source": doc.get("source", "unknown"),
-                        "institution": doc.get("institution", "unknown"),
-                        "evidence_level": doc.get("evidence_level", "unknown"),
-                        "publication_date": doc.get("publication_date", ""),
-                        "document_type": doc.get("document_type", "guideline"),
-                        "cancer_type": doc.get("cancer_type", ""),
-                        "document_id": doc.get("id", ""),
-                        # Convert entities dict to string for LangChain compatibility
-                        "entities_str": str(self.extract_medical_entities(doc["content"]))
-                    }
+                    metadata=metadata
                 )
                 langchain_docs.append(langchain_doc)
                 metadatas.append(langchain_doc.metadata)
@@ -305,19 +290,23 @@ class MedicalRAGSystem:
                     chunk_id = f"{doc['id']}_{i}"
                     chunks.append(chunk["text"])
 
-                    # Enhanced metadata
+                    # Enhanced metadata with proper null handling
                     metadata = {
-                        **chunk["metadata"],
+                        **{k: v for k, v in chunk.get("metadata", {}).items() if v is not None},
                         "source": doc.get("source", "unknown"),
                         "institution": doc.get("institution", "unknown"),
                         "evidence_level": doc.get("evidence_level", "unknown"),
                         "publication_date": doc.get("publication_date", ""),
                         "chunk_index": i,
                         "document_type": doc.get("document_type", "guideline"),
+                        "cancer_type": doc.get("cancer_type", "unknown"),
                         "document_id": doc.get("id", ""),
-                        # Convert entities for compatibility
-                        "entities_str": str(self.extract_medical_entities(chunk["text"]))
+                        # Extract and add medical entities as a string
+                        "entities_str": str(self.extract_medical_entities(chunk["text"]) or [])
                     }
+                    
+                    # Ensure no None values in metadata
+                    metadata = {k: (v if v is not None else "") for k, v in metadata.items()}
 
                     # Add quality indicators
                     metadata["quality_score"] = self._calculate_quality_score(metadata)
@@ -523,22 +512,18 @@ class MedicalRAGSystem:
             return self._retrieve_with_fallback(query, filters, top_k)
 
     def _convert_filters_for_langchain(self, filters: Dict) -> Dict:
-        """Convert our filter format to LangChain filter format"""
+        """Convert our filter format to LangChain/ChromaDB filter format"""
         if not filters:
             return {}
-
-        langchain_filters = {}
-
-        # Convert metadata filters
+            
+        # Convert our simple key-value filters to ChromaDB format
+        chroma_filters = {}
+        
         for key, value in filters.items():
-            if isinstance(value, dict) and "$in" in value:
-                langchain_filters[key] = {"$in": value["$in"]}
-            elif isinstance(value, dict) and "$gte" in value:
-                langchain_filters[key] = {"$gte": value["$gte"]}
-            else:
-                langchain_filters[key] = value
-
-        return langchain_filters
+            if value is not None:
+                chroma_filters[key] = {"$eq": value}
+                
+        return chroma_filters if chroma_filters else {}
 
     def _retrieve_with_fallback(self, query: str, filters: Dict = None, top_k: int = 5) -> List[Dict]:
         """Retrieve using fallback method (original implementation)"""

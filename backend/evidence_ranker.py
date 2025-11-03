@@ -1,7 +1,10 @@
 # evidence_ranker.py
-from typing import List, Dict
+from typing import List, Dict, Union, Any
 import numpy as np
 from datetime import datetime
+
+# Type alias for numpy numeric types
+Numeric = Union[int, float, np.number]
 
 class EvidenceBasedRanker:
     def __init__(self):

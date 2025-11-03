@@ -31,7 +31,11 @@ class NCCNProcessor:
         """Initialize the NCCN Processor with directories and models."""
         self.nccn_dir = Path(nccn_dir)
         self.output_dir = Path(output_dir)
+        self.text_output_dir = Path("pdf_texts")
+        
+        # Create output directories if they don't exist
         self.output_dir.mkdir(exist_ok=True)
+        self.text_output_dir.mkdir(exist_ok=True)
         
         # For now, we'll just do basic PDF processing
         self.has_langchain = False
@@ -96,10 +100,16 @@ class NCCNProcessor:
                 if not doc_data:
                     raise ValueError("Failed to extract text from PDF")
                 
-                # Save the processed text
+                # Save the processed text as JSON
                 output_file = self.output_dir / f"{cancer_type}_processed.json"
                 with open(output_file, 'w', encoding='utf-8') as f:
                     json.dump(doc_data, f, ensure_ascii=False, indent=2)
+                
+                # Save the raw text to pdf_texts directory for reference
+                text_file = self.text_output_dir / f"{cancer_type}.txt"
+                with open(text_file, 'w', encoding='utf-8') as f:
+                    f.write(doc_data["content"])
+                logger.info(f"Saved raw text to {text_file}")
                 
                 # RAG system integration will be handled separately
                 

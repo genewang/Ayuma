@@ -25,9 +25,12 @@ try:
         from langchain_text_splitters import RecursiveCharacterTextSplitter
 
     try:
-        from langchain.vectorstores import Chroma
+        from langchain_chroma import Chroma
     except ImportError:
-        from langchain_community.vectorstores import Chroma
+        try:
+            from langchain.vectorstores import Chroma
+        except ImportError:
+            from langchain_community.vectorstores import Chroma
 
     try:
         from langchain.embeddings import HuggingFaceEmbeddings
@@ -99,52 +102,232 @@ class DocumentProcessor:
             self.logger.warning("LangChain components not fully available, using fallback methods")
             self.embedding_model = None
 
+    def _load_with_langchain(self, file_path: str) -> Optional[Document]:
+        """Load a document using LangChain loaders"""
+        if not LANGCHAIN_AVAILABLE:
+            self.logger.warning(f"LangChain not available, cannot load {file_path}")
+            return None
+            
+        file_ext = os.path.splitext(file_path)[1].lower()
+        
+        try:
+            if file_ext == '.pdf':
+                try:
+                    loader = PyPDFLoader(file_path)
+                    docs = loader.load()
+                    if not docs or not docs[0].page_content.strip():
+                        self.logger.warning(f"Empty content in PDF: {file_path}")
+                        return None
+                    return docs[0]
+                except Exception as e:
+                    self.logger.warning(f"Failed to load PDF with PyPDF: {e}")
+                    # Try alternative PDF loader
+                    try:
+                        from pypdf import PdfReader
+                        reader = PdfReader(file_path)
+                        text = "\n\n".join(page.extract_text() for page in reader.pages)
+                        if not text.strip():
+                            self.logger.warning(f"No text extracted from PDF: {file_path}")
+                            return None
+                        return Document(page_content=text, metadata={"source": file_path})
+                    except Exception as e2:
+                        self.logger.warning(f"Failed to load PDF with fallback: {e2}")
+                        return None
+                        
+            elif file_ext == '.docx':
+                try:
+                    # First try with docx2txt
+                    loader = Docx2txtLoader(file_path)
+                    docs = loader.load()
+                    if docs and docs[0].page_content.strip():
+                        return docs[0]
+                except Exception as e:
+                    self.logger.warning(f"Failed to load DOCX with docx2txt: {e}")
+                
+                # Fallback to python-docx
+                try:
+                    import docx
+                    doc = docx.Document(file_path)
+                    text = "\n\n".join(paragraph.text for paragraph in doc.paragraphs)
+                    if not text.strip():
+                        self.logger.warning(f"No text extracted from DOCX: {file_path}")
+                        return None
+                    return Document(page_content=text, metadata={"source": file_path})
+                except Exception as e:
+                    self.logger.warning(f"Failed to load DOCX with python-docx: {e}")
+                    return None
+                    
+            # Handle other file types with simpler error handling
+            loaders = {
+                '.pptx': UnstructuredPowerPointLoader,
+                '.xlsx': UnstructuredExcelLoader,
+                '.xls': UnstructuredExcelLoader,
+                '.html': UnstructuredHTMLLoader,
+                '.htm': UnstructuredHTMLLoader,
+                '.md': UnstructuredMarkdownLoader,
+                '.txt': TextLoader
+            }
+            
+            if file_ext in loaders:
+                try:
+                    loader = loaders[file_ext](file_path)
+                    docs = loader.load()
+                    if docs and docs[0].page_content.strip():
+                        return docs[0]
+                    self.logger.warning(f"Empty content in {file_ext} file: {file_path}")
+                except Exception as e:
+                    self.logger.warning(f"Failed to load {file_ext} with LangChain: {e}")
+            else:
+                self.logger.warning(f"Unsupported file type: {file_path}")
+                
+            return None
+            
+        except Exception as e:
+            self.logger.error(f"Unexpected error in _load_with_langchain for {file_path}: {str(e)}", exc_info=True)
+            return None
+            
+    def _load_with_fallback(self, file_path: str) -> Optional[Document]:
+        """Load a document using fallback methods when LangChain is not available"""
+        try:
+            file_ext = os.path.splitext(file_path)[1].lower()
+            
+            if file_ext == '.pdf':
+                return self.extract_text_from_pdf(file_path)
+            elif file_ext == '.docx':
+                return self.extract_text_from_docx(file_path)
+            elif file_ext in ['.xlsx', '.xls']:
+                return self.extract_text_from_excel(file_path)
+            elif file_ext in ['.pptx', '.ppt']:
+                return self.extract_text_from_powerpoint(file_path)
+            elif file_ext == '.epub':
+                return self.extract_text_from_epub(file_path)
+            elif file_ext in ['.html', '.htm']:
+                return self.extract_text_from_html(file_path)
+            elif file_ext == '.txt':
+                return self.extract_text_from_txt(file_path)
+            else:
+                self.logger.warning(f"Unsupported file type for fallback: {file_ext}")
+                return None
+                
+        except Exception as e:
+            self.logger.error(f"Error in _load_with_fallback for {file_path}: {str(e)}", exc_info=True)
+            return None
+            
     def load_document_with_langchain(self, file_path: str) -> Optional[Document]:
         """Load document using appropriate LangChain document loader or fallback"""
         if not LANGCHAIN_AVAILABLE:
             self.logger.warning(f"LangChain not available, cannot load {file_path}")
             return None
 
-        file_extension = Path(file_path).suffix.lower()
-
         try:
-            # Map file extensions to LangChain loaders
-            if file_extension == '.pdf':
-                loader = PyPDFLoader(file_path)
-            elif file_extension in ['.txt', '.md']:
-                if file_extension == '.md':
-                    loader = UnstructuredMarkdownLoader(file_path)
-                else:
-                    loader = TextLoader(file_path)
-            elif file_extension in ['.docx', '.doc']:
-                loader = Docx2txtLoader(file_path)
-            elif file_extension in ['.pptx', '.ppt']:
-                loader = UnstructuredPowerPointLoader(file_path)
-            elif file_extension in ['.xlsx', '.xls']:
-                loader = UnstructuredExcelLoader(file_path)
-            elif file_extension in ['.html', '.htm']:
-                loader = UnstructuredHTMLLoader(file_path)
+            file_ext = os.path.splitext(file_path)[1].lower()
+            if file_ext == '.pdf':
+                try:
+                    loader = PyPDFLoader(file_path)
+                    docs = loader.load()
+                    if not docs or not docs[0].page_content.strip():
+                        self.logger.warning(f"Empty content in PDF: {file_path}")
+                        return None
+                    return docs[0]
+                except Exception as e:
+                    self.logger.warning(f"Failed to load PDF with PyPDF: {e}")
+                    # Try alternative PDF loader
+                    try:
+                        from pypdf import PdfReader
+                        reader = PdfReader(file_path)
+                        text = "\n\n".join(page.extract_text() for page in reader.pages)
+                        if not text.strip():
+                            self.logger.warning(f"No text extracted from PDF: {file_path}")
+                            return None
+                        return Document(page_content=text, metadata={"source": file_path})
+                    except Exception as e2:
+                        self.logger.warning(f"Failed to load PDF with fallback: {e2}")
+                        return None
+                        
+            elif file_ext == '.docx':
+                try:
+                    # First try with docx2txt
+                    loader = Docx2txtLoader(file_path)
+                    docs = loader.load()
+                    if docs and docs[0].page_content.strip():
+                        return docs[0]
+                except Exception as e:
+                    self.logger.warning(f"Failed to load DOCX with docx2txt: {e}")
+                
+                # Fallback to python-docx
+                try:
+                    import docx
+                    doc = docx.Document(file_path)
+                    text = "\n\n".join(paragraph.text for paragraph in doc.paragraphs)
+                    if not text.strip():
+                        self.logger.warning(f"No text extracted from DOCX: {file_path}")
+                        return None
+                    return Document(page_content=text, metadata={"source": file_path})
+                except Exception as e:
+                    self.logger.warning(f"Failed to load DOCX with python-docx: {e}")
+                    return None
+                    
+            # Handle other file types with simpler error handling
+            loaders = {
+                '.pptx': UnstructuredPowerPointLoader,
+                '.xlsx': UnstructuredExcelLoader,
+                '.xls': UnstructuredExcelLoader,
+                '.html': UnstructuredHTMLLoader,
+                '.htm': UnstructuredHTMLLoader,
+                '.md': UnstructuredMarkdownLoader,
+                '.txt': TextLoader
+            }
+            
+            if file_ext in loaders:
+                try:
+                    loader = loaders[file_ext](file_path)
+                    docs = loader.load()
+                    if docs and docs[0].page_content.strip():
+                        return docs[0]
+                    self.logger.warning(f"Empty content in {file_ext} file: {file_path}")
+                except Exception as e:
+                    self.logger.warning(f"Failed to load {file_ext} with LangChain: {e}")
             else:
-                self.logger.warning(f"Unsupported file extension: {file_extension} for {file_path}")
-                return None
-
-            # Load the document
-            documents = loader.load()
-            if documents:
-                return documents[0]  # Return first document (most loaders return a list)
-            else:
-                self.logger.warning(f"No content extracted from {file_path}")
-                return None
-
+                self.logger.warning(f"Unsupported file type: {file_path}")
+                
+            return None
+            
         except Exception as e:
-            self.logger.error(f"Error loading document {file_path} with LangChain: {e}")
+            self.logger.error(f"Unexpected error in _load_with_langchain for {file_path}: {str(e)}", exc_info=True)
+            return None
+
+    def load_document(self, file_path: str) -> Optional[Document]:
+        """Load a document from file using LangChain if available, otherwise use fallback"""
+        try:
+            # Verify file exists and is not empty
+            if not os.path.exists(file_path):
+                self.logger.error(f"File not found: {file_path}")
+                return None
+                
+            if os.path.getsize(file_path) == 0:
+                self.logger.error(f"Empty file: {file_path}")
+                return None
+                
+            # Try with LangChain first if available
+            if LANGCHAIN_AVAILABLE:
+                try:
+                    return self._load_with_langchain(file_path)
+                except Exception as e:
+                    self.logger.warning(f"Failed to load {file_path} with LangChain: {e}")
+                    self.logger.info("Falling back to direct parsing...")
+            
+            # Fallback to direct parsing
+            return self._load_with_fallback(file_path)
+            
+        except Exception as e:
+            self.logger.error(f"Unexpected error loading document {file_path}: {str(e)}", exc_info=True)
             return None
 
     def extract_text_from_file(self, file_path: str) -> str:
         """Extract text using LangChain document loaders or fallback methods"""
         if LANGCHAIN_AVAILABLE:
             try:
-                doc = self.load_document_with_langchain(file_path)
+                doc = self.load_document(file_path)
                 if doc:
                     return doc.page_content
                 else:
