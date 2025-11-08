@@ -1,6 +1,6 @@
-# GuidePath AI - Professional Architecture & Implementation Guide
+# PathLink - Professional Architecture & Implementation Guide
 
-This document outlines the comprehensive architecture and implementation specifications for the GuidePath AI medical treatment navigation platform, based on the production system at https://www.guidedpath.app/.
+This document outlines the comprehensive architecture and implementation specifications for the PathLink medical treatment navigation platform.
 
 ## Table of Contents
 
@@ -46,6 +46,8 @@ graph TB
         N[CDN & Edge Network]
         O[Serverless Runtime]
     end
+    
+    class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O lightFill
 
     A --> B
     A --> C
@@ -62,10 +64,6 @@ graph TB
     M --> O
     A --> M
 
-    style A fill:#61dafb
-    style E fill:#3ecf8e
-    style M fill:#000000
-    style I fill:#ff6b6b
 ```
 
 ## 2. Component Architecture Diagram
@@ -138,10 +136,6 @@ graph TB
     R --> V
     S --> X
 
-    style A fill:#4dc0b5
-    style M fill:#fed7d7
-    style Q fill:#c3dafe
-    style U fill:#b2f5ea
 ```
 
 ## 3. Data Flow Architecture
@@ -205,11 +199,6 @@ flowchart TB
     G --> S
     H --> T
 
-    style A fill:#e9d8fd
-    style E fill:#fed7d7
-    style I fill:#c3dafe
-    style M fill:#b2f5ea
-    style Q fill:#fefcbf
 ```
 
 ## 4. User Workflow Sequence
@@ -409,10 +398,6 @@ flowchart TB
         W --> Z[User Actions]
     end
 
-    style A fill:#e9d8fd
-    style F fill:#fed7d7
-    style R fill:#c3dafe
-    style T fill:#b2f5ea
 ```
 
 ## 7. Clinical Trial Matching Engine
@@ -458,10 +443,6 @@ flowchart LR
     K --> M
     K --> N
 
-    style A fill:#e9d8fd
-    style F fill:#fed7d7
-    style K fill:#c3dafe
-    style L fill:#b2f5ea
 ```
 
 ## 8. Deployment & CI/CD Pipeline
@@ -500,10 +481,6 @@ flowchart TB
     G --> H --> I --> J --> K
     J --> L --> M --> N --> O
 
-    style A fill:#e9d8fd
-    style D fill:#fed7d7
-    style H fill:#c3dafe
-    style L fill:#b2f5ea
 ```
 
 ## 9. AI/ML Architecture & RAG System
@@ -562,9 +539,6 @@ graph TB
     Q --> S
     R --> S
 
-    style I fill:#ff6b6b
-    style Q fill:#4ecdc4
-    style R fill:#45b7d1
 ```
 
 ### **LLM Models Implementation**
@@ -624,9 +598,6 @@ flowchart TD
     N --> O[Medical Validation]
     O --> P[Final Response]
 
-    style F fill:#fed7d7
-    style J fill:#c3dafe
-    style N fill:#b2f5ea
 ```
 
 ### **Document Processing Pipeline**
@@ -830,9 +801,6 @@ graph LR
         N --> B
     end
 
-    style A fill:#a8e6cf
-    style G fill:#ffd93d
-    style M fill:#ff6b6b
 ```
 
 ### **AI Integration with Existing Features**
@@ -860,9 +828,6 @@ flowchart TD
     L --> N[Medical Documents]
     M --> O[Model Responses]
 
-    style K fill:#4ecdc4
-    style L fill:#ff6b6b
-    style M fill:#45b7d1
 ```
 
 ### **Implementation Architecture**
@@ -973,9 +938,6 @@ flowchart TD
         J --> M[Clinical Validation]
     end
 
-    style A fill:#ffebee
-    style H fill:#e8f5e8
-    style M fill:#fff3e0
 ```
 
 This comprehensive AI/ML architecture provides the foundation for intelligent medical guidance, evidence-based recommendations, and personalized healthcare navigation while maintaining the highest standards of medical accuracy and patient safety.
