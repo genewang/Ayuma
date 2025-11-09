@@ -43,3 +43,4 @@ temp/
 venv/
 backend/venv/
 *.dylib
+backend/chroma_data/
