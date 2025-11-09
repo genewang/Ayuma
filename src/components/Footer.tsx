@@ -12,13 +12,13 @@ const Footer: React.FC = () => {
               <div className="h-8 w-8 bg-indigo-600 rounded-lg flex items-center justify-center mr-3">
                 <span className="text-white font-bold text-sm">GP</span>
               </div>
-              <span className="text-xl font-bold">GuidePath AI</span>
+              <span className="text-xl font-bold">PathLink</span>
             </div>
             <p className="text-gray-300 mb-4">
               Empowering patients with personalized cancer treatment guidance and support through advanced AI technology.
             </p>
             <p className="text-gray-400 text-sm">
-              © 2025 GuidePath AI. All rights reserved.
+              © 2025 PathLink. All rights reserved.
             </p>
           </div>
 

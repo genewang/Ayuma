@@ -1,0 +1,1713 @@
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®)Castleman Disease
+Version 2.2025 — January 28, 2025
+ContinueNCCN.org
+NCCN recognizes the importance of clinical trials and encourages participation when applicable and available. 
+Trials should be designed to maximize inclusiveness and broad representative enrollment.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Continue
+NCCN Guidelines Panel Disclosuresξ Bone marrow 
+transplantation
+‡ Hematology/
+Hematology oncology
+Þ Internal medicine
+† Medical oncology≠ Pathology 
+¥ Patient advocacy
+§ Radiotherapy/
+Radiation oncology
+* Discussion Writing 
+Committee MemberNCCN
+Mary Dwyer, MS
+Hema Sundar, PhDLuis E. Fayad, MD ‡ † Þ  
+The University of Texas  
+MD Anderson Cancer Center
+Thomas M. Habermann, MD ‡ ξ 
+Mayo Clinic Comprehensive Cancer Center
+Muhammad Saad Hamid, MD ‡ 
+St. Jude Children's Research Hospital/The 
+University of Tennessee Health Science Center
+Francisco Hernandez-Ilizaliturri, MD †  
+Roswell Park Comprehensive Cancer Center
+Boyu Hu, MD † ‡ Þ  
+Huntsman Cancer Institute  
+at the University of Utah
+Yasmin Karimi, MD ‡ 
+University of Michigan  
+Rogel Cancer Center
+Christopher R. Kelsey, MD § 
+Duke Cancer Institute
+Rebecca King, MD ≠ 
+Mayo Clinic Comprehensive Cancer Center
+Justin Kline, MD †  
+The UChicago Medicine  
+Comprehensive Cancer Center
+Susan Krivacic, MPAff ¥ 
+Patient Advocate
+Ann S. LaCasce, MD, MMSc † 
+Dana-Farber/Brigham and Women’s  
+Cancer Center
+Daniel Landsburg, MD † 
+Abramson Cancer Center  
+at the University of PennsylvaniaMegan Lim, MD, PhD ≠  
+Memorial Sloan Kettering Cancer Center
+Marcus Messmer, MD † ‡  
+Fox Chase Cancer Center
+Rachel Rabinovitch, MD § 
+University of Colorado Cancer Center
+Praveen Ramakrishnan, MD, MS ‡ 
+UT Southwestern Simmons  
+Comprehensive Cancer Center
+Erin Reid, MD ‡  
+UC San Diego Moores Cancer Center
+Kenneth B. Roberts, MD § 
+Yale Cancer Center/Smilow Cancer Hospital
+Hayder Saeed, MD † ‡ Þ 
+Moffitt Cancer Center
+Naoyuki G. Saito, MD, PhD §  
+Indiana University Melvin and Bren Simon 
+Comprehensive Cancer Center
+Stephen D. Smith, MD ‡  
+Fred Hutchinson Cancer Center
+Lode J. Swinnen, MBChB, MD † ‡ ξ  
+Johns Hopkins Kimmel Cancer Center
+Joseph Tuscano, MD ‡ 
+UC Davis Comprehensive Cancer Center
+Julie M. Vose, MD, MBA ‡ ξ 
+Fred & Pamela Buffett Cancer Center*Andrew D. Zelenetz, MD, PhD/Chair † Þ  
+Memorial Sloan Kettering Cancer Center
+*Leo I. Gordon, MD/Vice Chair ‡ ξ 
+Robert H. Lurie Comprehensive Cancer  
+Center of Northwestern University
+*Jeremy S. Abramson, MD, MMSc † ‡ 
+Mass General Cancer Center
+Ranjana H. Advani, MD † 
+Stanford Cancer Institute
+Babis Andreadis, MD, MSCE † ‡ 
+UCSF Helen Diller Family  
+Comprehensive Cancer Center
+Nancy L. Bartlett, MD † 
+Siteman Cancer Center at Barnes-  
+Jewish Hospital and Washington  
+University School of Medicine
+L. Elizabeth Budde, MD, PhD † ξ  
+City of Hope National Medical Center
+Paolo F. Caimi, MD ‡ † ξ 
+Case Comprehensive Cancer Center/University 
+Hospitals Seidman Cancer Center and 
+Cleveland Clinic Taussig Cancer Institute
+Julie E. Chang, MD ‡  
+University of Wisconsin  
+Carbone Cancer Center
+Beth Christian, MD † 
+The Ohio State University Comprehensive 
+Cancer Center - James Cancer Hospital  
+and Solove Research Institute
+Sven DeVos, MD, PhD ‡ † Þ  
+UCLA Jonsson Comprehensive Cancer Center
+Bhagirathbhai Dholaria, MD ‡ † ξ  
+Vanderbilt-Ingram Cancer CenterPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+NCCN B-Cell Lymphoma Panel Members
+Summary of the Guidelines Updates
+• Diagnosis (CD-1)
+• Workup (CD-2)
+• Unicentric Castleman Disease (UCD) (CD-3)
+• Multicentric Castleman Disease (MCD) (CD-4)
+• Relapsed/Refractory or Progressive Disease (MCD) (CD-6 )
+• Criteria for Active Disease (CD-A)
+• Subtypes of Idiopathic MCD (CD-A)
+• Consensus Diagnostic Criteria for Idiopathic MCD (CD-B)
+• Suggested Treatment Regimens (CD-C)
+Classification and Staging (ST-1)
+Abbreviations (ABBR-1)Find an NCCN Member Institution: 
+https://www.nccn.org/home/member-
+institutions .
+NCCN Categories of Evidence and 
+Consensus: All recommendations are 
+category 2A unless otherwise indicated. 
+See NCCN Categories of Evidence  
+and Consensus .
+NCCN Categories of Preference:  
+All recommendations are considered 
+appropriate.
+See NCCN Categories of Preference .
+The NCCN Guidelines® are a statement of evidence and consensus of the authors regarding their views of currently accepted approaches to 
+treatment. Any clinician seeking to apply or consult the NCCN Guidelines is expected to use independent medical judgment in the context of individual 
+clinical circumstances to determine any patient’s care or treatment. The National Comprehensive Cancer Network® (NCCN®) makes no representations 
+or warranties of any kind regarding their content, use or application and disclaims any responsibility for their application or use in any way . The NCCN 
+Guidelines are copyrighted by National Comprehensive Cancer Network®. All rights reserved. The NCCN Guidelines and the illustrations herein may not 
+be reproduced in any form without the express written permission of NCCN. ©2025.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+UPDATESUpdates in Version 1.2025 of the NCCN Guidelines for Castleman Disease from Version 1.2024 include:
+Global changes
+• All regimens and corresponding footnotes in algorithm pages moved to new Suggested Treatment Regimen pages (CD-C).
+• Statement, "An FDA-approved biosimilar is an appropriate substitute for rituximab" replaced by the general footnote: An FDA-approved biosimilar is an appropriate 
+substitute for any recommended systemic biologic therapy in the NCCN Guidelines.
+• References for suggested treatment regimens were updated throughout the guidelines.
+CD-1
+• Diagnosis
+1st bullet revised: Excisional or incisional biopsy  is preferred for the definitive diagnosis.
+2nd bullet revised: A fine-needle aspiration (FNA) biopsy  alone is not generally suitable  is insufficient for the initial diagnosis or histologic assessment of  Castleman 
+disease (CD). A core needle biopsy is not optimal  but can be used under certain circumstances  because features of CD are very nonspecific and seeing the whole 
+node with architecture is essential to be confident of the diagnosis. Therefore, core needle biopsy is unlikely to be adequate for definitive pathologic diagnosis 
+of CD. but can be used under certain circumstances. Core needle biopsy (multiple biopsies preferred) is an appropriate alternative to excisional or incisional 
+biopsy, especially in certain circumstances (when a lymph node is not easily accessible for excisional or incisional biopsy or if surgical biopsy would cause 
+significant morbidity or substantial treatment delays); a combination of core needle biopsy (multiple biopsies preferred) and FNA  biopsies biopsy in conjunction with 
+appropriate ancillary techniques for the differential diagnosis (immunohistochemistry [IHC], flow cytometry , molecular analysis to detect immunoglobulin [Ig] gene 
+rearrangements, karyotype or fluorescence in situ hybridization [FISH] for major translocationsa) may be sufficient for diagnosis.
+3rd bullet revised: Hematopathology review of all slides with at least one paraffin block representative of the tumor  lesion . Rebiopsy if consult material is 
+nondiagnostic, preferably the most FDG-avid, accessible lymph node . 
+Bullet removed: Histologic grading cannot be performed on an FNA.
+• Additional diagnostic testing
+IHC: CD5, CD138 moved from Essential to Useful.
+EBER-ISH moved from Essential to Useful.
+Useful, 1st bullet: TCR removed. 
+• Footnote d revised: There are 3 variants: hypervascular (hyaline vascular), plasmacytic, and mixed variants. Hypervascular variant is virtually always unicentric and 
+human herpesvirus 8 (HHV8) (-). Plasmacytic and mixed variants are more often multicentric and may be HHV8+.
+CD-2
+• Workup
+Hepatitis C testing moved from Useful to Essential and corresponding footnote added: Hepatitis C antibody and if positive, viral load and consult with hepatologist.
+Footnote e revised by adding: Patients with POEMS-associated MCD should have treatment directed at POEMS syndrome with regimens recommended for the 
+treatment of multiple myeloma (see NCCN Guidelines for Multiple Myeloma).ContinuedUpdates in Version 2.2025 of the NCCN Guidelines for Castleman Disease from Version 1.2025 include:
+CD-C 1 of 3
+• First-line therapy, MCD - Criteria for active disease present but no organ failure
+HHV8-positive (HIV-1-positive or HIV-1-negative), 5th bullet clarified: High-dose  zidovudine + ganciclovir/valganciclovir
+CD-C 2 of 3
+• Second-line and subsequent therapy for relapsed/refractory or progressive disease
+HHV8(+) - Criteria for active disease present with no organ failure or Fulminant/Severe disease [HHV8(+) or HHV8(-)] with no organ failure
+ ◊Other recommended, Sirolimus clarified by adding: if HHV8-negative.
+MS-1
+• The discussion section has been updated to reflect the changes in the algorithm.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+UPDATESUpdates in Version 1.2025 of the NCCN Guidelines for Castleman Disease from Version 1.2024 include:
+CD-4
+• MCD
+New pathway added: Fulminant/Severe HHV8(+) MCD ± organ failure or Fulminant/Severe HHV8(-)-iMCD
+• Footnote o added: Severe disease defined as: Eastern Cooperative Oncology Group (ECOG) performance status ≥2; stage IV kidney dysfunction (estimated glomerular 
+filtration rate <30 mL/min/1.73 m2, creatinine >3 mg/dL); anasarca and/or ascites, pleural effusion, or pericardial effusion; hemoglobin ≤8 g/dL; pulmonary involvement/
+interstitial pneumonitis with dyspnea (van Rhee F, et al. Blood 2018;132:2115-2124 ). (Also for CD-5)
+• Footnote r revised: Occult KS is prevalent in HIV/HHV8+ MCD and is likely to may flare after rituximab or prednisone. Consider baseline imaging and direct visualization 
+to screen for pulmonary ± gastrointestinal (GI) involvement in patients receiving concurrent KS-directed therapy (ie, addition of liposomal doxorubicin) . Monitor 
+closely for KS progression and continue KS-directed therapy for ~3 months post last rituximab to minimize risk of KS flare (given long action of rituximab).  See NCCN 
+Guidelines for Kaposi Sarcoma. (Also for CD-5 and CD-6)
+CD-5
+• Fulminant/Severe HHV8(+) MCD ± organ failure or Fulminant/Severe HHV8(-)-iMCD
+Added new pathway for first-line therapy and relapsed disease
+CD-6
+• Algorithm clarified: RELAPSED/REFRACTORY OR PROGRESSIVE DISEASE (MCD)
+• Algorithm separated by:
+HHV8(+) - Criteria for active disease present with no organ failure or Fulminant/severe [HHV8(+) or HHV8(-)] disease with no organ failure
+Fulminant/severe [HHV8(+) or HHV8(-)] disease with organ failure
+• After no response revised: Treat with  Alternate second-line  combination therapy ± rituximab (CD-C 2 of 3) not previously given before moving onto subsequent therapy
+• After relapsed/refractory disease
+HDT/ASCR removed.
+CD-C 1 of 3
+• Suggested treatment regimens, First-line therapy
+MCD - Criteria for active disease present but no organ failure
+ ◊HHV8-negative/HIV-1-negative (iMCD - Nonsevere)
+ –R-CVP added.
+ –Removed preference stratification
+MCD - Fulminant/severe ± organ failure
+ ◊Fulminant/severe HHV8-negative (iMCD), regimens added: 
+ –CHOP ± rituximab
+ –CVAD ± rituximab
+ –CVP ± rituximab
+ –Siltuximab
+ –If not a candidate for combination therapy: Rituximab
+ ◊Fulminant/severe HHV8-positive MCD, regimens added: 
+ –Rituximab + liposomal doxorubicin
+ –Rituximab + prednisone + liposomal doxorubicin
+CD-C 2 of 3
+• Suggested treatment regimens, Second-line and subsequent therapy for relapsed/refractory or progressive disease
+HHV8(+) - Criteria for active disease present with no organ failure or Fulminant/Severe disease [HHV8(+) or HHV8(-)] with no organ failure
+ ◊Preferred regimens, added: Siltuximab (if HHV8-negative)
+ ◊Other recommended, added: Sirolimus
+Fulminant/Severe disease [HHV8(+) or HHV8(-)] with organ failure
+ ◊Preferred regimens, added: Siltuximab (if HHV8-negative)
+Liposomal doxorubicin, liposomal doxorubicin ± rituximab, and high-dose zidovudine + valganciclovir clarified as "if HHV8-positive."PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+DIAGNOSIS
+CD-1a If a high suspicion of a clonal process remains and other techniques have not resulted in a clear identification of a clonal process, then next-generation sequencing 
+(NGS) can be used. 
+b For HIV-related lymphomas associated with CD, see NCCN Guidelines for B-Cell Lymphomas  - HIVLYM. For diffuse large B-cell lymphoma (DLBCL)- associated with 
+CD in patients without HIV infection, see NCCN Guidelines for B-Cell Lymphomas  - DLBCL. 
+c There are 3 variants: hypervascular (hyaline vascular), plasmacytic, and mixed variants. Hypervascular variant is virtually always unicentric and human herpesvirus 8 
+(HHV8) (-). Plasmacytic and mixed variants are more often multicentric and may be HHV8+.
+d In HHV8+ plasmacytic variant , plasmablasts are IgM lambda while normal plasma cells are IgG or IgA polytypic. ADDITIONAL DIAGNOSTIC TESTINGa,b,c
+ESSENTIAL:
+• Adequate immunophenotyping to establish 
+diagnosis
+IHC panel: kappa/lambda, CD20, CD3, HHV8 
+latency-associated nuclear antigen (LANA)
+USEFUL UNDER CERTAIN CIRCUMSTANCES:
+• Molecular analysis to detect immunoglobulin 
+(Ig) gene rearrangements
+• IHC panel: Ki-67 index; Ig heavy chains ,d CD5, 
+CD10, BCL2, BCL6, cyclin D1, CD21, or CD23, 
+CD38, IRF4/MUM1, PAX5, CD138
+• Flow cytometry with peripheral blood and/or 
+biopsy specimen: kappa/lambda, CD19, CD20, 
+CD5, CD23, CD10 
+• Epstein-Barr virus-encoded RNA in situ 
+hybridization (EBER-ISH)  Workup 
+(CD-2)• Excisional or incisional biopsy  is preferred for the definitive 
+diagnosis . 
+• A fine-needle aspiration (FNA) biopsy is insufficient for the 
+initial diagnosis or histologic assessment of Castleman 
+disease (CD). A core needle biopsy is not optimal because 
+features of CD are very nonspecific and seeing the whole 
+node with architecture is essential to be confident of the 
+diagnosis. Therefore, core needle biopsy is unlikely to be 
+adequate for definitive pathologic diagnosis of CD. 
+• Hematopathology review of all slides with at least one 
+paraffin block representative of the lesion. Rebiopsy if 
+consult material is nondiagnostic, preferably the most 
+fluorodeoxyglucose (FDG)-avid, accessible lymph node .PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Version 2.2025
+Castleman DiseaseNCCN Guidelines Index
+Table of Contents
+Discussion
+g Hepatitis B testing is indicated because of the risk of reactivation with immunotherapy + 
+chemotherapy. See Monoclonal Antibody Therapy and Viral Reactivation (NHODG-B) in 
+the NCCN Guidelines B-Cell Lymphomas . Tests include hepatitis B surface antigen and 
+core antibody for a patient with no risk factors. For patients with risk factors or previous 
+history of hepatitis B, add e-antigen. If positive, check viral load and consider consult with 
+gastroenterologist.
+h Hepatitis C antibody and if positive, viral load and consult with hepatologist.
+i Measurement of acute phase reactants may be helpful in monitoring therapy.
+j Fertility preservation options include: sperm banking, semen cryopreservation, in vitro 
+fertilization (IVF), or ovarian tissue or oocyte cryopreservation.WORKUPe
+ESSENTIAL:
+• Physical exam: attention to node-bearing areas, including Waldeyer’s 
+ring, and to size of liver and spleen
+• Performance status
+• Assess for criteria for active diseasef
+• Complete blood count (CBC) wit h differential
+• Comprehensive metabolic panel
+• LDH, C-reactive protein (CRP), erythrocyte sedimentation rate (ESR)
+• Beta-2-microglobulin, SPEP and urine electrophoresis with 
+immunofixation, serum light chains, quantitative  Ig
+• HIV, HHV8, hepatitis B testing,g hepatitis C testing,h EBV PCR
+• PET/CT scan (preferred) or C/A/P CT with contrast of diagnostic quality 
+• Pregnancy testing in patients of childbearing age (if chemotherapy or 
+radiation therapy [RT] planned)
+USEFUL UNDER CERTAIN CIRCUMSTANCES:
+• If HHV8 or HIV positive, screening for concurrent  Kaposi sarcoma  (KS) 
+is strongly recommended
+• Bone marrow biopsy + aspirate 
+• Reticulin fibrosis of bone marrow (particularly in patients with T AFRO 
+syndrome)
+• Neck CT with contrast
+• Echocardiogram or multigated acquisition (MUGA) s can if 
+anthracycline-based regimen is indicated
+•  IgG4, sIL6, sIL10, vascular endothelial growth factor receptor (VEGF) , 
+uric acid, ferritini
+• Discuss fertility preservationjUnicentric
+Castleman disease 
+(UCD)
+Multicentric
+Castleman disease 
+(MCD)CD-3
+CD-4
+e See Subtypes of Idiopathic MCD (CD-A) . Rule out other diseases that can 
+mimic idiopathic MCD (iMCD) (see Exclusion Criteria on CD-B 1 of 2). If 
+concurrent polyneuropathy and monoclonal plasma cell disorder, a workup 
+for polyneuropathy, organomegaly, endocrinopathy, monoclonal protein, 
+skin changes (POEMS) syndrome is recommended. Patients with POEMS-
+associated MCD should have treatment directed at POEMS syndrome with 
+regimens recommended for the treatment of multiple myeloma  
+(see NCCN Guidelines for Multiple Myeloma ).
+f Criteria for Active Disease (CD-A) .CASTLEMAN DISEASE SUBTYPE
+CD-2PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Version 2.2025
+Castleman DiseaseNCCN Guidelines Index
+Table of Contents
+Discussion
+CD-3FIRST-LINE THERAPYkRELAPSED DISEASEk
+k See Supportive Care for B-Cell Lymphomas for the management of complications associated with anti-CD20 monoclonal antibody (mAb) therapy in the NCCN 
+Guidelines for B-Cell Lymphomas .
+l The optimal dose of ISRT in unresectable UCD is not established. Doses as high as 40 Gy in 1.5–2 Gy fractions have been used (Chronowski GM, et al. Cancer 
+2001;92:670-676). Lower doses may be considered depending upon clinical circumstances (eg, proximity to critical structures, treatment intent). Advanced radiation 
+techniques (eg, intensity-modulated RT [IMRT], image-guided RT [IGRT], protons) are recommended to limit dose to surrounding normal tissues (Matthiesen C, et al. 
+Radiol Oncol 2012;46:265-270). RT Dose Constraint Guidelines for Lymphoma - Recommendations for normal tissue dose constraints can be found in the Principles of 
+Radiation Therapy section of the NCCN Guidelines for Hodgkin Lymphoma .
+m Patients with non-bulky disease may be observed after ISRT. 
+n Encourage biopsy to rule out transformation to DLBCL or concomitant development of other malignancies or opportunistic infections.Consider surgery or 
+ISRTl,m or embolization if 
+amenable 
+or 
+Suggested Treatment 
+Regimens: Second-line 
+Therapy (CD-C 2 of 3)UCDSurgically 
+resectable
+Surgically 
+unresectableComplete 
+resection
+Incomplete 
+resectionObservation Recurrence
+Asymptomatic
+SymptomaticObservation Recurrence
+See Surgically 
+unresectable below
+Involved-site RT  
+(ISRT)l,m
+or
+Suggested Treatment 
+Regimens: First-line 
+Therapy (CD-C 1 of 3)
+or
+Consider embolization
+or
+Observation in 
+asymptomatic patientsSurgically 
+resectable
+Surgically 
+unresectableComplete 
+resectionObservation 
+Alternate first-line 
+therapy not previously 
+given (CD-C 1 of 3)Relapsed/ 
+refractory 
+diseasenIncomplete 
+resectionPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Version 2.2025
+Castleman DiseaseNCCN Guidelines Index
+Table of Contents
+Discussion
+CD-4FIRST-LINE THERAPYkRELAPSED 
+DISEASEk
+f Criteria for Active Disease (CD-A) .
+k See Supportive Care for B-Cell Lymphomas for the management of 
+complications associated with anti-CD20 monoclonal antibody (mAb) 
+therapy in the NCCN Guidelines for B-Cell Lymphomas .
+n Encourage biopsy to rule out transformation to DLBCL or concomitant 
+development of other malignancies or opportunistic infections.
+o Severe disease defined as: Eastern Cooperative Oncology Group (ECOG) 
+performance status ≥2; stage IV kidney dysfunction (estimated glomerular 
+filtration rate <30 mL/min/1.73 m2, creatinine >3 mg/dL); anasarca and/
+or ascites, pleural effusion, or pericardial effusion; hemoglobin ≤8 g/dL; 
+pulmonary involvement/interstitial pneumonitis with dyspnea (van Rhee F, 
+et al. Blood 2018;132:2115-2124). Criteria for 
+active diseasef 
+present but no 
+organ failureHIV-1(-)
+HHV8(-) 
+(Idiopathic 
+MCD [iMCD; 
+Nonsevere]p)
+HIV-1(+)/
+HHV8(+)q  
+or 
+HIV-1(-)/
+HHV8(+)Suggested 
+Treatment 
+Regimens: 
+First-line 
+Therapy  
+(CD-C 1 of 3)Responses
+No 
+responsen,s• If siltuximab, 
+continue until 
+progression
+• If rituximab,  
+observe and retreat 
+at progressionRelapsed 
+diseasenAlternate first-
+line therapy 
+(CD-C 1 of 3) 
+before moving 
+onto treatment 
+for refractory 
+or progressive 
+diseaset
+Alternate first-
+line therapy 
+(CD-C 1 of 3)  
+before moving 
+onto treatment 
+for refractory 
+or progressive 
+diseasetRelapsed/
+Refractory or  
+Progressive  
+Disease ( CD-6)
+Suggested 
+Treatment 
+Regimens: 
+First-line 
+Therapy  
+(CD-C 1 of 3)rResponses
+No 
+responsen,sObservationRelapsed 
+diseasen
+p Diagnostic Criteria for Idiopathic MCD (CD-B) .
+q All patients with HIV infection should be on combination antiretroviral therapy (cART). 
+For principles of concurrent HIV management and supportive care, see the NCCN 
+Guidelines for Cancer in People with HIV . 
+r Occult KS is prevalent in HIV/HHV8+ MCD and is likely to flare after rituximab or 
+prednisone. Consider baseline imaging and direct visualization to screen for pulmonary 
+± gastrointestinal (GI) involvement. Monitor closely for KS progression and continue 
+KS-directed therapy for ~3 months post last rituximab to minimize risk of KS flare (given 
+long action of rituximab). See NCCN Guidelines for Kaposi Sarcoma .
+s Response assessment using the imaging modalities performed during workup (chest/
+abdomen/pelvis [C/A/P] CT with contrast or PET/CT). 
+t Rituximab ± prednisone may be repeated without limit if progression ≥6 months after 
+completion of rituximab.Fulminant/Severeo HHV8(+) MCD 
+± organ failure
+or
+Fulminant/Severeo HHV8(-)-iMCDCD-5MCDPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Version 2.2025
+Castleman DiseaseNCCN Guidelines Index
+Table of Contents
+Discussion
+CD-5FIRST-LINE THERAPYkRELAPSED DISEASEk
+k See Supportive Care for B-Cell Lymphomas for the management of complications associated with anti-CD20 monoclonal antibody (mAb) therapy in the NCCN 
+Guidelines for B-Cell Lymphomas .
+n Encourage biopsy to rule out transformation to DLBCL or concomitant development of other malignancies or opportunistic infections.
+o Severe disease defined as: ECOG performance status ≥2; stage IV kidney dysfunction (estimated glomerular filtration rate <30 mL/min/1.73 m2, creatinine >3 mg/dL); 
+anasarca and/or ascites, pleural effusion, or pericardial effusion; hemoglobin ≤8 g/dL; pulmonary involvement/interstitial pneumonitis with dyspnea (van Rhee F, et al. 
+Blood 2018;132:2115-2124). 
+r Occult KS is prevalent in HIV/HHV8+ MCD and is likely to flare after rituximab or prednisone. Consider baseline imaging and direct visualization to screen for 
+pulmonary ± GI involvement. Monitor closely for KS progression and continue KS-directed therapy for ~3 months post last rituximab to minimize risk of KS flare (given 
+long action of rituximab). See NCCN Guidelines for Kaposi Sarcoma . 
+s Response assessment using the imaging modalities performed during workup (C/A/P CT with contrast or PET/CT).Fulminant/Severeo
+HHV8(+) MCD ± 
+organ failure
+or
+Fulminant/ Severeo 
+HHV8(-) iMCDRelapsed/
+Refractory or  
+Progressive  
+Disease ( CD-6)Relapsed 
+diseasen
+Suggested Treatment Regimens: 
+First-Line Therapy ( CD-C 1 of 3)rResponses
+No 
+responsen,sObservationPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Version 2.2025
+Castleman DiseaseNCCN Guidelines Index
+Table of Contents
+Discussion
+CD-6RELAPSED/ REFRACTORY OR PROGRESSIVE DISEASE  (MCD)k
+k See Supportive Care for B-Cell Lymphomas for the management of complications associated with anti-CD20 monoclonal antibody (mAb) therapy in the NCCN 
+Guidelines for B-Cell Lymphomas .
+n Encourage biopsy to rule out transformation to DLBCL or concomitant development of other malignancies or opportunistic infections.
+o Severe disease defined as: ECOG performance status ≥2; stage IV kidney dysfunction (estimated glomerular filtration rate <30 mL/min/1.73 m2, creatinine >3 mg/dL); 
+anasarca and/or ascites, pleural effusion, or pericardial effusion; hemoglobin ≤8 g/dL; pulmonary involvement/interstitial pneumonitis with dyspnea (van Rhee F, et al. 
+Blood 2018;132:2115-2124). 
+r Occult KS is prevalent in HIV/HHV8+ MCD and is likely to flare after rituximab or prednisone. Consider baseline imaging and direct visualization to screen for 
+pulmonary ± GI involvement. Monitor closely for KS progression and continue KS-directed therapy for ~3 months post last rituximab to minimize risk of KS flare (given 
+long action of rituximab). See NCCN Guidelines for Kaposi Sarcoma .
+s Response assessment using the imaging modalities performed during workup (C/A/P CT with contrast or PET/CT).
+u Single-agent therapy is preferred for asymptomatic patients with no organ failure; combination therapy is preferred for patients with fulminant disease and organ failure.Relapsed/
+Refractory or
+progressive
+disease 
+(MCD)n,rSuggested Treatment 
+Regimens: Second-
+Line Therapy  
+(CD-C 2 of 3)u
+No 
+responsen,sResponses
+Alternate second-line 
+combination therapy 
+± rituximab ( CD-C 2 
+of 3) not previously 
+given before moving 
+onto subsequent 
+therapyObservation
+or
+Maintenance
+valganciclovir
+if HHV8(+)
+Relapsed/ 
+refractory 
+diseasen• Consider alternative 
+single-agent or 
+combination 
+therapy- Suggested 
+Treatment Regimens: 
+Subsequent Therapy 
+for Relapsed/
+Refractory or 
+Progressive Disease: 
+Alternative regimens  
+(CD-C 2 of 3)HHV8(+) - Criteria for 
+active disease present 
+with no organ failure 
+or
+Fulminant/severeo 
+[HHV8(+) or HHV8(-)] 
+disease with no organ 
+failure
+Fulminant/
+severeo 
+[HHV8(+) 
+or HHV8(-)]
+disease with 
+organ failureSuggested Treatment 
+Regimens: Second-
+Line Therapy  
+(CD-C 2 of 3)uPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Version 2.2025
+Castleman DiseaseNCCN Guidelines Index
+Table of Contents
+Discussion
+a Gérard L, Bérezné A, Galicier L, et al. Prospective study of rituximab in chemotherapy-dependent human immunodeficiency virus-associated 
+multicentric Castleman disease: ANRS 117 CastlemaB Trial. J Clin Oncol 2007;25:3350-3356.
+CD-Aa Iwaki N, Fajgenbaum DC, Nabel CS, et al. Clinicopathologic analysis of TAFRO syndrome demonstrates a distinct subtype of HHV-
+8-negative multicentric Castleman disease. Am J Hematol 2016;91:220-226.CRITERIA FOR ACTIVE DISEASEa
+• Fever
+• Increased serum C-reactive protein level >20 mg/L in the absence of any other etiology
+• At least three of the following other MCD-related symptoms:
+Peripheral lymphadenopathy
+Enlarged spleen
+Edema
+Pleural effusion
+Ascites
+Cough
+Nasal obstruction
+Xerostomia
+Rash
+Central neurologic symptoms
+Jaundice
+Autoimmune hemolytic anemia
+SUBTYPES OF IDIOPATHIC MCDa
+• Idiopathic MCD (iMCD-TAFRO)
+Marked inflammatory syndrome
+Thrombocytopenia, anasarca, fever/elevated C-reactive protein (CRP), renal 
+dysfunction/reticulin myelofibrosis, organomegaly
+Megakaryocytic hyperplasia, hypervascular or mixed histopathology
+Normal immunoglobulin levels 
+• Idiopathic MCD - not otherwise specified (iMCD-NOS)
+Less intense inflammatory syndrome
+Normal/elevated platelet counts
+Plasmacytic or mixed histopathology
+Polyclonal hypergammaglobulinemiaPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Version 2.2025
+Castleman DiseaseNCCN Guidelines Index
+Table of Contents
+Discussion
+a Fajgenbaum DC, Uldrick TS, Bagg A, et al. International, evidence-based consensus diagnostic criteria for HHV-8-negative/idiopathic multicentric Castleman disease. 
+Blood 2017;129:1646-1657.Consensus Diagnostic Criteria for Idiopathic MCDa
+I. Major  
+Criteria  
+(need both):1. Histopathologic lymph node features consistent with the iMCD spectrum. Features along the iMCD spectrum include (need grade 2–3 for either 
+regressive GCs or plasmacytosis at minimum):
+          - Regressed/atrophic/atretic germinal centers, often with expanded mantle zones composed of concentric rings of lymphocytes in an “onion                                                                                          
+             skinning” appearance
+          - FDC prominence
+          - Vascularity, often with prominent endothelium in the interfollicular space and vessels penetrating into the GCs with a “lollipop” appearance
+          - Sheetlike, polytypic plasmacytosis in the interfollicular space
+          - Hyperplastic GCs
+2. Enlarged lymph nodes (≥1 cm in short-axis diameter) in ≥2 lymph node stations
+II. Minor  
+Criteria  
+(need at least 
+2 of 11 criteria 
+with at least 
+1 laboratory 
+criterion)Laboratory *
+1. Elevated CRP (>10 mg/L) or ESR (>15 mm/h) †
+2. Anemia (hemoglobin <12.5 g/dL for males, hemoglobin <11.5 g/dL 
+for females)
+3. Thrombocytopenia (platelet count <150 µ/mL) or thrombocytosis 
+(platelet count >400 µ/mL)
+4. Hypoalbuminemia (albumin <3.5 g/dL)
+5. Renal dysfunction (eGFR <60 mL/min/1.73m2) or proteinuria (total 
+protein 150 mg/24 h or 10 mg/100 mL)
+6. Polyclonal hypergammaglobulinemia (total γ globulin or immuno -
+globulin G >1700 mg/dL)Clinical
+1. Constitutional symptoms: night sweats, fever (>38°C), weight loss, or 
+fatigue (≥2 CTCAE lymphoma score for B-symptoms)
+2. Large spleen and/or liver 
+3. Fluid accumulation: edema, anasarca, ascites, or pleural effusion
+4. Eruptive cherry hemangiomatosis or violaceous papules
+5. Lymphocytic interstitial pneumonitis
+III. Exclusion 
+Criteria  
+(must rule out 
+each of these 
+diseases that 
+can mimic 
+iMCD)Infection-related disorders
+1. HHV-8 (infection can be documented by blood PCR; diagnosis of   
+HHV-8–associated MCD requires positive LANA-1 staining by IHC, 
+which excludes iMCD)
+2. Clinical EBV-lymphoproliferative disorders such as infectious  
+mononucleosis or chronic active EBV (detectable EBV viral load not 
+necessarily exclusionary)
+3. Inflammation and adenopathy caused by other uncontrolled 
+infections (eg, acute or uncontrolled CMV, toxoplasmosis, HIV, active 
+tuberculosis) Autoimmune/autoinflammatory diseases  (requires full clinical criteria; 
+detection of autoimmune antibodies alone is not exclusionary)
+1. Systemic lupus erythematosus
+2. Rheumatoid arthritis
+3. Adult-onset Still disease
+4. Juvenile idiopathic arthritis
+5. Autoimmune lymphoproliferative syndrome
+Malignant/lymphoproliferative disorders  (these disorders must be 
+diagnosed before or at the same time as iMCD to be exclusionary):
+1. Lymphoma (Hodgkin and non-Hodgkin)
+2. Multiple myeloma
+3. Primary lymph node plasmacytoma
+4. FDC sarcoma
+5. POEMS syndrome ‡
+Continued
+CD-B 
+1 OF 2PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Version 2.2025
+Castleman DiseaseNCCN Guidelines Index
+Table of Contents
+Discussion
+CD-B 
+2 OF 2a Fajgenbaum DC, Uldrick TS, Bagg A, et al. International, evidence-based consensus diagnostic criteria for HHV-8-negative/idiopathic multicentric 
+Castleman disease. Blood 2017;129:1646-1657.
+Footnotes for CD-B 1 of 2
+* Laboratory cutoff thresholds are provided as guidance. Since some laboratories have slightly different ranges, the upper and lower ranges from a particular laboratory 
+should be used to determine if a patient meets a particular laboratory Minor Criterion.
+† Evaluation of CRP is mandatory and tracking CRP levels is highly recommended, but ESR will be accepted if CRP is not available.
+‡ POEMS is considered to be a disease “associated” with CD. Because the monoclonal plasma cells are believed to drive the cytokine storm, we do not consider it 
+iMCD, but rather “POEMS-associated MCD.”Consensus Diagnostic Criteria for Idiopathic MCD (continued)a
+• Select additional features supportive of, but not required for diagnosis
+Elevated IL-6, sIL-2R, VEGF, IgA, IgE, LDH, and/or B2M
+Reticulin fibrosis of bone marrow (particularly in patients with TAFRO syndrome)
+Diagnosis of disorders that have been associated with iMCD: paraneoplastic pemphigus, bronchiolitis obliterans organizing pneumonia, 
+autoimmune cytopenias, polyneuropathy (without diagnosing POEMS ‡), glomerular nephropathy, inflammatory myofibroblastic tumorPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Version 2.2025
+Castleman DiseaseNCCN Guidelines Index
+Table of Contents
+Discussion
+CD-C
+1 OF 3SUGGESTED TREATMENT REGIMENSa
+a An FDA-approved biosimilar is an appropriate substitute for any recommended systemic biologic therapy in the NCCN Guidelines. Rituximab and hyaluronidase 
+human injection for subcutaneous use may be substituted for rituximab after patients have received the first full dose of rituximab by intravenous infusion.
+b Tocilizumab is an appropriate option, if there is a shortage of siltuximab or if it is not available.FIRST-LINE THERAPY
+(in alphabetical order)
+UCD
+(surgically unresectable)MCD - Criteria for active disease present  
+but no organ failureMCD - Fulminant/severe ± organ failure
+• Rituximab
+• Rituximab + cyclophosphamide
+• Rituximab + prednisone
+• Rituximab + prednisone + 
+cyclophosphamideHHV8-negative/HIV-1-negative (iMCD -Nonsevere)
+• Rituximab
+• Rituximab + prednisone
+• RCVP (rituximab, cyclophosphamide, vincristine, 
+prednisone)
+• Siltuximabb
+• Thalidomide + cyclophosphamide + prednisoneFulminant/severe HHV8-negative (iMCD)
+• CHOP (cyclophosphamide, doxorubicin, 
+vincristine, prednisone) ± rituximab
+• CVAD (cyclophosphamide, vincristine, 
+doxorubicin, and dexamethasone) ± rituximab
+• CVP (cyclophosphamide, vincristine, prednisone) 
+± rituximab
+• Siltuximabb
+• If not a candidate for combination therapy:
+Rituximab
+HHV8-positive (HIV-1-positive or HIV-1-negative)
+• Rituximab (preferred)
+• Rituximab + liposomal doxorubicin
+• Rituximab + prednisone
+• Rituximab + prednisone + liposomal doxorubicin
+• High-dose zidovudine + ganciclovir/valganciclovirFulminant/severe HHV8-positive MCD
+• Rituximab + liposomal doxorubicin
+• Rituximab + prednisone + liposomal doxorubicin
+• RCHOP (rituximab, cyclophosphamide, 
+doxorubicin, vincristine, prednisone)
+• RCVAD (rituximab, cyclophosphamide, vincristine, 
+doxorubicin, and dexamethasone)
+• RCVP (rituximab, cyclophosphamide, vincristine, 
+prednisone)
+• If not a candidate for combination therapy:
+Liposomal doxorubicin
+Rituximab
+References on CD-C 3 of 3PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Version 2.2025
+Castleman DiseaseNCCN Guidelines Index
+Table of Contents
+Discussion
+CD-C
+2 OF 3SUGGESTED TREATMENT REGIMENSa
+a An FDA-approved biosimilar is an appropriate substitute for any recommended systemic biologic therapy in the NCCN Guidelines. Rituximab and hyaluronidase 
+human injection for subcutaneous use may be substituted for rituximab after patients have received the first full dose of rituximab by intravenous infusion.
+b Tocilizumab is an appropriate option, if there is a shortage of siltuximab or if it is not available.
+c Maintenance therapy (optional) for patients with HHV8-positive disease responding to second-line and subsequent therapy.
+d Treat with alternative first-line therapy regimens ( CD-C 1 of 3) before moving onto second-line and subsequent therapy for refractory disease.
+e Treat with alternate second-line combination therapy regimens ± rituximab (not previously given) before moving onto subsequent therapy with alternative regimens for 
+relpased/refractory or progressive disease.SECOND-LINE AND SUBSEQUENT THERAPY FOR RELAPSED/REFRACTORY OR PROGRESSIVE DISEASE
+(in alphabetical order)
+UCD
+(surgically unresectable)MCDc
+HHV8(+) - Criteria for active disease present 
+with no organ failured or
+Fulminant/Severe disease [HHV8(+) or HHV8(-)] 
+with no organ failureFulminant/Severe disease [HHV8(+) or HHV8(-)]
+with organ failuree
+• Rituximab
+• Rituximab + cyclophosphamide
+• Rituximab + prednisone
+• Rituximab + prednisone + 
+cyclophosphamide
+• Siltuximab or tocilizumab (if HIV-
+1-negative/HHV8-negative)Preferred regimens
+(Add ganciclovir or valganciclovir, if HHV8-positive)
+• Etoposide (oral or IV)
+• Liposomal doxorubicin (if HHV8-positive)
+• Siltuximabb (if HHV8-negative)
+• Vinblastine
+Other recommended regimens
+• Sirolimus (if HHV8-negative)
+• If not previously given
+CHOP ± rituximab
+CVAD ± rituximab
+CVP ± rituximabPreferred regimens
+• If not previously given
+CHOP ± rituximab
+CVAD ± rituximab
+CVP ± rituximab
+Liposomal doxorubicin ± rituximab (if HHV8-positive)
+Siltuximabb (if HHV8-negative)
+Subsequent therapy for relapsed/refractory or progressive disease: Alternative regimens
+• Anakinra
+• Bortezomib ± rituximab
+• Lenalidomide ± rituximab
+• Thalidomide ± rituximab
+• Tocilizumab
+• High-dose zidovudine + valganciclovir (if HHV8-positive)
+References on CD-C 3 of 3PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Version 2.2025
+Castleman DiseaseNCCN Guidelines Index
+Table of Contents
+Discussion
+CD-C
+3 OF 3SUGGESTED TREATMENT REGIMENS
+REFERENCES
+Unicentric Castleman Disease
+Bandera B, Ainsworth C, Shikle J, et al. Treatment of unicentric Castleman disease with neoadjuvant rituximab. Chest 2010;138:1239-1241.
+van Rhee F, Oksenhendler E, Srkalovic G, et al. International evidence-based consensus diagnostic and treatment guidelines for unicentric Castleman disease. Blood 
+Adv 2020;4:6039-6050.
+Multicentric Castleman Disease
+Gerard L, Berezne A, Galicier L, et al. Prospective study of rituximab in chemotherapy-dependent human immunodeficiency virus associated multicentric Castleman's 
+disease: ANRS 117 Castleman B Trial. J Clin Oncol 2007;25:3350-3356.
+Uldrick TS, Polizzotto MN, Aleman K, et al. High-dose zidovudine plus valganciclovir for Kaposi sarcoma herpesvirus-associated multicentric Castleman disease: a pilot 
+study of virus-activated cytotoxic therapy. Blood 2011;117:6977-6986.
+Ramasamy K, Gandhi S, Tenant-Flowers M, et al. Rituximab and thalidomide combination therapy for Castleman disease. Br J Haematol 2012;158:421-423.
+Uldrick TS, Polizzotto MN, Aleman K, et al. Rituximab plus liposomal doxorubicin in HIV-infected patients with KSHV-associated multicentric Castleman disease. Blood 
+2014;124:3544-3552.
+van Rhee F, Wong RS, Munshi N, et al. Siltuximab for multicentric Castleman's disease: a randomized, double-blind, placebo-controlled trial. Lancet Oncol 2014;15:966-
+974. 
+van Rhee F, Voorhees P, Dispenzieri A, et al. International, evidence-based consensus treatment guidelines for idiopathic multicentric Castleman disease. Blood 
+2018;132:2115-2124. 
+Zhang L, Zhao AL, Duan MH, et al. Phase 2 study using oral thalidomide-cyclophosphamide-prednisone for idiopathic multicentric Castleman disease. Blood 
+2019;133:1720-1728
+van Rhee F, Casper C, Voorhees PM, et al. Long-term safety of siltuximab in patients with idiopathic multicentric Castleman disease: a prespecified, open-label, 
+extension analysis of two trials. Lancet Haematol 2020;7:e209-e217.
+Rehman MEU, Chattaraj A, Neupane K, et al. Efficacy and safety of regimens used for the treatment of multicentric Castleman disease: A systematic review. Eur J 
+Haematol 2022;109:309-320. 
+van Rhee F, Rosenthal A, Kanhai K, et al. Siltuximab is associated with improved progression-free survival in idiopathic multicentric Castleman disease. Blood Adv 
+2022;6:4773-4781.
+Pierson SK, Lim MS, Srkalovic G, et al. Treatment consistent with idiopathic multicentric Castleman disease guidelines is associated with improved outcomes. Blood Adv 
+2023;7:6652-6664.
+Liu YT, Gao YH, Zhao H, et al. Sirolimus is effective for refractory/relapsed idiopathic multicentric Castleman disease: A single-center, retrospective study. Ann Hematol 
+2024;103:4223-4230.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Classification 
+Table 1
+ST-1Campo E, Jaffe ES, Cook JR, et al. The International Consensus Classification of Mature Lymphoid Neoplasms: a report from the Clinical Advisory 
+Committee. Blood 2022;140:1229-1253.
+WHO Classification of Tumours Editorial Board. Haematolymphoid tumours. (WHO classification of tumours series, 5th ed.; vol. 11). Lyon (France): 
+International Agency for Research on Cancer; 2024.The International Consensus Classification (ICC) of  
+Mature Lymphoid Neoplasms (2022)
+Mature B-cell lymphomas
+HHV-8–associated lymphoproliferative disorders
+Multicentric Castleman disease
+Primary effusion lymphoma
+HHV8-positive diffuse large B-cell lymphoma, NOS
+HHV8-positive germinotropic lymphoproliferative disorder
+WHO Classification of Hematolymphoid Tumors:  
+Lymphoid Neoplasms (2022; 5th edition)
+Tumour-like lesions with B-cell predominance
+Reactive B-cell-rich lymphoid proliferations that can mimic lymphoma
+IgG4-related disease
+Unicentric Castleman disease
+Idiopathic multicentric Castleman disease
+KSHV/HHV8-associated multicentric Castleman diseaseTable 2PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+C/A/P chest/abdomen/pelvis 
+cART combination antiretroviral therapy
+CBC complete blood count 
+CD Castleman disease
+CMV cytomegalovirus
+CRP C-reactive protein
+CTCAE common terminology criteria for 
+adverse events
+DLBCL diffuse large B-cell lymphoma 
+EBER-
+ISHEpstein-Barr virus-encoded RNA in situ 
+hybridization
+EBV Epstein-Barr virus 
+ECOG Eastern Cooperative Oncology Group
+eGFR estimated glomerular filtration rate
+ESR erythrocyte sedimentation rate
+FDC follicular dendritic cell
+FDG fluorodeoxyglucose
+FISH fluorescence in situ hybridization 
+FNA fine-needle aspiration 
+GC germinal center
+GI gastrointestinalHHV8 human herpesvirus 8
+HIV human immunodeficiency virus
+Ig immunoglobulin 
+IGRT image-guided radiation therapy
+IHC immunohistochemistry 
+iMCD idiopathic multicentric Castleman 
+disease
+IMRT intensity-modulated radiation therapy
+ISRT involved-site radiation therapy
+IVF in vitro fertilization
+KS Kaposi sarcoma
+KSHV Kaposi sarcoma-associated 
+herpesvirus
+LANA latency-associated nuclear antigen
+LDH lactate dehydrogenase mAb monoclonal antibody
+MCD multicentric Castleman disease
+MUGA multigated acquisition 
+NGS next-generation sequencing 
+NOS not otherwise specified
+PCR polymerase chain reaction
+POEMS polyneuropathy, organomegaly, 
+endocrinopathy, monoclonal 
+protein, skin changes
+SPEP serum protein electrophoresis 
+TAFRO thrombocytopenia, anasarca, 
+fever, reticulin fibrosis and 
+organomegaly
+UCD unicentric Castleman disease
+VEGF vascular endothelial growth factor
+ABBR-1ABBREVIATIONSPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Castleman Disease
+Version 2.2025, 01/28/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+CAT-1NCCN Categories of Evidence and Consensus
+Category 1 Based upon high-level evidence (≥1 randomized phase 3 trials or high-quality , robust meta-analyses), there is 
+uniform NCCN consensus (≥85% support of the Panel) that the intervention is appropriate.
+Category 2A Based upon lower-level evidence, there is uniform NCCN consensus (≥85% support of the Panel) that the 
+intervention is appropriate.
+Category 2B Based upon lower-level evidence, there is NCCN consensus (≥50%, but <85% support of the Panel) that the 
+intervention is appropriate.
+Category 3 Based upon any level of evidence, there is major NCCN disagreement that the intervention is appropriate. 
+All recommendations are category 2A unless otherwise indicated.
+NCCN Categories of Preference
+Preferred interventionInterventions that are based on superior efficacy, safety, and evidence; and, when appropriate, 
+affordability.
+Other recommended 
+interventionOther interventions that may be somewhat less efficacious, more toxic, or based on less mature data; 
+or significantly less affordable for similar outcomes.
+Useful in certain 
+circumstancesOther interventions that may be used for selected patient populations (defined with recommendation).
+All recommendations are considered appropriate.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-1  
+ 
+Overview  ................................ ................................ ................................ ................................ ................................ ................................ ..............  MS-2 
+Guidelines Update Methodology  ................................ ................................ ................................ ................................ ................................ ...........  MS-2 
+Sensitive/Inclusive Language Usage  ................................ ................................ ................................ ................................ ................................ .... MS-2 
+Literature Search Criteria................................ ................................ ................................ ................................ ................................ ......................  MS-2 
+Clinical Presentation  ................................ ................................ ................................ ................................ ................................ .............................  MS-3 
+Diagnosis  ................................ ................................ ................................ ................................ ................................ ................................ .............  MS-3 
+Workup  ................................ ................................ ................................ ................................ ................................ ................................ ................  MS-4 
+Treatment Recommendations  ................................ ................................ ................................ ................................ ................................ ...............  MS-5 
+Unicentric Castleman Disease ...................................................................................................................................................................................................... MS-5 
+Multicentric Castleman Disease .................................................................................................................................................................................................... MS-5 
+References  ................................ ................................ ................................ ................................ ................................ ................................ ...........  MS-9 This discussion corresponds to the NCCN Guidelines for Castleman Disease . Last updated : January 28, 2025 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2 .2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-2 Overview 
+Castleman disease (CD) is a relatively uncommon heterogenous group of 
+lymphoproliferative disorder s with an annual incidence of approximately  
+3336 to 5282 cases in the U nited States .1 These disorders share common 
+histopathologic features,  and certain subtypes are associated with an 
+increased risk of developing diffuse large B -cell lymphoma (DLBCL), 
+Kaposi sarcoma (KS) , and POEMS (polyneuropathy, organomegaly, 
+endocrinopathy, monoclonal plasma cell disorder, skin changes) 
+syndrome.2-4 
+Unicentric Castleman disease (UCD) and multicentric Castleman disease (MCD) are the two main clinical subtypes. In the 2022 newly revised WHO 
+classification of hematolymphoid tumors (WHO5), UCD and MCD are classified as tumour -like lesions with B -cell predominance.
+5 In the 2022 
+International Consensus Classification, UCD is not included and MCD is 
+classified as human herpesvirus 8 ( HHV8 )-associated lymphoproliferative 
+disorder.6   
+MCD is further divided into HHV8- positive (also known as KS herpesvirus 
+[KSHV] -positive), HHV8 -negative (also known as idiopathic MCD [iMCD]), 
+and POEMS -MCD.5 KSHV/HHV8 -positive MCD is most commonly 
+diagnosed in people with HIV  (PWH)  or otherwise immunocompromised 
+individuals  and it has been reported as a  precursor to aggressive B- cell 
+lymphomas among PWH .7,8  
+iMCD is subclassified into two clinicopathologic subgroups:  1) iMCD-
+TAFRO (defined by thrombocytopenia [T], anasarca [A], fever [F], reticulin 
+fibrosis of the bone marrow [R], and organomegaly [O] but generally has 
+normal γ -globulin levels) ; and 2) iMCD- not otherwise specified (NOS), 
+which is typically characterized by hypergammaglobulinemia and thrombocytosis.
+9,10  The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®) 
+for Castleman Disease provide recommendations for the diagnostic 
+workup and treatment for UCD and MCD.  
+Guidelines Update Methodology  
+The complete details of the Development and Update of the NCCN 
+Guidelines are available at www.NCCN.org . 
+Sensitive/Inclusive Language Usage  
+The NCCN Guidelines® strive to use language that advances the goals of 
+equity, inclusion, and representation. NCCN Guidelines endeavor to use 
+language that is person- first; not stigmatizing; anti -racist, anti -classist, 
+anti-misogynist, anti -ageist, anti -ableist, and anti -weigh t-biased; and 
+inclusive of individuals of all sexual orientations and gender identities. 
+NCCN Guidelines incorporate non- gendered language, instead focusing 
+on organ -specific recommendations. This language is both more accurate 
+and more inclusive and can help fully address the needs of individuals of 
+all sexual orientations and gender identities. NCCN Guidelines will 
+continue to use the terms men, women, female, and male when citing 
+statistics, recommendations, or data from organizations or sources that do 
+not use inclusive terms. Most studies do not report how sex and gender 
+data are collected and use these terms interchangeably or inconsistently. 
+If sources do not differentiate gender from sex assigned at birth or organs 
+present, the i nformation is presumed to predominantly represent cisgender 
+individuals. NCCN encourages researchers to collect more specific data in future studies and organizations to use more inclusive and accurate 
+language in their future analyses.  
+Literature Search Criteria  
+Prior to the initial development of the NCCN Guidelines for Castleman Disease, an electronic search of the PubMed database was performed to 
+obtain key literature in Castleman disease. The PubMed database was PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-3 chosen because it remains the most widely used resource for medical 
+literature and indexes peer -reviewed biomedical literature.11  
+The search  results were  narrowed by selecting relevant studies in humans 
+published in English. The data from key PubMed articles and articles from additional sources deemed as relevant to these guidelines and discussed 
+by the P anel have been included in this version of the Discussion section 
+(eg, e- publications ahead of print, meeting abstracts). Recommendations 
+for which high- level evidence is lacking are based on the P anel’s review of 
+lower -level evidence and expert opinion.  
+Clinical Presentation  
+The clinical  presentation of CD is often relatively nonspecific with enlarged 
+lymph nodes, lymphadenopathy, and systemic symptoms.   
+UCD is characterized by involvement of a single lymph node or lymph 
+node station and usually the absence of systemic symptoms. This subtype 
+generally has an indolent disease course with an excellent prognosis . 
+UCD is most commonly (but not always) the histopathologic hypervascular  
+(hyaline vascular)  variant and is nearly always HIV negative and HHV8  
+negative.7 While often asymptomatic, some patients may experience  
+compression symptoms due to  compression of vital organs or  other  
+structures .12-15 In a series of 404 patients with UCD, the most common 
+sites of involvement were the mediastinum (29%), neck (23%), abdomen 
+(21%), and retroperitoneum (17%).12 In another analysis of 74 patients (43 
+patients with UCD and 31 patients with iMCD), systemic inflammatory symptoms, elevated inflammatory factors , and abnormal bone marrow 
+features were more common in patients with iMCD than UCD.
+13  
+MCD is a remitting -relapsing disease with a variable natural history 
+ranging from indolent disease with a very slow progression to acute and 
+fulminant disease.3,16 HHV8 -positive MCD follows a more aggressive 
+course. I mmunocompromising conditions is a primary risk factor for HHV8 -positive MCD, with HIV being the most common condition.17 HHV8 -
+positive MCD is more commonly associated with systemic symptoms such 
+as fluid accumulation, cytopenias, liver and kidney dysfunction, and constitutional symptoms driven by cytokines such as interleukin 6 ( IL-
+6).
+13,16,18  
+iMCD affects multiple lymph node regions and exhibit s lymphadenopathy 
+in more than 1 lymph node or lymph node region. Clinical presentation  can 
+range from mild constitutional symptoms  to life -threatening organ failure.  
+iMCD- TAFRO generally presents with a more aggressive disease course 
+and is associated with poorer outcomes than  iMCD- NOS . The  evaluation 
+and determination of treatment should be similar to iMCD -NOS .9,10  
+Diagnosis 
+Due to the nonspecific and heterogenous nature of the disease, CD can 
+often mimic other benign and malignant conditions.2-4 Therefore, a high 
+index of suspicion and histopathologic analysis is required for diagnosis of CD. Excisional or incisional biopsy of the lymph node (preferably the most 
+fluorodeoxyglucose [FDG ]-avid, accessible lymph node) is preferred for 
+the definitive diagnosis of CD.
+19-22 
+A combination of clinical, imaging, and pathologic features should be used to establish the diagnosis of UCD, HHV8- positive MCD, and iMCD.
+19,21 In 
+an asymptomatic patient , histopathology consistent with CD along with the 
+involvement of a  single lymph node or region of lymph nodes  can establish 
+a diagnosis of UCD .21,22  
+Histopathologically, CD has been divided into hypervascular (also called 
+hyaline vascular), plasmacytic, and mixed histologic subtypes.23 The 
+hypervascular variant is most commonly associated with UCD, whereas 
+the plasmacytic and mixed variants are more common in HHV8-
+associated MCD. iMCD- NOS may exhibit any of the three histologic 
+patterns, whereas i MCD- TAFRO is most commonly either hypervascular 
+or mixed.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-4 The 2017 international diagnostic consensus criteria for the diagnosis of 
+iMCD include two major criteria : histopathologic lymph node features 
+consistent with the iMCD spectrum and enlarged lymph node s in ≥2 lymph 
+node stations ; and 11 minor criteria :19 anemia, thrombocytopenia, 
+hypoalbuminemia, polyclonal hypergammaglobulinemia, renal dysfunction 
+(elevated glomerular filtration rate [GFR ] or proteinuria) , elevated 
+erythrocyte sedimentation rate (ESR) or C-reactive protein ( CRP ), 
+constitutional symptoms, enlarged spleen and/or liver, fluid accumulation, 
+eruptive cherry hemangiomatosis or violaceous papules, and lymphocytic 
+interstitial pneumonitis.  
+The diagnosis of iMCD requires the presence of both major criteria, at 
+least 2 of 11 minor criteria with at least 1 laboratory abnormality, and 
+exclusion of infectious, malignant, and autoimmune disorders that can 
+mimic iMCD.19 See Consensus Diagnostic Criteria for Idiopathic MCD in 
+the algorithm . 
+Adequate immunophenotyping of a surgically excised lymph node is 
+required to confirm the diagnosis and exclude malignancy and other 
+diseases.19 The recommended immunohistochemistry ( IHC) panel 
+essential for diagnosis includes: CD20, CD3, CD5, CD138, HHV8  latency -
+associated nuclear antigen (LANA) , kappa, and lambda. Additional IHC 
+markers may be useful under certain circumstances: Ki -67 index, 
+immunoglobulin ( Ig) heavy chains, CD10, BCL2, BCL6, cyclin D1, CD21, 
+CD23, CD38, IRF4/MUM1, and PAX5. Epstein- Barr virus -encoded RNA in 
+situ hybridization (EBER -ISH) and flow cytometry with peripheral blood 
+and/or biopsy specimen of kappa/lambda, CD19, CD20, CD5, CD23, and CD10 may also be useful in certain circumstances. Other diagnostic 
+testing that may be useful under certain circumstances includes molecular 
+analysis to detect Ig gene rearrangements.  Workup  
+Initial workup should include a physical examination (with attention given 
+to node -bearing areas, liver, and spleen) and evaluation of performance 
+status . Laboratory assessments should include standard blood work 
+including complete blood count (CBC) with differential, and a 
+comprehensive metabolic panel. Serum  lactate dehydrogenase (LDH) , 
+CRP, and ESR should be measured. Serum protein electrophoresis should be evaluated if there is concern for POEMS syndrome. Pregnancy 
+testing should be done in patients of childbearing potential if 
+chemotherapy or radiation therapy ( RT) is planned.  PET/CT scan  
+(preferred) or a chest/abdomen/pelvis CT with contrast of diagnostic 
+quality are recommended as part of an initial diagnostic workup to confirm extent of disease and total nodal involvement.
+20,22  
+Testing to detect the presence of HIV, HHV8 , and Epstein- Barr virus 
+(EBV)  polymerase chain reaction ( PCR)  should also be done as part of 
+routine workup. HHV8 -positive MCD is distinguished by positive testing for 
+HHV8 in lymph node tissue as well as PCR positivity for HHV8 in plasma 
+in addition to multiple affected lymph nodes and histopathology consistent 
+with CD.16 Screening for concurrent KS is recommended in the setting of 
+HHV8 or HIV positivity  since HHV8 -positive MCD may occur with 
+concomitant KS in ≤ 72% of patients .24 Hepatitis B testing ( if rituximab -
+containing regimens are being considered due to  the risk of viral 
+reactivation anti-CD20 monoclonal antibody [mAb]-based regimens) and 
+hepatitis C testing are also essential components of workup .  
+Bone marrow biopsy and aspirate as well as reticulin fibrosis of bone 
+marrow  (particularly in patients with TAFRO syndrome ) may be useful 
+under certain circumstances.25 An echocardiogram or multigated 
+acquisition ( MUGA ) scan can be considered if anthracycline- based 
+regimens  are being considered for treatment. Other components of 
+workup that may be useful in certain circumstances include neck CT with PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-5 contrast, IgG4, serum IL -6, serum IL -10, vascular endothelial growth factor 
+(VEGF ), uric acid, and ferritin.  
+Treatment  Recommendations 
+Unicentric Castleman Disease  
+UCD has an indolent disease course with an excellent prognosis. Careful 
+consideration should be given to the risks and benefits of any therapy for 
+patients with UCD, and observation can be considered in asymptomatic 
+patients.21  
+First -Line Therapy  
+Surgical  resection is the optimal treatment, wherever possible, as it has 
+been associated with very low rates of recurrence and high relapse- free 
+survival  (RFS)  in multiple case series and retrospective studies .2,12,15,21,26- 28  
+One case series of 53 patients reported a 5 -year overall survival (OS) rate 
+of 91% ,2 and another retrospective analysis of 278 patients showed an OS 
+rate of >90% with up to 10- year follow up.12 Therefore , all patients with a 
+diagnosis of UCD should be evaluated for resectability  of disease.21  
+Observation until recurrence is recommended following complete resection. Patients who are asymptomatic following an incomplete 
+resection may be observed until recurrence. Patients  who remain 
+symptomatic following incomplete resection should be treated as 
+described below for unresectable disease .  
+Observation is also appropriate for asymptomatic patients with 
+unresectable UCD. Available evidence (mostly from case reports) 
+supports the use of RT or rituximab with or without steroids in patients with 
+symptomatic unresectable UCD.
+21,29,30 RT should be reserved for severe 
+symptomatic and unresectable disease due to potential long- term 
+complications.21 The optimal dose of RT in unresectable UCD is not 
+established. Doses as high as 40 Gy in 1.5 to 2 Gy fractions have been 
+used.29 Lower doses may be considered depending upon clinical circumstances and advanced radiation techniques are recommended to 
+limit the radiation dose to surrounding normal tissues.31  
+Involved- site RT (ISRT) or systemic therapy (rituximab ± prednisone ± 
+cyclophosphamide)  with the intent of eventual surgical resection  are 
+included as options for patients with unresectable disease.21,29,30 Patients 
+with non- bulky disease may be observed after ISRT. Embolization may 
+also be considered in certain situations to render surgical resection more 
+feasible and reduce the risk of severe perioperative bleeding.21 
+Relapsed/Refractory Disease  
+Biopsy is encouraged in patients with relapsed/refractory disease to rule 
+out transformation to DLBCL or concomitant development of other 
+malignancies or opportunistic infections.  
+Treatment options for relapsed/refractory disease are the same as described above for unresectable disease : ISRT , embolization (if 
+amenable),  or systemic therapy with the intent of eventual surgical 
+resection ( rituximab ± prednisone ± cyclophosphamide) .
+21   
+Patients with inflammatory symptoms ( eg, night sweats, fevers, weight 
+loss) or laboratory disturbances (increased ESR or CRP) may have 
+excessive cytokine production and may benefit from anti -IL-6 monoclonal 
+antibodies (anit -IL-6 mAbs ) such as siltuximab and tocilizumab, although 
+evidence in this setting is sparse.21 Siltuximab  or tocilizumab is included 
+as an option for relapsed/refractory disease that is  HIV-negative and 
+HHV8 -negative.   
+Multicentric Castleman Disease     
+Treatment recommendations for MCD are based on the presence of 
+criteria for active disease, fulminant /severe  disease,  or organ failure and 
+HHV8  status. Patients may experience symptoms related to an excess of 
+IL-6 production;  establishing the severity of symptoms is a vital component 
+of management , as severity can vary widely between patients. PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-6 Corticosteroid monotherapy is not very effective for disease control  but 
+may be combined with other therapies for symptom control.  Due to the 
+rarity of the condition, available evidence for most of the treatment options 
+is based on case reports making comparison between treatment options 
+difficult.20,32,33  
+Patients with POEMS -associated MCD should have treatment directed at 
+POEMS syndrome with regimens recommended for the treatment of 
+multiple myeloma . High -dose therapy followed by autologous stem cell 
+rescue (HDT/ASCR) may also result in favorable outcomes, particularly for 
+patients with MCD associated with POEMS.34,35 
+First -Line Therapy  
+Criteria for Active Disease Present With No Organ Failure  
+In patients with criteria for active MCD (fever, increased serum CRP  level 
+>20 mg/L in the absence of any other etiology, and at least three other MCD- related symptoms ) with no organ failure, first-line therapy  options are 
+based on HHV8  status as described below.  
+Idiopathic MCD  (non-severe; HIV-1 and HHV8 negative)  
+Rituximab - and cyclophosphamide- containing regimens have 
+demonstrated activity in patients with iMCD.
+36-38 A systematic review of 47 
+patients treated with cytotoxic chemotherapy, with or without rituximab, 
+reported a complete response (CR)  rate of 44% with 93% of patients alive 
+at 2 years.36  In a retrospective study of 27 patients with iMCD, rituximab - 
+and cyclophosphamide- containing regimens resulted in an overall 
+response rate (ORR)  of 56% with a CR rate of 33% .37 In a single- arm, 
+phase 2 study of 25 patients with newly diagnosed iMCD treated with the 
+TCP regimen, primary endpoint (durable tumor and symptomatic response 
+for at least 24 weeks) was achieved in 48% of patients; 12% of patients 
+had stable disease and t he estimated 1- year PFS and OS rates were 60% 
+and 88%, respectively.38  Siltuximab is FDA approved for the treatment of patients with iMCD that is 
+HIV-1 and HHV8 negative based on the results of  a double- blind , placebo-
+controlled,  international trial .39-41 In this trial 79 patients with iMCD were 
+randomized to siltuximab (n  = 53) or placebo (n = 26). Siltuximab resulted 
+in significantly improved durable tumor  and symptomatic response  rate 
+compared to placebo (34% vs. 0%; P  = .0012).39 Long- term follow- up data , 
+after a median follow -up of 6 years , also established the efficacy and 
+safety of siltuximab.40 Siltuximab was also associated with significantly 
+improved progression- free survival (PFS) compared to placebo (median 
+PFS was not reached for siltuximab compared to 15 months for placebo; P 
+= .0001).41 Adverse events of grade ≥3 were reported in 60% of patients , 
+with hypertension (13%), fatigue (8%), nausea (7%), neutropenia (7%), and vomiting (5%) being the most common adverse events.  
+It is worth noting that in this pivotal trial responses were predominant in patients with the plasmacytic or mixed histologic variants and were not 
+seen in the hyaline vascular variant where siltuximab may have less 
+clinical activity.
+39 However, secondary analyses of clinical trial and real -
+world data demonstrated that siltuximab resulted in similar clinical benefit 
+across histopathologic subtypes, confirming the efficacy of siltuximab in 
+the hyaline vascular variant  also.42 Importantly, in the aforementioned 
+clinical trial, placebo was used as the control arm instead of an active 
+treatment regimen , so it is unknown whether siltuximab is superior to 
+chemoimmunotherapy.  Therefore, chemoimmunotherapy  can be 
+considered as an appropriate treatment option in selected patients, 
+particularly for patients with fulminant /severe  disease.36  
+Rituximab (with or without prednisone), RCVP (rituximab, 
+cyclophosphamide, vincristine, and prednisone), siltuximab,  or TCP 
+(thalidomide, cyclophosphamide,  and prednisone) are included as options 
+for first- line therapy. Patients with disease responding to rituximab -based 
+regimens should be observed until disease progression requiring retreatment. Unlike chemoimmunotherapy , which is a fixed -duration PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-7 treatment option, siltuximab is given continuously  every 3 weeks by 
+intravenous infusion in the absence of disease progression or intolerance. 
+In patients with disease responding to siltuximab, treatment should be 
+continued until disease progression, as disease may relapse on 
+discontinuation of therapy.20 
+HHV8 -Positive MCD  (HIV-1-negative or HIV -1-positive)    
+Rituximab monotherapy is included as the preferred first -line treatment 
+option,  and the strongest evidence for rituximab monotherapy comes from 
+two phase II studies.43,44 Rituximab has also been shown to decrease the 
+risk of lymphoma in patients with HIV -associated disease.45 Combination 
+antiretroviral therapy (cART) should be given to all patients with HIV -1–
+positive disease.  
+In one  prospective study of rituximab in HIV -associated MCD , 24 patients 
+with relapsed/refractory, chemotherapy -dependent disease were given 4 
+weekly doses of rituximab at 375 mg/m2. Twenty -two of the 24 patients 
+were able to become independent of chemotherapy, and more than three 
+quarters remained free from symptoms and progression 2 years after 
+treatment.43 In another  phase II study  of 21 patients with plasmablastic  
+MCD,  20 patients achieved remission of symptoms, and 14 (67%) 
+achieved a radiologic response. The median follow -up was 12 months. 
+The OS and disease -free survival  (DFS)  rates at 2 years were 95% and 
+79%, respectively. The main adverse effect was reactivation of KS.44 In 
+another retrospective analysis of 113 patients  (48 had previously received 
+rituximab and 60 were previously diagnosed with KS ), treatment with 
+rituximab was associated with a higher 5 -year OS rate compared to 
+treatment with chemotherapy alone (90% vs. 47%) .45  
+Occult KS is prevalent in HIV -1/HHV8 -positive  MCD and may flare after 
+treatment with rituximab or prednisone.45 The use of rituximab in 
+combination with liposomal doxorubicin may reduce the incidence of KS exacerbation and may be particularly useful for patients with HHV8-positive MCD with concurrent KS.
+46,47  
+Zidovudine with valganciclovir has also been shown to be active in HHV8-
+positive MCD.47,48 In a study that included 20 patients with HHV8- MCD 
+alone and 34 patients with HHV8- MCD and KS, the 5- year PFS rate was 
+26% for treatment with the combination of zidovudine and valganciclovir.47 
+The median PFS was 6 months. In a pilot study of 14 patients with HHV8-positive MCD, high -dose zidovudine in combination with valganciclovir 
+resulted in major clinical and biochemical responses being attained in 86% 
+and 50% of patients, respectively.
+48  
+Rituximab + prednisone, rituximab + liposomal doxorubicin (with or without 
+prednisone) , and zidovudine with either ganciclovir or valganciclovir are 
+also included as options for first -line therapy.  
+Fulminant or Severe MCD With or Without Organ Failure   
+Combination chemotherapy regimens (CHOP  [cyclophosphamide, 
+doxorubicin, vincristine, prednisone] , CVAD  [cyclophosphamide, 
+vincristine, doxorubicin, and dexamethasone] , and CVP  
+[cyclophosphamide, vincristine, prednisone] ) with rituximab  or liposomal 
+doxorubicin with rituximab (with or without prednisone) are included as  
+options for first -line therapy  for HHV8 -positive MCD . Combination 
+chemotherapy may result in durable remissions.20,29,32,33,49 Liposomal 
+doxorubicin or rituximab monotherapy are appropriate treatment  options 
+for patients who are not candidates for combination chemotherapy.43,44,46 
+Siltuximab or combination chemotherapy (CHOP, CVAD, and CVP) with or 
+without rituximab are included as options for first -line therapy for HHV8 -
+negative iMCD .20,29,32,33,49 Tocilizumab is an appropriate option, if there is a 
+shortage of siltuximab or if it is not available. Rituximab monotherapy is an 
+appropriate treatment option for patients who are not candidates for 
+combination chemotherapy .  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-8 Refractory or Progressive Disease (criteria for active disease 
+present or fulminant/severe disease)  
+Biopsy is encouraged in patients with relapsed/refractory disease  to rule 
+out transformation to DLBCL or concomitant development of other 
+malignancies or opportunistic infections .  
+Single -agent therapy  (with ganciclovir or valganciclovir for HHV8- positive 
+disease)  is preferred for those with no organ failure,  and combination 
+chemotherapy  (with or without rituximab)  is preferred for patients with 
+organ failure.  Etoposide ( PO or IV) , vinblastine, liposomal doxorubicin (for 
+HHV8 -positive disease) , siltuximab  (for HHV8 -negative disease) , or 
+sirolimus  are included as options for single- agent therapy. CHOP, CVAD, 
+and CVP are the chemotherapy options recommended for second- line 
+therapy.20,32,33 Liposomal doxorubicin +/ - rituximab is included as an option 
+for HHV8 -positive disease with organ failure. Observation or maintenance 
+with valganciclovir may be considered for HHV8 -positive  disease 
+responding to treatment.  
+A prespecified analysis of the patients enrolled in the pivotal trial also 
+showed that siltuximab is equally effective in patients with newly 
+diagnosed as well as those with previously treated MCD (29 patients with 
+previously treated iMCD in the siltuximab group and 17 patients in the 
+placebo gr oup). Siltuximab is included as an option for second -line therapy 
+in patients with HHV8 -negative disease.50 Patients who received 
+chemoimmunotherapy as initial treatment may receive siltuximab if 
+needed subsequently for relapsed/refractory disease.  Tocilizumab is an 
+appropriate option, if there is a shortage of siltuximab or if it is not available.  
+The results of the retrospective study (n = 26 patients) showed that the 
+mTOR inhibitor sirolimus was a well- tolerated and effective treatment for 
+patients with relapsed/refractory iMCD.
+51 After a median follow -up of 12 
+months, sirolimus resulted in a response rate of 69% (biologic and symptomatic response) and the median time to next treatment was 46 
+months. Sirolimus is included as a single- agent therapy option for second -
+line therapy  in patients with HHV8 -negative disease.  
+Alternative single -agent or combination therapy should be considered  for 
+disease progression following the aforementioned second- line treatment 
+options for relapsed/refractory disease. Tocilizumab is an effective 
+treatment option for patients with MCD that is refractory to rituximab and 
+chemoimmunotherapy.34,52- 54 Other options include bortezomib +/ - 
+rituximab, thalidomide +/ - rituximab, lenalidomide +/ - rituximab, high- dose 
+zidovudine + valganciclovir, and anakinra (IL- 1 receptor antagonist), 
+based on case reports and case series.20,47,48,55- 60  
+  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2 .2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-9 References  
+1. Mukherjee S, Martin R, Sande B, et al. Epidemiology and treatment 
+patterns of idiopathic multicentric Castleman disease in the era of IL-6-
+directed therapy. Blood Adv 2022;6:359- 367. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/34535010 . 
+2. Dispenzieri A, Armitage JO, Loe MJ, et al. The clinical spectrum of 
+Castleman's disease. Am J Hematol 2012;87:997- 1002. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22791417 . 
+3. Muzes G, Sipos F, Csomor J, Sreter L. Multicentric Castleman's 
+disease: a challenging diagnosis. Pathol Oncol Res 2013;19:345- 351. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/23516126 . 
+4. Bonekamp D, Hruban RH, Fishman EK. The great mimickers: 
+Castleman disease. Semin Ultrasound CT MR 2014;35:263 -271. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/24929266 . 
+5. WHO Classification of Tumours Editorial Board. Haematolymphoid 
+tumours. (WHO classification of tumours series, 5th ed.; vol. 11). Lyon 
+(France): International Agency for Research on Cancer; 2024.  
+6. Campo E, Jaffe ES, Cook JR, et al. The International Consensus Classification of Mature Lymphoid Neoplasms: a report from the Clinical 
+Advisory Committee. Blood 2022;140:1229- 1253. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/35653592
+. 
+7. Talat N, Schulte KM. Castleman's disease: systematic analysis of 416 
+patients from the literature. Oncologist 2011;16:1316- 1324. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21765191 . 
+8. Kimani SM, Painschab MS, Horner MJ, et al. Epidemiology of 
+haematological malignancies in people living with HIV. Lancet HIV 
+2020;7:e641 -e651. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32791045 . 9. Iwaki N, Fajgenbaum DC, Nabel CS, et al. Clinicopathologic analysis of TAFRO syndrome demonstrates a distinct subtype of HHV -8-negative 
+multicentric Castleman disease. Am J Hematol 2016;91:220 -226. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/26805758
+. 
+10. Nishimura Y, Hanayama Y, Fujii N, et al. Comparison of the clinical characteristics of TAFRO syndrome and idiopathic multicentric Castleman 
+disease in general internal medicine: a 6- year retrospective study. Intern 
+Med J 2020;50:184 -191. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31211492
+. 
+11. PubMed Overview. Available at: 
+https://pubmed.ncbi.nlm.nih.gov/about/ . Accessed January 9, 2025.  
+12. Talat N, Belgaumkar AP, Schulte KM. Surgery in Castleman's disease: a systematic review of 404 published cases. Ann Surg 2012;255:677- 684. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/22367441
+. 
+13. Yu L, Tu M, Cortes J, et al. Clinical and pathological characteristics of 
+HIV- and HHV -8-negative Castleman disease. Blood 2017;129:1658- 1668. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/28100459 . 
+14. Oksenhendler E, Boutboul D, Fajgenbaum D, et al. The full spectrum 
+of Castleman disease: 273 patients studied over 20 years. Br J Haematol 
+2018;180:206 -216. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29143319 . 
+15. Boutboul D, Fadlallah J, Chawki S, et al. Treatment and outcome of 
+Unicentric Castleman Disease: a retrospective analysis of 71 cases. Br J 
+Haematol 2019;186:269 -273. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31016730 . 
+16. Bower M, Pria AD, Coyle C, et al. Diagnostic criteria schemes for 
+multicentric Castleman disease in 75 cases. J Acquir Immune Defic Syndr 
+2014;65:e80 -82. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24442228 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2 .2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-10 17. Suda T, Katano H, Delsol G, et al. HHV -8 infection status of AIDS -
+unrelated and AIDS- associated multicentric Castleman's disease. Pathol 
+Int 2001;51:671- 679. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/11696169 . 
+18. Oksenhendler E, Carcelain G, Aoki Y, et al. High levels of human 
+herpesvirus 8 viral load, human interleukin- 6, interleukin- 10, and C 
+reactive protein correlate with exacerbation of multicentric castleman disease in HIV -infected patients. Blood 2000;96:2069- 2073. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/10979949
+. 
+19. Fajgenbaum DC, Uldrick TS, Bagg A, et al. International, evidence-based consensus diagnostic criteria for HHV -8-negative/idiopathic 
+multicentric Castleman disease. Blood 2017;129:1646- 1657. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28087540
+. 
+20. van Rhee F, Voorhees P, Dispenzieri A, et al. International, evidence-based consensus treatment guidelines for idiopathic multicentric 
+Castleman disease. Blood 2018;132:2115- 2124. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/30181172
+. 
+21. van Rhee F, Oksenhendler E, Srkalovic G, et al. International 
+evidence- based consensus diagnostic and treatment guidelines for 
+unicentric Castleman disease. Blood Adv 2020;4:6039- 6050. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/33284946 . 
+22. Koa B, Borja AJ, Aly M, et al. Emerging role of 18F -FDG PET/CT in 
+Castleman disease: a review. Insights Imaging 2021;12:35. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/33709329 . 
+23. Wu D, Lim MS, Jaffe ES. Pathology of Castleman disease. Hematol Oncol Clin North Am 2018;32:37 -52. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29157618
+. 
+24. Mylona EE, Baraboutis IG, Lekakis LJ, et al. Multicentric Castleman's 
+disease in HIV infection: a systematic review of the literature. AIDS Rev 2008;10:25 -35. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18385778 . 
+25. Belyaeva E, Rubenstein A, Pierson SK, et al. Bone marrow findings of idiopathic Multicentric Castleman disease: A histopathologic analysis and 
+systematic literature review. Hematol Oncol 2022;40:191 -201. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/35104370
+. 
+26. Ye B, Gao SG, Li W, et al. A retrospective study of unicentric and 
+multicentric Castleman's disease: a report of 52 patients. Med Oncol 2010;27:1171 -1178. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/19937164
+. 
+27. Zhou N, Huang CW, Huang C, Liao W. The characterization and 
+management of Castleman's disease. J Int Med Res 2012;40:1580- 1588. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/22971511 . 
+28. Wong RSM. Unicentric Castleman disease. Hematol Oncol Clin North 
+Am 2018;32:65 -73. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29157620 . 
+29. Chronowski GM, Ha CS, Wilder RB, et al. Treatment of unicentric and multicentric Castleman disease and the role of radiotherapy. Cancer 
+2001;92:670 -676. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/11505414
+. 
+30. Bandera B, Ainsworth C, Shikle J, et al. Treatment of unicentric 
+Castleman disease with neoadjuvant rituximab. Chest 2010;138:1239 -
+1241. Available at: https://www.ncbi.nlm.nih.gov/pubmed/21051400 . 
+31. Matthiesen C, Ramgopol R, Seavey J, et al. Intensity modulated 
+radiation therapy (IMRT) for the treatment of unicentric Castlemans 
+disease: a case report and review of the use of radiotherapy in the 
+literature. Radiol Oncol 2012;46:265 -270. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23077466 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2 .2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-11 32. Rehman MEU, Chattaraj A, Neupane K, et al. Efficacy and safety of 
+regimens used for the treatment of multicentric Castleman disease: A 
+systematic review. Eur J Haematol 2022;109:309 -320. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/35770616 . 
+33. Pierson SK, Lim MS, Srkalovic G, et al. Treatment consistent with 
+idiopathic multicentric Castleman disease guidelines is associated with 
+improved outcomes. Blood Adv 2023;7:6652 -6664. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/37656441 . 
+34. Jerkeman M, Linden O. Long- term remission in idiopathic Castleman's 
+disease with tocilizumab followed by consolidation with high- dose 
+melphalan--two case studies. Eur J Haematol 2016;96:541 -543. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/26256458 . 
+35. Abdallah NH, Habermann T, Buadi FK, et al. Multicentric Castleman disease: A single center experience of treatment with a focus on 
+autologous stem cell transplantation. Am J Hematol 2022;97:401 -410. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/35015310
+. 
+36. Liu AY, Nabel CS, Finkelman BS, et al. Idiopathic multicentric 
+Castleman's disease: a systematic literature review. Lancet Haematol 
+2016;3:e163 -175. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27063975 . 
+37. Dong Y, Zhang L, Nong L, et al. Effectiveness of rituximab- containing 
+treatment regimens in idiopathic multicentric Castleman disease. Ann Hematol 2018;97:1641 -1647. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29732477
+. 
+38. Zhang L, Zhao AL, Duan MH, et al. Phase 2 study using oral 
+thalidomide- cyclophosphamide- prednisone for idiopathic multicentric 
+Castleman disease. Blood 2019;133:1720- 1728. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/30760451 . 39. van Rhee F, Wong RS, Munshi N, et al. Siltuximab for multicentric 
+Castleman's disease: a randomised, double- blind, placebo- controlled trial. 
+Lancet Oncol 2014;15:966- 974. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25042199 . 
+40. van Rhee F, Casper C, Voorhees PM, et al. Long- term safety of 
+siltuximab in patients with idiopathic multicentric Castleman disease: a 
+prespecified, open- label, extension analysis of two trials. Lancet Haematol 
+2020;7:e209 -e217. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32027862 . 
+41. van Rhee F, Rosenthal A, Kanhai K, et al. Siltuximab is associated 
+with improved progression- free survival in idiopathic multicentric 
+Castleman disease. Blood Adv 2022;6:4773 -4781. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/35793409 . 
+42. Fajgenbaum DC, Wu D, Goodman A, et al. Insufficient evidence exists to use histopathologic subtype to guide treatment of idiopathic multicentric 
+Castleman disease. Am J Hematol 2020;95:1553 -1561. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32894785
+. 
+43. Gerard L, Berezne A, Galicier L, et al. Prospective study of rituximab in 
+chemotherapy -dependent human immunodeficiency virus associated 
+multicentric Castleman's disease: ANRS 117 CastlemaB Trial. J Clin Oncol 2007;25:3350 -3356. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17664482
+. 
+44. Bower M, Powles T, Williams S, et al. Brief communication: rituximab 
+in HIV -associated multicentric Castleman disease. Ann Intern Med 
+2007;147:836 -839. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18087054 . 
+45. Gerard L, Michot JM, Burcheri S, et al. Rituximab decreases the risk of lymphoma in patients with HIV -associated multicentric Castleman disease. PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2 .2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-12 Blood 2012;119:2228 -2233. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22223822 . 
+46. Uldrick TS, Polizzotto MN, Aleman K, et al. Rituximab plus liposomal 
+doxorubicin in HIV -infected patients with KSHV -associated multicentric 
+Castleman disease. Blood 2014;124:3544- 3552. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25331113 . 
+47. Ramaswami R, Lurain K, Polizzotto MN, et al. Characteristics and outcomes of KSHV -associated multicentric Castleman disease with or 
+without other KSHV diseases. Blood Adv 2021;5:1660- 1670. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/33720337
+. 
+48. Uldrick TS, Polizzotto MN, Aleman K, et al. High- dose zidovudine plus 
+valganciclovir for Kaposi sarcoma herpesvirus -associated multicentric 
+Castleman disease: a pilot study of virus -activated cytotoxic therapy. 
+Blood 2011;117:6977 -6986. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21487108 . 
+49. Herrada J, Cabanillas F, Rice L, et al. The clinical behavior of localized and multicentric Castleman disease. Ann Intern Med 1998;128:657- 662. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/9537940
+. 
+50. van Rhee F, Rossi JF, Simpson D, et al. Newly diagnosed and 
+previously treated multicentric Castleman disease respond equally to 
+siltuximab. Br J Haematol 2021;192:e28 -e31. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/33128769 . 
+51. Liu YT, Gao YH, Zhao H, et al. Sirolimus is effective for 
+refractory/relapsed idiopathic multicentric Castleman disease: A single-
+center, retrospective study. Ann Hematol 2024;103:4223- 4230. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/38691144 . 
+52. Kawabata H, Kotani S, Matsumura Y, et al. Successful treatment of a 
+patient with multicentric Castleman's disease who presented with 
+thrombocytopenia, ascites, renal failure and myelofibrosis using tocilizumab, an anti -interleukin- 6 receptor antibody. Intern Med 
+2013;52:1503 -1507. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23812199 . 
+53. Muzes G, Sipos F, Csomor J, Sreter L. Successful tocilizumab 
+treatment in a patient with human herpesvirus 8 -positive and human 
+immunodeficiency virus -negative multicentric Castleman's disease of 
+plasma cell type nonresponsive to rituximab- CVP therapy.  APMIS 
+2013;121:668 -674. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23163599 . 
+54. Barlingay G, Findakly D, Hartmann C, Amar S. The p otential clinical 
+benefit of tocilizumab therapy for patients with HHV -8-infected AIDS -
+related multicentric Castleman disease: A case report and l iterature 
+review. Cureus 2020;12:e7589. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32399323 . 
+55. Hess G, Wagner V, Kreft A, et al. Effects of bortezomib on pro -
+inflammatory cytokine levels and transfusion dependency in a patient with 
+multicentric Castleman disease. Br J Haematol 2006;134:544 -545. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/16856889 . 
+56. Sobas MA, Alonso Vence N, Diaz Arias J, et al. Efficacy of bortezomib 
+in refractory form of multicentric Castleman disease associated to poems 
+syndrome (MCD -POEMS variant). Ann Hematol 2010;89:217 -219. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/19636554 . 
+57. El -Osta H, Janku F, Kurzrock R. Successful treatment of Castleman's 
+disease with interleukin- 1 receptor antagonist (Anakinra). Mol Cancer Ther 
+2010;9:1485 -1488. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20501803 . 
+58. Ramasamy K, Gandhi S, Tenant -Flowers M, et al. Rituximab and 
+thalidomide combination therapy for Castleman disease. Br J Haematol 2012;158:421 -423. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22583139
+. PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2 .2025 © 2025 National  Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Castleman Disease   
+ 
+MS-13 59. Zhou X, Wei J, Lou Y, et al. Salvage therapy with lenalidomide 
+containing regimen for relapsed/refractory Castleman disease: a report of 
+three cases. Front Med 2017;11:287 -292. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28367597 . 
+60. Nishimoto N, Kanakura Y, Aozasa K, et al. Humanized anti -interleukin-
+6 receptor antibody treatment of multicentric Castleman disease. Blood 2005;106:2627 -2632. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/15998837
+. 
+ PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:31:10 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.

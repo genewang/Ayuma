@@ -1,0 +1,2469 @@
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®)Thymomas and Thymic 
+Carcinomas
+Version 2.2025 — May 19, 2025
+ContinueNCCN.org
+NCCN recognizes the importance of clinical trials and encourages participation when applicable and available. 
+Trials should be designed to maximize inclusiveness and broad representative enrollment.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Continue
+NCCN Guidelines Panel DisclosuresNCCN
+Kristina Gregory, RN, MSN
+Lisa Hang, PhD
+ф Diagnostic/Interventional radiology
+‡ Hematology/Hematology oncology
+Þ Internal medicine
+† Medical oncology
+≠ Pathology 
+¥ Patient advocacyX Pulmonary medicine
+§ Radiation oncology/
+Radiotherapy
+¶ Surgery/Surgical oncology
+* Discussion Section Writing 
+Committee*Gregory J. Riely, MD, PhD/Chair † Þ  
+Memorial Sloan Kettering Cancer Center
+*Douglas E. Wood, MD/Vice Chair ¶ 
+Fred Hutchinson Cancer Center
+Dara L. Aisner, MD, PhD ≠  
+University of Colorado Cancer Center
+Andrea L. Axtell, MD ¶ 
+University of Wisconsin Carbone Cancer Center
+Jessica R. Bauman, MD ‡ † 
+Fox Chase Cancer Center
+Ankit Bharat, MD ¶ X 
+Robert H. Lurie Comprehensive Cancer  
+Center of Northwestern University
+Joe Y. Chang, MD, PhD §  
+The University of Texas  
+MD Anderson Cancer Center
+Aakash Desai, MD, MPH ‡  
+O'Neal Comprehensive Cancer Center at UAB
+*Thomas J. Dilling, MD, MS §  
+Moffitt Cancer Center
+Jonathan Dowell, MD †  
+UT Southwestern Simmons  
+Comprehensive Cancer Center
+Gregory A. Durm, MD, MS † 
+Indiana University Melvin and Bren Simon 
+Comprehensive Cancer Center
+Scott Gettinger, MD † Þ 
+Yale Cancer Center/Smilow Cancer Hospital
+Travis E. Grotz, MD ¶ 
+Mayo Clinic Comprehensive Cancer Center
+Matthew A. Gubens, MD, MS †  
+UCSF Helen Diller Family  
+Comprehensive Cancer CenterAditya Juloori, MD §  
+The UChicago Medicine  
+Comprehensive Cancer Center
+Rudy P. Lackner, MD ¶ 
+Fred & Pamela Buffett Cancer Center
+*Michael Lanuti, MD ¶  
+Mass General Cancer Center
+Benjamin Levy, MD † 
+Johns Hopkins Kimmel Cancer Center
+*Jules Lin, MD ¶  
+University of Michigan Rogel Cancer Center
+*Billy W. Loo, Jr., MD, PhD §  
+Stanford Cancer Institute 
+Christine M. Lovly, MD, PhD †  
+Vanderbilt-Ingram Cancer Center
+Fabien Maldonado, MD X 
+Vanderbilt-Ingram Cancer Center
+Daniel Morgensztern, MD † 
+Siteman Cancer Center at Barnes-Jewish Hospital 
+and Washington University School of Medicine
+Trey C. Mullikin, MD §  
+Duke Cancer Institute
+Thomas Ng, MD ¶ 
+The University of Tennessee  
+Health Science Center
+Dawn Owen, MD, PhD §  
+Mayo Clinic Comprehensive Cancer Center
+*Dwight H. Owen, MD, MSc †  
+The Ohio State University Comprehensive  
+Cancer Center - James Cancer Hospital  
+and Solove Research Institute
+Sandip P. Patel, MD ‡ † Þ  
+UC San Diego Moores Cancer CenterTejas Patil, MD † 
+University of Colorado Cancer Center
+Patricio M. Polanco, MD ¶  
+UT Southwestern Simmons  
+Comprehensive Cancer Center
+*Jonathan Riess, MD ‡ 
+UC Davis Comprehensive Cancer Center
+Ana Lucia Ruano Mendez ≠  
+Huntsman Cancer Institute at the University of 
+Utah
+Theresa A. Shapiro, MD, PhD ¥ Þ  
+Johns Hopkins Kimmel Cancer Center
+Aditi P. Singh, MD †  
+Abramson Cancer Center  
+at the University of Pennsylvania
+James Stevenson, MD † 
+Case Comprehensive Cancer Center/  
+University Hospitals Seidman Cancer Center  
+and Cleveland Clinic Taussig Cancer Institute 
+Alda Tam, MD ф 
+The University of Texas  
+MD Anderson Cancer Center
+Tawee Tanvetyanon, MD, MPH † 
+Moffitt Cancer Center
+*Jane Yanagawa, MD ¶ 
+UCLA Jonsson Comprehensive Cancer Center
+Edwin Yau, MD, PhD †  
+Roswell Park Comprehensive Cancer CenterPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+NCCN Thymomas and Thymic Carcinomas Panel Members
+Summary of Guidelines Updates
+Initial Evaluation (THYM-1)
+Initial Management (THYM-2)
+Postoperative Treatment and Management (THYM-3)
+Recurrent, Advanced, or Metastatic Disease (THYM-4)
+Principles of Surgical Resection (THYM-A)
+Principles of Radiation Therapy (THYM-B)
+Principles of Systemic Therapy (THYM-C)
+World Health Organization Histologic Classification (THYM-D)
+Staging (ST-1)
+Abbreviations (ABBR-1)
+The NCCN Guidelines® are a statement of evidence and consensus of the authors regarding their views of currently accepted approaches to 
+treatment. Any clinician seeking to apply or consult the NCCN Guidelines is expected to use independent medical judgment in the context of individual 
+clinical circumstances to determine any patient’s care or treatment. The National Comprehensive Cancer Network® (NCCN®) makes no representations 
+or warranties of any kind regarding their content, use or application and disclaims any responsibility for their application or use in any way . The NCCN 
+Guidelines are copyrighted by National Comprehensive Cancer Network®. All rights reserved. The NCCN Guidelines and the illustrations herein may 
+not be reproduced in any form without the express written permission of NCCN. ©2025.Find an NCCN Member Institution: 
+https://www.nccn.org/home/member-
+institutions .
+NCCN Categories of Evidence and 
+Consensus: All recommendations are 
+category 2A unless otherwise indicated. 
+See NCCN Categories of Evidence  
+and Consensus .
+NCCN Categories of Preference:  
+All recommendations are considered 
+appropriate.
+See NCCN Categories of Preference .PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+UPDATESUpdates in Version 1.2025 of the NCCN Guidelines for Thymomas and Thymic Carcinomas from Version 1.2024 include:
+THYM-2
+• Footnote d modified: Determination of resectability should be made by a thoracic surgeon, with primary focus on thoracic oncology and in 
+multidisciplinary consultation with medical oncology as needed. Resectability is defined as complete (R0) resection. (also applies to THYM-4)
+THYM-A 1 of 2
+• Bullet 5 modified: If an R0 resection appears unlikely is considered uncertain , patient should be considered for neoadjuvant systemic therapy. Debulking 
+tumors is discouraged.
+THYM-C 1 of 3 (First-line Combination Chemotherapy Regimens)
+• The following regimen added as a Preferred option for Thymic Carcinoma
+Carboplatin/paclitaxel/ramucirumab  
+Ramucirumab 10 mg/kg IV day 1  
+Paclitaxel 200 mg/m² IV day 1  
+Carboplatin AUC 5 IV day 1 
+Administered every 3 weeks, maximum of six cycles  
+Ramucirumab monotherapy every 3 weeks as maintenance therapy, 
+until progressive disease or unacceptable toxicity
+• Footnote c added: There is no published experience using this as a preoperative therapy. Patients with untreated brain metastases or major standard 
+contraindications to antiangiogenics were excluded from the study.
+THYM-C 2 of 3 (Second-line Systemic Therapy)
+• Regimens noted in alphabetical order
+• Preference stratification applied to the regimens for Thymoma
+Moved from Other Recommended to Preferred
+ ◊Everolimus, Gemcitabine ± capecitabine, Octreotide (including LAR) (if octreotide scan or dotatate PET/CT positive) ± prednisone, Pemetrexed
+Moved from Other Recommended to Useful in Certain Circumstances
+ ◊Etoposide, Ifosfamide
+• The following regimen added as an Other Recommended option for Thymic Carcinoma
+Avelumab + axitinib
+THYM-C 3 of 3
+• References added
+6 Proto C, Ganzinelli M, Manglaviti S, et al. Efficacy and safety of ramucirumab plus carboplatin and paclitaxel in untreated metastatic thymic 
+carcinoma: RELEVENT phase II trial (NCT03921671). Ann Oncol 2024;35:817-826.
+23 Conforti F, Zucali PA, Pala L, et al. Avelumab plus axitinib in unresectable or metastatic type B3 thymomas and thymic carcinomas (CAVEATT): a 
+single-arm, multicentre, phase 2 trial. Lancet Oncol 2022;23:1287-1296.Updates in Version 2.2025 of the NCCN Guidelines for Thymomas and Thymic Carcinomas from Version 1.2025 include:
+MS-1
+• The Discussion was updated to reflect the changes in the algorithm.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+THYM-1INITIAL EVALUATION
+Mediastinal 
+massa• Chest CT with contrastb
+• Serum beta-hCG, AFP, if appropriate
+• CBC, platelets
+• FDG-PET/CT scan (skull base to mid-
+thigh), as clinically indicated
+• Pulmonary function tests, as clinically 
+indicated
+• Chest MRI with and without contrast, 
+as clinically indicatedbThymic tumor likelyc
+Thymic tumor unlikelyInitial Management (THYM-2)
+See disease-specific 
+guidelines as appropriate
+(NCCN Guidelines for 
+Treatment by Cancer Type)
+a Patients with thymoma should be evaluated clinically for signs of myasthenia gravis and other paraneoplastic syndromes with appropriate workup and treatment.
+b When assessing a mediastinal mass, detection of thymic malignancy versus thymic cyst or thymic hyperplasia can be better discriminated with chest MRI compared to 
+chest CT, potentially avoiding an unnecessary thymectomy.
+c Well-defined anterior mediastinal mass in the thymic bed, tumor markers negative, absence of other adenopathy, and absence of continuity with the thyroid. Marom 
+EM, et al. J Thorac Oncol 2011;6:S1717-S1723.Consider tissue biopsyPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+THYM-2c Well-defined anterior mediastinal mass in the thymic bed, tumor markers negative, absence of other adenopathy, and absence of continuity with the thyroid. Marom 
+EM, et al. J Thorac Oncol 2011;6:S1717-S1723.
+d Determination of resectability should be made by a thoracic surgeon, with primary focus on thoracic oncology and in multidisciplinary consultation as needed. 
+Resectability is defined as complete (R0) resection. 
+e If R0 resection is considered uncertain, preoperative systemic therapy should be considered. See Principles of Systemic Therapy (THYM-C).
+f Principles of Surgical Resection (THYM-A) .INITIAL MANAGEMENT
+Thymic tumor likelycAll patients should be  
+treated by a  
+multidisciplinary team  
+with experience in the 
+management of thymomas  
+and thymic carcinomasSurgically 
+resectabled,e
+Tissue diagnosis with core 
+needle biopsy.f Open biopsy, 
+if core biopsy is not feasible 
+or not diagnostic (avoid 
+transpleural approach)Locally advanced 
+or metastaticdSurgical resectionf (total 
+thymectomy and complete 
+excision of tumor)Postoperative 
+Management (THYM-3)
+Treatment (THYM-4)PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+THYM-3a Patients with thymoma should be evaluated clinically for signs of myasthenia gravis and other paraneoplastic syndromes with appropriate workup and treatment.
+g R0 = no residual tumor, R1 = microscopic residual tumor, R2 = macroscopic residual tumor.
+h Principles of Radiation Therapy (THYM-B).
+i Decisions about adjuvant radiation therapy (RT) in this setting should be based on multidisciplinary evaluation.
+j Principles of Systemic Therapy (THYM-C).
+k There is a diversity of opinion on treatment approach. Ruffini E, et al. Eur J Cardiothorac Surg 2019;55:601-609.
+l MRI is an appropriate alternative to CT in certain clinical situations.
+m The duration for surveillance has not been established.POSTOPERATIVE 
+TREATMENT
+Pathology 
+evaluationR0 resectiong
+R1 resectiong
+R2 resectiongThymoma or thymic 
+carcinoma, no capsular 
+invasion, Masaoka-Koga 
+stage I
+Thymoma or thymic 
+carcinoma, capsular 
+invasion present, 
+Masaoka-Koga 
+stages II–IVChest CTl with contrast every 
+6–12 mo for 2 y, then annuallym 
+until 5 y for thymic carcinoma 
+and until 10 y for thymomaRecurrent 
+Disease  
+(THYM-4)
+Consider 
+Postoperative RTh,i
+Thymoma
+Thymic 
+carcinomaPostoperative RTh
+Postoperative RTh  
+± chemotherapyj,k
+Thymoma
+Thymic 
+carcinomaDefinitive RTh ± 
+chemotherapyj,k
+Definitive RTh + 
+chemotherapyj,kChest CTl with contrast every 
+3–6 mo for thymic carcinoma 
+and every 6 mo for thymoma for 
+2 y, then annuallym until 5 y for 
+thymic carcinoma and until 10 y 
+for thymomaRecurrent 
+Disease  
+(THYM-4)SURVEILLANCEaPOSTOPERATIVE 
+EVALUATIONPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+ALL PATIENTS SHOULD BE TREATED BY A MULTIDISCIPLINARY TEAM WITH 
+EXPERIENCE IN THE MANAGEMENT OF THYMOMAS AND THYMIC CARCINOMAS
+THYM-4RECURRENT, ADVANCED,  
+OR METASTATIC DISEASETREATMENT
+Locally 
+advanced
+Solitary 
+metastasis 
+or ipsilateral 
+pleural 
+metastasis
+Evidence of 
+extrathoracic  
+metastasesSystemic therapyjConsider systemic therapyj
+or
+RThResectabled,f
+UnresectabledSurgical 
+resectionf 
+of primary 
+tumor and 
+isolated 
+metastases
+RTh ± 
+chemotherapyjConsider 
+postoperative 
+RTh
+a Patients with thymoma should be evaluated clinically for signs of myasthenia gravis and other paraneoplastic syndromes with appropriate workup and treatment.
+d Determination of resectability should be made by a thoracic surgeon, with primary focus on thoracic oncology and in multidisciplinary consultation as needed. 
+Resectability is defined as complete (R0) resection.
+f Principles of Surgical Resection (THYM-A) .
+h Principles of Radiation Therapy (THYM-B).
+j Principles of Systemic Therapy (THYM-C).
+l MRI is an appropriate alternative to CT in certain clinical situations.
+m The duration for surveillance has not been established.
+n Local therapies can include image-guided thermal ablation or RT.
+o FDG-PET/CT includes skull-base to mid-thigh.Systemic 
+therapyj
+SurgeryfUnresectabled
+Potentially 
+resectabled,fConcurrent 
+chemoradiationh,j
+• Chest CTl with 
+contrast
+• FDG-PET/CTo 
+as clinically 
+indicated
+Medically 
+inoperable/
+unresectabledConsider local therapyn
+or 
+Systemic therapyj
+or
+Consider observationResectabled,fSURVEILLANCEa
+Chest CTl with 
+contrast every 
+3–6 mo for thymic 
+carcinoma and 
+every 6 mo for 
+thymoma for 2 y, 
+then annuallym 
+until 5 y for thymic 
+carcinoma and until 
+10 y for thymomaPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+THYM-A
+1 OF 2PRINCIPLES OF SURGICAL RESECTION
+• Surgical resection should be performed on carefully evaluated patients by thoracic surgeons with experience in managing thymomas 
+and thymic carcinomas. Locally advanced (unresectable) and resectable stage ≥ II cases should be discussed and evaluated by a 
+multidisciplinary team.
+• Surgical biopsy should be avoided if a resectable thymoma is strongly suspected based on clinical and radiologic features because of the 
+substantial potential of tumor seeding when the tumor capsule is violated.
+• Biopsy of a possible thymoma should avoid a transpleural approach because of the substantial risk of converting a stage I thymoma to a 
+stage IV thymoma by spreading tumor within the pleural space.
+• Prior to surgery, patients should be evaluated for signs and symptoms of myasthenia gravis and should be medically controlled prior to 
+undergoing surgical resection.
+• If an R0 resection is considered uncertain, patients should be considered for neoadjuvant systemic therapy. Debulking tumors is 
+discouraged.
+• Goal of surgery is complete excision of the lesion with total thymectomy and complete resection of contiguous and noncontiguous disease.
+• Complete resection may require the resection of adjacent structures, including the pericardium, phrenic nerve, pleura, lung, and even major 
+vascular structures. Bilateral phrenic nerve resection should be avoided due to severe respiratory morbidity.
+• Surgical clips should be placed at the time of resection to areas of close margins, residual disease, or tumor adhesion to unresected normal 
+structures to help guide accurate RT when indicated.
+• During thymectomy, the pleural surfaces should be examined for pleural metastases. If feasible, resection of pleural metastases to achieve 
+complete gross resection is appropriate.
+• Minimally invasive procedures are not routinely recommended due to the lack of long-term data. However, minimally invasive procedures 
+may be considered for clinical stage I–II if all oncologic goals can be met as in standard procedures, and if performed in specialized centers 
+by surgeons with experience in these techniques.1-14
+References on THYM-A 2 OF 2PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+PRINCIPLES OF SURGICAL RESECTION – REFERENCES
+1 Pennathur A, Qureshi I, Schubert MJ, et al. Comparison of surgical techniques for early stage thymoma: feasibility of minimally invasive thymectomy and comparison 
+with open resection. J Thorac Cardiovasc Surg 2011;141:694-701.
+2 Ye B, Tantai JC, Ge XX, et al. Surgical techniques for early-stage thymoma: video-assisted thorascopic thymectomy versus transsternal thymectomy. J Thorac 
+Cardiovasc Surg 2014;147:1599-1603.
+3 Sakamaki Y, Oda T, Kanazawa G, et al. Intermediate-term oncologic outcomes after video-assisted thorascopic thymectomy for early-stage thymoma. J Thorac 
+Cardiovasc Surg 2014;148:1230-1237.
+4 Manoly I, Whistance RN, Sreekumar R, et al. Early and mid-term outcomes of trans-sternal and video-assisted thoracoscopic surgery for thymoma. Eur J Cardiothorac 
+Surg 2014;45:e187-193.
+5 Liu TJ, Lin MW, Hsieh MS, et al. Video-assisted thoracoscopic surgical thymectomy to treat early thymoma: a comparison with the conventional transsternal approach. 
+Ann Surg Oncol 2014;322-328.
+6 Friedant AJ, Handorf EA, Su S, Scott WJ. Minimally invasive versus open thymectomy for thymic malignancies: systematic review and meta-analysis. J Thorac Oncol 
+2016;11:30-38. 
+7 Burt BM, Yao X, Shrager J, et al. Determinants of complete resection of thymoma by minimally invasive and open thymectomy: Analysis of an International Registry. 
+J Thorac Oncol 2017;12:129-136.
+8 Jurado J, Javidfar J, Newmark A, et al. Minimally invasive thymectomy and open thymectomy: outcome analysis of 263 patients. Ann Thorac Surg 2012;94:974-981. 
+9 Hess N, Sarkaria I, Pennathur A, et al. Minimally invasive versus open thymectomy: A systematic review of surgical techniques, patient demographics, and 
+perioperative outcomes. Ann Cardiothorac Surg 2016; 5:1-9.
+10 Rowse P, Roden A, Corl F, et al. Minimally invasive thymectomy: The Mayo Clinic experience. Ann Cardiothorac Surg 2015;4:519-526.
+11 Hwang SK, Lee GD, Kang CH, et al. Long-term outcome of minimally invasive thymectomy versus open thymectomy for locally advanced cases. Eur J Cardiothorac 
+Surg 2022;62:ezac238. 
+12 Yang C-F, Hurd J, Shah SA, et al. A national analysis of open versus minimally invasive thymectomy for stage I to III thymoma. J Thorac Cardiovasc Surg 
+2020;160:555-567. 
+13 Hurd J, Haridas C, Potter A, et al. A national analysis of open versus minimally invasive thymectomy for stage I–III thymic carcinoma. Eur J Cardiothorac Surg 
+2020;62:ezac159.
+14 Gu Z, Chen C, Wang Y, et al. Video-assisted thoracoscopic surgery versus open surgery for Stage I thymic epithelial tumours: a propensity score-matched study. Eur 
+J Cardiothorac Surg 2018;54:1037-1044.
+THYM-A
+2 OF 2PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+THYM-B
+1 OF 3Radiation Techniques THYM-B 2 of 3PRINCIPLES OF RADIATION THERAPY1,2
+General Principles
+• Recommendations regarding RT should be made by radiation oncologists with experience in managing thymomas and thymic carcinomas.
+• Definitive RT should be given for patients with unresectable disease (if disease progresses on induction systemic therapy), for patients with 
+incompletely resected invasive thymoma or thymic carcinoma, or as adjuvant therapy after systemic therapy and surgery for patients with 
+locally advanced disease.
+• Radiation oncologists need to communicate with the surgeon to review the operative findings and to help determine the target volume 
+at risk. They also need to communicate with the pathologist regarding the detailed pathology on histology, disease extent such as 
+extracapsular extension, and surgical margins.
+• The review of preoperative imaging and co-registration of preoperative imaging into the planning system are helpful in defining treatment 
+volumes.
+Radiation Dose 
+• The dose and fractionation schemes of RT depend on the indication of the radiation and the completeness of surgical resection in 
+postoperative cases.
+• A dose of 60 to 70 Gy should be given to patients with unresectable disease.
+• For adjuvant treatment, the radiation dose consists of 45 to 50 Gy for clear/close margins and 54 Gy for microscopically positive resection 
+margins. A total dose of 60–70 Gy should be given to patients with gross residual disease (similar to patients with unresectable disease),3,4,5 
+when conventional fractionation (1.8–2.0 Gy per daily fraction) is applied. 
+• Depending on the treatment objectives in the palliative setting, typical palliative doses (eg, 8 Gy in a single fraction, 20 Gy in 5 fractions, 30 
+Gy in 10 fractions) up to definitive doses for more durable local control and highly conformal techniques for limited volume metastases may 
+be appropriate, given the relatively long natural history of even metastatic thymoma.  
+Radiation Volume
+• The gross tumor volume should include any grossly visible tumor. Surgical clips indicative of gross residual tumor should be included for 
+postoperative adjuvant RT.
+• The clinical target volume (CTV) for postoperative RT should encompass the entire thymus (for partial resection cases), surgical clips, and 
+any potential sites with residual disease. The CTV should be reviewed with the thoracic surgeon. 
+• Extensive elective nodal irradiation (ENI) (entire mediastinum and bilateral supraclavicular nodal regions) is not recommended, as thymomas 
+do not commonly metastasize to regional lymph nodes.6
+• The planning target volume (PTV) should consider the target motion and daily setup error. The PTV margin should be based on the individual 
+patient’s motion, simulation techniques used (with and without inclusion motion), and reproducibility of daily setup of each clinic.
+References THYM-B 3 of 3PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+THYM-B
+2 OF 3General Principles, Radiation Dose, and Radiation Volume THYM-B 1 of 3PRINCIPLES OF RADIATION THERAPY
+Radiation Techniques
+• Target motion should be managed using the Principles of Radiation Therapy in the NCCN Guidelines for Non-Small Cell Lung Cancer . 
+Intravenous contrast is beneficial in the unresectable setting. 
+• In addition to following the normal tissue constraints recommendation using the Principles of Radiation Therapy in the NCCN Guidelines for 
+Non-Small Cell Lung Cancer , more conservative limits are recommended to minimize the dose volumes to all the normal structures. Since 
+these patients are younger and mostly long-term survivors, the mean total dose to the heart should be as low as reasonably achievable to 
+potentially maximize survival.
+• A minimum technological standard for RT is CT-planned 3D conformal RT (3D-CRT). More advanced technologies are appropriate when 
+needed to deliver curative RT safely. These technologies include (but are not limited to) 4D-CT and/or PET/CT simulation, intensity-
+modulated RT (IMRT)/volumetric modulated arc therapy (VMAT), image-guided RT (IGRT), motion management, and proton therapy. In 
+particular, IMRT is preferred over 3D-CRT. Compared to IMRT, proton therapy has been shown to improve dosimetry, thus allowing for better 
+sparing of normal organs (lungs, heart, and esophagus)7 with favorable local control and toxicity, and is appropriate.8
+References THYM-B 3 of 3PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+THYM-B
+3 OF 3PRINCIPLES OF RADIATION THERAPY — REFERENCES
+1 Gomez D, Komaki R, Yu J, et al. Radiation therapy definitions and reporting guidelines for thymic malignancies. J Thorac Oncol 2011;6:S1743-1748.
+2 Gomez D, Komaki R. Technical advances of radiation therapy for thymic malignancies. J Thorac Oncol 2010;5:S336-343. 
+3 Mornex F, Resbeut M, Richaud P, et al. Radiotherapy and chemotherapy for invasive thymomas: a multicentric retrospective review of 90 cases. The FNCLCC trialists. 
+Federation Nationale des Centres de Lutte Contre le Cancer. Int J Radiat Oncol Biol Phys 1995;32:651-659.
+4 Myojin M, Choi NC, Wright CD, et al. Stage III thymoma: pattern of failure after surgery and postoperative radiotherapy and its implication for future study. Int J Radiat 
+Oncol Biol Phys 2000;46:927-933.
+5 Rimner A, Yao X, Huang J, et al. Postoperative radiation therapy is associated with longer overall survival in completely resected stage II and III thymoma – an analysis 
+of the International Thymic Malignancies Interest Group (ITMIG) retrospective database. J Thorac Oncol 2016;11:1785-1792.
+6 Ruffini E, Mancuso M, Oliaro A, et al. Recurrence of thymoma: analysis of clinicopathologic features, treatment, and outcome. J Thorac Cardiovasc Surg 1997;113:55-
+63.
+7 Parikh RR, Rhome R, Hug E, et al. Adjuvant proton beam therapy in the management of thymoma: a dosimetric comparison and acute toxicities. Clin Lung Cancer 
+2016;17:362-366.
+8 Vogel J, Berman AT, Pechet TT, et al. Prospective study of proton beam radiation therapy for adjuvant and definitive treatment of thymoma and thymic carcinoma: early 
+response and toxicity assessment. Radiother Oncol 2016;118:504-509.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+THYM-C
+1 OF 3References THYM-C 3 of 3PRINCIPLES OF SYSTEMIC THERAPY
+THYMOMA
+Preferred (Other Recommended for Thymic Carcinoma)
+• CAP1 
+Cisplatin 50 mg/m2 IV day 1 
+Doxorubicin 50 mg/m2 IV day 1 
+Cyclophosphamide 500 mg/m2 IV day 1 
+Administered every 3 weeks  THYMIC CARCINOMA
+Preferred (Other Recommended for Thymoma)
+• Carboplatin/paclitaxel4,5,b 
+Carboplatin AUC 6 IV day 1 
+Paclitaxel 200 mg/m2 IV day 1 
+Administered every 3 weeks  
+Preferred (Thymic Carcinoma only)
+• Carboplatin/paclitaxel/ramucirumab6,c 
+Ramucirumab 10 mg/kg IV day 1 
+Paclitaxel 200 mg/m² IV day 1 
+Carboplatin AUC 5 IV day 1  
+Administered every 3 weeks, maximum of six cycles  
+Ramucirumab monotherapy every 3 weeks as maintenance therapy, 
+until progressive disease or unacceptable toxicityFIRST-LINE COMBINATION CHEMOTHERAPY REGIMENSa
+Subsequent Therapy THYM-2 of 3• CAP with prednisone2 
+Cyclophosphamide 500 mg/m2 IV day 1; 
+Doxorubicin, 20 mg/m2/day IV continuous infusion days 1–3;  
+Cisplatin 30 mg/m2/day IV days 1–3; 
+Prednisone 100 mg/day PO days 1–5;  
+Administered every 3 weeks  
+• ADOC3 
+Doxorubicin 40 mg/m2 IV day 1;  
+Cisplatin 50 mg/m2 IV day 1;  
+Vincristine 0.6 mg/m2 IV day 3;  
+Cyclophosphamide 700 mg/m2 IV day 4 
+Administered every 3 weeks • PE7,b  
+Cisplatin 60 mg/m2 IV day 1;  
+Etoposide 120 mg/m2/day IV days 1–3;  
+Administered every 3 weeks  
+• Etoposide/ifosfamide/cisplatin8 
+Etoposide 75 mg/m2/day IV days 1–4;  
+Ifosfamide 1.2 g/m2/day IV days 1–4;  
+Cisplatin 20 mg/m2/day IV days 1–4 
+Administered every 3 weeks
+a If patients cannot tolerate first-line combination regimens, consider second-line systemic therapy options. 
+b Regimens can be used with RT, as definitive concurrent chemoradiation.
+c There is no published experience using this as a preoperative therapy. Patients with untreated brain metastases or major standard contraindications to antiangiogenics 
+were excluded from the study.Other Recommended for Thymic Carcinoma and ThymomaPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+THYM-C
+2 OF 3THYMOMA
+Preferred
+• Everolimus9
+• Gemcitabine ± capecitabine10,11
+• Octreotided (including LAR) (if octreotide scan or 
+dotatate PET/CT positive) ± prednisone12,13
+• Pemetrexed14
+Other Recommended
+• 5-FU and leucovorin15
+• Paclitaxel16 
+Useful in Certain Circumstances
+• Etoposide7,17
+• Ifosfamide18SECOND-LINE SYSTEMIC THERAPY
+(regimens noted in alphabetical order) 
+THYMIC CARCINOMA
+Preferred
+• Gemcitabine ± capecitabine10,11 
+• Lenvatinibe,19
+• Pembrolizumabf,20,21
+• Sunitinib22
+Other Recommended
+• Avelumab + axitinib23 
+• Everolimus9
+• 5-FU and leucovorin15
+• Paclitaxel16
+• Pemetrexed14
+ 
+Useful in Certain Circumstances
+• Etoposide7,17
+• Ifosfamide18
+d Nuclear medicine scan (octreotide scan or dotatate PET/CT [dotatate PET/CT preferred if available]) to assess for octreotide-avid disease.
+e There is a high risk for side effects and frequent dose reductions may be needed.
+f Pembrolizumab is not recommended for patients with thymoma. In patients with thymic carcinoma, there is concern for a higher rate of immune-related adverse events 
+than seen in most other malignancies treated with PD-1/PD-L1 inhibitor therapy. For example, grade 3–4 myocarditis has been reported in 5%–9% of patients receiving 
+pembrolizumab.PRINCIPLES OF SYSTEMIC THERAPY
+References THYM-C 3 of 3PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+THYM-C
+3 OF 3PRINCIPLES OF SYSTEMIC THERAPY — REFERENCES
+1 Loehrer PJ Sr, Kim K, Aisner SC, et al. Cisplatin plus doxorubicin plus cyclophosphamide in metastatic or recurrent thymoma: final results of an intergroup trial. The 
+Eastern Cooperative Oncology Group, Southwest Oncology Group, and Southeastern Cancer Study Group. J Clin Oncol 1994;12:1164-1168.
+2 Kim ES, Putnam JB, Komaki R, et al. Phase II study of a multidisciplinary approach with induction chemotherapy, followed by surgical resection, radiation therapy, and 
+consolidation chemotherapy for unresectable malignant thymomas: final report. Lung Cancer 2004;44:369-379.
+3 Fornasiero A, Daniele O, Ghiotto C, et al. Chemotherapy for invasive thymoma. A 13-year experience. Cancer 1991;68:30-33.
+4 Lemma GL, Lee JW, Aisner SC, et al. Phase II study of carboplatin and paclitaxel in advanced thymoma and thymic carcinoma. J Clin Oncol 2011;29:2060-2065. 
+5 Hirai F, Yamanaka T, Taguchi K, et al A multicenter phase II study of carboplatin and paclitaxel for advanced thymic carcinoma: WJOG4207L. Ann Oncol 2015;26:363-368.
+6 Proto C, Ganzinelli M, Manglaviti S, et al. Efficacy and safety of ramucirumab plus carboplatin and paclitaxel in untreated metastatic thymic carcinoma: RELEVENT phase 
+II trial (NCT03921671). Ann Oncol 2024;35:817-826.
+7 Giaccone G, Ardizzoni A, Kirkpatrick A, et al. Cisplatin and etoposide combination chemotherapy for locally advanced or metastatic thymoma. A phase II study of the 
+European Organization for Research and Treatment of Cancer Lung Cancer Cooperative Group. J Clin Oncol 1996;14:814-820.
+8 Loehrer PJ Sr, Jiroutek M, Aisner S, et al. Combined etoposide, ifosfamide, and cisplatin in the treatment of patients with advanced thymoma and thymic carcinoma: an 
+intergroup trial. Cancer 2001;91:2010-2015.
+9 Zucali PA, De Pas TM, Palmieri G, et al. Phase II study of everolimus in patients with thymoma and thymic carcinoma previously treated with cisplatin-based 
+chemotherapy. J Clin Oncol 2018;36:342-349.
+10 Palmieri G, Merola G, Federico P, et al. Preliminary results of phase II study of capecitabine and gemcitabine (CAP-GEM) in patients with metastatic pretreated thymic 
+epithelial tumors (TETs). Ann Oncol 2010;21:1168-1172.
+11 Palmieri G, Buonerba C, Ottaviano M, et al. Capecitabine plus gemcitabine in thymic epithelial tumors: final analysis of a phase II trial. Future Oncol 2014;10:2141-2147. 
+12 Loehrer PJ Sr, Wang W, Johnson DH, et al. Octreotide alone or with prednisone in patients with advanced thymoma and thymic carcinoma: an Eastern Cooperative 
+Oncology Group Phase II Trial. J Clin Oncol 2004;22:293-299.
+13 Kirzinger L, Boy S, Marienhagen J, et al. Octreotide LAR and prednisone as neoadjuvant treatment in patients with primary or locally recurrent unresectable thymic 
+tumors: a phase II study. PLoS One 2016;11:e0168215.
+14 Gbolahan OB, Porter RF, Salter JT, et al. A phase II study of pemetrexed in patients with recurrent thymoma and thymic carcinoma. J Thorac Oncol 2018;13:1940-1948.
+15 Thomas CR, Wright CD, Loehrer PJ. Thymoma: state of the art. J Clin Oncol 1999;17:2280-2289.
+16 Umemura S, Segawa Y, Fujiwara K, et al. A case of recurrent metastatic thymoma showing a marked response to paclitaxel monotherapy. Jpn J Clin Oncol 2002;32:262-
+265.
+17 Bluthgen MV, Boutros C, Fayard F, et al. Activity and safety of oral etoposide in pretreated patients with metastatic or recurrent thymic epithelial tumors (TET): A single-
+institution experience. Lung Cancer 2016;99:111-116.
+18 Highley MS, Underhill CR, Parnis FX, et al. Treatment of invasive thymoma with single-agent ifosfamide. J Clin Oncol 1999;17:2737-2744.
+19 Sato J, Satouchi M, Itoh S, et al. Lenvatinib in patients with advanced or metastatic thymic carcinoma (REMORA): a multicentre, phase 2 trial. Lancet Oncol 2020; 
+21:843-850.
+20 Giaccone G, Kim C, Thompson J, et al. Pembrolizumab in patients with thymic carcinoma: a single-arm, single-centre, phase 2 study. Lancet Oncol 2018;19:347-355. 
+21 Cho J, Kim HS, Ku BM, et al. Pembrolizumab for patients with refractory or relapsed thymic epithelial tumor: An open-label phase II trial. J Clin Oncol 2019;37:2162-2170.
+22 Thomas A, Rajan A, Berman A, et al. Sunitinib in patients with chemotherapy-refractory thymoma and thymic carcinoma: an open-label phase 2 trial. Lancet Oncol 
+2015;16:177-186.
+23 Conforti F, Zucali PA, Pala L, et al. Avelumab plus axitinib in unresectable or metastatic type B3 thymomas and thymic carcinomas (CAVEATT): a single-arm, multicentre, 
+phase 2 trial. Lancet Oncol 2022;23:1287-1296.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+THYM-D
+1 OF 21 Marx A, Detterback F, Marom EM, et al. Tumours of the thymus. In: WHO Classification of Tumours Editorial Board. Thoracic tumours [Internet]. Lyon (France): 
+International Agency for Research on Cancer; 2021 [2021 9 12]. (WHO classification of tumours series, 5th ed; vol 5).  
+Available from: https://tumourclassification.iarc.who.int/chapters/35 .Thymoma subtypeaObligatory criteria Optional criteria
+Type A Occurrence of bland, spindle shaped epithelial cells (at least focally); paucityb 
+or absence of immature (TdT+) T cells throughout the tumorPolygonal epithelial cells CD20+ 
+epithelial cells
+Atypical type A 
+variantCriteria of type A thymoma; in addition: comedo-type tumor necrosis; 
+increased mitotic count (>4/2mm2); nuclear crowdingPolygonal epithelial cells CD20+ 
+epithelial cells
+Type AB Occurrence of bland, spindle shaped epithelial cells (at least focally); 
+abundanceb of immature (TdT+) T cells focally or throughout tumorPolygonal epithelial cells CD20+ 
+epithelial cells
+Type B1 Thymus-like architecture and cytology: abundance of immature T cells, areas 
+of medullary differentiation (medullary islands); paucity of polygonal or 
+dendritic epithelia cells without clustering (i.e.<3 contiguous epithelial cells)Hassall’s corpuscles; perivascular 
+spaces
+Type B2 Increased numbers of single or clustered polygonal or dendritic epithelial cells 
+intermingled with abundant immature T cellsMedullary islands; Hassall’s 
+corpuscles; perivascular spaces
+Type B3 Sheets of polygonal slightly to moderately atypical epithelial cells; absent or 
+rare intercellular bridges; paucity or absence of intermingled TdT+ T cellsHassall’s corpuscles; perivascular 
+spaces
+MNTcNodules of bland spindle or oval epithelial cells surrounded by an epithelial 
+cell-free lymphoid stromaLymphoid follicles; monoclonal B cells 
+and/or plasma cells (rare)
+Metaplastic 
+thymomaBiphasic tumor composed of solid areas of epithelial cells in a background of 
+bland-looking spindle cells; absence of immature T cellsPleomorphism of epithelial cells; actin, 
+keratin, or EMA-positive spindle cells
+Rare othersdWORLD HEALTH ORGANIZATION HISTOLOGIC CLASSIFICATION1
+a For thymoma composed of two or more subtypes, components should be listed.
+b Paucity versus abundance: any area of crowded immature T cells or moderate numbers of immature T cells in >10% of the investigated tumor are indicative of “abundance.”
+c MNT, micronodular thymoma with lymphoid stroma.
+d Lipofibroadenoma.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+1 Marx A, Detterback F, Marom EM, et al. Tumours of the thymus. In: WHO Classification of Tumours Editorial Board. Thoracic tumours [Internet]. Lyon (France): 
+International Agency for Research on Cancer; 2021 [2021 9 12]. (WHO classification of tumours series, 5th ed; vol 5).  
+Available from: https://tumourclassification.iarc.who.int/chapters/35 .WORLD HEALTH ORGANIZATION HISTOLOGIC CLASSIFICATION1
+Thymic Carcinoma Subtypes
+• Squamous carcinomas
+Squamous cell carcinoma, NOS
+Basaloid carcinoma
+Lymphoepithelial carcinoma
+• Adenocarcinomas
+Adenocarcinoma, NOS
+Low grade papillary adenocarcinoma
+Thymic carcinoma with adenoid cystic carcinoma-like features
+Adenocarcinoma, enteric-type 
+• Adenosquamous carcinoma  
+• NUT carcinomas
+• Salivary gland-like carcinomas
+Mucoepidermoid carcinoma
+Clear cell carcinoma
+Sarcomatoid carcinoma
+Carcinosarcoma
+• Carcinoma, undifferentiated, NOS
+• Thymic Carcinoma, NOS
+•  Neuroendocrine tumors (NCCN Guidelines for Neuroendocrine and Adrenal Tumors)
+Carcinoid tumor, NOS/neuroendocrine tumor, NOS
+Typical carcinoid/neuroendocrine tumor, grade 1
+Atypical carcinoid/neuroendocrine tumor, grade 2
+•  Neuroendocrine carcinomas
+Small cell carcinoma
+Combined small cell carcinoma
+Large cell neuroendocrine carcinoma
+THYM-D
+2 OF 2PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+ST-11 Reprinted from Wright CD. Management of thymomas. Crit Rev Oncol Hematol 2008;65:109-120, with permission from Elsevier.
+2 Note that the Masaoka staging system is also used to stage thymic carcinomas.
+3 Detterbeck FC, Nicholson AG, Kondo K, et al. The Masaoka-Koga stage classification for thymic malignancies: clarification and definition of terms. J Thorac Oncol 
+2011;6:S1710-S1716.Staging 
+Table 1. Modified Masaoka clinical staging of thymoma1-3
+Masaoka Stage Diagnostic Criteria
+Stage I Macroscopically and microscopically completely encapsulated
+Stage II (A) Microscopic transcapsular invasion 
+(B)  Macroscopic invasion into surrounding fatty tissue or grossly 
+adherent to but not through mediastinal pleura or pericardium
+Stage III Macroscopic invasion into neighboring organs (ie, pericardium, great 
+vessels, lung)
+(A) Without invasion of great vessels 
+(B) With invasion of great vessels
+Stage IV (A) Pleural or pericardial dissemination 
+(B) Lymphogenous or hematogenous metastasisPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+ST-2Used with permission of the American College of Surgeons, Chicago, Illinois. The original source for this information is the AJCC Cancer Staging Manual, Eighth Edition 
+(2017) published by Springer International Publishing.Staging 
+Table 2. Definitions for TNM*,**
+Primary Tumor (T)
+TX Primary tumor cannot be assessed
+T0 No evidence of primary tumor
+T1 Tumor encapsulated or extending into the mediastinal fat; may involve the mediastinal 
+pleura
+T1a Tumor with no mediastinal pleura involvement
+T1b Tumor with direct invasion of mediastinal pleura
+T2 Tumor with direct invasion of the pericardium (either partial or full thickness)
+T3 Tumor with direct invasion into any of the following: lung, brachiocephalic vein, superior 
+vena cava, phrenic nerve, chest wall, or extrapericardial pulmonary artery or veins
+T4 Tumor with invasion into any of the following: aorta (ascending, arch, or descending) 
+arch vessels, intrapericardial pulmonary artery, myocardium, trachea, esophagus
+Regional Lymph Nodes (N)
+NX Regional lymph nodes cannot be assessed
+N0 No regional lymph node metastasis
+N1 Metastasis in anterior (perithymic) lymph nodes
+N2 Metastasis in deep intrathoracic or cervical lymph nodes
+Distant Metastasis (M)
+M0 No pleural, pericardial, or distant metastasis
+M1 Pleural, pericardial, or distant metastasis
+M1a Separate pleural or pericardial nodule(s)
+M1b Pulmonary intraparenchymal nodule or distant organ metastasisAJCC Prognostic Groups
+Stage I T1a,b N0 M0
+Stage II T2 N0 M0
+Stage IIIA T3 N0 M0
+Stage IIIB T4 N0 M0
+Stage IVA Any T N1 M0
+Any T N0-N1 M1a
+Stage IVB Any T N2 M0-M1a
+Any T Any N M1b
+*Involvement must be microscopically confirmed in pathological staging, if possible. 
+**T categories are defined by “levels” of invasion; they reflect the highest degree of invasion regardless of how many other (lower-level) structures are invaded. T1, level 1 
+structures: thymus, anterior mediastinal fat, mediastinal pleura; T2, level 2 structures: pericardium; T3, level 3 structures: lung, brachiocephalic vein, superior vena cava, 
+phrenic nerve, chest wall, hilar pulmonary vessels; T4, level 4 structures: aorta (ascending, arch, or descending), arch vessels, intrapericardial pulmonary artery, myocardium, 
+trachea, esophagus.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+3D-CRT three-dimensional conformal 
+radiation therapy
+4D-CT four-dimensional computed 
+tomography
+AFP alpha-fetoprotein
+beta-hCG beta-human chorionic gonadotropin
+CBC complete blood count 
+CTV clinical target volume
+EMA epithelial membrane antigen
+ENI elective nodal irradiation
+FDG fluorodeoxyglucoseABBREVIATIONS
+ABBR-1IGRT image-guided radiation therapy
+IMRT intensity-modulated radiation 
+therapy
+MNT micronodular thymoma with 
+lymphoid stroma
+NOS not otherwise specified
+NUT nuclear protein in testis
+PD-1 programmed cell death protein 1
+PD-L1 programmed death ligand 1
+PTV planning target volume
+VMAT volumetric modulated arc therapyPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Thymomas and Thymic Carcinomas
+Version 2.2025, 05/19/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+CAT-1NCCN Categories of Evidence and Consensus
+Category 1 Based upon high-level evidence (≥1 randomized phase 3 trials or high-quality , robust meta-analyses), there is 
+uniform NCCN consensus (≥85% support of the Panel) that the intervention is appropriate.
+Category 2A Based upon lower-level evidence, there is uniform NCCN consensus (≥85% support of the Panel) that the 
+intervention is appropriate.
+Category 2B Based upon lower-level evidence, there is NCCN consensus (≥50%, but <85% support of the Panel) that the 
+intervention is appropriate.
+Category 3 Based upon any level of evidence, there is major NCCN disagreement that the intervention is appropriate. 
+All recommendations are category 2A unless otherwise indicated.
+NCCN Categories of Preference
+Preferred interventionInterventions that are based on superior efficacy, safety, and evidence; and, when appropriate, 
+affordability.
+Other recommended 
+interventionOther interventions that may be somewhat less efficacious, more toxic, or based on less mature data; 
+or significantly less affordable for similar outcomes.
+Useful in certain 
+circumstancesOther interventions that may be used for selected patient populations (defined with recommendation).
+All recommendations are considered appropriate.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-1 Discussion  
+Table of Contents  
+Overview  ................................ ................................ .........................  MS-2 
+Guidelines Update Methodology  ................................ ......................  MS-2 
+Literature Search Criteria................................ ................................ . MS-2 
+Sensitive/Inclusive Language Usage  ................................ ...............  MS-2 
+Mediastinal Masses  ................................ ................................ .........  MS-3 
+Thymic Masses  ................................ ................................ ...............  MS-3 
+Thymomas  ................................ ................................ ......................  MS-7 
+Thymic Carcinomas  ................................ ................................ ....... MS-10 
+Summary ................................ ................................ .......................  MS-14 
+References  ................................ ................................ ....................  MS-15 
+  This discussion corresponds to the NCCN Guidelines for Thymomas and Thymic 
+Carcinomas . Last updated:  May 19, 2025  
+ PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-2 Overview 
+Thym oma and thymic carcinoma originate in the  epithelial cells of the 
+thymus.1,2 Among the generally rare tumors of the anterior mediastinum, 
+thymomas are the most common primary tumors and occur in 
+approximately two per million per year in the United States.3,4 Thymic 
+carcinomas are even less common, with one study estimating the annual incidence  to be 0.48 per million in the United States.
+4 Although 
+thymomas can spread locally, they are less  likely to be  invasive  and 
+metastasize than thymic carcinomas.5-8 Patients with thymic carcinomas 
+often present with advanced or metastatic disease at diagnosis.6,9-11 The 
+5-year survival rate of patients with thymomas is approximately 
+90%,5,12,13 while the 5-year survival  rates for patients with thymic 
+carcinoma are closer  to 60%.5,10  
+These NCCN Clinical Practice Guidelines in Oncology (NCCN 
+Guidelines®) focus on thymomas and thymic carcinomas and outline the 
+recommendations for evaluation and treatment of patients with these 
+mediastinal tumors. These NCCN Guidelines were first published in 2007 
+and have been subsequently updated on an annual basis. The NCCN 
+Guidelines® for Thymomas and Thymic Carcinomas are updated by 
+Panel members who are also on the NCCN Guidelines for Non- Small 
+Cell Lung Cancer Panel.  
+Guidelines Update Methodology  
+The complete details of the Development and Update of the NCCN 
+Guidelines are available at www.NCCN.org . 
+Literature Search Criteria 
+Prior to the annual update of the NCCN Guidelines for Thymomas and 
+Thymic Carcinomas, an electronic search of the PubMed database was 
+performed to obtain key literature in thymomas and thymic carcinomas 
+published since the previous Guidelines update, using the search terms: thymomas, thymic carcinomas, and thymic epithelial tumors. The PubMed database was chosen because it remains the most widely used 
+resource for medical literature and indexes peer -reviewed biomedical 
+literature.
+14 
+The search results were narrowed by selecting studies in humans 
+published in English. Results were confined to the following article types: 
+Clinical Trial, Phase II; Clinical Trial, Phase III; Clinical Trial, Phase IV; 
+Guideline; Practice Guideline; Randomized Controlled Trial; Meta -
+Analysis; Systematic Reviews; and Validation Studies. The data from key PubMed articles  as well as articles from additional sources deemed as 
+relevant to these Guidelines as discussed by the Panel during the Guidelines update have been included in this version of the Discussion 
+section. Recommendations for which high -level evidence is lacking are 
+based on the Panel’s review of lower -level evidence and expert opinion.  
+Sensitive/Inclusive Language Usage  
+NCCN Guidelines strive to use language that advances the goals of 
+equity, inclusion, and representation.15 NCCN Guidelines endeavor to 
+use language that is person- first; not stigmatizing; anti -racist, anti -
+classist, anti -misogynist, anti -ageist, anti -ableist, and anti -weight biased; 
+and inclusive of individuals of all sexual orientations and gender identities.  NCCN Guidelines incorporate non- gendered language, instead 
+focusing on organ -specific recommendations. This language is both 
+more accurate and more inclusive and can help fully address the needs 
+of individuals of all sexual orientations and gender identit ies. NCCN 
+Guidelines will continue to use the terms men, women, female, and male when citing statistics, recommendations, or data from organizations or 
+sources that do not use inclusive terms. Most studies do not report how 
+sex and gender data are collected and use these terms interchangeably 
+or inconsistently. If sources do not differentiate gender from sex 
+assigned at birth or organs present, the information is presumed to PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-3 predominantly represent cisgender individuals. NCCN encourages 
+researchers to collect more specific data in future studies and 
+organizations to use more inclusive and accurate language in their future 
+analyses.  
+Mediastinal Masses 
+Masses in the anterior mediastinum can be neoplasms (eg, thymomas, 
+lymphomas, thymic carcinomas, thymic carcinoids, thymolipomas, germ 
+cell tumors, lung metastases) or non -neoplastic conditions (eg, 
+intrathoracic goiter, thymic cysts, lymphangiomas, aortic  aneurysms).16-20 
+All patients with a mediastinal mass should be evaluated to determine 
+the type of mass and the extent of disease before treatment (THYM -1). It 
+is essential to differentiate between thymic malignancies and other 
+conditions (eg, lung metastases, lymphoma, goiter, germ cell tumors) 
+before treatment, because management differs for these conditions.2,21,22 
+However, over half of primary cancers in the anterior mediastinum are thymomas.
+4,23 
+Among the cancers presenting in the mediastinum, there are a range of 
+clinical presentations. Unlike thymomas, which are often indolent, 
+lymphomas or germ cell tumors may be associated with a rapid onset of symptoms.
+22,24 Lymphomas typically manifest as generalized disease but 
+can also be primary anterior and/or middle mediastinal lesions (ie, 
+nodular sclerosing Hodgkin’s disease, non -Hodgkin’s lymphomas [diffuse 
+large B -cell lymphoma and acute lymphoblastic lymphoma]); patients 
+typically have lymphadenopathy (see the NCCN Guidelines for Hodgkin 
+Lymphoma and the NCCN Guidelines for B-Cell Lymphomas , available 
+at www.NCCN.org ).20,25 Thymic carcinoids are rare neuroendocrine 
+tumors that can be associated with multiple endocrine neoplasia type 1 (MEN1) syndrome (see the NCCN Guidelines for Neuroendocrine and 
+Adrenal Tumors,  available at www.NCCN.org ).
+26,27 Extragonadal germ 
+cell tumors are rare tumors that may also occur in the mediastinum.28,29 Recommended tests for the initial evaluation of  mediastinal masses 
+include chest CT with contrast and blood chemistry studies ( THYM -1).30-32 
+On CT, a thymoma is usually a well -defined round or oval mass in the 
+thymus without lymph node enlargement.33-35 When assessing a 
+mediastinal mass, detection of thymic malignancy versus  thymic cyst or 
+thymic hyperplasia can be better discriminated with chest  MRI compared 
+to chest CT.36 In patients who cannot tolerate iodinated contrast, chest 
+MRI may be substituted .35 FDG -PET/CT is recommended as clinically 
+indicated and should encompass the  skull base to mid -thigh. 
+Alpha- fetoprotein (AFP) levels and beta- human chorionic gonadotropin 
+(beta -hCG) levels may be measured to rule out germ cell tumors.37 
+Pulmonary function tests should be performed as clinically appropriate as 
+part of the initial evaluation.  
+Thymic epithelial tumors are likely if: 1) a well- defined mediastinal mass in 
+the thymic bed that is not continuous with the thyroid gland is present ; 2) 
+tumor markers for AFP or beta -hCG are negative; and 3) no other 
+adenopathy is present.2  
+Thymic Masses 
+Diagnosis  
+The World Health Organization ( WHO ) histologic classification system can 
+be used to distinguish between thymomas, thymic carcinomas, and thymic 
+carcinoids .1,2 The WHO classification is also used to differentiate among 
+different histologic types of thymomas (ie, A, AB, B1, B2, B3).38 Thymic 
+carcinomas are categorized by larger subtype groups such as squamous 
+carcinomas, adenocarcinomas, adenosquamous carcinoma, and 
+carcinomas not otherwise specified (NOS).1,2  
+Staging  
+Although several staging systems exist, the Masaoka -Koga staging 
+system has been the most widely accepted system for management and PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-4 determination of prognosis for both thymomas and thymic 
+carcinomas.5,7,39- 43 Another staging system for thymomas and thymic 
+carcinomas is based on a combined effort by the International Thymic 
+Malignancy Interest Group (ITMIG) and International Association for the 
+Study of Lung Cancer (IASLC); this staging system was used as the 
+basis for the American Joint Committee on Cancer (AJCC)  TNM system 
+for thymic malignancies (8th edition).44-51 Both the Masaoka and AJCC 
+staging systems are provided in the NCCN Guidelines for Thymomas 
+and Thymic Carcinomas  (available at www.NCCN.org ). However, in the 
+current Guidelines, treatment recommendations for thymoma and thymic 
+carcinoma refer to Masaoka -Koga staging since much of the available 
+clinical evidence was generated using this system.  
+Overview of Treatment  Approaches  
+All patients with a likely thymic tumor should be treated by a 
+multidisciplinary team with experience in the management of thymomas 
+and thymic carcinomas (THYM -2). The team may include radiation 
+oncologists, thoracic surgeons, medical oncologists,  neurologists,  
+pathologists, and diagnostic imaging specialists. Many patients are likely 
+to undergo surgery with curative intent, although those with advanced 
+disease may be treated with a multimodal approach that consists of 
+surgery, radiation therapy  (RT), and/o r systemic therapy (THYM -2, 
+THYM -3, and THYM -4).  
+Surgery  
+For most resectable tumors, complete excision of the lesion by total thymectomy and complete surgical excision of contiguous and 
+noncontiguous disease is the primary oncologic goal (THYM -2).
+5,7,22,52- 55 
+Findings from multiple studies indicate that a complete resection is 
+considered an important prognostic factor for patients with thymic 
+malignancies.12,56- 60 A board -certified thoracic surgeon with a primary 
+focus on thoracic oncology should be involved in determining whether the mass can be surgically resected. If an R0 resection is deemed 
+uncertain, the NCCN Panel recommends preoperative systemic therapy, 
+which may improve resectability of the tumor (refer to the Systemic 
+Therapy section below).61-64 Surgical d ebulking  of tumors is 
+discouraged.65,66 
+The resection of adjacent structures, including the pericardium, phrenic nerve, pleura, lung, and even major vascular structures may be required 
+for a complete resection.
+52 Bilateral phrenic nerve resection should be 
+avoided due to severe respiratory morbidity. During thymectomy, the pleural surfaces should be examined for metastases. To achieve a 
+complete gross resection, removal of pleural metastases may be 
+appropriate in some patients.
+67-69 
+Tissue diagnosis with core needle biopsy is recommended for locally 
+advanced or metastatic thymic masses. Open biopsy may be considered 
+if core biopsy is neither  feasible nor diagnostic; a transpleural approach 
+should be avoided. The cancer protocol for thymic tumors from the 
+College of American Pathologists (CAP) may be useful for assessing 
+specimens.70 
+Minimally invasive procedures may be considered for clinical stage I –II 
+disease if all oncologic goals can be met and if performed in specialized 
+centers with surgeons who have  expertise in these techniques.71-83 
+However, m inimally invasive procedures are not routinely recommended, 
+because few long -term studies are available regarding recurrence and 
+survival.75,84- 86 A systematic review of 1061 patients with thymomas 
+reported that 5 -year overall survival after video -assisted thoracoscopic 
+surgery (VATS , 83%–100% vs. open , 79%–98%) and 10 -year 
+recurrence -free survival (VATS , 89%–100% vs. open,  80%–93%) were 
+similar in patients undergoing VATS compared to open thymectomy, although outcomes may be skewed due to selection bias.
+84 A 
+retrospective review in 2835 patients assessed VATS thymectomy PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-5 compared with sternotomy in patients with thymomas.87 The 5 -year 
+overall survival rate was 97.9% in the VATS group. The overall survival 
+rates were not significantly different when comparing the VATS group 
+versus the sternotomy group. A meta -analysis also showed that VATS 
+was safe and patients had similar ov erall survival when compared with 
+those receiving open thymectomy.88 There are additional clinical data 
+available regarding the use of other types of minimally invasive 
+procedures, such as robotic -assisted thymectomy (RATS).89  
+Radiation Therapy  
+RT is used for the treatment of thymomas or thymic carcinomas in 
+multiple settings. RT may be given for patients with unresectable 
+disease, for patients with incompletely resected invasive thymoma or thymic carcinoma, or as adjuvant therapy after systemic therapy and 
+surgery for patients with locally advanced disease (THYM -3 and THYM -
+4).
+90 
+In patients who undergo surgery for thymoma or thymic carcinoma, a 
+National Cancer Data Base study evaluating the impact of postoperative RT in 4006 patients found that postoperative RT was associated with 
+longer survival, particularly among those with Masaoka -Koga stage IIB 
+and III disease and among those with positive margins.
+91 Data from 
+another retrospective ITMIG database study based on 1263 patients with 
+completely resected Masaoka or Masaoka- Koga stage II or III thymoma 
+demonstrated that postoperative RT was associated with improved overall survival.
+92 Patients with completely resected early -stage thymoma 
+or thymic carcinoma are at low risk of disease recurrence; some studies 
+suggest that the addition of postoperative RT does  not provide a survival 
+benefit.22,91,93- 96 
+RT (with or without chemotherapy) is also an option for patients with 
+unresectable disease or those unable to undergo surgical resection.97-99 
+A prospective phase II study in 56 patients with unresectable thymic epithelial tumors found that  concurrent chemoradiation resulted in an 
+objective response rate of 85.7%.97 A single -center study of patients with 
+unresectable thymic carcinoma found that the overall response rate 
+following concurrent chemoradiation was 50% (8/16).98 Another single-
+center retrospective study evaluating the effects of RT (with or without chemotherapy) in 42 patients with unresectable locally advanced 
+thymoma or thymic carcinoma reported that the objective response rates 
+were 43.8% for the RT only group, 50% for the sequential 
+chemoradiation group, and 87.5% for the concurrent chemoradiation 
+group.
+100 
+Recommendations for RT should be made by radiation oncologists with experience in managing thymomas and thymic carcinomas. It is 
+important for radiation oncologists to communicate with surgeons about 
+the operative findings and determine the target volume a t risk. 
+Additionally, radiation oncologists should consult with the pathologist regarding histology, extent of disease (eg, extracapsular extension), and 
+surgical margins.  
+Use of intensity -modulated RT (IMRT) may decrease the dose to the 
+normal tissues.
+101 If IMRT is used, guidelines from the NCI Advanced 
+Technology Center (ATC) and American Society for Radiation 
+Oncology/American College of Radiology (ASTRO/ACR) should be followed.
+102- 106 ICRU- 83 (International Commission on Radiation Units 
+and Measurements Report 83) recommendations are also a useful 
+resource.104,107 Although the normal tissue constraints recommendations 
+for non -small cell lung cancer may be used (see the Principles of 
+Radiation Therapy  in the NCCN Guidelines for Non-Small Cell Lung 
+Cancer , available at www.NCCN.org ), more conservative limits are 
+recommended to minimize the dose volumes to all the normal 
+structures.108,109 Because these patients are younger and have long PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-6 overall survival, the mean dose to the heart should be as low as 
+reasonably achievable to potentially maximize survival.  
+A minimum technological standard for RT is CT -planned 3- D conformal 
+radiation therapy (3D -CRT). More advanced technologies are 
+appropriate when needed to deliver curative RT safely. These 
+technologies include (but are not limited to) 4D -CT and/or PET/CT 
+simulation, IMRT/volumetric modulated arc therapy (VMAT), IGRT, 
+motion management, and proton therapy. In particular, IMRT is preferred 
+over 3D -CRT. Compared to IMRT, proton therapy has been shown to 
+improve the dosimetry, allowing better sparing of the norm al tissues with 
+favorable local control and toxicity.110- 112 Incorporating 4D -CT for motion 
+assessment and other motion management strategies can facilitate reduction of treatment margins and permit more definitive RT dosing for 
+durable local control in this patient population that tends to have prolonged survival both in the curative and recurrent/metastatic 
+setting.
+101  
+Other Local Therapies  
+The NCCN Panel states that other local therapies such as image -guided 
+thermal ablation may be considered as a treatment option for patients 
+with advanced, metastatic, or recurrent thymic malignancies (THYM -4). 
+There are limited data available (primarily in the setting of thymomas) 
+supporting use of image -guided thermal ablation . One single- center 
+retrospective review that assessed the effect of CT- guided percutaneous 
+cryotherapy in 19 patients with unresectable thymoma found that the 
+median progression- free survival was 1 8 months.113 Additionally, no 
+severe complications involving vital organs were reported; pleural effusion was the most common side effect. The efficacy and safety of 
+CT-guided percutaneous cryoablation in five patients with recurrent 
+thymoma was evaluated in a retrospective study.
+114 Systemic Therapy  
+Systemic therapy is recommended in the NCCN Guidelines in multiple 
+settings for patients with thymoma and thymic carcinoma: 1)  
+preoperative therapy for potentially resectable advanced, metastatic, or 
+recurrent disease, 2) treatment for unresectable advanced, metastatic, or 
+recurrent disease, and 3) postoperative therapy for incompletely 
+resected disease.  
+For patients with advanced or metastatic thymoma or thymic carcinoma 
+that is potentially resectable ( ie, if an  R0 resection is uncertain), 
+preoperative systemic therapy (typically a combination chemotherapy 
+regimen) may be used to reduce tumor size and increase the odds of 
+obtaining a complete resection (THYM -4).61-64 A meta -analysis of studies 
+that evaluated the effect of preoperative therapy in patients with 
+advanced thymic epithelial tumors found that the pooled rate of response 
+to preoperative therapy was 59%; the 5- year overall survival rate was 
+87%.64 Another analysis found that the response rates were 70% to 80% 
+among the largest studies evaluating preoperative chemotherapy in 
+patients with thymic epithelial tumors; complete resection was reported in 
+approximately 50% of those treated with this approach.115,116 
+For patients with unresectable advanced or metastatic thymoma or 
+thymic carcinoma, systemic therapy (with or without RT, depending on 
+extent of disease dissemination) is recommended as the main treatment 
+approach (THYM -4). The NCCN Panel recommends various  platinum -
+based combination chemotherapy regimens as first -line systemic 
+treatment options (THYM -C 1 of 3). Other types of systemic therapies 
+are reserved for use as subsequent lines of therapy  (THYM -C 2 of 3) . 
+See Systemic Therapy for Thymoma  and Systemic  Therapy for Thymic 
+Carcinoma for specific regimens for each tumor type recommended in 
+these NCCN Guidelines.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-7 For patients with thymoma or thymic carcinoma who have surgery and 
+residual tumor is left behind, postoperative chemotherapy (in 
+combination with RT) is recommended as an option by the Panel  (THYM -
+3). Clinical evidence supporting use of postoperative chemotherapy in 
+this setting is limited due to the lack of randomized trial data. A recent 
+systematic review reported that data on the benefit of postoperative 
+chemotherapy in patients with thymic malignancies are mixed and may 
+be confounded by RT, which is frequently used in the postoperative 
+setting in those with incomplete resection.117 
+Thymomas 
+Thymomas typically occur in adults and are rare in children and  
+adolescents.3,22,118 The etiology of thymomas is unknown; alcohol, tobacco 
+smoking, and ionizing radiation do not appear to be risk factors for 
+thymomas.3 It has been reported that the incidence of thymomas is higher 
+among certain racial and ethnic  subgroups (ie, B lack and Asian 
+individuals) .3,119 
+Some patients diagnosed with thymoma  may be asymptomatic, while 
+others will present with chest pain, cough, or dyspnea. Although 
+thymomas can be locally invasive (eg, pleura, lung), they uncommonly 
+spread to regional lymph nodes or extrathoracic sites.7,120 -122 
+For many patients, mortality is not related to thymoma.40 A number of 
+autoimmune paraneoplastic diseases, including myasthenia gravis, 
+hypogammaglobulinemia, and pure red cell aplasia, are associated with 
+thymoma.123 Approximately  one-third of patients with thymomas may have 
+myasthenia gravis, the most common paraneoplastic syndrome 
+associated with thymoma.123- 125 The other paraneoplastic syndromes have 
+been estimated to occur in <10% of patients with thymoma.125 
+Symptoms suggestive of myasthenia gravis include ptosis, diplopia, 
+drooling, proximal muscle weakness, hoarseness, and/or dyspnea. If patients have myasthenia gravis, they should receive treatment by a 
+neurologist with experience in myasthenia gravis before undergoing 
+surgical resection.126- 128 The NCCN Panel recommends that patients with 
+thymoma undergo a clinical evaluation for signs of autoimmune 
+paraneoplastic disorders (THYM -1). 
+Surgically Resectable Thymoma 
+Completeness of resection is an important predictor of outcome for 
+patients with thymoma.12,56,57,129 For example, one study found that the 
+10-year survival rate of patients with thymoma and complete resection 
+was significantly higher than those with incomplete resection or biopsy 
+(76% vs 28%).56 The NCCN Panel recommends surgery (ie, total 
+thymectomy and complete excision of tumor) for all patients with 
+resectable thymoma who can tolerate the procedure (THYM -2).23,130,131 
+Among patients with resected thymoma  in one study , the 10 -year 
+survival rates were approximately 90%, 70%, 55%, and 35% for 
+Masaoka stage I, II, III, and IVa disease, respectively.132 
+Surgical biopsy should be avoided if a resectable thymoma is strongly suspected based on clinical and radiologic features (eg, patients have 
+myasthenia gravis and a characteristic mass on CT).
+22 A transpleural 
+approach should be avoided during biopsy of a possible thymoma.127,133 
+Small biopsy sampling (fine- needle or core needle biopsy) does not 
+indicate whether invasion is present.134 ITMIG and CAP have established 
+procedures for reporting the surgical and pathologic findings from 
+resection specimens.70,135 
+Postoperative treatment recommendations are dependent on disease 
+stage and completeness of resection (THYM -3). The NCCN Panel does 
+not recommend adjuvant therapy for patients with completely resected 
+(R0) Masaoka -Koga stage I thymomas (no capsular invasion ) due to low PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-8 recurrence risk and the absence of a survival benefit for this group.22,91,93 -
+95 
+There are conflicting data on whether patients with Masaoka stage II 
+thymoma with complete resection will derive benefit from postoperative 
+radiation.91,93- 95,136 Higher stage thymomas have a greater risk of disease 
+recurrence and therefore postoperative therapy may be warranted even 
+after complete resection.91,92,94,137,138 The NCCN Panel recommends that 
+RT after surgery can be considered if there is no residual tumor (R0) in patients with thymomas who have capsular invasion or Masaoka- Koga 
+stage II –IV disease. If surgical margins are positive, the NCCN Panel 
+recommends postoperative RT (if R1 resection) or definitive RT (with or 
+without chemotherapy; if R2 resection), regardless of thymoma 
+stage.
+91,139,140 Decisions about postoperative treatment should be made 
+by a multidisciplinary team . 
+For adjuvant RT, a dose of 45 to 50 Gy is recommended for clear or 
+close margins; a dose of 54 Gy is recommended for microscopically 
+positive resection margins.90,101,141 However, a total dose of 60 to 70 Gy 
+(1.8–2 Gy/fraction per day) is recommended for patients with gross 
+residual disease after surgery.142,143 Extensive elective nodal radiation is 
+not recommended, because thymomas do not typically metastasize to regional lymph nodes.
+7,144  
+Advanced, Metastatic , or Recurrent Thymoma 
+Although the majority of patients with thymoma have early -stage disease 
+at presentation, there are patients who may be diagnosed with stage III or 
+IV disease.5,56 A multidisciplinary discussion is recommended before 
+initiating treatment for advanced or metastatic thymoma as different 
+treatment modalities may be necessary. The NCCN Panel recommends 
+that if the disease is deemed resectable in the advanced or metastatic setting, then surgery may be performed if the patient is able to tolerate the 
+procedure (THYM -4). 
+For patients with thymoma with limited metastases that are potentially 
+resectable, the NCCN Panel recommends a multimodal approach with the 
+goal of long- term survival. Resectability is defined as complete (R0) 
+resection. This strategy consists of preoperative systemic therapy, 
+followed by surgery, if deemed resectable based on imaging.145,146 If the 
+primary tumor and any isolated metastases are resected, postoperative 
+RT can be considered.62,147 Definitive RT with or without chemotherapy  is 
+also an option, especially  if the disease is deemed unresectable after 
+systemic therapy.97 
+Treatment options for patients with unresectable localized thymomas 
+may include concurrent chemoradiation, systemic therapy, or 
+observation.97,148,149 Local therapies, such as image- guided thermal 
+ablation or RT, can also be considered .97,99,113,114,149 
+It is difficult to specify RT dosing regimens for advanced or metastatic 
+disease given the broad range of scenarios that are possible. In general, 
+a definitive dose of 60 to 70 Gy is recommended for patients with 
+unresectable disease.99 Stereotactic  ablative radiotherapy (SABR), also 
+known as stereotactic  body radiation therapy (SBRT) , may be 
+appropriate for limited focal metastases, whereas conventional 
+fractionation is appropriate for larger metastases. In the palliative setting, 
+typical palliative doses may be used—8 Gy in a single fraction, 20 Gy in 
+5 fractions, or 30 Gy in 10 fract ions—depending on the treatment 
+objectives. However, RT dosing can extend up to definitive doses for more durable local control. Highly conformal techniques may be 
+appropriate for limited volume metastases, given the relatively long 
+natural history of metastatic thymoma.
+150 PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-9 If there is evidence of extrathoracic metastases, the NCCN Panel 
+recommends systemic therapy as a means to alleviate symptoms and 
+achieve disease control.151-153 Refer to Systemic Therapy for Thymoma  
+below for information about specific regimens .  
+The proportion of patients with early -stage thymoma following complete 
+resection who will experience disease recurrence is thought to be low, 
+although overall thymoma recurrence rates reported in studies vary 
+widely.5,56,154 Treatment recommendations for recurrent thymoma are 
+similar to those for newly diagnosed locally advanced or metastatic 
+thymoma (THYM -4). As thymoma disease progression is often 
+locoregional  (eg, pleural or pulmonary)  rather than extrathoracic  in nature, 
+surgery or RT may be considered if deemed clinically feasible.13,56,155- 158 
+Systemic Therapy  for Thymoma 
+Thymomas are considered chemosensitive159; the Guidelines recommend 
+several chemotherapy regimens for patients with thymoma (THYM -C 1 of 
+3). 
+The NCCN Panel has preference stratified the first -line combination 
+chemotherapy treatment options for patients with thymomas. The 
+preferred first -line regimen is cisplatin/doxorubicin/cyclophosphamide 
+(CAP) .160 A 50% overall response rate was reported among 29 patients 
+with advanced or recurrent thymoma (and 1 with thymic carcinoma) who 
+received CAP in a clinical trial; 3 complete and 12 partial responses were 
+documented.160 Additionally, CAP was associated with a higher objective 
+response rate than other regimens (44% versus 17%, as exclusive 
+systemic therapy) in patients with advanced thymoma or thymic carcinoma 
+based on data from the RYTHMIC prospective database study.153 
+Non-anthracycline regimens (eg, cisplatin/etoposide [with or without 
+ifosfamide], carboplatin/paclitaxel) may be useful for patients who cannot 
+tolerate the preferred regimen.161- 164 The NCCN Panel has designated the following as “Other Recommended 
+Regimens” for patients with thymomas: CAP with prednisone, 
+doxorubicin/cisplatin/vincristine/cyclophosphamide (ADOC), 
+cisplatin/etoposide (PE), etoposide/ifosfamide/cisplatin, and 
+carboplati n/paclitaxel.62,161,162,164,165 If patients are unable to tolerate the 
+recommended first -line combination regimens, second- line systemic 
+therapy options described below can be considered. Carboplatin/paclitaxel 
+and PE can be used in combination with RT as definitive concurrent 
+radiation.  
+Multiple systemic therapy regimens can be considered for treating thymomas in the second -line setting (THYM -C 2 of 3). The NCCN Panel 
+has designated the following as preferred second- line systemic therapy 
+options for the treatment of thymomas: everolimus, gemcitabine (with or 
+without capecitabine), octreotide (if octreotide scan or dotatate PET/CT 
+positive, with or without  prednisone), or pemetrexed.
+166- 170 Other 
+recommended regimens in the second- line setting for thymoma are 5 -FU 
+in combination with leucovorin  and single- agent paclitaxel.125,171 Single -
+agent etoposide and single- agent ifosfamide have been deemed by the 
+Panel as subsequent therapy regimens that may be useful in certain circumstances.
+172,173 
+Treatment of thymoma with anti -PD-1/PD -L1 therapies  is not 
+recommended due to concerns about immune- related adverse events  in 
+a population of patients who are already predisposed to paraneoplastic autoimmune disorders .
+174,175 Among the patients with thymoma who 
+received pembrolizumab in a phase II trial, 71% (5/7) experienced grade 3 or higher immune -related adverse events, including myocarditis.
+176 
+Surveillance: Thymoma 
+Despite excellent survival rates, surveillance remains essential for 
+patients with thymoma as a wide range of recurrence rates has been PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-10 reported.5,56,154 Late recurrences occurring 10 years or later after surgical 
+resection  have been documented,56 which may be due to the indolent 
+growth of some thymomas.  
+For patients with completely resected Masaoka -Koga stage I thymoma 
+(and no capsular  invasion), the NCCN Panel recommends that 
+surveillance for thymoma recurrence should include chest CT with 
+contrast every 6 to 12 months for 2 years, then annually until 10 years. 
+For all other patients with thymoma, surveillance should include chest CT 
+with contrast every 6 months for 2 years, then annually until 10 years. 
+MRI may be used for surveillance for certain clinical situations, including: 1) if patients cannot tol erate contrast; and 2) to decrease radiation if 
+patients are young and will be screened for many years.
+35 
+The NCCN Panel notes that the duration, frequency, and type of imaging 
+for surveillance for patients with thymomas have not been prospectively 
+evaluated . Patients with thymoma have an increased risk for second 
+malignancies, although no particular screening studies are 
+recommended.3,4,177,178  
+Thymic Carcinomas 
+Thymic carcinomas are rare aggressive tumors that often metastasize to 
+regional lymph nodes and extrathoracic sites.5,13,19,179 -181 These tumors 
+differ  from thymomas because of their malignant histologic features and 
+their different immunohistochemical and genetic features.1,2,18,182 They 
+are predominantly squamous cell carcinomas. However, thymic carcinomas should be differentiated from primary lung malignancies that 
+metastasize to the thymus and may have a similar histologic 
+appearance.
+183 
+Symptoms that patients with thymic carcinoma may experience include 
+dyspnea, chest pain, superior vena cava syndrome, and others related to mass effect.11 Thymic carcinomas often cause pericardial and pleural 
+effusions.  
+Thymic carcinomas are associated with a different clinical course from 
+thymomas.152,182,184 Unlike patients with thymomas, paraneoplastic 
+syndromes (eg, myasthenia gravis) are rare in patients with thymic 
+carcinoma.9,123,141 If myasthenia gravis is diagnosed, then the diagnosis 
+of thymic carcinoma should be reassessed, as the patient may have thymoma.
+9,11 In contrast to thymomas (which mainly occur in adults), 
+thymic carcinomas occur over a wide age range (including adolescents).
+9,11  
+Surgically Resectable Thymic Carcinoma  
+The NCCN Panel recommends surgery for all patients with resectable thymic carcinoma who can tolerate the procedure (THYM -2). Complete 
+resection is associated with better survival outcomes than incomplete resection or unresectable thymic carcinoma.
+185,186 The 5-year survival 
+rate of patients who have an R0 resection is estimated to be around 60 % 
+to 70%.9,10 For completely resected (R0) Masaoka -Koga stage I thymic 
+carcinomas with no capsular invasion, postoperative therapy is not 
+recommended by the NCCN Panel.91,187 
+RT can be used to maximize local control after surgery for higher stage disease or if there are positive margins. A recent retrospective analysis 
+evaluated the impact of postoperative RT in 462 patients with thymic 
+carcinoma from the ITMIG/European Society  of Thoracic Surgeons 
+(ESTS) database.
+187 Surgery followed by postoperative RT was 
+associated with a significantly higher 5 -year overall survival rate than 
+surgery alone for patients with Masaoka stage III or IV thymic carcinoma, 
+regardless of resection margin status. Addition of postoperative RT  was 
+associated with better survival outcomes than the absence of postoperative RT among patients who had R1 or R2 margins after PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-11 surgery. Use of postoperative RT for stage II thymic carcinoma has 
+historically been controversial; however, there are some data that 
+suggest RT may have clinical benefit in this setting.10,11,136 
+For patients with Masaoka -Koga stage II –IV thymic carcinoma and R0 
+margins after surgery, postoperative RT can be considered. For patients 
+with positive margins after surgical resection (regardless of disease 
+stage), postoperative management options recommended by the NCCN 
+Panel include RT alone or in combination with 
+chemotherapy.9,10,90,136,179,186,188 However, the Panel acknowledges that 
+there is a diversity of opinion on the optimal treatment approach in this 
+setting.146 
+For adjuvant RT, a dose of 45 to 50 Gy is recommended for clear or 
+close margins; a dose of 54 Gy is recommended for microscopically 
+positive resection margins (see Principles of Radiation Therapy  in the full 
+Guidelines at www.NCCN.org ).90,99,101,141,142 However, a total dose of 60 
+to 70 Gy (1.8 –2 Gy/fraction per day) is recommended for patients with 
+gross residual disease after surgery.99,142,143 
+Advanced, Metastatic, or  Recurrent Thymic Carcinoma  
+Many patients with thymic carcinoma may have advanced or metastatic 
+disease at presentation. In two separate studies, over three -quarters of 
+patients with thymic carcinoma were diagnosed with Masaoka stage III or 
+IV disease.9,10 Patients treated for thymic carcinoma are also at significant 
+risk of disease recurrence. In a retrospective analysis of 1042 patients with 
+thymic carcinoma from the ITMIG/ESTS database, the cumulative 
+incidence of recurrence (CIR) at 5 years was 35%, whi le the 10- year CIR 
+was 40%.10 
+The paradigm for treating advanced, metastatic, or recurrent thymic 
+carcinoma is like that used for thymomas (THYM -4). The NCCN Panel 
+recommends that patients with advanced, metastatic, or recurrent thymic carcinoma should be evaluated by a multidisciplinary team to determine 
+the most appropriate treatment approach . If the disease is resectable and 
+the patient is considered medically operable, then surgery is recommended, followed by postoperative therapy with RT or systemic 
+therapy to reduce risk of recurr ence after surgery. A complete (R0) 
+resection is a critical prognostic factor.
+185,186,189 Among patients with thymic 
+carcinoma whose outcomes were analyzed in a retrospective study, the 5 -
+year survival rate of those with complete resection (66.9%) was higher 
+than those with subtotal resection (30.1%) or whose disease was 
+considered inoperable ( 24.2%).5 
+For potentially resectable disease, the NCCN Panel recommends multimodal therapy consisting of neoadjuvant systemic therapy to increase 
+the odds of a complete resection, followed by surgical resection of the 
+primary tumor and any isolated metastases (if resectable), and/or RT (with 
+or without chemotherapy).
+9,10,145,146,148 Determination of resectability , 
+defined as a complete (R0) resection, should be made by a thoracic 
+surgeon together with multidisciplinary consultation as needed.  
+Treatment for unresectable disease should be individualized based on 
+disease dissemination and other patient specific factors; recommended 
+treatments in this setting may include concurrent chemoradiation, 
+systemic therapy, observation, or local therapies (THYM -4).97,99,149 A 
+definitive RT dose of 60 to 70 Gy is recommended for patients with 
+unresectable thymic carcinomas.97,99 Local therapy options for focal 
+metastatic lesions can include RT or image -guided thermal 
+ablation .99,113,114 
+The spread of thymic carcinoma to distant sites such as brain, liver, 
+bone,  and lung has been documented.13,179 If there is evidence of 
+extrathoracic metastases in patients with thymic carcinoma, the NCCN 
+Panel recommends systemic therapy. Refer to the Systemic Therapy for 
+Thymic Carcinoma below for recommended regimens.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-12 Systemic Therapy for Thymic Carcinoma 
+Several types of systemic therapy have clinical activity in thymic 
+carcinomas, although these tumors are considered less chemosensitive 
+than thymomas in general.163 The NCCN Panel consensus is that 
+carboplatin/paclitaxel (with or without ramucirumab) is the preferred first -
+line combination chemotherapy regimen for patients with thymic carcinoma, due to the response rates reported in prospective clinical 
+trials (THYM -C 1 of 3).
+161,190,191 
+A phase II clinical trial reported an overall response rate of 36% among 
+39 patients with chemo -naïve advanced thymic carcinoma who received 
+carboplatin/paclitaxel; this included 1 complete response and 13 partial responses.
+190 The median progression -free survival  reported was 7.5 
+months and the 2 -year overall survival rate was 71%. A different 
+prospective multicenter study reported an overall response rate of 21.7% 
+among 23 patients with unresectable thymic carcinoma who were treated 
+with carboplatin/paclitaxel; 5 partial responses were reported.161 The 
+median overall survival was 20 months.  
+Carboplatin/paclitaxel in combination with the vascular endothelial growth factor ( VEGF ) pathway  inhibitor ramucirumab was recently added 
+to the Guidelines as a preferred first -line systemic therapy option based 
+on data from the single -arm phase II RELEVENT trial in patients with 
+treatment -naïve advanced or metastatic thymic carcinoma.
+191 The 
+objective response rate was 80% based on investigator assessment and 
+57.6% based on central review among 35 patients who received 
+carboplatin/paclitaxel/ramucirumab. At a median follow- up of 31.6 
+months, the median overall survival was 43.8 months. In the phase II 
+S1701 study, 21 patients with unresectable, locally advanced, 
+metastatic, or recurrent thymic carcinoma were randomized to receive 
+carboplatin/paclitaxel with or without ramucirumab.192 The 
+carboplatin/paclitaxel/ramucirumab  group had a higher response rate than the carboplatin/paclitaxel  group ( 88% versus  40%). However, 
+clinicians should be aware that patients with untreated brain metastases or major standard contraindications to anti- angiogenics were not 
+included in the RELEVENT or S1701 study populations. There is no published experience using carboplatin/paclitaxel/ramucirumab as a 
+preoperative therapy.  
+The NCCN Panel has designated the following as “Other Recommended” first-line systemic therapy options for patients with thymic carcinomas : 
+CAP with or without prednisone, ADOC, PE, and etoposide/ifosfamide/cisplatin.
+62,160,162,164,165 Although the CAP and ADOC 
+regimens have demonstrated efficacy in the treatment of thymic carcinomas, they are not preferred due to their toxicity. 
+Carboplatin/paclitaxel and PE are regimens that can be used in 
+combination with RT as definitive concurrent chemoradiation. 
+For thymic carcinomas, data on systemic therapy in the second- line 
+setting are limited. T he following are categorized by the NCCN Panel as 
+“Preferred” second- line systemic therapy options: gemcitabine with or 
+without capecitabine, lenvatinib, pembrolizumab, and sunitinib (THYM -C 2 
+of 3).167,193- 196 
+Pembrolizumab is active (response rate, 22.5%) as a second -line 
+therapy in patients with thymic carcinomas but is associated with a high rate of severe immune -related adverse events (15%).
+194,197 For example, 
+grade 3– 4 myocarditis has been reported in 5% to 9% of patients with 
+thymic carcinomas receiving pembrolizumab, which is higher than the 
+rate reported in patients with other malignancies who receive 
+pembrolizumab.176,194 
+Sunitinib is recommended for patients with thymic carcinoma regardless 
+of c-Kit mutation status based on data from an open- label phase II 
+study.195 Out of 23 patients with chemotherapy -refractory thymic PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-13 carcinoma, a partial response with sunitinib was observed in 6 
+individuals (26%). The single- arm phase II STYLE trial also evaluated 
+sunitinib as subsequent therapy in patients with advanced or recurrent type B3 thymoma and thymic carcinoma.
+196 The overall response rate 
+was 21.4% among 28 assessable patients with thymic carcinoma in the 
+intention -to-treat population; the median overall survival was 27.8 
+months.  
+Based on data from the single- arm phase II REMORA trial, the objective 
+response rate was 38% among 42 patients with metastatic or recurrent thymic carcinoma who received lenvatinib.
+193 The NCCN Panel notes 
+that there is a risk for  intolerable adverse effects with lenvatinib and dose 
+reductions may be needed.  
+“Other Recommended” second- line treatment options for thymic 
+carcinoma include avelumab in combination with axitinib, everolimus, 5- FU 
+in combination with leucovorin, paclitaxel, and 
+pemetrexed.125,166,170,171,198,199 Avelumab in combination with axitinib was 
+recently added to the Guidelines as a second -line treatment option for 
+thymic carcinoma based on data from the single- arm phase II CAVEATT 
+trial in patients whose advanced thymic carcinoma or type B3 thymoma 
+had progressed after at least one line of platinum -containing 
+chemotherapy.199 Out of 32 patients in the study, 27 had thymic 
+carcinoma. Prior use of anti -angiogenics was permitted; 4 patients in the 
+study previously received ramucirumab. The overall response rate of 
+those treated with avelumab/axitinib was 34%; however, the respons e rate 
+of patients who previously received an anti -angiogenic was lower than that 
+of those who had not (15% versus 47%).  
+Single -agent etoposide and single- agent ifosfamide are recommended by 
+the NCCN Panel as second- line treatment options that may be useful in 
+certain circumstances.172,200  Recent data suggest that other systemic regimens may also have activity 
+in patients with advanced, metastatic, or recurrent thymic carcinoma.201 
+The NCCN Panel will continue to evaluate emerging clinical evidence on an annual basis to determine if additional systemic therapy options 
+should be recommended in these Guidelines.  
+Surveillance: Thymic Carcinoma  
+Due to the aggressive nature of the disease, patients with thymic carcinoma are at higher risk of recurrence than those diagnosed with 
+thymoma. In a subgroup of patients whose tumor was completely 
+resected, one study found that 51.2% of patients with thymi c carcinoma 
+developed disease recurrence compared with 7.8% of patients with thymoma.
+5 Additionally, progression to distant sites may occur more 
+frequently in patients with thymic carcinoma than those with thymoma.13  
+A wide range of time to recurrence has been reported. For instance, one 
+study reported that the time to recurrence ranged from 2 to 108 months, 
+with a median of 11 months, among 40 patients with thymic carcinoma 
+who had undergone surgical resection with cu rative intent.9 
+For patients with completely resected Masaoka -Koga stage I thymic 
+carcinoma (and no capsular invasion), the NCCN Panel recommends that surveillance imaging should consist of chest CT with contrast every 
+6 to 12 months for 2 years, then annually until 5 years. Surveillance for 
+all other patients treated for thymic carcinoma should include chest CT 
+every 3 to 6 months for 2 years, then annually for 5 years. However, the 
+NCCN Panel notes that the duration, frequency, and type of imaging for 
+surveillance for thymic carcinomas ha ve not been evaluated in 
+prospective  studies.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-14 Summary  
+Thymomas and thymic carcinomas are rare thymic  epithelial tumors that 
+originate in the thymus . These  NCCN Guidelines  outline the evaluation , 
+treatment , and surveillance recommendations for patients with  thymomas 
+and thymic carcinomas . Involvement of a multidisciplinary team that 
+includes  radiation oncologists, thoracic surgeons, medical oncologists, 
+pathologists, neurologists, and diagnostic imaging specialists  is critical for 
+the optimal care of patients with thymomas or thymic carcinomas. If 
+clinically feasible, surgery is recommended since a complete resection is 
+considered a key prognostic factor. A multimodal treatment approach that 
+includes surgery, RT, an d/or systemic therapy may be needed for those 
+with poor prognosis and/or advanced disease. The NCCN Panel will continue to update these Guidelines annually based on clinical evidence 
+and consensus.  
+ PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-15 References  
+1. Marx A, Chan JKC, Chalabreysse L, et al. The 2021 WHO 
+Classification of tumors of the thymus and mediastinum: what is new in 
+thymic epithelial, germ cell, and mesenchymal tumors? J Thorac Oncol 
+2022;17:200 -213. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/34695605 . 
+2. Marx A, Detterback F, Marom EM. Tumors of the Thymus. WHO 
+Classification of Tumours Editorial Board. Thoracic Tumours, 5th ed. Vol. 
+7: World Health Organization; 2021.  
+3. Engels EA. Epidemiology of thymoma and associated malignancies. J 
+Thorac Oncol 2010;5:S260- 265. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20859116 . 
+4. Gerber TS, Strobl S, Marx A, et al. Epidemiology of thymomas and 
+thymic carcinomas in the United States and Germany, 1999- 2019. Front 
+Oncol 2023;13:1308989. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/38264756 . 
+5. Kondo K, Monden Y. Therapy for thymic epithelial tumors: a clinical study of 1,320 patients from Japan. Ann Thorac Surg 2003;76:878- 884; 
+discussion 884 -885. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/12963221 . 
+6. Mariano C, Ionescu DN, Cheung WY, et al. Thymoma: a population -
+based study of the management and outcomes for the province of British 
+Columbia. J Thorac Oncol 2013;8:109- 117. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23242441 . 
+7. Masaoka A. Staging system of thymoma. J Thorac Oncol 
+2010;5:S304- 312. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20859124 . 
+8. Proceedings of the first international conference on thymic malignancies. August 20 -21, 2009. Bethesda, Maryland, USA. J Thorac 
+Oncol 2010;5:S259 -370. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21275152 . 
+9. Litvak AM, Woo K, Hayes S, et al. Clinical characteristics and 
+outcomes for patients with thymic carcinoma: evaluation of Masaoka 
+staging. J Thorac Oncol 2014;9:1810 -1815. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25393794 . 
+10. Ahmad U, Yao X, Detterbeck F, et al. Thymic carcinoma outcomes and prognosis: results of an international analysis. J Thorac Cardiovasc Surg 2015;149:95- 100, 101.e101 -102. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25524678 . 
+11. Roden AC, Ahmad U, Cardillo G, et al. Thymic carcinomas -a concise 
+multidisciplinary update on recent developments from the Thymic 
+Carcinoma Working Group of the International Thymic Malignancy 
+Interest Group. J Thorac Oncol 2022;17:637- 650. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/35227908 . 
+12. Zhao Y, Shi J, Fan L, et al. Surgical treatment of thymoma: an 11 -
+year experience with 761 patients. Eur J Cardiothorac Surg 
+2016;49:1144 -1149. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26324679 . 
+13. Huang J, Rizk NP, Travis WD, et al. Comparison of patterns of 
+relapse in thymic carcinoma and thymoma. J Thorac Cardiovasc Surg 
+2009;138:26 -31. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/19577051 . 
+14. PubMed. Available at: https://pubmed.ncbi.nlm.nih.gov/about/ . 
+Accessed April 24, 2025.  
+15. Freedman -Cass DA, Fischer T, Alpert AB, et al. The value and 
+process of inclusion: using sensitive, respectful, and inclusive language 
+and images in NCCN content. J Natl Compr Canc Netw 2023;21:434-
+441. Available at: https://www.ncbi.nlm.nih.gov/pubmed/37156485.  
+16. den Bakker MA, Marx A, Mukai K, Strobel P. Mesenchymal tumours 
+of the mediastinum --part I. Virchows Arch 2015;467:487- 500. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/26358059.  
+17. Araki T, Nishino M, Gao W, et al. Anterior mediastinal masses in the 
+Framingham Heart study: prevalence and CT image characteristics. Eur 
+J Radiol Open 2015;2:26- 31. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25705709 . 
+18. Marchevsky A, Marx A, Strobel P, et al. Policies and reporting 
+guidelines for small biopsy specimens of mediastinal masses. J Thorac 
+Oncol 2011;6:S1724 -1729. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21847054 . 
+19. Strollo DC, Rosado de Christenson ML, Jett JR. Primary mediastinal 
+tumors. Part 1: tumors of the anterior mediastinum. Chest 1997;112:511-
+522. Available at: https://www.ncbi.nlm.nih.gov/pubmed/9266892 . 
+20. Strollo DC, Rosado -de-Christenson ML, Jett JR. Primary mediastinal 
+tumors: part II. Tumors of the middle and posterior mediastinum. Chest PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-16 1997;112:1344 -1357. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/9367479.  
+21. Rashid OM, Cassano AD, Takabe K. Thymic neoplasm: a rare 
+disease with a complex clinical presentation. J Thorac Dis 2013;5:173-
+183. Available at: https://www.ncbi.nlm.nih.gov/pubmed/23585946.  
+22. Detterbeck FC, Parsons AM. Management of stage I and II thymoma. Thorac Surg Clin 2011;21:59 -67, vi -vii. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21070987 . 
+23. Detterbeck FC, Zeeshan A. Thymoma: current diagnosis and treatment. Chin Med J (Engl) 2013;126:2186 -2191. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23769581 . 
+24. Almeida P, Heller D. Anterior Mediastinal Mass. [Updated 2024 Apr 19] StatPearls [Internet]: Treasure Island (FL): StatPearls Publishing. 
+Available at: https://www.ncbi.nlm.nih.gov/books/NBK546608/ . Accessed 
+April 24, 2025.  
+25. Barth TFE, Leithäuser F, Joos S, et al. Mediastinal (thymic) large B -
+cell lymphoma: where do we stand? Lancet Oncol 2002;3:229- 234. 
+Available at: http://www.ncbi.nlm.nih.gov/pubmed/12067685 . 
+26. Ferolla P, Falchetti A, Filosso P, et al. Thymic neuroendocrine 
+carcinoma (carcinoid) in multiple endocrine neoplasia type 1 syndrome: 
+the Italian series. J Clin Endocrinol Metab 2005;90:2603- 2609. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/15713725.  
+27. Teh BT. Thymic carcinoids in multiple endocrine neoplasia type 1. J 
+Intern Med 1998;243:501- 504. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/9681849.  
+28. Moran CA, Suster S. Primary germ cell tumors of the mediastinum: I. 
+Analysis of 322 cases with special emphasis on teratomatous lesions 
+and a proposal for histopathologic classification and clinical staging. 
+Cancer 1997;80:681 -690. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/9264351.  
+29. McKenney JK, Heerema -McKenney A, Rouse RV. Extragonadal 
+germ cell tumors: a review with emphasis on pathologic features, clinical 
+prognostic variables, and differential diagnostic considerations. Adv Anat 
+Pathol 2007;14:69- 92. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17471115 . 
+30. Yokoi K, Kondo K, Fujimoto K, et al. JLCS medical practice 
+guidelines for thymic tumors: summary of recommendations. Jpn J Clin Oncol 2017;47:1119 -1122. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29036455 . 
+31. Strange CD, Truong MT, Ahuja J, et al. Imaging evaluation of thymic 
+tumors. Mediastinum 2023;7:28. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/37701637 . 
+32. Strange CD, Ahuja J, Shroff GS, et al. Imaging evaluation of thymoma and thymic carcinoma. Front Oncol 2021;11:810419. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/35047412.  
+33. Quint LE, Reddy RM, Lin J, et al. Imaging in thoracic oncology: case 
+studies from Multidisciplinary Thoracic Tumor Board: (part 2 of 2 part 
+series). Cancer Imaging 2013;13:440 -447. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24325879 . 
+34. Marom EM, Rosado -de-Christenson ML, Bruzzi JF, et al. Standard 
+report terms for chest computed tomography reports of anterior 
+mediastinal masses suspicious for thymoma. J Thorac Oncol 
+2011;6:S1717 -1723. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21847053 . 
+35. Marom EM. Imaging thymoma. J Thorac Oncol 2010;5:S296- 303. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/20859123 . 
+36. Carter BW, Lichtenberger JP, 3rd, Benveniste MF. MR imaging of thymic epithelial neoplasms. Top Magn Reson Imaging 2018;27:65 -71. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/29613961 . 
+37. Carter BW, Marom EM, Detterbeck FC. Approaching the patient with an anterior mediastinal mass: a guide for clinicians. J Thorac Oncol 
+2014;9:S102- 109. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25396306 . 
+38. Moran CA, Weissferdt A, Kalhor N, et al. Thymomas I: a 
+clinicopathologic correlation of 250 cases with emphasis on the World 
+Health Organization schema. Am J Clin Pathol 2012;137:444 -450. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/22338057 . 
+39. Detterbeck FC, Nicholson AG, Kondo K, et al. The Masaoka- Koga 
+stage classification for thymic malignancies: clarification and definition of 
+terms. J Thorac Oncol 2011;6:S1710- 1716. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21847052 . 
+40. Huang J, Detterbeck FC, Wang Z, Loehrer PJ, Sr. Standard outcome 
+measures for thymic malignancies. J Thorac Oncol 2011;6:S1691- 1697. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/21847049 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-17 41. Moran CA, Walsh G, Suster S, Kaiser L. Thymomas II: a 
+clinicopathologic correlation of 250 cases with a proposed staging 
+system with emphasis on pathologic assessment. Am J Clin Pathol 
+2012;137:451 -461. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22338058 . 
+42. Kondo K. Tumor -node metastasis staging system for thymic epithelial 
+tumors. J Thorac Oncol 2010;5:S352- 356. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20859132 . 
+43. Masaoka A, Monden Y, Nakahara K, Tanioka T. Follow -up study of 
+thymomas with special reference to their clinical stages. Cancer 1981;48:2485 -2492. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/7296496.  
+44. Benveniste MFK, Betancourt Cuellar SL, Carter BW, et al. Thymic 
+epithelial neoplasms: Tumor -Node -Metastasis staging. Radiol Clin North 
+Am 2021;59:183- 192. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/33551080 . 
+45. Amin MB, Edge SB, Greene FL, et al. AJCC Cancer Staging Manual, 
+8th edition: Springer International Publishing; 2017:1 -1032.  
+46. Carter BW, Benveniste MF, Madan R, et al. IASLC/ITMIG staging system and lymph node map for thymic epithelial neoplasms. 
+Radiographics 2017;37:758- 776. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28493800 . 
+47. Meurgey A, Girard N, Merveilleux du Vignaux C, et al. Assessment of 
+the ITMIG Statement on the WHO Histological Classification and of the 
+Eighth TNM Staging of Thymic Epithelial Tumors of a Series of 188 
+Thymic Epithelial Tumors. J Thorac Oncol 2017;12:1571- 1581. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/28694035.  
+48. Detterbeck FC, Stratton K, Giroux D, et al. The IASLC/ITMIG Thymic 
+Epithelial Tumors Staging Project: proposal for an evidence -based stage 
+classification system for the forthcoming (8th) edition of the TNM 
+classification of malignant tumors. J Thorac O ncol 2014;9:S65 -72. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/25396314 . 
+49. Roden AC, Yi ES, Jenkins SM, et al. Reproducibility of 3 histologic 
+classifications and 3 staging systems for thymic epithelial neoplasms and 
+its effect on prognosis. Am J Surg Pathol 2015;39:427- 441. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25634747 . 
+50. Fukui T, Fukumoto K, Okasaka T, et al. Clinical evaluation of a new 
+tumour -node -metastasis staging system for thymic malignancies proposed by the International Association for the Study of Lung Cancer 
+Staging and Prognostic Factors Committee and the International Thymic 
+Malignancy Interest Group. Eur J Cardiothorac Surg 2016;49:574- 579. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/26547095 . 
+51. Bhora FY, Chen DJ, Detterbeck FC, et al. The ITMIG/IASLC thymic 
+epithelial tumors staging project: a proposed lymph node map for thymic 
+epithelial tumors in the forthcoming 8th edition of the TNM Classification 
+of malignant tumors. J Thorac Oncol 2014; 9:S88- 96. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25396317 . 
+52. Liou DZ, Berry MF, Brown LM, et al. The Society of Thoracic 
+Surgeons expert consensus document on the surgical management of 
+thymomas. Ann Thorac Surg 2024;118:975 -1004. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/38718878 . 
+53. Fiorelli A, Natale G, Freda C, Santini M. Is thymomectomy equivalent to complete thymectomy in non- myasthenic patients with early -stage 
+thymoma? Interact Cardiovasc Thorac Surg 2019;28:399 -403. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/30188996.  
+54. Kondo K. Optimal therapy for thymoma. J Med Invest 2008;55:17 -28. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/18319541 . 
+55. Detterbeck FC, Parsons AM. Thymic tumors. Ann Thorac Surg 
+2004;77:1860 -1869. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/15111216 . 
+56. Regnard JF, Magdeleinat P, Dromer C, et al. Prognostic factors and long- term results after thymoma resection: a series of 307 patients. J 
+Thorac Cardiovasc Surg 1996;112:376 -384. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/8751506.  
+57. Nakagawa K, Asamura H, Matsuno Y, et al. Thymoma: a clinicopathologic study based on the new World Health Organization 
+classification. J Thorac Cardiovasc Surg 2003;126:1134- 1140. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/14566259.  
+58. Rea F, Marulli G, Girardi R, et al. Long- term survival and prognostic 
+factors in thymic epithelial tumours. Eur J Cardiothorac Surg 
+2004;26:412 -418. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/15296907 . 
+59. Detterbeck F, Youssef S, Ruffini E, Okumura M. A review of 
+prognostic factors in thymic malignancies. J Thorac Oncol 
+2011;6:S1698 -1704. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21847050 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-18 60. Ruffini E, Detterbeck F, Van Raemdonck D, et al. Tumours of the 
+thymus: a cohort study of prognostic factors from the European Society 
+of Thoracic Surgeons database. Eur J Cardiothorac Surg 2014;46:361 -
+368. Available at: https://www.ncbi.nlm.nih.gov/pubmed/24482389.  
+61. Riely GJ, Huang J. Induction therapy for locally advanced thymoma. 
+J Thorac Oncol 2010;5:S323- 326. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20859127 . 
+62. Kim ES, Putnam JB, Komaki R, et al. Phase II study of a multidisciplinary approach with induction chemotherapy, followed by 
+surgical resection, radiation therapy, and consolidation chemotherapy for 
+unresectable malignant thymomas: final report. Lung Ca ncer 
+2004;44:369 -379. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/15140551 . 
+63. Kunitoh H, Tamura T, Shibata T, et al. A phase II trial of dose- dense 
+chemotherapy, followed by surgical resection and/or thoracic 
+radiotherapy, in locally advanced thymoma: report of a Japan Clinical 
+Oncology Group trial (JCOG 9606). Br J Cancer 2010; 103:6- 11. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/20551960 . 
+64. Hamaji M, Ali SO, Burt BM. A meta -analysis of induction therapy for 
+advanced thymic epithelial tumors. Ann Thorac Surg 2015;99:1848 -1856. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/25770014 . 
+65. Attaran S, Acharya M, Anderson JR, Punjabi PP. Does surgical debulking for advanced stages of thymoma improve survival? Interact 
+Cardiovasc Thorac Surg 2012;15:494- 497. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22700684 . 
+66. Weksler B, Dhupar R, Parikh V, et al. Thymic carcinoma: a 
+multivariate analysis of factors predictive of survival in 290 patients. Ann 
+Thorac Surg 2013;95:299- 303. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23141529 . 
+67. Wright CD. Stage IVA thymoma: patterns of spread and surgical 
+management. Thorac Surg Clin 2011;21:93 -97, vii. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21070990 . 
+68. Wright CD. Extended resections for thymic malignancies. J Thorac 
+Oncol 2010;5:S344 -347. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20859130 . 
+69. Huang J, Rizk NP, Travis WD, et al. Feasibility of multimodality therapy including extended resections in stage IVA thymoma. J Thorac Cardiovasc Surg 2007;134:1477- 1483; discussion 1483- 1474. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/18023668.  
+70. Raparia K, Schneider F, Roden A, Dacic S. Protocol for the 
+examination of specimens from patients with thymic tumors.: College of 
+American Pathologists; 2024. Available at: 
+https://documents.cap.org/protocols/Thymus_5.0.0.0.REL.CAPCP.pdf . 
+71. Pennathur A, Qureshi I, Schuchert MJ, et al. Comparison of surgical 
+techniques for early -stage thymoma: feasibility of minimally invasive 
+thymectomy and comparison with open resection. J Thorac Cardiovasc Surg 2011;141:694 -701. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21255798 . 
+72. Ye B, Tantai JC, Ge XX, et al. Surgical techniques for early -stage 
+thymoma: video -assisted thoracoscopic thymectomy versus transsternal 
+thymectomy. J Thorac Cardiovasc Surg 2014;147:1599- 1603. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/24290709.  
+73. Sakamaki Y, Oda T, Kanazawa G, et al. Intermediate -term oncologic 
+outcomes after video -assisted thoracoscopic thymectomy for early -stage 
+thymoma. J Thorac Cardiovasc Surg 2014;148:1230- 1237.e1231. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/24560416 . 
+74. Manoly I, Whistance RN, Sreekumar R, et al. Early and mid -term 
+outcomes of trans -sternal and video -assisted thoracoscopic surgery for 
+thymoma. Eur J Cardiothorac Surg 2014;45:e187- 193. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24616388 . 
+75. Liu TJ, Lin MW, Hsieh MS, et al. Video -assisted thoracoscopic 
+surgical thymectomy to treat early thymoma: a comparison with the 
+conventional transsternal approach. Ann Surg Oncol 2014;21:322 -328. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/23982255 . 
+76. Friedant AJ, Handorf EA, Su S, Scott WJ. Minimally Invasive versus 
+Open Thymectomy for Thymic Malignancies: Systematic Review and 
+Meta -Analysis. J Thorac Oncol 2016;11:30- 38. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26762737 . 
+77. Burt BM, Yao X, Shrager J, et al. Determinants of complete resection 
+of thymoma by minimally invasive and open thymectomy: analysis of an 
+international registry. J Thorac Oncol 2017;12:129- 136. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27566187 . 
+78. Jurado J, Javidfar J, Newmark A, et al. Minimally invasive thymectomy and open thymectomy: outcome analysis of 263 patients. PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-19 Ann Thorac Surg 2012;94:974 -981; discussion 981- 972. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22748641 . 
+79. Hess NR, Sarkaria IS, Pennathur A, et al. Minimally invasive versus 
+open thymectomy: a systematic review of surgical techniques, patient 
+demographics, and perioperative outcomes. Ann Cardiothorac Surg 
+2016;5:1 -9. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26904425 . 
+80. Yang CJ, Hurd J, Shah SA, et al. A national analysis of open versus minimally invasive thymectomy for stage I to III thymoma. J Thorac 
+Cardiovasc Surg 2020;160:555- 567 e515. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32245668 . 
+81. Hurd J, Haridas C, Potter A, et al. A national analysis of open versus 
+minimally invasive thymectomy for stage I -III thymic carcinoma. Eur J 
+Cardiothorac Surg 2022;62. Available at: https://www.ncbi.nlm.nih.gov/pubmed/35259241 . 
+82. Gu Z, Chen C, Wang Y, et al. Video- assisted thoracoscopic surgery 
+versus open surgery for Stage I thymic epithelial tumours: a propensity 
+score -matched study. Eur J Cardiothorac Surg 2018;54:1037 -1044. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/30016438 . 
+83. Rowse PG, Roden AC, Corl FM, et al. Minimally invasive 
+thymectomy: the Mayo Clinic experience. Ann Cardiothorac Surg 
+2015;4:519- 526. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26693147 . 
+84. Xie A, Tjahjono R, Phan K, Yan TD. Video- assisted thoracoscopic 
+surgery versus open thymectomy for thymoma: a systematic review. Ann 
+Cardiothorac Surg 2015;4:495 -508. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26693145 . 
+85. Chao YK, Liu YH, Hsieh MJ, et al. Long -term outcomes after 
+thoracoscopic resection of stage I and II thymoma: a propensity -matched 
+study. Ann Surg Oncol 2015;22:1371 -1376. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25256127 . 
+86. Hwang SK, Lee GD, Kang CH, et al. Long -term outcome of minimally 
+invasive thymectomy versus open thymectomy for locally advanced 
+cases. Eur J Cardiothorac Surg 2022;62. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/35445251 . 
+87. Agatsuma H, Yoshida K, Yoshino I, et al. Video- assisted thoracic 
+surgery thymectomy versus sternotomy thymectomy in patients with thymoma. Ann Thorac Surg 2017;104:1047 -1053. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28619540 . 
+88. Yang Y, Dong J, Huang Y. Thoracoscopic thymectomy versus open 
+thymectomy for the treatment of thymoma: A meta -analysis. Eur J Surg 
+Oncol 2016;42:1720 -1728. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27139936 . 
+89. Patel AJ, Smith A, Group ETCS, et al. Robotic -assisted versus video -
+assisted thoracoscopic surgery for thymic epithelial tumours, from the European Society of Thoracic Surgeons Database. Eur J Cardiothorac 
+Surg 2024;66. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/39325852 . 
+90. Gomez D, Komaki R, Yu J, et al. Radiation therapy definitions and 
+reporting guidelines for thymic malignancies. J Thorac Oncol 
+2011;6:S1743 -1748. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21847057 . 
+91. Jackson MW, Palma DA, Camidge DR, et al. The impact of 
+postoperative radiotherapy for thymoma and thymic carcinoma. J Thorac 
+Oncol 2017;12:734 -744. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28126540 . 
+92. Rimner A, Yao X, Huang J, et al. Postoperative radiation therapy is 
+associated with longer overall survival in completely resected stage II 
+and III thymoma -an analysis of the International Thymic Malignancies 
+Interest Group Retrospective database. J Thorac Oncol 2016;11:1785 -
+1792. Available at: https://www.ncbi.nlm.nih.gov/pubmed/27346413 . 
+93. Singhal S, Shrager JB, Rosenthal DI, et al. Comparison of stages I -II 
+thymoma treated by complete resection with or without adjuvant radiation. Ann Thorac Surg 2003;76:1635 -1641; discussion 1641 -1642. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/14602300 . 
+94. Forquer JA, Rong N, Fakiris AJ, et al. Postoperative radiotherapy 
+after surgical resection of thymoma: differing roles in localized and 
+regional disease. Int J Radiat Oncol Biol Phys 2010;76:440- 445. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/19427738 . 
+95. Utsumi T, Shiono H, Kadota Y, et al. Postoperative radiation therapy 
+after complete resection of thymoma has little impact on survival. Cancer 
+2009;115:5413 -5420. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/19685527 . 
+96. Korst RJ, Kansler AL, Christos PJ, Mandal S. Adjuvant radiotherapy 
+for thymic epithelial tumors: a systematic review and meta- analysis. Ann PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-20 Thorac Surg 2009;87:1641- 1647. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/19379938 . 
+97. Fan XW, Yang Y, Wang HB, et al. Intensity modulated radiation 
+therapy plus etoposide/cisplatin for patients with limited advanced 
+unresectable thymic epithelial tumors: a prospective phase 2 study. Int J 
+Radiat Oncol Biol Phys 2020;107:98 -105. Availabl e at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31987968 . 
+98. Chen YY, Huang CH, Tang Y, Eng HL. Concurrent chemoradiotherapy for unresectable thymic carcinoma. Chang Gung 
+Med J 2004;27:515 -522. Available at:  
+99. Chun SG, Rimner A, Amini A, et al. American Radium Society Appropriate Use Criteria for radiation therapy in the multidisciplinary 
+management of thymic carcinoma. JAMA Oncol 2023;9:971- 980. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/37186595 . 
+100. Wang CL, Gao LT, Lv CX, et al. Outcome of nonsurgical treatment 
+for locally advanced thymic tumors. J Thorac Dis 2016;8:705 -710. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/27114838 . 
+101. Gomez D, Komaki R. Technical advances of radiation therapy for thymic malignancies. J Thorac Oncol 2010;5:S336- 343. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20859129 . 
+102. Hartford AC, Palisca MG, Eichler TJ, et al. American Society for 
+Therapeutic Radiology and Oncology (ASTRO) and American College of 
+Radiology (ACR) practice guidelines for intensity -modulated radiation 
+therapy (IMRT). Int J Radiat Oncol Biol Phys 2009;73:9 -14. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/19100920 . 
+103. Moran JM, Dempsey M, Eisbruch A, et al. Safety considerations for 
+IMRT: executive summary. Med Phys 2011;38:5067 -5072. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21978051 . 
+104. Gregoire V, Mackie TR. State of the art on dose prescription, reporting and recording in Intensity -Modulated Radiation Therapy (ICRU 
+report No. 83). Cancer Radiother 2011;15:555- 559. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21802333 . 
+105. Group IDW, Holmes T, Das R, et al. American Society of Radiation 
+Oncology recommendations for documenting intensity -modulated 
+radiation therapy treatments. Int J Radiat Oncol Biol Phys 2009;74:1311 -
+1318. Available at: https://www.ncbi.nlm.nih.gov/pubmed/19616738 . 106. ATC Guidelines for the use of IMRT (including intra- thoracic 
+treatments). May 31, 2006. Available at: 
+http://rrp.cancer.gov/content/docs/imrt.doc . 
+107. ICRU Report 83: prescribing, recording, and reporting intensity modulated photon beam therapy (IMRT). Journal of the ICRU 2010;10. 
+Available at: http://jicru.oxfordjournals.org/content/10/1.toc . 
+108. Kong FM, Pan C, Eisbruch A, Ten Haken RK. Physical models and 
+simpler dosimetric descriptors of radiation late toxicity. Semin Radiat 
+Oncol 2007;17:108 -120. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17395041 . 
+109. Milano MT, Constine LS, Okunieff P. Normal tissue tolerance dose 
+metrics for radiation therapy of major organs. Semin Radiat Oncol 
+2007;17:131 -140. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17395043 . 
+110. Loap P, Scher N, Goudjil F, et al. Proton beam therapy for thymic 
+carcinoma with pericardial involvement. Int J Part Ther 2021;7:65 -70. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/33604417 . 
+111. Parikh RR, Rhome R, Hug E, et al. Adjuvant proton beam therapy in the management of thymoma: a dosimetric comparison and acute 
+toxicities. Clin Lung Cancer 2016;17:362 -366. Available at: 
+https://pubmed.ncbi.nlm.nih.gov/27372386/ . 
+112. Vogel J, Berman AT, Lin L, et al. Prospective study of proton beam 
+radiation therapy for adjuvant and definitive treatment of thymoma and 
+thymic carcinoma: Early response and toxicity assessment. Radiother 
+Oncol 2016;118:504 -509. Available at: 
+https://pubmed.ncbi.nlm.nih.gov/26895711/ . 
+113. Zhang Z, Wu B, Niu L, et al. Combination percutaneous cryotherapy 
+and iodine- 125 seed implantation for unresectable malignant thymoma: 
+experience in 19 patients. Cryobiology 2013;67:170- 174. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23846104 . 
+114. Abtin F, Suh RD, Nasehi L, et al. Percutaneous cryoablation for the 
+treatment of recurrent thymoma: preliminary safety and efficacy. J Vasc 
+Interv Radiol 2015;26:709- 714. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25921453 . 
+115. Girard N. Thymic epithelial tumours: from basic principles to 
+individualised treatment strategies. Eur Respir Rev 2013;22:75 -87. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/23457169 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-21 116. Zucali PA, De Vincenzo F, Perrino M, et al. Systemic treatments for 
+thymic tumors: a narrative review. Mediastinum 2021;5:24. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/35118329 . 
+117. Falkson CB, Vella ET, Ellis PM, et al. Surgical, radiation, and systemic treatments of patients with thymic epithelial tumors: a 
+systematic review. J Thorac Oncol 2023;18:299 -312. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/36343922 . 
+118. Yamada Y, Yoshino I, Nakajima J, et al. Surgical outcomes of 
+patients with stage III thymoma in the Japanese nationwide database. 
+Ann Thorac Surg 2015;100:961- 967. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26163354 . 
+119. Kelly RJ, Petrini I, Rajan A, et al. Thymic malignancies: from clinical 
+management to targeted therapies. J Clin Oncol 2011;29:4820 -4827. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/22105817 . 
+120. Benveniste MF, Korst RJ, Rajan A, et al. A practical guide from the 
+International Thymic Malignancy Interest Group (ITMIG) regarding the 
+radiographic assessment of treatment response of thymic epithelial 
+tumors using modified RECIST criteria. J Thorac  Oncol 2014;9:S119-
+124. Available at: https://www.ncbi.nlm.nih.gov/pubmed/25396308.  
+121. Hwang Y, Park IK, Park S, et al. Lymph node dissection in thymic 
+malignancies: implication of the ITMIG lymph node map, TNM stage 
+classification, and recommendations. J Thorac Oncol 2016;11:108 -114. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/26762745 . 
+122. Lewis JE, Wick MR, Scheithauer BW, et al. Thymoma. A 
+clinicopathologic review. Cancer 1987;60:2727 -2743. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/3677008.  
+123. Padda SK, Yao X, Antonicelli A, et al. Paraneoplastic syndromes 
+and thymic malignancies: an examination of the International Thymic 
+Malignancy Interest Group retrospective database. J Thorac Oncol 
+2018;13:436 -446. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29191778 . 
+124. Bernard C, Frih H, Pasquet F, et al. Thymoma associated with 
+autoimmune diseases: 85 cases and literature review. Autoimmun Rev 
+2016;15:82- 92. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26408958 . 
+125. Thomas CR, Wright CD, Loehrer PJ. Thymoma: state of the art. J Clin Oncol 1999;17:2280- 2289. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/10561285 . 126. Gilhus NE, Owe JF, Hoff JM, et al. Myasthenia gravis: a review of 
+available treatment approaches. Autoimmune Dis 2011;2011:847393. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/22007295 . 
+127. Mehran R, Ghosh R, Maziak D, et al. Surgical treatment of thymoma. Can J Surg 2002;45:25- 30. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/11837917 . 
+128. Howard FM, Lennon VA, Finley J, et al. Clinical correlations of antibodies that bind, block, or modulate human acetylcholine receptors in 
+myasthenia gravis. Ann N Y Acad Sci 1987;505:526- 538. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/3479935 . 
+129. Khorfan R, Bharat A, Odell DD. Management and Long- Term 
+Outcomes of Advanced Stage Thymoma in the United States. Ann 
+Thorac Surg 2021;111:223- 230. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32659263 . 
+130. Bretti S, Berruti A, Loddo C, et al. Multimodal management of 
+stages III -IVa malignant thymoma. Lung Cancer 2004;44:69- 77. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/15013585 . 
+131. Ried M, Potzger T, Sziklavari Z, et al. Extended surgical resections of advanced thymoma Masaoka stages III and IVa facilitate outcome. 
+Thorac Cardiovasc Surg 2014;62:161- 168. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23775415 . 
+132. Detterbeck FC. Evaluation and treatment of stage I and II thymoma. 
+J Thorac Oncol 2010;5:S318- 322. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20859126 . 
+133. Murakawa T, Nakajima J, Kohno T, et al. Results from surgical 
+treatment for thymoma. 43 years of experience. Jpn J Thorac Cardiovasc 
+Surg 2000;48:89- 95. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/10769987 . 
+134. Wakely PE, Jr. Fine needle aspiration in the diagnosis of thymic 
+epithelial neoplasms. Hematol Oncol Clin North Am 2008;22:433- 442. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/18514125 . 
+135. Detterbeck FC, Moran C, Huang J, et al. Which way is up? Policies 
+and procedures for surgeons and pathologists regarding resection 
+specimens of thymic malignancy. J Thorac Oncol 2011;6:S1730- 1738. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/21847055 . 
+136. Omasa M, Date H, Sozu T, et al. Postoperative radiotherapy is effective for thymic carcinoma but not for thymoma in stage II and III 
+thymic epithelial tumors: the Japanese Association for Research on the PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-22 Thymus Database Study. Cancer 2015;121:1008 -1016. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25565590 . 
+137. Lim YJ, Kim HJ, Wu HG. Role of postoperative radiotherapy in 
+nonlocalized thymoma: propensity -matched analysis of Surveillance, 
+Epidemiology, and End Results database. J Thorac Oncol 2015;10:1357 -
+1363. Available at: https://www.ncbi.nlm.nih.gov/pubmed/26280586 . 
+138. Tateishi Y, Horita N, Namkoong H, et al. Postoperative radiotherapy 
+for completely resected Masaoka/Masaoka -Koga stage II/III thymoma 
+improves overall survival: an updated meta- analysis of 4746 patients. J 
+Thorac Oncol 2021;16:677- 685. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/33515812 . 
+139. Attaran S, McCormack D, Pilling J, Harrison -Phipps K. Which 
+stages of thymoma benefit from adjuvant chemotherapy post -
+thymectomy? Interact Cardiovasc Thorac Surg 2012;15:273- 275. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/22552797 . 
+140. Cowen D, Richaud P, Mornex F, et al. Thymoma: results of a multicentric retrospective series of 149 non -metastatic irradiated patients 
+and review of the literature. FNCLCC trialists. Federation Nationale des 
+Centres de Lutte Contre le Cancer. Radiother Oncol 1995;34:9- 16. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/7792406 . 
+141. Ruffini E, Venuta F. Management of thymic tumors: a European 
+perspective. J Thorac Dis 2014;6 Suppl 2:S228- 237. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24868441 . 
+142. Myojin M, Choi NC, Wright CD, et al. Stage III thymoma: pattern of failure after surgery and postoperative radiotherapy and its implication 
+for future study. Int J Radiat Oncol Biol Phys 2000;46:927 -933. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/10705015.  
+143. Mornex F, Resbeut M, Richaud P, et al. Radiotherapy and 
+chemotherapy for invasive thymomas: a multicentric retrospective review 
+of 90 cases. The FNCLCC trialists. Federation Nationale des Centres de 
+Lutte Contre le Cancer. Int J Radiat Oncol Biol Phys  1995;32:651- 659. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/7790251 . 
+144. Ruffini E, Mancuso M, Oliaro A, et al. Recurrence of thymoma: 
+analysis of clinicopathologic features, treatment, and outcome. J Thorac 
+Cardiovasc Surg 1997;113:55 -63. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/9011702.  
+145. Park S, Park IK, Kim YT, et al. Comparison of neoadjuvant 
+chemotherapy followed by surgery to upfront surgery for thymic malignancy. Ann Thorac Surg 2019;107:355- 362. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/30316850 . 
+146. Ruffini E, Guerrera F, Brunelli A, et al. Report from the European 
+Society of Thoracic Surgeons prospective thymic database 2017: a 
+powerful resource for a collaborative global effort to manage thymic 
+tumours. Eur J Cardiothorac Surg 2019;55:601 -609. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/30649256 . 
+147. Hassan M, Seoud DE. Multimodality treatments in locally advanced stage thymomas. Hematol Oncol Stem Cell Ther 2009;2:340- 344. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/20118057 . 
+148. Rajan A, Giaccone G. Chemotherapy for thymic tumors: induction, 
+consolidation, palliation. Thorac Surg Clin 2011;21:107 -114, viii. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/21070992 . 
+149. Chu C, Liang Y, Lin X, et al. Hypofractionated radiation therapy combined with weekly chemotherapy in patients with unresectable or 
+recurrent thymic epithelial tumor: a prospective, single- arm phase 2 
+study (GASTO -1042). Int J Radiat Oncol Biol Phys 2022;114:89 -98. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/35598797 . 
+150. Basse C, Thureau S, Bota S, et al. Multidisciplinary tumor board 
+decision making for postoperative radiotherapy in thymic epithelial 
+tumors: insights from the RYTHMIC prospective cohort. J Thorac Oncol 
+2017;12:1715 -1722. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28774861 . 
+151. Girard N, Lal R, Wakelee H, et al. Chemotherapy definitions and policies for thymic malignancies. J Thorac Oncol 2011;6:S1749- 1755. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/21847058 . 
+152. Kelly RJ. Systemic treatment of advanced thymic malignancies. Am 
+Soc Clin Oncol Educ Book 2014:e367 -373. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24857125 . 
+153. Merveilleux du Vignaux C, Dansin E, Mhanna L, et al. Systemic therapy in advanced thymic epithelial tumors: insights from the 
+RYTHMIC prospective cohort. J Thorac Oncol 2018;13:1762 -1770. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/30138763 . 
+154. Mizuno T, Okumura M, Asamura H, et al. Surgical management of 
+recurrent thymic epithelial tumors: a retrospective analysis based on the 
+Japanese nationwide database. J Thorac Oncol 2015;10:199 -205. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/25247341 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-23 155. Chiappetta M, Lococo F, Zanfrini E, et al. The International Thymic 
+Malignancy Interest Group classification of thymoma recurrence: survival 
+analysis and perspectives. J Thorac Oncol 2021;16:1936 -1945. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/34256111.  
+156. Chiappetta M, Zanfrini E, Giraldi L, et al. Prognostic factors after 
+treatment for iterative thymoma recurrences: A multicentric experience. 
+Lung Cancer 2019;138:27- 34. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31606522 . 
+157. Chiappetta M, Grossi U, Sperduti I, et al. Which is the best 
+treatment in recurrent thymoma? A systematic review and meta- analysis. 
+Cancers (Basel) 2021;13:1559. Available at: https://www.ncbi.nlm.nih.gov/pubmed/33805310 . 
+158. Mizuno T, Chen -Yoshikawa TF, Yoshino I, et al. Updated outcomes 
+of surgical treatment for recurrent thymic tumour: a report from the 
+Japanese nationwide database. Interdiscip Cardiovasc Thorac Surg 
+2024;38. Available at: https://www.ncbi.nlm.nih.gov/pubmed/38897650 . 
+159. Schmitt J, Loehrer PJ, Sr. The role of chemotherapy in advanced 
+thymoma. J Thorac Oncol 2010;5:S357- 360. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20859133 . 
+160. Loehrer PJ, Sr., Kim K, Aisner SC, et al. Cisplatin plus doxorubicin 
+plus cyclophosphamide in metastatic or recurrent thymoma: final results 
+of an intergroup trial. The Eastern Cooperative Oncology Group, 
+Southwest Oncology Group, and Southeastern Cancer Study Group. J 
+Clin Oncol 1994;12:1164- 1168. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/8201378.  
+161. Lemma GL, Lee JW, Aisner SC, et al. Phase II study of carboplatin 
+and paclitaxel in advanced thymoma and thymic carcinoma. J Clin Oncol 
+2011;29:2060 -2065. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21502559 . 
+162. Giaccone G, Ardizzoni A, Kirkpatrick A, et al. Cisplatin and 
+etoposide combination chemotherapy for locally advanced or metastatic 
+thymoma. A phase II study of the European Organization for Research 
+and Treatment of Cancer Lung Cancer Cooperative Group. J Clin Oncol 
+1996;14:814 -820. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/8622029.  
+163. Okuma Y, Saito M, Hosomi Y, et al. Key components of chemotherapy for thymic malignancies: a systematic review and pooled 
+analysis for anthracycline- , carboplatin-  or cisplatin -based chemotherapy. J Cancer Res Clin Oncol 2015;141:323 -331. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25146529 . 
+164. Loehrer PJ, Sr., Jiroutek M, Aisner S, et al. Combined etoposide, 
+ifosfamide, and cisplatin in the treatment of patients with advanced 
+thymoma and thymic carcinoma: an intergroup trial. Cancer 
+2001;91:2010 -2015. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/11391579 . 
+165. Fornasiero A, Daniele O, Ghiotto C, et al. Chemotherapy for invasive thymoma. A 13 -year experience. Cancer 1991;68:30- 33. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/2049749 . 
+166. Zucali PA, De Pas T, Palmieri G, et al. Phase II study of everolimus 
+in patients with thymoma and thymic carcinoma previously treated with 
+cisplatin -based chemotherapy. J Clin Oncol 2018;36:342 -349. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/29240542.  
+167. Palmieri G, Buonerba C, Ottaviano M, et al. Capecitabine plus 
+gemcitabine in thymic epithelial tumors: final analysis of a Phase II trial. 
+Future Oncol 2014;10:2141- 2147. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25471029 . 
+168. Loehrer PJ, Sr., Wang W, Johnson DH, et al. Octreotide alone or 
+with prednisone in patients with advanced thymoma and thymic 
+carcinoma: an Eastern Cooperative Oncology Group Phase II Trial. J 
+Clin Oncol 2004;22:293- 299. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/14722038 . 
+169. Kirzinger L, Boy S, Marienhagen J, et al. Octreotide LAR and prednisone as neoadjuvant treatment in patients with primary or locally 
+recurrent unresectable thymic tumors: a phase II study. PLoS One 
+2016;11:e0168215. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27992479 . 
+170. Gbolahan OB, Porter RF, Salter JT, et al. A phase II study of 
+pemetrexed in patients with recurrent thymoma and thymic carcinoma. J 
+Thorac Oncol 2018;13:1940- 1948. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/30121390 . 
+171. Umemura S, Segawa Y, Fujiwara K, et al. A case of recurrent 
+metastatic thymoma showing a marked response to paclitaxel 
+monotherapy. Jpn J Clin Oncol 2002;32:262- 265. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/12324577 . 
+172. Bluthgen MV, Boutros C, Fayard F, et al. Activity and safety of oral 
+etoposide in pretreated patients with metastatic or recurrent thymic PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-24 epithelial tumors (TET): A single -institution experience. Lung Cancer 
+2016;99:111 -116. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27565923 . 
+173. Highley MS, Underhill CR, Parnis FX, et al. Treatment of invasive 
+thymoma with single -agent ifosfamide. J Clin Oncol 1999;17:2737 -2744. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/10561348 . 
+174. Konstantina T, Konstantinos R, Anastasios K, et al. Fatal adverse events in two thymoma patients treated with anti -PD-1 immune check 
+point inhibitor and literature review. Lung Cancer 2019;135:29- 32. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/31446999 . 
+175. Argentiero A, Solimando AG, Ungaro V, et al. Case report: lymphocytosis associated with fatal hepatitis in a thymoma patient 
+treated with anti -PD1: new insight into the immune- related storm. Front 
+Oncol 2020;10:583781. Available at: https://www.ncbi.nlm.nih.gov/pubmed/33381454 . 
+176. Cho J, Kim HS, Ku BM, et al. Pembrolizumab for patients with 
+refractory or relapsed thymic epithelial tumor: an open -label phase II 
+trial. J Clin Oncol 2019;37:2162- 2170. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29906252 . 
+177. Kumar V, Garg M, Goyal A, et al. Changing pattern of secondary 
+cancers among patients with malignant thymoma in the USA. Future 
+Oncol 2018;14:1943 -1951. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/30081670 . 
+178. Pan CC, Chen PC, Wang LS, et al. Thymoma is associated with an 
+increased risk of second malignancy. Cancer 2001;92:2406- 2411. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/11745297 . 
+179. Ogawa K, Toita T, Uno T, et al. Treatment and prognosis of thymic 
+carcinoma: a retrospective analysis of 40 cases. Cancer 2002;94:3115 -
+3119. Available at: https://www.ncbi.nlm.nih.gov/pubmed/12115342 . 
+180. Brascia D, De Palma A, Schiavone M, et al. Lymph nodes involvement and lymphadenectomy in thymic tumors: tentative answers 
+for unsolved questions. Cancers (Basel) 2021;13:5085. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/34680234 . 
+181. Wu JX, Chen HQ, Shao LD, et al. Long -term follow -up and 
+prognostic factors for advanced thymic carcinoma. Medicine (Baltimore) 2014;93:e324. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25526488 . 182. Marx A, Rieker R, Toker A, et al. Thymic carcinoma: is it a separate 
+entity? From molecular to clinical evidence. Thorac Surg Clin 
+2011;21:25- 31 v-vi. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21070984 . 
+183. Moran CA, Suster S. Thymic carcinoma: current concepts and 
+histologic features. Hematol Oncol Clin North Am 2008;22:393- 407. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/18514123 . 
+184. Okuma Y, Hosomi Y, Watanabe K, et al. Clinicopathological analysis of thymic malignancies with a consistent retrospective database 
+in a single institution: from Tokyo Metropolitan Cancer Center. BMC 
+Cancer 2014;14:349. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24885581 . 
+185. Ruffini E, Detterbeck F, Van Raemdonck D, et al. Thymic 
+carcinoma: a cohort study of patients from the European society of 
+thoracic surgeons database. J Thorac Oncol 2014;9:541 -548. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/24736078.  
+186. Yano M, Sasaki H, Yokoyama T, et al. Thymic carcinoma: 30 cases 
+at a single institution. J Thorac Oncol 2008;3:265- 269. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18317069 . 
+187. Rimner A, Ahmad U, Lobaugh SM, et al. Postoperative radiation 
+therapy for thymic carcinoma: an analysis of the International Thymic 
+Malignancy Interest Group/European Society of Thoracic Surgeons 
+database. J Thorac Oncol 2024;19:626- 635. Available at:  
+https://www.ncbi.nlm.nih.gov/pubmed/38070599 . 
+188. Mao Y, Wu S. Treatment and survival analyses of completely 
+resected thymic carcinoma patients. Onco Targets Ther 2015;8:2503-
+2507. Available at: https://www.ncbi.nlm.nih.gov/pubmed/26392777 . 
+189. Moser B, Scharitzer M, Hacker S, et al. Thymomas and thymic 
+carcinomas: prognostic factors and multimodal management. Thorac 
+Cardiovasc Surg 2014;62:153 -160. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23225512 . 
+190. Hirai F, Yamanaka T, Taguchi K, et al. A multicenter phase II study 
+of carboplatin and paclitaxel for advanced thymic carcinoma: 
+WJOG4207L. Ann Oncol 2015;26:363- 368. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25403584 . 
+191. Proto C, Ganzinelli M, Manglaviti S, et al. Efficacy and safety of ramucirumab plus carboplatin and paclitaxel in untreated metastatic 
+thymic carcinoma: RELEVENT phase II trial (NCT03921671). Ann Oncol PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Thymomas and Thymic Carcinomas  
+ 
+MS-25 2024;35:817 -826. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/38857846 . 
+192. Tsao AS, Hsieh MH, Koczywas M, et al. S1701, A Randomized 
+Phase 2 Trial of Carboplatin- Paclitaxel With and Without Ramucirumab 
+in Patients With Locally Advanced, Recurrent, or Metastatic Thymic 
+Carcinoma. JTO Clin Res Rep 2024;5:100738. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/39619274 . 
+193. Sato J, Satouchi M, Itoh S, et al. Lenvatinib in patients with 
+advanced or metastatic thymic carcinoma (REMORA): a multicentre, 
+phase 2 trial. Lancet Oncol 2020;21:843 -850. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32502444 . 
+194. Giaccone G, Kim C, Thompson J, et al. Pembrolizumab in patients 
+with thymic carcinoma: a single -arm, single -centre, phase 2 study. 
+Lancet Oncol 2018;19:347- 355. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29395863 . 
+195. Thomas A, Rajan A, Berman A, et al. Sunitinib in patients with chemotherapy -refractory thymoma and thymic carcinoma: an open -label 
+phase 2 trial. Lancet Oncol 2015;16:177 -186. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25592632 . 
+196. Proto C, Manglaviti S, Lo Russo G, et al. STYLE (NCT03449173): a 
+phase 2 trial of sunitinib in patients with type B3 thymoma or thymic 
+carcinoma in second and further lines. J Thorac Oncol 2023;18:1070 -
+1081. Available at: https://www.ncbi.nlm.nih.gov/pubmed/37094664 . 
+197. Giaccone G, Kim C. Durable response in patients with thymic 
+carcinoma treated with pembrolizumab after prolonged follow -up. J 
+Thorac Oncol 2021;16:483- 485. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/33248322 . 
+198. Hellyer JA, Ouseph MM, Padda SK, Wakelee HA. Everolimus in the treatment of metastatic thymic epithelial tumors. Lung Cancer 
+2020;149:97 -102. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/33007678 . 
+199. Conforti F, Zucali PA, Pala L, et al. Avelumab plus axitinib in 
+unresectable or metastatic type B3 thymomas and thymic carcinomas 
+(CAVEATT): a single -arm, multicentre, phase 2 trial. Lancet Oncol 
+2022;23:1287 -1296. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/36096156 . 
+200. Conforti F, Pala L, Vivanet G, et al. High -dose continuous -infusion 
+ifosfamide in advanced thymic epithelial Tumors: A TYME network study. Lung Cancer 2023;176:98- 102. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/36630822 . 
+201. Shukuya T, Asao T, Goto Y, et al. Activity and safety of 
+atezolizumab plus carboplatin and paclitaxel in patients with advanced or 
+recurrent thymic carcinoma (MARBLE): a multicentre, single- arm, phase 
+2 trial. Lancet Oncol 2025;26:331 -342. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/40049197 . 
+ PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:10:03 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.

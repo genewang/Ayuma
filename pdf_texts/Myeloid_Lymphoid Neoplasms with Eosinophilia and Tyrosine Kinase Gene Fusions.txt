@@ -1,0 +1,2829 @@
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®)Myeloid/Lymphoid Neoplasms 
+with Eosinophilia and Tyrosine 
+Kinase Gene Fusions
+Version 2.2025 — April 4, 2025
+ContinueNCCN.org
+NCCN recognizes the importance of clinical trials and encourages participation when applicable and available. 
+Trials should be designed to maximize inclusiveness and broad representative enrollment.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+σ Allergy/Immunology
+‡ Hematology/Hematology oncology
+Þ Internal medicine
+† Medical oncology
+≠ Pathology 
+¥ Patient advocacy  
+ξ Transplantation
+* Discussion Section Writing CommitteeContinue
+NCCN Guidelines Panel Disclosures*Aaron T. Gerds, MD, MS/Chair ‡ † Þ  
+Case Comprehensive Cancer Center/University 
+Hospitals Seidman Cancer Center and 
+Cleveland Clinic Taussig Cancer Institute
+*Jason Gotlib, MD, MS/Vice-Chair ‡ 
+Stanford Cancer Institute
+Peter Abdelmessieh, DO, MSc ξ  
+Fox Chase Cancer Center
+Haris Ali, MD ‡ ξ 
+City of Hope National Medical Center
+Mariana Castells, MD, PhD Þ σ 
+Adjunct Panel Member 
+Dana-Farber/Brigham and  
+Women’s Cancer Center
+Ruth Fein Revell, BS ¥ 
+Patient Advocate
+Steven Green, MD † 
+Roswell Park Comprehensive Cancer Center
+Krishna Gundabolu, MBBS, MS ‡  
+Fred & Pamela Buffett Cancer Center
+Elizabeth Hexner, MD, MS ‡ ξ 
+Abramson Cancer Center  
+at the University of Pennsylvania
+Tania Jain, MBBS † 
+Johns Hopkins Kimmel Cancer Center 
+Catriona H. Jamieson, MD, PhD ‡ 
+UC San Diego Moores Cancer Center Paul R. Kaesberg, MD ‡ 
+UC Davis Comprehensive Cancer Center
+Irum Khan, MD ‡ †  
+Robert H. Lurie Comprehensive Cancer  
+Center of Northwestern University
+Andrew T. Kuykendall, MD ‡ Þ  
+Moffitt Cancer Center
+Yazan F. Madanat, MD ‡ Þ  
+UT Southwestern Simmons  
+Comprehensive Cancer Center
+Naveen Manchanda, MD ‡ 
+Indiana University Melvin and Bren Simon 
+Comprehensive Cancer Center
+Lucia Masarova, MD ‡ 
+The University of Texas  
+MD Anderson Cancer Center
+Jori May, MD ‡  
+O'Neal Comprehensive  
+Cancer Center at UAB 
+Brandon McMahon, MD ‡  
+University of Colorado Cancer Center 
+Sanjay R. Mohan, MD, MSCI ‡  
+Vanderbilt-Ingram Cancer Center
+Kalyan V. Nadiminti, MD ‡  
+University of Wisconsin Carbone Cancer Center
+Stephen Oh, MD, PhD ‡  
+Siteman Cancer Center at Barnes-  
+Jewish Hospital and Washington  
+University School of MedicineJeanne Palmer, MD ‡ 
+Mayo Clinic Comprehensive Cancer Center
+Ami B. Patel, MD ‡ 
+Huntsman Cancer Institute  
+at the University of Utah
+Anand A. Patel, MD ‡  
+The UChicago Medicine  
+Comprehensive Cancer Center
+Nikolai Podoltsev, MD, PhD ‡  
+Yale Cancer Center/Smilow Cancer Hospital
+Lindsay Rein, MD ‡  
+Duke Cancer Institute
+Rachel Salit, MD ‡ 
+Fred Hutchinson Cancer Center
+Mary Sehl, MD † 
+UCLA Jonsson Comprehensive Cancer Center
+Moshe Talpaz, MD †  
+University of Michigan Rogel Cancer Center
+Martha Wadleigh, MD ‡ †  
+Dana-Farber/Brigham and  
+Women’s Cancer Center
+Sarah A. Wall, MD, MPH ‡  
+The Ohio State University Comprehensive 
+Cancer Center - James Cancer Hospital  
+and Solove Research Institute 
+NCCN
+Mary Anne Bergman
+Cindy Hochstetler, PhDPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.The NCCN Guidelines® are a statement of evidence and consensus of the authors regarding their views of currently accepted approaches to 
+treatment. Any clinician seeking to apply or consult the NCCN Guidelines is expected to use independent medical judgment in the context of individual 
+clinical circumstances to determine any patient’s care or treatment. The National Comprehensive Cancer Network® (NCCN®) makes no representations 
+or warranties of any kind regarding their content, use or application and disclaims any responsibility for their application or use in any way . The NCCN 
+Guidelines are copyrighted by National Comprehensive Cancer Network®. All rights reserved. The NCCN Guidelines and the illustrations herein may 
+not be reproduced in any form without the express written permission of NCCN. ©2025.NCCN Guidelines Index
+Table of Contents
+Discussion
+Find an NCCN Member Institution: 
+https://www.nccn.org/home/member-
+institutions .
+NCCN Categories of Evidence and 
+Consensus: All recommendations are 
+category 2A unless otherwise indicated.
+See NCCN Categories of Evidence  
+and Consensus .
+NCCN Categories of Preference:  
+All recommendations are considered 
+appropriate.
+See NCCN Categories of Preference .NCCN Myeloproliferative Neoplasms  Panel Members
+Summary of Guidelines Updates
+Overview (MLNE/INTRO-1)
+Initial Evaluation and Diagnostic Tip-Offs (MLNE-1)
+Workup (MLNE-2)
+Diagnostic Testing Algorithms for Tyrosine Kinase Gene Fusions (MLNE-3)
+Diagnosis and Staging Considerations in Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions (MLNE-4)
+Myeloid/Lymphoid Neoplasms with Eosinophilia and the FIP1L1::PDGFRA Rearrangement 
+(MLNE-5)
+Myeloid/Lymphoid Neoplasms with Eosinophilia and PDGFRB Rearrangement (MLNE-6)
+Myeloid/Lymphoid Neoplasms with Eosinophilia and FGFR1 Rearrangement (MLNE-7)
+Myeloid/Lymphoid Neoplasms with Eosinophilia and JAK2 Rearrangement (MLNE-8)
+Myeloid/Lymphoid Neoplasms with Eosinophilia and ABL1 or FLT3 Rearrangement (MLNE-9)
+Causes of Secondary (Reactive) Eosinophilia (MLNE-A)
+Principles of Cytogenetic and Molecular Testing for Myeloid/Lymphoid Neoplasms with Eosinophilia and  
+Tyrosine Kinase Gene Fusions (MLNE-B)
+Role of NGS in the Diagnosis of Myeloid/Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase Gene Fusions (MLNE-C)
+Response Criteria (MLNE-D)
+Abbreviations (ABBR-1)PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+UPDATESMLNE/INTRO-1
+Myeloid/Lymphoid Neoplasms with Eosinophilia and PDGFRB Rearrangement :
+• Clinical presentations associated with this entity are: CMML, atypical chronic myeloid leukemia (CML), MDS/MPN - unclassifiable ....
+MLNE/INTRO-2
+References  
+• Deleted: Swerdlow SH, Campo E, Harris NL. et al. World Health Organization (WHO) Classification of Tumours of Haematopoietic and Lymphoid 
+Tissues. Revised 4th ed. Lyon, France: IARC Press; 2017.
+• New: WHO Classification of Tumours Editorial Board. Haematolymphoid tumours [Internet]. Lyon (France): International Agency for Research on 
+Cancer; 2024 [cited 2024 November 15]. (WHO classification of tumours series, 5th ed.; vol. 1 1). Available from: https://tumourclassification.iarc.who.
+int/chapters/63.
+MLNE-1
+• Column 2, 3rd bullet, modified: Immunohistochemistry (IHC) for tryptase/ CD117/CD25/CD30 and/or flow cytometry for  CD117/CD25/CD30/CD2  
+and molecular testing for KIT D816V (Also for MLNE-2 under General Diagnostic Studies and Evaluation of Target Organ Involvement).
+Footnote
+• k, modified: Consultation with specialized referral services is recommended for the management of relevant target end-organ damage. In certain 
+circumstances, urgent treatment including the use of high dose corticosteroids may be indicated to mitigate organ damage.
+MLNE-5 
+• Column 4, bullet 4, modified: If resistance mutation found, consider TKI with potential activity or  refer for clinical trial.
+Footnote
+• p, new: In some cases, the diagnostic testing may not reveal the PDGFRA rearrangement. Imatinib may be considered for patients with a clinical picture 
+consistent with this diagnostic group.  
+MLNE-6
+Footnote
+• v, new: In some cases, the diagnostic testing may not reveal the PDGFRB rearrangement. Imatinib may be considered for patients with a clinical picture 
+consistent with this diagnostic group.
+MLNE-9
+• Under Treatment Options
+Quizartinib  is new for TKI with activity against FLT3, as an other recommended regimen.
+MLNE-C
+• Bullet 4, modified: NGS can be used to identify novel gene fusion or cryptic rearrangements  NGS, RNA fusion panel, and/or comparative genomic 
+hybridization can be used to identify novel gene fusion or gene fusion events that may not be detectable with other methods....Updates in Version 1.2025 of the NCCN Guidelines for MLNE from Version 2.2024 include:Updates in Version 2.2025 of the NCCN Guidelines for MLNE from Version 1.2025 include:
+MS-1
+• The discussion section has been updated to reflect the changes in the algorithm.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+MLNE/INTRO-1Clonal eosinophilia associated with tyrosine kinase (TK) gene fusions ( PDGFRA, PDGFRB, FGFR1, JAK2, ABL1, or FLT3) can have diverse clinical 
+presentations including Ph-negative myeloproliferative neoplasms (MPN) with eosinophilia, myelodysplastic syndromes (MDS)/MPN with eosinophilia, 
+acute myeloid leukemia (AML), B-cell or T-cell lymphomas, acute lymphoblastic leukemia (ALL), or mixed phenotype acute leukemias/lymphomas. 
+A diagnosis of myeloid/lymphoid neoplasms with eosinophilia should be suspected in the following clinical situations ( MLNE-1):
+• Sustained eosinophilia (≥1.5 x 109/L) or tissue eosinophilia (any eosinophil count) in a target organ, with the occurrence of characteristic genetic 
+breakpoints, with some not always visible by standard cytogenetics (eg, FIP1L1::PDGFRA, ETV6::ABL1 )
+• Clinical features such as splenomegaly, anemia, thrombocytopenia, leukoerythroblastosis, circulating dysplastic cells, elevated serum tryptase levels, 
+and abnormal mast cell proliferation in the bone marrow (BM)
+• Features of systemic mastocytosis (SM) with eosinophilia but with interstitial, not dense aggregates of atypical mast cells ( FIP1L1::PDGFRA 
+rearrangement)
+• Features of chronic myelomonocytic leukemia (CMML) with eosinophilia ( PDGFRB rearrangement)
+• Persistent eosinophilia after intensive treatment of AML, ALL, B-cell lymphoma, or T-cell lymphoma
+Myeloid/Lymphoid Neoplasms with Eosinophilia and FIP1L1::PDGFRA Rearrangement :
+Chronic eosinophilic leukemia (CEL) is the most common clinical presentation. V ariant presentations include blast phase MPN, AML with eosinophilia, 
+or rarely T-cell ALL (T-ALL) with FIP1L1::PDGFRA or myeloid sarcoma. This entity has a strong male predominance and is commonly associated with 
+elevated serum tryptase and splenomegaly. Peripheral eosinophilia is usually, but not always, observed. BM is hypercellular with increased eosinophil 
+precursors (generally without dysplasia) and proliferation of loosely distributed CD25+ spindle-shaped mast cells. Dense clusters of mast cells typically 
+seen in SM with the KIT D816V mutation are usually absent (See  NCCN Guidelines for Systemic Mastocytosis ). 
+Myeloid/Lymphoid Neoplasms with Eosinophilia and PDGFRB Rearrangement :
+Clinical presentations associated with this entity are: CMML, atypical chronic myeloid leukemia (CML), MDS/MPN-unclassifiable, MPN, juvenile 
+myelomonocytic leukemia (JMML), and blast phase disease involving the BM and/or extramedullary disease (EMD) involving myeloid, lymphoid, or mixed 
+phenotype acute leukemias. This entity also has a strong male predominance. Eosinophilia is not always  present.
+Myeloid/Lymphoid Neoplasms with Eosinophilia and FGFR1 Rearrangement :
+Clinical presentations associated with this entity are: MPN with eosinophilia, AML, B-cell, T-cell lymphoma/ALL, or mixed phenotype acute leukemia,  
+and/or EMD of myeloid/lymphoid, or mixed phenotype acute leukemias. This entity has a moderate male predominance and is generally associated 
+with an aggressive clinical course with rapid progression of chronic phase disease to blast phase/secondary acute leukemia. Eosinophilia is not always 
+present. 
+ContinuedOVERVIEW1-5
+References on MLNE/INTRO-2PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+MLNE/INTRO-2Myeloid/Lymphoid Neoplasms with Eosinophilia and JAK2 Rearrangement :
+Chronic myeloid neoplasm with eosinophilia (MPN with eosinophilia or MDS/MPN with eosinophilia) is the characteristic clinical
+presentation. ALL or de novo AML have also been observed. This entity has a strong male predominance and is generally associated with an aggressive 
+clinical course with rapid progression of chronic phase disease to blast phase/secondary acute leukemia. The presence of eosinophilia is more variable 
+for BCR::JAK2 and ETV6::JAK2 variants.
+Myeloid/Lymphoid Neoplasms with Eosinophilia and  FLT3 or ABL1 Rearrangement : 
+Myeloid and/or lymphoid neoplasm with eosinophilia (MLNE), consistent with the WHO category of CEL, not otherwise specified (CEL, NOS) is the 
+characteristic clinical presentation associated with  FLT3 rearrangement. Peripheral T-cell lymphoma or T-cell lymphoblastic lymphoma (T-LBL) have 
+also been described. De novo ALL is the most common clinical presentation associated with  ABL1 rearrangement; however, various acute leukemia and 
+chronic myeloid/lymphoid phenotypes have also been described. It is generally associated with an aggressive clinical course, disease progression, or 
+relapse. Eosinophilia is not always  present. 
+MLNE that Present as Acute Lymphoblastic Leukemia6: 
+For MLNE that initially present as B-cell ALL (B-ALL) or T-ALL, the TK gene fusion should involve the myeloid lineage in addition to lymphoblasts. In such 
+instances, the chronic myeloid neoplasm in MLNE may manifest either prior to or concomitantly or may emerge after therapy for the ALL. Genes fusions 
+typically associated with BCR::ABL1–like B-ALL are specifically excluded from this category (eg, EBF1::PDGFRB and ATF7IP::PDGFRB  fusions). JAK2 
+fusions with certain partner genes, such as t(5;9)(q14.1; p24.1)/ STRN3::JAK2, and PAX5::JAK2 are usually seen in BCR::ABL1-like B-ALL, which are, by 
+definition, not MLNE. ETV6::JAK2 is a genetic variant of PCM1::JAK2; however, more than half of the reported cases of ETV6::JAK2 are de novo B-ALL 
+or de novo T-ALL. Similarly, FLT3-rearranged cases also can present as de novo B-ALL and T-ALL without myeloid lineage involvement, and these cases 
+should be classified as BCR::ABL1-like B-ALL or de novo  T-ALL. 
+References
+1 Reiter A, Gotlib J. Myeloid neoplasms with eosinophilia. Blood 2017;129:704-714.
+2 Shomali W, Gotlib J. World Health Organization-defined eosinophilic disorders: 2022 update on diagnosis, risk stratification, and management. Am J Hematol 
+2022;97:129-148.
+3 WHO Classification of Tumours Editorial Board. Haematolymphoid tumours [Internet]. Lyon (France): International Agency for Research on Cancer; 2024 [cited 2024 
+November 15]. (WHO classification of tumours series, 5th ed; vol 1 1). Available from: https://tumourclassification.iarc.who.int/chapters/63.
+4 Jawhar M, Naumann N, Schwaab J, et al. Imatinib in myeloid/lymphoid neoplasms with eosinophilia and rearrangement of PDGFRB in chronic or blast phase.  
+Ann Hematol 2017;96:1463-1470.
+5 Reiter A, Walz C, Watmore A, et al. The t(8;9)(p22;p24) is a recurrent abnormality in chronic and acute leukemia that fuses PCM1 to JAK2. Cancer Res 2005;65:2662-
+2667.
+6 Wang SA, Orazi A, Gotlib J, et al. The international consensus classification of eosinophilic disorders and systemic mastocytosis. Am J Hematol 2023;98:1286-1306.OVERVIEW1-5PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+INITIAL EVALUATION 
+MLNE-1• Primary (clonal/neoplastic)
+eosinophiliab may be suggested by 
+one or more of the following:
+• Elevated serum tryptase level;
+• Abnormal T-cell population;
+• Increased blasts, dysplasia, 
+cytogenetic or molecular 
+abnormality, and/or BM fibrosis; or 
+• Splenomegaly and/or 
+lymphadenopathy.• Exclude the diagnosis of 
+BCR::ABL1 –positive CML, 
+PV, ET, PMF, CNL, and  
+BCR::ABL1 –negative atypical 
+CML based on WHO criteria.
+• Screen for TK gene fusions 
+or other cytogenetic 
+abnormality (MLNE-3).
+• Immunohistochemistry (IHC) 
+for tryptase/CD117/CD25/
+CD30 and/or flow cytometry 
+for CD117/CD25/CD30/CD2  
+and molecular testing for  
+KIT D816Vc
+• T-cell immunophenotyping 
+flow cytometry (preferred)
+and/or IHC to establish 
+evidence of abnormal 
+T-cell phenotype or T-cell 
+proliferation; molecular 
+analysis to confirm T-cell 
+clonality when appropriatePDGFRA, PDGFRB, 
+FGFR1, JAK2, ABL1, FLT3 
+rearrangements identifiedd 
+1 major + 1 minor, or 
+≥3 minor criteria for SM 
+satisfied 
+Other clonal cytogenetic  
+or molecular abnormality or 
+excess blasts (≥5% to <20%)  
+Abnormal T-cell phenotype  
+or T-cell proliferation
+Eosinophilia without  
+myeloid/lymphoid 
+neoplasm, genetic/
+molecular abnormality, or 
+abnormal T-cell phenotype 
+or T-cell proliferationSee Workup (MLNE-2) and Diagnostic 
+Testing Algorithms (MLNE-3)
+SM (See NCCN Guidelines for 
+Systemic Mastocytosis )
+CEL, NOSe
+Yes
+• Idiopathic  
+HES
+No
+• Idiopathic HEEosinophilia-
+related organ 
+damageLymphocyte-variant of  
+hypereosinophilia (HE)/  
+hypereosinophilic syndrome (HES)
+a This diagnostic algorithm excludes conditions associated with secondary (reactive) eosinophilia (see MLNE-A); it includes eosinophilia associated with non-myeloid 
+malignancies such as T-cell lymphoma, Hodgkin lymphoma, and ALL.  
+b Generally, absolute eosinophil count ≥1.5 x 109/L.
+c Allele-specific oligonucleotide quantitative reverse transcriptase PCR (ASO-qPCR) or alternative high-sensitivity method is recommended for KIT D816V mutation 
+testing. See NCCN Guidelines for Systemic Mastocytosis . 
+d The diagnosis requires a combination of histopathologic, clinical, laboratory , and cytogenetic/molecular analyses. 
+e Additional cytogenetic or molecular testing may be required to confirm the dif ferential diagnosis of clonal hematopoiesis of indeterminate potential (CHIP) versus CEL, 
+NOS.DIAGNOSTIC TIP-OFFS  • Rule out secondary (reactive) 
+eosinophiliaa (MLNE-A).
+• All patients should be evaluated  
+and treated by a multidisciplinary 
+team in specialized centers.
+• Assessment for clinical situations 
+that may require urgent intervention 
+is recommended for all patients. 
+Immediate institution of oral or  
+high-dose IV corticosteroids may  
+be necessary. PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+WORKUP 
+MLNE-2General Diagnostic Studies
+• History and physical examination, including skin exam, palpation 
+of spleen, and detailing any family history of eosinophilia and 
+signs/symptoms of immunodeficiency to identify rare primary 
+immunodeficiency disorders and rule out secondary (reactive) 
+eosinophilia ( MLNE-A)  
+• Complete blood count (CBC) with differential
+• Examination of blood smear (eg, monocytosis, dysplasia, eosinophilia, 
+circulating blasts)
+• Comprehensive metabolic panel with uric acid, lactate dehydrogenase 
+(LDH), and liver function tests (LFTs)
+• Serum tryptase, erythrocyte sedimentation rate (ESR), and/or 
+C-reactive protein (CRP)  
+• Quantitative serum immunoglobulin (Ig) levels (including IgE)
+• BM aspirate and biopsy with IHC for tryptase/CD117/CD25/CD30 and/or 
+flow cytometry for CD117/CD25/CD30/CD2  
+and tryptase and reticulin/collagen stains for fibrosis
+• Peripheral blood (PB) assessment for PDGFRA rearrangement by 
+fluorescence in situ hybridization (FISH) and/or nested quantitative 
+reverse transcriptase polymerase chain reaction  (RT-qPCR)f 
+• Confirmatory FISH (PB or BM) if chromosome analysis reveals the 
+following breakpoints: 4q12 (PDGFRA)g;5q31~33 (PDGFRB)h;
+8p11~12 (FGFR1); 9p24 (JAK2 ); 9q34 (ABL1); and 13q12 (FLT3)i
+• T-cell immunophenotyping flow cytometry (preferred) and/or IHC and 
+molecular analysis to confirm T-cell clonality when appropriate
+• Myeloid mutation panel (next-generation sequencing [NGS])i,jEvaluation of Target Organ Involvementk
+Based on clinical presentation requiring engagement 
+of other sub-specialists; organ-directed biopsy 
+generally needed to confirm tissue eosinophilia:
+• Chest x-ray
+• Electrocardiogram
+• Symptom-directed CT/MRI scan of the body
+• Cardiac troponin and/or NT-proBNP measurement; 
+if elevated or clinical features of cardiac injury, 
+echocardiogram (ECHO), and/or cardiac MRI
+• Lung involvement: pulmonary function tests, 
+bronchoscopy with bronchoalveolar lavage, and 
+lung biopsy
+• Gastrointestinal involvement: endoscopy with 
+relevant mucosal biopsy with IHC for tryptase/
+CD117/CD25/CD30 and/or flow cytometry for CD117/
+CD25/CD30/CD2
+• Liver involvement: liver biopsy
+• Neuropathy: electromyography, nerve biopsy
+• Ear, nose, and throat symptoms: evaluation for 
+sinusitis, nasal polyposis, sensorineural hearing 
+loss, etc
+• Cutaneous involvement: skin biopsy
+• Eosinophilic fasciitis: deep biopsy that includes 
+fascia, MRI• Diagnostic Testing 
+Algorithms for 
+Tyrosine Kinase 
+Gene Fusions  
+(MLNE-3)
+• Diagnosis 
+and Staging 
+Considerations in 
+Myeloid/Lymphoid 
+Neoplasms with 
+Eosinophilia and 
+Tyrosine Kinase  
+Gene Fusions  
+(MLNE-4)
+f Testing for imatinib-sensitive TK gene fusions by PB is feasible and appropriate in certain clinical circumstances. See Principles of Cytogenetic and Molecular Testing in 
+Myeloid/Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase Gene Fusions (MLNE-B) .
+g The overwhelming majority of PDGFRA fusions are represented by FIP1L1::PDGFRA, which is cytogenetically occult and requires FISH for the detection of CHIC2 
+deletion for initial screening.
+h In rare cases, cryptic PDGFRB rearrangements have been found, and FISH may be used to uncover, not only confirm PDGFRB rearrangements.
+i Reverse transcriptase polymerase chain reaction (RT-PCR) may be preferred over NGS for FLT3.
+j Role of NGS in the Diagnosis of Myeloid/Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase Gene Fusions (MLNE-C) .
+k Consultation with specialized referral services is recommended for the management of relevant target end-organ damage. In certain circumstances, urgent treatment 
+including the use of high dose corticosteroids may be indicated to mitigate organ damage.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+DIAGNOSTIC TESTING ALGORITHMS FOR TYROSINE KINASE GENE FUSIONSl,m
+Karyotype 
+normalFISH for 
+PDGFRAPositive
+NegativeMyeloid/Lymphoid  
+Neoplasm with 
+Eosinophilia 
+and PDGFRA 
+Rearrangement 
+(MLNE-5)RT-qPCR for 
+FIP1L1::PDGFRA
+or
+FISH or reverse transcriptase 
+polymerase chain reaction 
+(RT-PCR) for other fusions as  
+noted belowPositive
+Karyotype  
+abnormal
+Assess 
+for JAK2 
+rearrangementPositiveConfirmatory 
+FISH for JAK2Myeloid/Lymphoid Neoplasm with 
+Eosinophilia and JAK2  Rearrangementn
+(MLNE-8)Assess for  
+PDGFRB 
+rearrangement
+Assess 
+for FGFR1 
+rearrangementFISH for  
+PDGFRBPositive
+NegativeMyeloid/Lymphoid  
+Neoplasm with  
+Eosinophilia and 
+PDGFRB 
+Rearrangement
+(MLNE-6) Consider NGS or other 
+diagnostic techniques 
+to identify cryptic 
+rearrangementsl
+PositiveConfirmatory 
+FISH for FGFR1Myeloid/Lymphoid Neoplasm 
+with Eosinophilia and FGFR1 
+Rearrangement (MLNE-7)
+MLNE-3l Diagnosis and Staging Considerations in Myeloid/Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase Gene Fusions (MLNE-4) .
+m Alternative diagnostic testing methods include chromosomal microarray analysis (CMA), chromosome genomic array testing (CGAT), and NGS. See Principles of 
+Cytogenetic and Molecular Testing for Myeloid/Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase Gene Fusions (MLNE-B) .
+n The differential diagnosis of JAK2 and ABL1 fusions with a phenotype of ALL includes Ph-like ALL.Rare alternative  
+PDGFRA 
+rearrangement
+PositiveConfirmatory FISH for FLT3 
+(and partner gene if available; 
+eg, ETV6)Myeloid/Lymphoid Neoplasm with 
+Eosinophilia and FLT3 Rearrangement 
+(MLNE-9)Assess 
+for FLT3 
+rearrangement
+Assess 
+for ABL1 
+rearrangementPositiveConfirmatory FISH for 
+ABL1 (and partner gene if 
+available; eg, ETV6)Myeloid/Lymphoid Neoplasm 
+with Eosinophilia and ABL1 
+Rearrangementn (MLNE-9)PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+DIAGNOSIS AND STAGING CONSIDERATIONS IN MYELOID/LYMPHOID NEOPLASMS WITH EOSINOPHILIA  
+AND TYROSINE KINASE GENE FUSIONSd,o 
+• Chronic phase may present in the BM or PB as an MPN or MDS/MPN with or without eosinophilia, and the BM may exhibit an atypical mast 
+cell proliferation, often in an interstitial pattern (not typical aggregates found in SM). 
+• Blast phase (≥20% blasts) may present in the BM or PB as AML, ALL,n or mixed phenotype acute leukemias. EMD represents a blast phase 
+component. Blast phase may also present as an EMD with an "MPN-like" picture in blood and marrow. 
+• There is no current definition for "accelerated phase" disease; similar to myeloid neoplasms such as CML, 10%–19% blasts in the BM or PB 
+have been used to define "accelerated phase." 
+• EMD may present as extramedullary myeloid sarcoma, T-cell or B-cell lymphoblastic lymphoma, or myeloid/T-cell or B-cell lymphoid mixed 
+phenotype acute leukemias. EMD may present alone, or with chronic or blast phase disease involving the BM or PB. Lineage involvement of 
+the EMD may be different from the lineage involving the BM or PB.
+• The clinical presentation of these diseases partly reflects the fusion partner gene for the TK. This is best exemplified by the diverse 
+phenotypes in FGFR1-rearranged diseases.
+Step 1
+Step 3Step 2DISEASE EXTENT
+Does disease involvement include  
+BM, PB, or EMD, or all?If clinically suspected, imaging to  
+identify EMD
+DISEASE LINEAGE(S)
+What are the disease lineage(s) of 
+the BM or PB and EMD components?Immunophenotyping
+to determine lineage in BM or PB 
+and/or EMDDISEASE STAGE
+Is chronic phase or blast phase 
+disease present in the BM or PB? 
+If present, EMD represents a blast 
+phase component.Staging of BM or PB to determine 
+if chronic vs. blast phasen
+d The diagnosis requires a combination of histopathologic, clinical, laboratory , and cytogenetic/molecular analyses. 
+n The differential diagnosis of JAK2 and ABL1 fusions with a phenotype of ALL includes Ph-like ALL. 
+o Eosinophilia is not always  present.
+MLNE-4PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+MYELOID/LYMPHOID NEOPLASMS WITH EOSINOPHILIA AND THE FIP1L1 ::PDGFRA  REARRANGEMENTl,p
+• Monitor CBC and eosinophilia 
+• Imaging to document target  
+organ response, including EMD,  
+if clinically indicated
+• At 3 months, PB or BM FISH 
+• RT-PCR (if available) to document 
+molecular responser
+• Imatinib 100–400 mg daily with concurrent administration 
+of corticosteroids for 7–10 days in patients with symptoms/
+signs of cardiac involvement including troponinemia and/or 
+abnormal ECHO findings. Consultation with a cardiologist is 
+recommended.
+• In patients with acute leukemia where FIP1L1::PDGFRA 
+is discovered after induction chemotherapy, imatinib 
+can be added to AML (See NCCN Guidelines for Acute 
+Myeloid Leukemia) or ALL (See NCCN Guidelines for Acute 
+Lymphoblastic Leukemia) type induction chemotherapy, or 
+imatinib monotherapy could be considered.
+MLNE-5Continue imatinib 100 mg dailys• Imatinib 100 mg daily with 
+concurrent administration of 
+corticosteroids for 7–10 days 
+in patients with symptoms/
+signs of cardiac involvement 
+including troponinemia and/
+or abnormal ECHO findings. 
+Consultation with a cardiologist 
+is recommended. Chronic 
+phaseComplete hematologic 
+and cytogenetic 
+response (FISH); 
+Molecular response (if 
+RT-PCR is available)Loss of complete hematologic 
+and/or cytogenetic (FISH) and/or 
+molecular (RT-PCR) response
+• Evaluate adherence 
+• Evaluate for cytogenetic/molecular 
+clonal evolution, especially 
+for mutations associated with 
+development of resistance to 
+imatinib (PDGFRA T674I and D842V 
+mutations)t
+• Consider hematopoietic cell 
+transplant (HCT) evaluationBlast  
+phaseq≥20% blasts in the BM and/
+or PB (may present as AML, 
+ALL, or mixed phenotype acute 
+leukemias), and/or extramedullary 
+myeloid sarcoma, T-cell or B-cell 
+lymphoblastic lymphoma, or 
+myeloid/T-cell or B-cell lymphoid 
+mixed phenotype acute leukemias. 
+Blast phase may also present as 
+an EMD with an "MPN-like" picture 
+in blood and marrow. If resistance mutation found, 
+consider TKI with potential activity or 
+refer for clinical trialu l Diagnosis and Staging Considerations in Myeloid/Lymphoid Neoplasms with Eosinophilia and Tyrosine 
+Kinase Gene Fusions (MLNE-4).
+p In some cases, the diagnostic testing may not reveal the PDGFRA rearrangement. Imatinib may be 
+considered for patients with a clinical picture consistent with this diagnostic group. 
+q The FIP1L1::PDGFRA fusion has been identified in patients with AML or ALL with eosinophilia at 
+diagnosis or unmasked after induction chemotherapy; blast phase disease may also develop as 
+progression from chronic phase disease due to cytogenetic/molecular clonal evolution, including 
+mutations associated with development of resistance to imatinib (PDGFRA T674I and D842V).
+r See MLNE-D for response criteria.
+s Complete hematologic response (CHR) by 1 month and complete cytogenetic response (CCyR; 
+FISH) by 3 months is achieved in a vast majority of patients. In patients with ongoing CHR and CCyR 
+(FISH), maintenance doses of imatinib as low as 100–200 mg weekly have been used with sustained 
+responses. Continue to monitor hematologic and cytogenetic response (by FISH) every 3–6 months, 
+and if available, molecular response by RT-PCR at these time points. Helbig G, et al. Br J Haematol 
+2008;141:200-204.t PDGFRA T674I and D842V mutations are resistant to imatinib.
+u Avapritinib is approved for indolent SM (ISM), advanced SM 
+(aggressive SM [ASM], SM with an associated hematologic 
+neoplasm [SM-AHN], and mast cell leukemia [MCL]), and also 
+for unresectable or metastatic gastrointestinal stromal tumors 
+(GISTs) harboring a PDGFRA exon 18 mutation, including 
+D842V mutations. This suggests a possible role for avapritinib 
+in patients with FIP1L1::PDGFRA–positive myeloid/lymphoid 
+neoplasms with eosinophilia harboring PDGFRA D842V 
+mutation resistant to imatinib. If this mutation is identified, a 
+clinical trial of avapritinib is preferred (if available), rather than 
+off-label use. PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+MLNE-6MYELOID/LYMPHOID NEOPLASMS WITH EOSINOPHILIA AND PDGFRB  REARRANGEMENTl,o,v 
+l Diagnosis and Staging Considerations in Myeloid/Lymphoid Neoplasms with 
+Eosinophilia and Tyrosine Kinase Gene Fusions (MLNE-4).
+o Eosinophilia is not always  present.
+r See MLNE-D for response criteria.
+v In some cases, the diagnostic testing may not reveal the PDGFRB rearrangement. 
+Imatinib may be considered for patients with a clinical picture consistent with this 
+diagnostic group.w CHR by 1 month and CCyR (standard cytogenetics and/or FISH) by 3 months 
+is achieved in a vast majority of patients.  Continue to monitor hematologic and 
+cytogenetic response (by FISH) every 3–6 months, and if available, molecular 
+response by RT-PCR. Reduction of imatinib to 100 mg daily can be considered 
+after achievement of CHR and complete cytogenetic/FISH response.• Monitor CBC and eosinophilia 
+• Imaging to document target organ  
+response, including EMD, if  
+clinically indicated
+• At 3 months, PB or BM standard 
+cytogenetics and/or FISH 
+• RT-PCR (if available) to document 
+molecular responser
+• Imatinib 100–400 mg daily (400 mg daily generally used 
+as induction dose) with concurrent administration of 
+corticosteroids for 7–10 days in patients with symptoms/
+signs of cardiac involvement including troponinemia and/or 
+abnormal ECHO findings. Consultation with cardiologist is 
+recommended.
+• In some patients with blast phase disease, PDGFRB 
+rearrangement may only be identified after induction 
+chemotherapy. In such patients, imatinib can be added to 
+AML (See NCCN Guidelines for Acute Myeloid Leukemia) 
+or ALL (See NCCN Guidelines for Acute Lymphoblastic 
+Leukemia) type induction chemotherapy, or imatinib 
+monotherapy could be considered.Continue imatinib  
+(100–400 mg daily )w• Imatinib 100–400 mg daily (400 
+mg daily generally  
+used as induction dose)  
+with concurrent administration 
+of corticosteroids for  
+7–10 days in patients with 
+symptoms/signs of cardiac 
+involvement including 
+troponinemia and/or abnormal 
+ECHO findings. Consultation 
+with a cardiologist is 
+recommended.Chronic 
+phaseComplete hematologic 
+and cytogenetic response 
+(standard cytogenetics 
+and/or FISH); molecular 
+response (if RT-PCR is 
+available)
+Loss of complete 
+hematologic and/or  
+FISH and/or molecular  
+(RT-PCR) response
+• Evaluate adherence 
+• Evaluate for cytogenetic/
+molecular clonal 
+evolution, including 
+mutations in PDGFRB Blast  
+phase≥20% blasts in the BM and/
+or PB (may present as AML, 
+ALL, or mixed phenotype 
+acute leukemias), and/
+or extramedullary myeloid 
+sarcoma, T-cell or B-cell 
+lymphoblastic lymphoma, or 
+myeloid/T-cell or B-cell lymphoid 
+mixed phenotype acute 
+leukemias. Blast phase may 
+also present as an EMD with an 
+"MPN-like" picture in blood and 
+marrow. If resistance mutation found, 
+refer for clinical trialPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+MLNE-7MYELOID/LYMPHOID NEOPLASMS WITH EOSINOPHILIA AND FGFR1  REARRANGEMENTl,o
+• Treatment considerations: 
+• Treatment options need to take  
+into consideration whether both  
+the BM/PB and EMD components 
+are present and the lineage of  
+each
+• Evaluate PB and BM for response,r 
+including cytogenetics/FISH, and 
+if available, RT-PCR for FGFR1 
+rearrangement 
+• Clinically relevant imaging to 
+document response in the  
+EMD component, if present
+• Allogeneic HCT is the only 
+potentially curative option and  
+early referral is generally 
+recommended
+l Diagnosis and Staging Considerations in Myeloid/Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase Gene Fusions (MLNE-4).
+o Eosinophilia is not always  present.
+r See MLNE-D for response criteria.
+x Pemigatinib (FGFR inhibitor) is FDA-approved for the treatment of adult patients with relapsed or refractory myeloid/lymphoid neoplasms with FGFR1 rearrangement.
+y See NCCN Guidelines for Acute Myeloid Leukemia or NCCN Guidelines for Acute Lymphoblastic Leukemia.TREATMENT OPTIONS CLINICAL PRESENTATION
+Chronic phasePreferred regimens:
+Clinical trial or
+Pemigatinibx
+ 
+Other recommended regimens:
+TK inhibitor (TKI) with activity 
+against FGFR1 (eg, midostaurin 
+or ponatinib)
+Preferred regimens: 
+Clinical trial or Pemigatinibx
+and  
+Consider early referral to allogeneic HCT (if eligible) 
+Other recommended regimens:Blast phase
+•  ≥20% blasts in BM and/or 
+PB (may present as AML, 
+ALL, or mixed phenotype 
+acute leukemias), and/
+or extramedullary 
+myeloid sarcoma, T-cell 
+or B-cell lymphoblastic 
+lymphoma, or myeloid/T-
+cell or B-cell lymphoid 
+mixed phenotype acute 
+leukemias. Blast phase 
+may also present as an 
+EMD with an "MPN-like" 
+picture in blood and 
+marrow. • TKI with activity against FGFR1 (eg, midostaurin or 
+ponatinib) ± AML-type induction chemotherapy,y 
+and followed by consideration of allogeneic HCT  
+(if eligible) or 
+• Pemigatinibx + AML-type induction chemotherapy,y 
+and followed by consideration of allogeneic HCT  
+(if eligible)
+• TKI with activity against FGFR1 (eg, midostaurin or 
+ponatinib) ± ALL-type induction chemotherapy,y  
+and followed by consideration of allogeneic HCT  
+(if eligible) or 
+• Pemigatinibx + ALL-type induction chemotherapy,y 
+and followed by consideration of allogeneic HCT  
+(if eligible) Myeloid
+Mixed
+phenotype 
+LymphoidConsider early referral to 
+allogeneic HCT (if eligible)PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+MLNE-8MYELOID/LYMPHOID NEOPLASMS WITH EOSINOPHILIA AND JAK2 REARRANGEMENTl,n,o
+TREATMENT OPTIONS CLINICAL PRESENTATION
+Treatment considerations: 
+• Treatment options need to take  
+into consideration whether both  
+the BM/PB and EMD components are 
+present and the lineage of each
+• Evaluate PB and BM for response,r 
+including cytogenetics/FISH, and 
+if available, RT-PCR for a JAK2 
+rearrangement 
+• Clinically relevant imaging to 
+document response in the EMD 
+component, if present
+• Allogeneic HCT is the only potentially 
+curative option and early referral is 
+generally recommended
+l Diagnosis and Staging Considerations in Myeloid/Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase Gene Fusions (MLNE-4).
+n The differential diagnosis of JAK2 and ABL1 fusions with a phenotype of ALL includes Ph-like ALL. 
+o Eosinophilia is not always  present.
+r See MLNE-D for response criteria.
+z Ruxolitinib is most commonly used (Rumi E, et al. J Clin Oncol 2013;31:e269-e271; Rumi E, et al. Ann Hematol 2015;94:1927-1928; Schwaab J, et al. Ann Hematol 
+2015;94:233-238; Schwaab J, et al. Am J Hematol 2020;95:824-833). Fedratinib may be an appropriate alternative treatment option.Chronic phase
+Blast phase
+•  ≥20% blasts in BM  
+and/or PB (may present as AML, 
+ALL, or mixed phenotype acute 
+leukemias), and/or extramedullary 
+myeloid sarcoma, T-cell or 
+B-cell lymphoblastic lymphoma, 
+or myeloid/T-cell or B-cell 
+lymphoid mixed phenotype acute 
+leukemias. Blast phase may also 
+present as an EMD with an "MPN-
+like" picture in blood and marrow. Preferred regimen : 
+Clinical trial and  
+Consider early referral to allogeneic HCT (if eligible)  
+Other recommended regimensz:
+TKI with activity against JAK2 (ruxolitinib  
+or fedratinib) ± AML-type induction 
+chemotherapy (See  NCCN Guidelines for 
+Acute Myeloid Leukemia), and followed by 
+consideration of allogeneic HCT (if eligible)  
+TKI with activity against JAK2 (ruxolitinib  
+or fedratinib) ± ALL-type induction 
+chemotherapy (See  NCCN Guidelines 
+for Acute Lymphoblastic Leukemia), and  
+followed by consideration of allogeneic 
+HCT (if eligible) Myeloid
+Mixed 
+phenotype
+LymphoidPreferred regimen :
+Clinical trial
+ 
+Other recommended regimensz: 
+TKI with activity against JAK2 
+(ruxolitinib or fedratinib)Consider early referral 
+to allogeneic HCT  
+(if eligible)PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+TREATMENT OPTIONS
+TKI with activity  
+against ABL1
+Preferred regimens :
+• Clinical trial
+• Dasatinibaa 
+• Nilotinibaa
+Other recommended  
+regimens:
+• Asciminib
+• Bosutinib 
+• Imatinib
+• PonatinibTKI with activity  
+against FLT3
+Preferred regimen :
+• Clinical trial
+Other recommended 
+regimens:
+• Gilteritinib
+• Midostaurin
+• Quizartinib
+• Sorafenib
+• SunitinibMYELOID/LYMPHOID NEOPLASMS WITH EOSINOPHILIA AND ABL1 OR FLT3 REARRANGEMENTl,n,o
+CLINICAL PRESENTATION
+Treatment considerations: 
+• Treatment options need to  
+take into consideration  
+whether both the BM/PB and EMD 
+components are present and the 
+lineage of each
+• Evaluate PB and BM for response,r 
+including cytogenetics/FISH, and  
+if available, RT-PCR for an  
+ABL1 or FLT3 rearrangement 
+• Clinically relevant imaging to 
+document response in the  
+EMD component, if present
+• Allogeneic HCT is the only 
+potentially curative option and  
+early referral is generally 
+recommendedChronic phase
+Blast phase
+•  ≥20% blasts in BM and/or PB 
+(may present as AML, ALL, 
+or mixed phenotype acute 
+leukemias), and/or extramedullary 
+myeloid sarcoma, T-cell or B-cell 
+lymphoblastic lymphoma, or 
+myeloid/T-cell or B-cell lymphoid 
+mixed phenotype acute leukemias. 
+Blast phase may also present as 
+an EMD with an "MPN-like" picture 
+in blood and marrow. TKI with activity against ABL1 or FLT3 ±  
+AML-type induction chemotherapy (See  NCCN 
+Guidelines for Acute Myeloid Leukemia), and 
+followed by consideration of allogeneic HCT  
+(if eligible) 
+TKI with activity against ABL1 or FLT3 ± ALL-type 
+induction chemotherapy (See  NCCN Guidelines for 
+Acute Lymphoblastic Leukemia), and followed by 
+consideration of allogeneic HCT (if eligible)  Myeloid
+Mixed
+phenotype 
+LymphoidPreferred regimen : 
+Clinical trial and  
+Consider early referral to allogeneic HCT (if eligible)  
+Other recommended regimens :Consider early 
+referral to  
+allogeneic HCT  
+(if eligible)
+MLNE-9l Diagnosis and Staging Considerations in Myeloid/Lymphoid Neoplasms with 
+Eosinophilia and Tyrosine Kinase Gene Fusions (MLNE-4).
+n The differential diagnosis of JAK2 and ABL1 fusions with a phenotype of ALL 
+includes Ph-like ALL.o Eosinophilia is not always  present.
+r See MLNE-D for response criteria.
+aa Schwaab J, et al. Am J Hematol 2020;95:824-833.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+MLNE-ACAUSES OF SECONDARY (REACTIVE) EOSINOPHILIA1,2
+Category Examples
+Infections Parasitic (strongyloidiasis, Toxocara canis , Trichinella spiralis , schistosomiasis, Echinococcus, Entamoeba , 
+Cystoisospora, Ascaris, Ancylostoma duodenale  [hookworm], Toxoplasma gondii, Fasciola hepatica, 
+Paragonimus, Clonorchis,  filariasis) 
+Viral (human immunodeficiency virus [HIV], herpes simplex virus [HSV], human T-cell leukemia virus type 2 [HTLV-2])
+Fungal (coccidioides, histoplasma, cryptococcus, pneumocystis)
+Bacterial/Mycobacterial
+Consultation with infectious disease specialist is recommended for the management of complications related to 
+specific infections.
+Allergic/hypersensitivity diseases Asthma, rhinitis, allergic rhinitis, bronchopulmonary aspergillosis, allergic gastroenteritis 
+Pulmonary diseases Bronchiectasis, cystic fibrosis, chronic eosinophilic pneumonia, Löffler's syndrome
+Cardiac diseases Tropical endocardial fibrosis, eosinophilic endomyocardial fibrosis or myocarditis
+Skin diseases Atopic dermatitis, urticaria, eczema, bullous pemphigoid, dermatitis herpetiformis, episodic angioedema with 
+eosinophilia (Gleich syndrome)
+Connective tissue/autoimmune diseases Inflammatory bowel disease, celiac disease, eosinophilic granulomatosis with polyangiitis, rheumatoid arthritis, 
+systemic lupus erythematosus, polyarteritis nodosa, sarcoidosis, systemic sclerosis, Sjogren’s syndrome, bullous 
+pemphigoid, IgG4-related disease, eosinophilic fasciitis
+Medications Aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), antimicrobials, drug reaction with eosinophilia and 
+systemic symptoms (DRESS) syndrome
+Malignancies Solid tumors (eg, renal, lung, breast, vascular neoplasms, female genital tract cancers), Hodgkin and non-Hodgkin 
+lymphoma, ALL, Langerhans cell histiocytosis, angiolymphoid hyperplasia with eosinophilia (Kimura disease)
+Metabolic Adrenal insufficiency 
+Immune system diseases Hyper IgE syndrome, Omenn syndrome, Wiskott-Aldrich syndrome, IgA  deficiency
+Other Acute/chronic graft-versus-host disease, solid organ rejection, cholesterol emboli, L-tryptophan ingestion, IL-2 
+therapy, toxic oil syndrome
+1 Gotlib J, Cools J, Malone JM 3rd, et al. The FIP1L1-PDGFR alpha fusion tyrosine kinase in hypereosinophilic syndrome and chronic eosinophilic leukemia: 
+implications for diagnosis, classification, and management. Blood 2004;103:2879-2891.
+2 Shomali W, Gotlib J. World Health Organization-defined eosinophilic disorders: 2022 update on diagnosis, risk stratification, and management. Am J Hematol 
+2022;97:129-148. PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+MLNE-B
+1 OF 5PRINCIPLES OF CYTOGENETIC AND MOLECULAR TESTING FOR MYELOID/LYMPHOID NEOPLASMS WITH EOSINOPHILIA  
+AND TYROSINE KINASE GENE FUSIONS
+See Table 1. TK Gene Fusions in Myeloid/Lymphoid Neoplasms with Eosinophilia (MLNE-B, 3 of 5) and Table 2. Diagnostic Assays for the Detection of 
+TK Gene Fusions in Myeloid/Lymphoid Neoplasms (MLNE-B, 4 of 5)
+PDGFRA-Rearranged Eosinophilia: 
+The FIP1L1::PDGFRA rearrangement is found in approximately 10% of patients with idiopathic eosinophilia.1-4 Elevated serum tryptase level and/or mast cell 
+proliferation in the BM are surrogate markers for FIP1L1 ::PDGFRA rearrangement (these patients are KIT D816V-negative and do not satisfy WHO criteria for 
+SM). PB or BM FISH have similar sensitivities and the diagnosis can be made from either source. Decalcified BM should not be used as this results in a yellow 
+autofluorescence in cells that precludes FISH interpretation.
+FIP1L1::PDGFRA rearrangement results from an approximately 800-kb submicroscopic deletion in chromosome 4q12 leading to the fusion of FIP1L1 and PDGFRA 
+genes. Metaphase karyotype is unrevealing and the diagnosis is made by FISH and/or RT-PCR. The FISH probe used to identify these rearrangements detects 
+loss of the intervening material, such as the gene CHIC2.5,6 An alternative approach is a nested RT-PCR or RT-qPCR assay. Although the breakpoints in PDGFRA 
+occur exclusively in exon 12, the breakpoints in FIP1L1 are more variable but still amenable to detection by RT-qPCR. The sensitivity of this assay in most labs 
+is 0.01%–0.001%, but as the fusion can be difficult to detect in some patients a combination strategy of FISH and RT-PCR is the most sensitive method for the 
+detection of this rearrangement, particularly in patients where clinical suspicion is high (eg, male, elevation of serum tryptase) and for detecting minimal residual 
+disease (MRD). Although not widely available, chromosome genomic array testing (CGAT; also known as CMA), single nucleotide polymorphism array (SNP-A), or 
+array comparative genomic hybridization (aCGH) can readily detect submicroscopic deletions at diagnosis when a clone size is at least 20%. 
+Other rarer partner gene fusions for PDGFRA have been described (eg, BCR, ETV6, KIF5B, CDK5RAP2, STRN, TNKS2, FOXP1).2,7 Detection of these alternate 
+PDGFRA rearrangements is critical due to the excellent prognosis these patients have when they are treated with imatinib. Conventional cytogenetics will detect 
+these rearrangements, but these other rearrangements can be best detected by FISH with the break-apart PDGFRA FISH probe. The break-apart FISH can detect 
+a rearrangement with any gene partner and is more sensitive than karyotype analysis. RT-PCR for specific gene rearrangements is also informative, if available.8
+A multiplexed approach using NGS to detect gene fusions is now being increasingly adopted by clinical diagnostic laboratories and may be used for both diagnosis 
+of and monitoring for MRD.  
+Lastly, focused sequencing of exons 9–19 can detect mutations. Activating point mutations in PDGFRA have been identified in patients with FIP1L1 ::PDGFRA–
+negative HES and some are implicated in disease pathogenesis and may be imatinib responsive.9
+PDGFRB-Rearranged Eosinophilia:
+The ETV6::PDGFRB [t(5;12)(q31~33;p13.2)] is the most common abnormality with a hematologic presentation similar to CMML.4,6,7,10 The breakpoints in PDGFRB 
+are located in the chromosomal region 5q31~q33. In addition to ETV6, more than 30 different partner gene fusions for PDGFRB rearrangements have been 
+described. Rare cases with normal karyotype have been demonstrated to harbor PDGFRB rearrangements (eg, TNIP1-PDGFRB in MPN with eosinophilia).
+Continued
+References on MLNE-B (5 of 5)PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+MLNE-B
+2 OF 5ContinuedPRINCIPLES OF CYTOGENETIC AND MOLECULAR TESTING IN MYELOID/LYMPHOID NEOPLASMS WITH EOSINOPHILIA  
+AND TYROSINE KINASE GENE FUSIONS
+PDGFRB-Rearranged Eosinophilia : (continued)
+Not all patients with t(5;12)(q32;p13) have a  PDGFRB rearrangement; other genes in this region include  IL-3, ACSL6, and others. Eosinophilia without PDGFRB 
+rearrangement is resistant to imatinib therapy.  
+Conventional cytogenetic analysis is the most cost-effective approach to confirm the diagnosis due to the large number of partner genes; 
+however, it may miss subtle or cryptic translocations.  Confirmation of PDGFRB rearrangement by FISH is indicated in all patients with 5q31~33 breakpoint. FISH 
+break-apart probes will demonstrate all PDGFRB gene rearrangements with higher sensitivity and can be important in confirming the diagnosis and in treatment 
+monitoring, but they will not identify the specific translocation partner . A dual-fusion probe can be used to confirm the partner if a specific one is suspected.3,6
+Sensitive RT-PCR has the benefit of small clone detection, in addition to the ability to detect complex and/or cryptic cases not evident by conventional 
+cytogenetics. However, outside of ETV6::PDGFRB, the feasibility of RT-PCR is limited by the large number of partner genes.
+A multiplexed approach using NGS to detect gene fusions is now being increasingly adopted by clinical diagnostic laboratories and may be used for both 
+diagnosis of and monitoring for MRD.
+FGFR1-Rearranged Eosinophilia :
+To date, 16 partner genes with FGFR1 have been described.4,6,7 The most common rearrangement is t(8;13) (p11;q12), which results in the fusion of  
+ZMYM2 with FGFR1 in about 50% of cases. This entity is associated with a high incidence of T-cell lymphoblastic lymphoma/leukemia. Two other common 
+rearrangements include t(8;9)(p11;q33) (~15%) and t(6;8)(q27;p11) (~10%), which result in the fusions of CNTRL and FGFR1OP with FGFR1, respectively.
+Conventional cytogenetics will identify  FGFR1-associated translocations, which can be confirmed by FISH using  FGFR1 break-apart probes .
+JAK2 -Rearranged Eosinophilia :
+To date, translocations involving  PCM1::JAK2 t(8;9)(p22;p24),  ETV6::JAK2 [t(9;12)(p24;p13)], and  BCR::JAK2 [t(9;22)(p24;q11)] have been described.
+Conventional cytogenetics can identify these translocations, but they should be confirmed by  JAK2 break-apart probes.4,6,7
+FLT3- or ABL1-Rearranged Eosinophilia : 
+ETV6::FLT3 [t(12;13)(p13;q12)] is the gene fusion involved in the majority of cases with  FLT3 rearrangement.7 Other variants with SPTBN1::FLT3,  
+GOLGB1::FLT3, and TRIP11::FLT3 gene fusions have also been reported.7 Conventional cytogenetics to identify t(12;13) followed by confirmatory FISH with 
+break-apart probes or nested RT-PCR can be used to confirm the presence of  an ETV6::FLT3 gene fusion.7
+ETV6::ABL1 [t(9;12)(q34;p13)] is the gene fusion involved in the majority of cases with  ABL1 rearrangement.7 Other complex rearrangements have also been 
+reported. Routine karyotyping can be inconclusive and FISH can miss small insertions. A multiplexed approach using NGS to detect gene fusions is now being 
+increasingly adopted by clinical diagnostic laboratories and may be used for both diagnosis of and monitoring for MRD. FISH with ETV6 and ABL1 probes, RT-
+PCR, or RNA sequencing are more reliable for the identification of ETV6::ABL1 rearrangement.7,11
+References on MLNE-B (5 of 5)PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+Tyrosine Kinase
+GeneMost Frequent Partner
+Gene FusionOther Partner Genes
+PDGFRA (4q12) FIP1L1 (4q12) BCR (22q11.23)
+ETV6 (12p13)
+KIF5B (10p11)
+CDK5RAP2 (9q33)STRN (2p24)
+TNKS2 (10q23)
+FOXP1 (3p14)
+PDGFRB (5q31-33) ETV6 (12p13) SPTBN1 (2p16)
+TPM3 (1q21)
+PDE4DIP (1q22)
+SPDR (2q32)
+WDR48 (3p22)
+GOLGA4 (3p22)
+GOLGB1 (3q12)
+PRKG2 (4q21)
+DIAPH1 (5q31)
+TNIP1 (5q33)
+KANK1 (9p24)
+SART3 (12q23)
+CEP85L (6q22)
+CCDC6 (10q21)
+GIT2 (12q24)
+NDEL1 (17p13)HIP1 (7q11)
+GPIAP1 (11p13)
+NIN (14q24)
+SPECC1 (17p11)
+ERC1 (12p13)
+TRIP11 (14q32)
+DTD1 (20p11)
+RABEP1 (17p13)
+MYO18A (17q11) 
+MPRIP (17p11)
+NDE1 (16p13)
+TP53BP1 (15q22)
+CPSF6 (12q15)
+BIN2 (12q13)
+CCDC88C (14q32)  
+FGFR1 (8p11) ZMYM2 (13q12) FGFR1OP (6q27)
+CNTRL (9q33)
+LRRFIP1 (2q37)
+RANBP2 (2q13)
+SQSTM1 (5q35)
+CUX1 (7q22)
+TRIM24 (7q34)TPR1 (1q25)
+HERV-K (19q13)
+FGFR1OP2 (12p11)
+BCR (22q11)
+MYO18A (17q11)  
+PCM1 (8p21)
+CPSF6 (12q15)
+TFG (3q12)
+JAK2 (9p24) PCM1 (8p21) ETV6 (12p13)
+BCR (22q11)
+FLT3 (13q12) ETV6 (12p13) SPTBN1 (2p16) 
+GOLGB1 (3q12) 
+TRIP11 (14q32)NTRK3 (15q25)
+LYN (8q12)
+SYK (9q22)
+ABL1 (9q34) ETV6 (12p13)Table 1. TK Gene Fusions in Myeloid/Lymphoid Neoplasms with Eosinophilia
+Reiter A, Gotlib J. Myeloid neoplasms with eosinophilia. Blood 2017;129:704-714.PRINCIPLES OF CYTOGENETIC AND MOLECULAR TESTING IN MYELOID/LYMPHOID NEOPLASMS WITH EOSINOPHILIA  
+AND TYROSINE KINASE GENE FUSIONS
+MLNE-B
+3 OF 5ContinuedPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+Table 2. Diagnostic Assays for the Detection of TK Gene Fusions in Myeloid/Lymphoid NeoplasmsPRINCIPLES OF CYTOGENETIC AND MOLECULAR TESTING IN MYELOID/LYMPHOID NEOPLASMS WITH EOSINOPHILIA
+AND TYROSINE KINASE GENE FUSIONS
+Tyrosine Kinase
+GenePrototypic Genetic 
+RearrangementChromosome  
+Location of Tyrosine 
+Kinase GeneRearrangement 
+Detected by  
+Standard CytogeneticsDiagnostic Assays
+PDGFRA FIP1L1::PDGFRA 4q12 No FISH,a RT-PCR
+PDGFRB ETV6::PDGFRB 5q31~33 Yes Cytogenetics, FISH, RT-PCR
+FGFR1 ZMYM2::FGFR1 8p11~12 Yes Cytogenetics, FISH, RT-PCR
+JAK2 PCM1::JAK2 9p24 Yes Cytogenetics, FISH, RT-PCR
+FLT3 ETV6::FLT3 13q12 Yes Cytogenetics, FISH, RT-PCR
+ABL1 ETV6::ABL1 9q34 YesbCytogenetics,b FISH,b RT-PCR, RNA-sequencing
+a FISH for the CHIC2 deletion is used to diagnose the FIP1L1::PDGFRA fusion.
+b ETV6::ABL1 can result from complex rearrangements, including cryptic insertions; routine karyotyping can be inconclusive and FISH can miss small insertions.  
+Reiter A, Gotlib J. Myeloid neoplasms with eosinophilia. Blood 2017;129:704-714. 
+MLNE-B
+4 OF 5PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+MLNE-B
+5 OF 5PRINCIPLES OF CYTOGENETIC AND MOLECULAR TESTING IN MYELOID/LYMPHOID NEOPLASMS WITH EOSINOPHILIA  
+AND TYROSINE KINASE GENE FUSIONS  
+REFERENCES
+1 Pardanani A, Ketterling RP, Li CY, et al. FIP1L1-PDGFRA in eosinophilic disorders: prevalence in routine clinical practice, long-term experience with imatinib therapy, 
+and a critical review of the literature. Leuk Res 2006;30:965-970.
+2 Gotlib J, Cools J. Five years since the discovery of FIP1L1-PDGFRA: what we have learned about the fusion and other molecularly defined eosinophilias Leukemia 
+2008;22:1999-2010.
+3 Boyer DF. Blood and bone marrow evaluation for eosinophilia. Arch Pathol Lab Med 2016;140:1060-1067.
+4 Shomali W, Gotlib J. World Health Organization-defined eosinophilic disorders: 2022 update on diagnosis, risk stratification, and management. Am J Hematol 
+2022;97:129-148. 
+5 Pardanani A, Ketterling RP, Brockman SR, et al. CHIC2 deletion, a surrogate for FIP1L1-PDGFRA fusion, occurs in systemic mastocytosis associated with eosinophilia 
+and predicts response to imatinib mesylate therapy. Blood 2003;102:3093-3096.  
+6 Vega F, Medeiros LJ, Bueso-Ramos CE, et al. Hematolymphoid neoplasms associated with rearrangements of PDGFRA, PDGFRB, and FGFR1. Am J Clin Pathol 
+2015;144:377-392.
+7 Reiter A, Gotlib J. Myeloid neoplasms with eosinophilia. Blood 2017;129:704-714.
+8 Erben P, Gosenca D, Muller MC, et al. Screening for diverse PDGFRA or PDGFRB fusion genes is facilitated by generic quantitative reverse transcriptase polymerase 
+chain reaction analysis. Haematologica 2010;95:738-744.
+9 Elling C, Erben P, Walz C, et al. Novel imatinib-sensitive PDGFRA-activating point mutations in hypereosinophilic syndrome induce growth factor independence and 
+leukemia-like disease. Blood 2011;117:2935-2943.
+10 Bidet A, Chollet C, Gardembas M, et al. Molecular monitoring of patients with ETV6-PDGFRB rearrangement: Implications for therapeutic adaptation. Br J Haematol 
+2018;182:148-152.
+11 Zaliova M, Moorman AV, Cazzaniga G, et al. Characterization of leukemias with ETV6-ABL1 fusion. Haematologica 2016;101:1082-1093. PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+MLNE-CROLE OF  NGS IN  THE DIAGNOSIS OF MYELOID/LYMPHOID NEOPLASMS WITH EOSINOPHILIA  
+AND TYROSINE KINASE GENE FUSIONS
+• NGS studies have identified driver mutations involving a broad spectrum of genes most frequently involved in DNA  methylation/chromatin 
+modification.1-3 The rate of mutation detection is variable (11%, 28%, and 53% in 3 different studies) and the number of genes screened in 
+these studies was also variable (23, 45, and 88, respectively).1,4,5 
+• Mutations detected by NGS may also provide a means to identify primary (clonal/neoplastic) eosinophilia from secondary (reactive)
+eosinophilia, including in patients where no rearrangements of PDGFRA, PDGFRB, FGFR1, PCM1::JAK2, ETV6::JAK2, or BCR::JAK2  are 
+detected. Mutations described include TET2, ASXL1, EZH2, or SETBP1 and, recently, activating STAT5 N642H mutations.6
+• A recent survey of 61 patients with WHO-defined myeloid/lymphoid neoplasms associated with eosinophilia and harboring PDGFRA, 
+PDGFRB, FGFR1,  or PCM1::JAK2  identified that 14 patients (23%) had at least one mutation.7 The mutations detected were ASXL1, BCOR, 
+DNMT3A, TET2, RUNX1, ETV6, NRAS, STAT5B, and ZRSR2. Multiple mutations were identified in 3 patients, and RUNX1  was found to be 
+recurrently mutated (6 of 19 mutations detected) and was detected in 5 of 6 patients with FGFR1 rearrangements (83%). For the other groups, 
+the mutation rates were 14% for PDGFRA, 23% for PDGFRB, and 14% for PCM1::JAK2 . 
+• NGS, RNA fusion panel, and/or comparative genomic hybridization can be used to identify novel gene fusion or gene fusion events that 
+may not be detectable with other methods  when clinical suspicion  is high and FISH for PDGFRA, PDGFRB, FGFR1, JAK2 , ABL1, or FLT3 
+are negative. As these diagnostics are not broadly available, it is recommended that these cases be discussed with a hematopathologist. 
+Currently the impact on outcomes of additional mutations detected by NGS is unclear. Further studies are needed to determine the impact of 
+mutations on disease course.
+• For NGS studies, the pathogenicity of the variant(s) and relevance to eosinophilia need to be determined, including whether specific variants 
+could be clonal hematopoiesis of indeterminate potential (CHIP) mutations.
+References
+1 Pardanani A, Lasho T, Barraco D, et al. Next generation sequencing of myeloid 
+neoplasms with eosinophilia harboring the FIP1L1-PDGFRA mutation. Am J 
+Hematol 2016;91:E10-E11.
+2 Pardanani A, Lasho T, Wassie E, et al. Predictors of survival in WHO-defined 
+hypereosinophilic syndrome and idiopathic hypereosinophilia and the role of next-
+generation sequencing. Leukemia 2016;30:1924-1926.
+3 Patnaik MM, Lasho TL, Finke CM, et al. Targeted next generation sequencing 
+of PDGFRB rearranged myeloid neoplasms with monocytosis. Am J Hematol 
+2016;91:E12-E14.4 Wang SA, Tam W, Tsai AG, et al. Targeted next-generation sequencing identifies 
+a subset of idiopathic hypereosinophilic syndrome with features similar to chronic 
+eosinophilic leukemia, not otherwise specified. Mod Pathol 2016;29:854-864.
+5 Lee JS, Seo H, Im K, et al. Idiopathic hypereosinophilia is clonal disorder? 
+Clonality identified by targeted sequencing. PLoS One 2017;12:e0185602.
+6 Cross NCP, Hoade Y, Tapper WJ, et al. Recurrent activating STAT5B N642H 
+mutation in myeloid neoplasms with eosinophilia. Leukemia 2019;33:415-425.
+7 Baer C, Muehlbacher V, Kern W, et al. Molecular genetic characterization 
+of myeloid/lymphoid neoplasms associated with eosinophilia and 
+rearrangement of PDGFRA, PDGFRB, FGFR1 or PCM1-JAK2. Haematologica 
+2018;103:e348-e350.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+RESPONSE CRITERIA
+Response Criteria for MLNE:
+Shomali W, Colucci P, George TI, et al. Comprehensive response criteria for myeloid/lymphoid neoplasms with eosinophilia and tyrosine 
+kinase gene fusions: A proposal from the MLN International Working Group. Leukemia 2023;37:981-987.
+MLNE-DPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+ABBREVIATIONS
+ABBR-1
+NGS next-generation sequencing
+NSAID nonsteroidal anti-inflammatory drug
+NT-
+proBNPN-terminal prohormone B-type 
+natriuretic peptide
+PB peripheral blood
+Ph Philadelphia chromosome
+PMF primary myelofibrosis
+PV polycythemia vera
+RT-PCR reverse transcriptase polymerase 
+chain reaction
+RT-
+qPCRquantitative reverse transcriptase 
+polymerase chain reaction
+SM systemic mastocytosis
+SM-AHN systemic mastocytosis with an 
+associated hematologic neoplasm
+SNP-A single nucleotide polymorphism 
+array
+T-ALL T-cell acute lymphoblastic leukemia
+TKI tyrosine kinase inhibitor
+T-LBL T-cell lymphoblastic lymphomaESR erythrocyte sedimentation rate
+ET essential thrombocythemia
+FISH fluorescence in situ hybridization
+GIST gastrointestinal stromal tumor
+HCT hematopoietic cell transplant
+HE hypereosinophilia
+HES hypereosinophilic syndrome
+HIV human immunodeficiency virus
+HSV herpes simplex virus
+HTLV-2 human T-cell leukemia virus type 2
+Ig immunoglobulin
+IgE immunoglobulin E
+IHC immunohistochemistry
+ISM indolent systemic mastocytosis
+JMML juvenile myelomonocytic leukemia
+LDH lactate dehydrogenase
+LFT liver function test
+MCL mast cell leukemia
+MDS myelodysplastic syndromes
+MLNE myeloid and/or lymphoid neoplasm 
+with eosinophilia
+MPN myeloproliferative neoplasms
+MRD minimal residual diseaseaCGH array comparative genomic  
+hybridization
+ALL acute lymphoblastic leukemia
+AML acute myeloid leukemia
+ASM aggressive systemic mastocytosis
+ASO-
+qPCRallele-specific oligonucleotide  
+quantitative reverse transcriptase poly  
+merase chain reaction
+B-ALL B-cell acute lymphoblastic leukemia
+BM bone marrow
+CBC complete blood count
+CCyR complete cytogenetic response
+CEL chronic eosinophilic leukemia
+CEL, 
+NOSchronic eosinophilic leukemia, not 
+otherwise specified
+CGAT chromosome genomic array testing
+CHIP clonal hematopoiesis of indeterminate 
+potential
+CHR complete hematologic response
+CMA chromosome microarray analysis
+CML chronic myeloid leukemia
+CMML chronic myelomonocytic leukemia
+CNL chronic neutrophilic leukemia
+DRESS drug reaction with eosinophilia and 
+systemic symptoms
+ECHO echocardiogram
+EMD extramedullary diseasePLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 2.2025
+Myeloid/Lymphoid Neoplasms with Eosinophilia and 
+Tyrosine Kinase Gene Fusions
+Version 2.2025, 04/04/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+CAT-1NCCN Categories of Evidence and Consensus
+Category 1 Based upon high-level evidence (≥1 randomized phase 3 trials or high-quality , robust meta-analyses), there is 
+uniform NCCN consensus (≥85% support of the Panel) that the intervention is appropriate.
+Category 2A Based upon lower-level evidence, there is uniform NCCN consensus (≥85% support of the Panel) that the 
+intervention is appropriate.
+Category 2B Based upon lower-level evidence, there is NCCN consensus (≥50%, but <85% support of the Panel) that the 
+intervention is appropriate.
+Category 3 Based upon any level of evidence, there is major NCCN disagreement that the intervention is appropriate. 
+All recommendations are category 2A unless otherwise indicated.
+NCCN Categories of Preference
+Preferred interventionInterventions that are based on superior efficacy, safety, and evidence; and, when appropriate, 
+affordability.
+Other recommended 
+interventionOther interventions that may be somewhat less efficacious, more toxic, or based on less mature data; 
+or significantly less affordable for similar outcomes.
+Useful in certain 
+circumstancesOther interventions that may be used for selected patient populations (defined with recommendation).
+All recommendations are considered appropriate.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-1 Discussion  
+Table of Contents 
+Overview  ................................ ................................ ........................  MS-2 
+Guidelines Update Methodology  ................................ ..................  MS-3 
+Literature Search Criteria  ................................ ..............................  MS-3 
+Sensitive/Inclusive Language Usage  ................................ ............  MS-3 
+Diagnostic Criteria  ................................ ................................ ........  MS-3 
+Myeloid/Lymphoid Neoplasms With Eosinophilia and FIP1L1::PDGFRA 
+Rearrangement  ................................ ................................ ...............  MS-4 
+Myeloid/Lymphoid Neoplasms With Eosinophilia and PDGFRB  
+Rearrangement  ................................ ................................ ...............  MS-4 
+Myeloid/Lymphoid Neoplasms With Eosinophilia and FGFR1  
+Rearrangement  ................................ ................................ ...............  MS-4 
+Myeloid/Lymphoid Neoplasms With Eosinophilia and JAK2 
+Rearrangement  ................................ ................................ ...............  MS-4 
+Myeloid/Lymphoid Neoplasms With Eosinophilia and FLT3  or ABL1 
+Rearrangement  ................................ ................................ ...............  MS-5 
+Myeloid/Lymphoid Neoplasms With Eosinophilia That Present as Acute 
+Lymphoblastic Leukemia ................................ ................................ . MS-5 
+Clinical Presentation  ................................ ................................ ..... MS-5 
+Diagnosis  ................................ ................................ .......................  MS-6 
+Workup  ................................ ................................ ..........................  MS-8 
+Diagnostic Studies  ................................ ................................ ...........  MS-8 Evaluation of Target Organ Involvement  ................................ .........  MS-9 
+Cytogenetic and Molecular Testing  ................................ .................  MS-9 
+Role of NGS  ................................ ................................ .................  MS-11 
+Treatment Considerations  ................................ ...........................  MS-12 
+Myeloid/Lymphoid Neoplasms With Eosinophilia and PDGFRA  or 
+PDGFRB  Rearrangement  ................................ .............................  MS-12 
+Myeloid/Lymphoid Neoplasms With Eosinophilia and FGFR1 or JAK2 or 
+ABL1 or FLT3  Rearrangement  ................................ ......................  MS-13 
+References  ................................ ................................ ...................  MS-18 This discussion corresponds to the NCCN Guidelines for Myeloid/Lymphoid N eoplasms with Eosinophilia and Tyrosine Kinase Gene Fusions .  
+Last updated: April 4 , 2025.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-2 Overview 
+Eosinophilic disorders and related syndromes represent a heterogeneous 
+group of neoplastic and non- neoplastic conditions , characterized by an 
+increased number of eosinophils in the peripheral blood,  and may involve 
+eosinophil -induced organ damage .1-3  
+Hypereosinophilia (HE) is  defined as persistent elevated eosinophil  count 
+>1.5 x  109/L in blood and/or tis sue and is divided into four  variant types  
+per an international consensus proposal : hereditary (familial) , HE FA; 
+primary (clonal/neoplastic) , HE N; secondary (reactive) , HE R; and HE of 
+undetermined significance,  HE US.4 Hypereosinophilic syndrome (HES) is 
+the term applied for any of these HE variant s with evidence of 
+eosinophil -induced tissue/organ damage . The term idiopathic HES should 
+be applied when HE with associated organ damage is detected with no 
+apparent underlying disease or syndrome.4 The international consensus 
+criteria, as well as the definition and classification of HE, HES , and other 
+conditions accompanied by HE are outlined in  Table 1 and Table 2.  
+HE N is characterized by  neoplastic proliferation of eosinophils  and can be 
+associated with any of the World Health Organization ( WHO )-defined 
+myeloid and/or lymphoid neoplasms .4 A number of dysregulated  tyrosine 
+kinase (TK) gene fusions  have been implicated in the pathogenesis of 
+myeloid/lymphoid neoplasms with eosinophilia (MLNE ).5-7  
+In 2008 , the WHO  classification of eosinophilic dis orders  was revised to 
+include clonal /neoplastic  eosinophilia resulting from TK  gene fusions as a 
+new category termed,  “myeloid /lymphoid neoplasms with eosinophilia and 
+rearrangement of PDGFRA, PDGFRB , or FGFR1 .”8 In the 2017 WHO 
+classification, myeloid/lymphoid neoplasm s with PCM1 ::JAK2 
+rearrangement was added as a provisional entity.9-11 In addition to these 
+aforementioned TK gene fusions , rearrangements involving  FLT3 and 
+ABL1  genes were  described in MLNE , but were not formally added to the WHO classification .6 In both the 2022 International Consensus 
+Classification (ICC)12 and 2022 5th e dition of the WHO Classification,13 the 
+major category name for these diseases has  changed to 
+“myeloid /lymphoid neoplasms with eosinophilia and tyrosine kinase gene 
+fusions.” It now includes gene rearrangements including PDGFRA , 
+PDGFRB , FGFR1 , JAK2 , FLT3 , and ETV6::ABL1 . The WHO 5th edition 
+additionally includes other defined fusions including ETV6::FGFR2; 
+ETV6::LYN ; ETV6::NTRK3 ; RANBP2::ALK; BCR::RET ; and 
+FGFR1OP::RET .  
+Myeloproliferative neoplasms ( MPNs ) with peripheral blood eosinophilia 
+(eosinophil count >1.5 x 109/L) that lack all of the aforementioned TK gene 
+fusions  as well as BCR::ABL1 , and exhibit an abnormal bone marrow 
+morphology  and with evidence of clonality , are classified as c hronic 
+eosinophilic leukemia (CEL) in the absence of another WHO -defined 
+myeloid neoplasm .14 The presence of increased blasts (5% to <20%) can 
+further support  the diagnosis of CEL. The 2022 ICC and WHO 
+classifications highlight the frequent dysplastic morphology observed in 
+cases of CEL, although it is still included in the MPN (and not 
+myelodysplastic syndromes [MDS ]/MPN) category.12,13 
+The identification of specific TK gene fusions and the emergence of 
+tyrosine kinase inhibitors (TKIs)  has significantly improved the diagnosis  
+and treatment of some patients with MLNE .15 The treatment  of patients 
+with MLN E requires a multidisciplinary team approach,  preferably in 
+specialized medical centers.  
+The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®) 
+for Myeloid/Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase 
+Gene Fusions  include recommendations for the diagnosis, staging , and 
+treatment of any one of the MLN E associated with a TK gene fusion 
+included in the 2022 ICC and WHO 5th edition c lassification .  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-3 Guidelines Update Methodology  
+The complete details of the Development and Update of the NCCN 
+Guidelines are available at www.NCCN.org .  
+Literature Search Criteria  
+Prior to the development of  this version of the NCCN Guidelines® for 
+Myeloid/ Lymphoid Neoplasms with Eosinophilia and Tyrosine Kinase 
+Gene Fusions , an electronic search of the PubMed database was 
+performed to obtain key literature published on myeloid/lymphoid 
+neoplasms with eosinophilia and tyrosine kinase gene fusions  since the 
+previous Guidelines update using the following search terms:  eosinophilic  
+disorders, and tyrosine kinase fusion gene rearrangements . The PubMed 
+database was chosen as it remains the most widely used resource for 
+medical literature and indexes peer -reviewed biomedical literature.16 
+The search  results were  narrowed by selecting studies in humans 
+published in English. Results were confined to the following article types: 
+Clinical Trial,  Phase II; Clinical Trial,  Phase III; Clinical Trial,  Phase IV; 
+Guideline; Practice Guideline; Randomized Controlled Trial; 
+Meta -Analysis; Multicenter Study ; Systematic Reviews; and Validation 
+Studies. The data from key PubMed articles as well as articles from 
+additional sources deemed as relevant to these guidelines as discussed by the P anel during the G uidelines update have been i ncluded in this 
+version of the discussion  section.  Recommendations for which high -level 
+evidence is lacking are based on the P anel’s review of lower -level 
+evidence and expert opinion.   
+Sensitive/Inclusive Language Usage  
+NCCN Guidelines strive to use language that advances the goals of 
+equity, inclusion, and representation.17 NCCN Guidelines endeavor to 
+use language that is person- first; not stigmatizing; anti -racist, anti -
+classist, anti -misogynist, anti -ageist, anti -ableist, and anti -weight biased; and inclusive of individuals of all sexual orientations and gender identities. NCCN Guidelines incorporate non- gendered language, instead 
+focusing on organ -specific recommendations. This language is both 
+more accurate and more inclusive and can help fully address the needs 
+of individuals of all sexual orientations and gender identit ies. NCCN 
+Guidelines will continue to use the terms men, women, female,  and male  
+when citing statistics, recommendations, or data from organizations or sources that do not use inclusive terms. Most studies do not report how 
+sex and gender data are collected and use these terms interchangeably 
+or inconsistently. If sources do not diffe rentiate gender from sex 
+assigned at birth or organs present, the information is presumed to predominantly represent cisgender individuals. NCCN encourages 
+researchers to collect more specific data in future studies and 
+organizations to use more inclusive and accurate language in their future 
+analyses.  
+Diagnostic Criteria  
+The diagnosis requires the presence of a TK gene fusion confirmed by 
+cytogenetic and/or molecular  testing ( see Cytogenetic  and Molecular  
+Testing in thi s discussion  on MS -9).14  
+Eosinophilia is frequently observed , but it is not a prerequisite for the 
+diagnosis  of these neoplasms . While prominent eosinophilia is present in 
+most patients with FIP1L1::PDGFRA , it is not always  present in patients 
+with a PDGFRB , FGFR1,  JAK2 , FLT3,  or ETV6::ABL1  rearrangement.5 
+Patients also present with other blood count abnormalities , and organ 
+damage may develop irrespective of the underlying TK gene fusion. See 
+Clinical Presentation in this discussion  on MS-5.  
+The clinical phenotype of MLN E is driven by the TK (eg , PDGFRA , 
+PDGFRB , FGFR1 , JAK2 , FLT3 , ABL1 ) as well as the partner gene. Many 
+variant fusion partner genes  (>70) have been characterized to date.5-7 See PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-4 Table 1. TK Gene Fusions  in Myeloid/Lymphoid Neoplasms with 
+Eosinophilia in the algorithm.  
+Myeloid/ Lymphoid Neoplasms With Eosinophilia and 
+FIP1L1 ::PDGFRA Rearrangement  
+The diagnosis requires the presence of FIP1L ::PDGFRA gene fusion 
+(resulting from an interstitial deletion of CHIC2  gene on chromosome 
+4q12)  or a PDGFRA rearrangement with a variant gene fusion.14,18- 20 
+Activating PDGFRA  mutations can activate the protein, but are 
+exceedingly uncommon. If appropriate molecular analysis is not avai lable, 
+this diagnosis should be suspected in the presence of  a Philadelphia (Ph) -
+negative MPN with the hematologic features of CEL associated with 
+splenomegaly, elevation of serum tryptase, and an increased number of 
+mast cells  and/or fibrosis in the bone marrow .5,7,21 MLN E with 
+FIP1L1 ::PDGFRA  rearrangement has a very strong male predominance.  
+The bone marrow is hypercellular with increased eosinophil precursors 
+(generally without dysplasia) and proliferation of loosely distributed , 
+interstitial CD25+ spindle- shaped mast cells may be seen, whereas KIT 
+D816V mutation and dense clusters of mast cells typically seen in 
+systemic mastocytosis ( SM) are usually absent  except in rare cases .21 
+CEL is the most common clinical presentation . Blast phase MPN, acute 
+myeloid leukemia (AML)  with eosinophilia , and  rarely T -cell acute 
+lymphoblastic lymphoma (T -ALL) or myeloid sarcoma  have also been 
+described .5,22,23 Pediatric cases have also been reported .24-27  
+Myeloid/ Lymphoid Neoplasms With Eosinophilia and PDGFRB 
+Rearrangement  
+The diagnosis requires the presence of t(5;12)q31~q33;p13) or a variant translocation resulting in an ETV6 ::PDGFRB gene  fusion or a PDGFRB  
+rearrangement with a variant gene fusion.
+14 Chronic myelomonocytic leukemia (CMML), atypical chronic myeloid 
+leukemia (CML), MDS/MPN -unclassifiable, MPN, juvenile myelomonocytic 
+leukemia (JMML),  and blast -phase  disease involving the bone marrow 
+and/or extramedullary disease (EMD)  involving  myel oid, lymphoid, or 
+mixed phenotype acute leukemias  are the clinical presentations  
+associated with MLN E and PDGFRB rearrangement .5,28 This entity also 
+has a strong male predominance.  
+Myeloid/ Lymphoid Neoplasms With Eosinophilia and  FGFR1  
+Rearrangement  
+The diagnosis requires the presence of t(8;13)(p11;q12) or a variant 
+translocation leading to FGFR1 rearrangement demonstrated in myeloid 
+cells, lymphoblasts, or both.14,29,30 
+MLN E with FGFR1 rearrangement  has a moderate male preponderance,  
+and it is generally associated with an aggressive clinical course with rapid 
+progression of chronic phase disease to blast phase/secondary acute 
+leukemia.5,31,32 
+MPN with eosinophilia  are the most common  myeloid neoplasms  
+associated with FGFR1 -rearranged eosinophilia. FGFR1:: ZMYM2 gene 
+fusion and t(8;13) are associated with high incidence of T- ALL.6 AML, 
+B-cell, T-cell lymphoma/ acute lymphoblastic leukemia ( ALL), or mixed 
+phenotype acute leukemia (usually associated with peripheral blood or 
+bone marrow eosinophilia) , and/or EMD of myeloid, lymphoid, or mixed 
+phenotype acute leukemias  have also been described in some patients .5,33  
+Myeloid/ Lymphoid Neoplasms With Eosinophilia and  JAK2 
+Rearrangement  
+The diagnosis requires the presence of a JAK2  fusion gene, with PCM1  
+being the most frequent partner gene fusion.14  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-5 MLN E with JAK2  rearrangement  has a strong male preponderance and is 
+generally associated with an aggressive clinical course with rapid 
+progression of chronic phase disease to blast phase/secondary acute 
+leukemia.9,10   
+MPN or MDS/MPN with eosinophilia is the characteristic clinical presentation and ALL or de-novo AML has been described in some 
+patients.
+9,10 The differential diagnosis of JAK2  and ABL1 fusions with a 
+phenotype of ALL includes Ph- like ALL.  
+Myeloid/ Lymphoid Neoplasms With Eosinophilia and  FLT3  or ABL1 
+Rearrangement  
+MLNE with FLT3 rearrangement and MLNE with ETV6::ABL1  fusion were 
+added as part of the WHO  classification for MLNE and TK gene fusions.13 
+The diagnosis requires the presence of t(12;13)(p13;q12) leading to FLT3 
+rearrangement ( ETV6  is the most common partner gene in both cases) or 
+t(9;12)(q34;p13) leading to ABL1 rearrangement .34 Rarely, other gene 
+fusion partners of FLT3 have been described.6 
+MLN E with FLT3  or ABL1 rearrangement is generally associated with an 
+aggressive clinical course, disease progression,  or relapse. CEL , not 
+otherwise specified ( NOS ) is the characteristic clinical presentation in 
+MLN E with FLT3  rearrangement . Peripheral T- cell lymphoma or T- ALL 
+have also been described.6 De novo ALL is the most common clinical 
+presentation associated with ABL1  rearrangement in children; various 
+acute leukemia and chronic myeloi d/lymphoid phenotypes have been 
+described in adults .35 The differential diagnosis of JAK2  and ABL1  fusions 
+with a phenotype of ALL includes Ph- like ALL .34 
+Myeloid/Lymphoid Neoplasms With Eosinophilia That Present as 
+Acute Lymphoblastic Leukemia  
+For MLNE that initially present as B -cell ALL (B-ALL) or T- ALL, the TK 
+gene fusion should involve the myeloid lineage as well as lymphoblasts.36 In such instances, the chronic myeloid neoplasm in MLNE may manifest 
+either prior to or concurrently or may emerge following therapy for ALL. 
+Gene fusions ( eg, EBF1::PDGFRB,  ATF7IP::PDGFRB ) that are typically 
+associated with BCR::ABL1 -like B -ALL are specifically excluded from this 
+category. JAK2 fusions with certain partner genes, such as t(5;9)(q14.1; 
+p24.1)/ STRN3::JAK2  and PAX5::JAK2  are usually observed in 
+BCR::ABL1 -like B -ALL, which are, by definition, not MLNE. ETV6::JAK2  is 
+a genetic variant of PCM1::JAK2 . However, more than half of the reported 
+cases of ETV6::JAK2  are de novo B -ALL or de novo T- ALL. Similarly, 
+FLT3- rearranged cases can also present as de novo B -ALL or T -ALL 
+without myeloid lineage involvement, and these cases should be classified 
+as BCR::ABL1 -like B -ALL or de novo T- ALL. 
+Clinical Presentation 
+Chronic phase disease may present in the bone marrow or peripheral 
+blood, with o r without eosinophilia. B one marrow may exhibit an atypical 
+mast cell proliferation, often in an interstitial pattern but not the typical 
+aggregates found in SM.21  
+There is no current definition for accelerated phase disease; however, the 
+presence of 10% to 19% blasts in the bone marrow or peripheral blood has been used to define accelerated phase similar to myeloid neoplasms 
+such as CML. Blast phase (≥20% blasts  in the bone marrow and/or 
+peripheral blood) may  present as AML or ALL, or acute leukemias with 
+mixed phenotype acute leukemias  and/or extramedullary myeloid 
+sarcoma, T-ALL, or B-ALL. Blast phase may also present as an EMD with 
+MPN -like features in the bone marrow or peripheral blood.  TK gene 
+fusions  have been identified in a number of patients  where eosinophilia is 
+concurrently diagnosed with T- cell lymphomas or blast phase acute 
+leukemias of myeloid,  lymphoid,  or mixed phenotype acute leukemias  (de 
+novo or secondary) .
+6   PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-6 EMD may present as extramedullary myeloid sarcoma, T- ALL or B-ALL, or 
+myeloid/T-  or B-cell lymphoid mixed  phenotype  blast phase disease. EMD 
+may present alone or with chronic or blast phase disease involving the 
+bone marrow or peripheral blood,  and l ineage may be different from the 
+lineage involving the bone marrow /peripheral blood.  
+MLN E with TK gene fusions are associated  with a variety of symptoms 
+related to the overproduction of cytokines, growth factors , and 
+eosinophil -derived mediators.2 The most common presenting signs and 
+symptoms include weakness and fatigue, cough, dyspnea, myalgias or 
+angioedema, rash or fever , and rhinitis.7 In addition, patients also present 
+with various blood count abnormalities  depending on the underlying 
+neoplasm (eg,  neutrophilia, basophilia, thrombocytosis, monocytosis, 
+myeloid immaturity, and  both mature and immature eosinophils with 
+varying degrees of dysplasia and anemia and/ or thrombocytopenia with or 
+without increased blast cells or dysplasia).2,7 
+Organ damage may occur in HES irrespective of the underlying subtype of HE due to the increased production and/or persistent accumulation of 
+eosinophils in tissue.
+2 The s kin, lungs, gastrointestinal (GI) tract, heart, 
+and nervous system  are the most commonly involved organ systems , 
+although all organ systems may be susceptible to eosinophilia.2,7 
+Endomyocardial thrombosis and fibrosis are often documented in primary 
+(neoplastic)  HES variants  (HES N), particularly in association with the 
+FIP1L1::PDGFRA  gene  fusion.2,7 Imaging studies and organ -directed 
+biopsy are useful for the documentation of target organ involvement.2 See 
+Evaluation for Target Organ Involvement  in this discussion on  MS-9.  
+Diagnosis  
+Accurate diagnosis of the underlying cause of HE , taking into account the 
+histopathologic, clinical, laboratory , cytogenetic , and molecular criteria,  is 
+essential to establish the appropriate treatment plan. It is important to r ule out HE R caused by the reactive expansion of eosinophils that can be 
+associated with a wide  range of non- neoplastic ( ie, allergies, infections, 
+autoimmune or inflammatory disorders) or  neoplastic (hematologic or solid 
+malignancies) conditions.1,3 Differential diagnoses of the non- neoplastic 
+conditions, immunodeficiency syndromes, solid tumors , and hematologic 
+malignancies should be considered in patients presenting with HE.  See 
+Causes of Secondary (Reactive) Eosinophilia in the algorithm.   
+Allergic disorders (eg, allergic asthma, food allergy, atopic dermatitis, drug reactions) are the most common cause of HE
+R occurring in about 80% of 
+patients , and parasi tic infections represen t the second most common 
+cause.1,3 Strongyloidiasis due to Strongyloides stercoralis  exposure is 
+generally the most common parasitic infection,  although infections due to 
+several other organisms have also been reported.  If exposure to an 
+infectious  agent is suspected, initiation of appropriate treatment is 
+necessary  to prevent superinfection  and consultation with an infectious 
+agent specialist is recommended.  
+HE may also be present in individuals with certain immunodeficiency 
+syndromes associated with abnormal immunoglobulin (Ig) levels (eg,  
+hyperimmunoglobulin E syndrome [formerly known as Job syndrome], Omenn syndrome , Wiskott -Aldrich syndrome)  and pulmonary eosinophilic 
+diseases (eg , allergic bronchopulmonary aspergillosis [ABPA], eosinophilic 
+granulomatosis with polyangiitis [ EGPA]  [also known as Churg -Strauss 
+syndrome ]).
+1,3 HES may also be associated with a wide spectrum of 
+dermat ologic conditions  (eg, atopic dermatitis, urticaria, eczema).3  
+HE R is frequently observed in patients with solid tumors and lymphoid 
+malignancies (eg , Hodgkin lymphoma, B -cell and T- cell lymphomas) due 
+to the increased production of growth factors and eosinophilopoietic 
+cytokines.3 In solid tumors, the incidence of HE is generally limited to 
+advanced- stage disease , and among the lymphoid malignancies, the 
+incidence of HE is more frequent in T- cell lymphomas.3 In myeloid PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-7 malignancies ( eg, CML, AML , advanced SM), HE may similarly develop.  In 
+some patients , the eosinophilia may be part of the abnormal clone; 
+however, in some circumstances , it may  be secondary, related  to the 
+elaboration of eosinophilopoietic cytokines from neoplastic cells . The term 
+“myeloproliferative variant of HE” has been used to describe patients  with 
+MPN features such as splenomegaly or an increased serum tryptase. 
+While many of these patients  have  FIP1L1::PDGFRA –positive  disease, 
+the term has not been formally recognized by the WHO classification.7 
+Lymphocyte- variant HES (L-HES)  is characterized by clonal T cells with 
+an aberrant immunophenotype and is associated with an increased 
+number of eosinophils , elevated serum thymus  and activation -related 
+chemokine (TARC) , and IgE levels  (although these findings are neither 
+sensitive nor specific) .3,7,21 It is considered  a mixture of a clonal disease 
+with immunophenotypically aberrant T  cells (eg, double- negative immature 
+T-cells [CD3+ , CD4-, CD8-] or absence of CD3 [CD3 -, CD4+] or CD3+ , 
+CD4+ , CD7-) and secondary ( reactive)  HE due to the elaboration of T 
+helper 2 cytokines, such as  interleukin (IL)-4, IL-5, and IL- 13 from the 
+abnormal T -cell population. Approximately 10% to  20% of patients have 
+disease that  can evolve to various types of T -cell lymphoma  or Sézary 
+syndrome. Flow cytometry with T -cell immunophenotyping and molecular 
+analysis to confirm T -cell clonality may provide additional support to 
+confirm the diagnosis of L-HES.21 While there are no consensus 
+diagnostic criteria for L- HES, it is felt that a  clonal  TCR gene 
+rearrangement alone is not sufficient to make the diagnosis of L -HES, as 
+this finding can be non- specific and can also be identified in patients with 
+HES of undetermined significance or even patients with a PDGFRA 
+rearrangement .37,38   
+A diagnosis of a HE N should be suspected in patients with elevated serum 
+tryptase level, abnormal T- cell population, increased blasts, cytogenetic or 
+molecular abnormality, and/or bone marrow fibrosis , splenomegaly , and/or lymphadenopathy, after ruling out all possible  causes of HE R. Screening 
+for TK gene fusions  (PDGFRA , PDGFRB , FGFR1 , JAK2 , FLT3 , or ABL1 ) 
+or other cytogenetic abnormality is recommended for patients with a 
+suspected HE N.  
+The diagnosis of CEL should be considered in the absence of TK gene 
+fusions, when there are  other cytogenetic or molecular abnormalities  
+and/or morphologic evidence of an eosinophilic myeloid neoplasm .14 The 
+presence of increased blasts (5% to <20%) can further support  the 
+diagnosis of CEL. The major distinguishing characteristics between CEL 
+and HES are the presentence of abnormal bone marrow morphology 
+and/or the presence of molecular/cytogenetic abnormalities.14 Bone 
+marrow morphology  is incorporated into the diagnostic criteria for CEL.12  
+Bone marrow morphologic abnormalities often include hypercellularity , 
+dysplastic  megakaryocytes with variable dysplasia in other cell lineages, 
+and bone marrow fibrosis accompanying an eosinophi l infiltrate . These 
+features are important to help distinguish CEL, NOS from idiopathic 
+HES.39  In the WHO 5th edition, the qualifier “NOS” is removed from the 
+name, but is retained in the ICC .12,13 
+Next-generation sequencing (NGS) studies have revealed that somatic 
+mutations associated with a hematologic malignancy can be detected in 
+people with normal blood counts in the absence of diagnostic criteria for a 
+hematologic malignancy , and the term clonal hematopoiesis of 
+indeterminate potential (CHIP) has been proposed to describe such 
+situations.40 In patients with eosinophilia in whom causes for HE R have 
+been excluded, additional cytogenetic or molecular testing and 
+morphologic evaluation of the bone marrow and peripheral blood may be 
+useful to confirm the differential diagnosis of CHIP v ersus CEL , NOS , 
+since the composite picture of morphology and cytogenetic/molecular 
+testing may allow for a more definitive determination of the presence of an 
+eosinophilia- associated hematolymphoid neoplasm.  However, the PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-8 prevalence of CHIP and technical issues related to using NGS to define 
+clonality can be challenging when trying to ascribe certain mutations as 
+pathogenetically relevant to CEL.  
+A diagnosis of idiopathic HE (organ damage  absent ) is equivalent to the 
+respective term, HE US, per int ernational consensus criteria,  and HES 
+(organ damage present) with no apparent underlying disease or syndrome 
+is referred to as idiopathic HES.4 These are diagnoses of exclusion that 
+are assigned after ruling out HE N and all possible causes of HE R. NGS  via 
+myeloid mutation panel s may also be useful to establish the clonality in 
+selected circumstances  where no TK gene fusion s are detected . Mutations 
+detected by NGS may also provide a means to identify HE N from HE R. See 
+Role of NGS  below on MS-11.  
+Workup   
+Initial evaluation should include a history (especially assessment of travel , 
+new medications , recurrent history of infections , and/or family history of 
+eosinophilia) and physical exam ination, including skin evaluation , 
+palpation of the liver and spleen,  and signs/symptoms of an 
+immunodeficiency syndrome.  
+Diagnostic Studies  
+An elevated IgE level is a non- specific finding in many of the underlying 
+conditions (allergies, infections , and L-HES) related to secondary or 
+reactive eosinophilia.5,21 As previously noted, an elevated serum tryptase 
+is commonly observed in myeloproliferative variant s of HE, particularly in 
+myeloid neoplasms with a PDGFRA  gene  fusion .5,7,21 Serum tryptase is 
+elevated in the vast majority of patients with all subtypes of SM , and 
+eosinophilia is more prevalent in patients with advanced SM.41-43 
+Aspergillus -specific  Igs and increased serum IgE are characteristic 
+findings of ABPA.3  Laboratory  testing should include complete blood count ( CBC)  with 
+differential, comprehensive metabolic panel with uric acid, lactate 
+dehydrogenase, liver function tests , and serum tryptase levels . Peripheral 
+blood s mear  should be reviewed for the evidence of other blood count 
+abnormalities (eg,  eosinophilia, dysplasia, monocytosis , circulating 
+blasts ).21  
+Additional laboratory testing may be considered based on the patient's 
+history, symptoms, and findings on physical examination.7 This includes 
+serology testing for Strongyloides and other parasitic infections; testing for 
+antineutrophil cytoplasmic antibodies (ANCA ) and antinuclear antibodies 
+(ANA); stool ova and parasites (O&P)  test and GI polymerase chain 
+reaction ( PCR) ; quantitative serum Ig levels (including IgE), erythrocyte 
+sedimentation rate (ESR) , and/or C -reactive protein (CRP) ; and 
+aspergillus IgE to evaluate for ABPA.   
+Bone marrow aspirate and biopsy with immunohistochemistry  (IHC) for 
+tryptase, CD117, CD25, and CD30 and/or flow cytometry for CD117, 
+CD25, CD30, and CD20, and reticulin/collagen stains for fibrosis ; 
+conventional cytogenetics; fluorescence in situ hybridization ( FISH ) and/or 
+nested reverse transcriptase polymerase chain reaction ( RT-PCR)  to 
+detect the TK gene  fusion ; and confirmatory FISH testing to identify 
+breakpoints associated with TK gene fusion is recommended for all 
+patients to conf irm the diagnosis of myeloid/lymphoid neoplasm s.14,21  
+The diagnostic testing algorithms for TK gene fusions are outlined in 
+MLNE -3 in the algorithm . See also the section below on Cytogenetic and 
+Molecular Testing (MS-9). Evaluation of bone marrow and peripheral 
+blood including immunophenotyping will help determine lineage and 
+disease phase (chronic phase vs . accelerated or blast phase). Diagnosis 
+and staging considerations to determine the disease extent, disease phase, and lineage are outlined in the algorithm on MLNE -4.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-9 Flow  cytometry (preferred) and/or IHC to identify an immunophenotypically 
+aberrant T -cell population and molecular analysis to confirm T- cell 
+clonality may be useful in selected circumstances if a diagnosis of L -HES 
+is suspected. The typical immunophenotype  of L-HES is CD3 -, CD4+, 
+CD7-, and CD5++. Other abnormal immunophenotypes include CD3+, 
+CD4+ , and CD7- or CD3+, CD4 -, and CD8-.21 When flow cytometry results 
+are equivocal, molecular analysis to detect clonal TCR gene 
+rearrangements may be additionally helpful to support the diagnosis of 
+L-HES.21 STAT3  mutation has also been identified in the CD3- , CD4+ T  
+cells in a patient with L -HES.44 
+Evaluation of Target Organ Involvement  
+Electrocardiogram , cardiac troponin,  and/or N-terminal prohormone B -type 
+natriuretic peptide ( NT-proBNP ) measurement and echocardiogram  
+(ECHO) and/or cardiac MRI (in the presence of elevated cardiac troponin 
+or clinical features of cardiac injury) are helpful to establish cardiac 
+involvement and/or organ damage .38,45,46 
+Pulmonary function tests, chest x-ray, and bronchoscopy with 
+bronchoalveolar lavage are useful to confirm lung involvement in patients 
+with respiratory symptoms.2 Electromyography and nerve biopsy are 
+needed to confirm eosinophil -induced peripheral neuropathy. Evaluation 
+for sinusitis, nasal polyposis , and sensorineural hearing loss is 
+recommended for patients presenting with ear, nose, and throat  
+symptoms.2  
+Organ -directed biopsy (skin, lung,  or liver biopsy) with appropriate IHC is 
+needed to confirm tissue eosinophilia and eosinophil -induced organ 
+damage.2 Endoscopy with relevant mucosal biopsy with IHC ( tryptase , 
+CD117, CD25, and CD30 ) is recommended for patients with GI 
+involvement. Deep skin biopsy that includes  fascia and MRI are useful to 
+confirm cutaneous involvement with eosinophilic fasciitis.  Cytogenetic and Molecular Testing   
+MLN E With PDGFRA Rearrangement  
+FIP1L1::PDGFRA  is the most common gene fusion in MLN E and results 
+from a n interstitial deletion of CHIC2  gene on chromosome 4q12 .18-20 
+CHIC2  deletion on chromosome 4q12 is undetectable by standard 
+cytogenetics and can only be detected by FISH with specific probes  (FISH 
+for the CHIC2  deletion) used  for the identification of the FIP1L1:: PDGFRA  
+rearrangement .19,47 Nested RT-PCR and quantitative RT- PCR (RT -qPCR) 
+are more sensitive  for the detection of FIP1L1:: PDGFRA  gene fusion in 
+peripheral blood.5,20,47- 49  
+PDGFRA  fusions with other partner genes ( BCR, ETV6, KIF5B, 
+CDK5RAP2, STRN, TNKS2 , and FOXP1 ) that are detectable by standard 
+cytogenetics have been described. These fusions can be best detected by 
+FISH with break -apart probes or RT- PCR for specific TK gene fusions .5,6,20 
+In addition to these rearrangements, several novel imatinib- sensitive point 
+mutations in PDGFRA  have also been identified in patients with 
+FIP1L1::PDGFRA –negative HES.50 These alternate PDGFRA  
+rearrangements, like FIP1L1::PDGFRA , are associated with an excellent 
+prognosis when treated with imatinib.  
+Peripheral blood or bone marrow FISH have similar sensitivities , and the 
+diagnosis can be made from either source. However, peripheral blood FISH may not robustly detect the deletion due to low  clone size,  and 
+false -negative results have also been reported with bone marrow 
+FISH.
+51,52 Decalcified bone marrow should not be used as this results in a 
+yellow autofluorescence in cells that precludes FISH interpretation . Nested 
+RT-PCR or RT -qPCR are the methods  of choice to monitor response to 
+treatment during follow -up. However, RT -qPCR is not appropriate for 
+screening at diagnosis and the use of RT -PCR is complicated due to the 
+considerable diversity of break points within the FIP1L1 gene.53 Therefore, PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-10 a combination of RT- PCR and FISH is the most sensitive method for the 
+detection of FIP1L1 ::PDGFRA  rearrangement.  
+Chromosome genomic array testing (comparative genomic hybridization or 
+single -nucleotide polymorphism arrays) can readily detect submicroscopic 
+deletions at diagnosis when a clone size is at least 20% ; however , these 
+are not widely available.5  
+MLN E With PDGFRB R earrangement  
+ETV6 ::PDGFRB resulting from t(5;12)(q31 -33;p13) is the most common 
+gene fusion.54 However, not all patients  with t(5;12)(q31- 33;p13) have a 
+PDGFRB  rearrangement , and gene fusions involving non-TK genes in the 
+5q31~q33 region (eg , IL-3 or ACSL6)  have also been reported in patients  
+with t(5;12)(q31 -33;p13).55 Identification of the gene fusions  involved in 
+t(5;12) is crucial to direct an effective treatment plan.  
+PDGFRB  fusions with >30 different  partner genes, i n addition to ETV6 , 
+have been described and subtle or cryptic translocations have also been 
+increasingly recognized.5,56 -58 While the presence of PDGFRB  gene 
+fusions can be detected using FISH with break -apart probes , this 
+approach will not identify the specific translocation partner  gene or the 
+cryptic translocations. A dual-color break -apart probe can be used to 
+confirm the partner gene if a specific one is suspected.  
+Conventional cytogenetic analysis for t(5;12) followed by confirmatory 
+FISH testing with break -apart probes to assess the involvement of 
+PDGFRB  is the most effective approach to identify the gene fusion.59 
+Confirmation of PDGFRB rearrangement by FISH is indicated in all 
+patients with a 5q31~33 breakpoint.   
+RT-PCR and RT- qPCR are more sensitive for the detection of complex 
+and/or cryptic cases not evident by conventional cytogenetics and are well 
+suited to monitor response to treatment .49,60 However, the use of RT- PCR is limited by the large number of partner genes.  RNA sequencing may also 
+be considered in patients  with complex/cryptic fusions.61  
+MLN E With FGFR1 R earrangement  
+FGFR1:: ZMYM2  resulting from t(8;13)(p11;q12) is the most common gene 
+fusion occurring in approximately 50% of patients .6,29,30 Several other 
+partner  genes have been described. CNTRL ::FGFR1  [t(8;9)(p11;q33)] , 
+FGFR1OP ::FGFR1 [t(6;8)(q27;p11)] , and BCR::FGFR1  [t(8;22)(p11.2; 
+q11.2)] are the other common gene fusions occurring in about 10% to 29% 
+of patients .5,6,30,62,63 RUNX1 mutations have also been reported in patients 
+with acute leukemia and an FGFR1 rearrangement confirmed by FISH .30  
+Conventional cytogenetic analysis for t(8;13) followed by confirmatory 
+FISH testing using dual -color break -apart probes  for FGFR1  is the 
+effective diagnostic approach for the detection of FGFR1:: ZMYM2  gene 
+fusion and can be applied to other FGFR1  rearrangements .5,30 
+MLN E With JAK2 R earrangement  
+PCM1 ::JAK2  resulting from t(8;9)(p22;p24) is the most common gene  
+fusion.6,10,64- 66 ETV6 ::JAK2  [t(9;12)(p24;p13)] and BCR::JAK2  
+[t(9;22)(p24;q11)]  are the other  gene fusions  reported only in few 
+patients.6,10,67 -69 
+As with other gene fusion s resulting from a translocation, c onventional 
+cytogenetics to identify t(8;9) followed by confirmatory FISH with JAK2  
+break -apart probes  is recommended to confirm the diagnosis .6,10 
+MLN E With FLT3 or ABL1 R earrangement  
+ETV6 ::FLT3 resulting from t(12;13)(p13;q12)  and ETV6 ::ABL1 resulting 
+from t(9;12)(q34;p13) are the common gene fusions  involved in the 
+majority of patients .6,34,35,70 FLT3 fusion with o ther partner genes 
+(SPTBN1, GOLGB1, TRIP11,  and ZMYM2 ) and c omplex rearrangements PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-11 resulting from fusion of ABL1  with partner genes  (other than ETV6 ) have 
+also been reported.6,56,71- 73 
+Conventional cytogenetics for t(12;13) followed by confirmatory FISH with 
+break -apart probes or nested RT -PCR (to identify reciprocal ETV6 ::FLT3 
+and FLT3:: ETV6  transcripts) can be used to confirm the presence of 
+ETV6 ::FLT3 gene fusion.34 However, conventional cytogenetics may be 
+inconclusive for the detection of ETV6 ::ABL1 , mainly because the creation 
+of the ETV6 ::ABL1 gene  fusion requires at least three chromosomal 
+breaks . In addition,  the gene fusion is not uniform across patients  and 
+typically involves cryptic insertions that  can be missed with routine 
+cytogenetics.35 A multiplexed approach using NGS to detect gene fusions 
+is now being increasingly adopted by clinical diagnostic laboratories and 
+may be used for both diagnosis and monitoring for minimal residual 
+disease (MRD). FISH with a combination of ETV6  and ABL1  probes, 
+RT-PCR, or RNA sequencing are more reliable test s for the identification 
+of an ETV6 ::ABL1 fusion.6,35  
+Role of NGS  
+NGS  studies  have also identified driver  mutations involving a broad 
+spectrum of genes most frequently involved in DNA methylation/chromatin modifications in patients with idiopathic HES , although the number of 
+genes screened and the rate of mutation detection in these studies have been variable.
+74-77 In one study, myeloid neoplasm -related somatic 
+mutations involving a single gene or ≥ 2 genes have been identified in 28% 
+of patients (14 of 51) with idiopathic HES, with ASXL1  (43%), TET2 (36%), 
+EZH2  (29%), SETBP1  (22%), CBL (14%), and NOTCH1 (14%) being the 
+most frequently mutated genes.75 In another study, 53% of patients (16 of 
+30) had at least one candidate mutation with NOTCH1 (27%), SCRIB and 
+STAG2 (17%), and SH2B3 (13%) being the most frequently mutated 
+genes ; clonal TCR rearrangement was present in 13% of patients.76 
+Somatic STAT5B  N642H mutations were reported in 1.6% (27/1715) of patients with eosinophilia.77 The presence of STAT5B  N642H mutation as 
+a sole abnormality was associated with a shorter overall survival 
+compared to published series in patients with HES, suggesting that these 
+cases should be reclassified as CEL -NOS.77 Thus, targeted NGS studies 
+will be helpful to establish clonality in a subset of patients with idiopathic HES leading to re -classification of some cases as CEL- NOS.  
+NGS studies are also useful for the detection of additional molecular abnormalities in patients with MLN E and rearrangement of PDGFRA, 
+PDGFRB, FGFR1 , or PCM1 ::JAK2 .
+78-80 In an analysis of 61 patients with 
+MLN E and rearrangement of PDGFRA, PDGFRB, FGFR1 , or 
+PCM1 ::JAK2 , at least one additional mutation  in several other genes 
+(ASXL1,  BCOR, DNMT3A, TET2,  RUNX1, ETV6, NRAS, STAT5B,  and 
+ZRSR2 ) was detected in 14 patients  (23%).78 Patients with FGFR1 
+rearrangement had a significantly higher frequency of additional  mutations 
+(83%; 5 of 6 patients ; all had RUNX1  mutation) in comparison to those 
+with PDGFRA (14%; 5 of 35 patients) , PDGFRB  (23%; 3 of 13 patients) , 
+or PCM1 ::JAK2  (14%; 1 of 7 patients)  rearrangements . NGS -based gene 
+fusion detection techniques have identified genetic variants of CSF3R and 
+KIT mutations ( CSF3R  M696T and KIT  P155S) in patients with myeloid 
+neoplasms with eosinophilia and FIP1L1:: PDGFRA  rearrangement.79 
+NGS, RNA fusion panel, and/or comparative genomic hybridization can be 
+used to identify novel gene fusion or gene fusion events that may not be 
+detectable with other methods when clinical suspicion is high and FISH for 
+PDGFRA , PDGFRB , FGFR1 , JAK2 , ABL1 , or FLT3 are negative. As these 
+diagnostics are not broadly available, it is recommended that these cases 
+be discussed with a hematopathologist.  
+NGS studies are not broadly available and currently the prognostic impact 
+and pathogenicity of additional mutations detected by NGS have  not been 
+established. Further studies are needed to determine the impact of these novel mutations on disease course.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-12 Treatment  Considerations 
+All patients should be evaluated and treated by a multidisciplinary team 
+(including engagement of other subspecialists based on clinical 
+presentation and organ involvement) in specialized centers.  
+Assessment for clinical situations that may require urgent intervention is 
+recommended for all patients. In certain circumstances, i mmediate 
+institution of oral or high- dose intravenous  cortico steroids may be 
+indicated to mitigate organ damage , especially in patients in whom 
+eosinophil -mediated cardiac damage/heart failure is present or suspected.   
+As noted earlier, c onsultation with an infectious disease specialist is 
+recommended as clinically indicated for  the management of infectious 
+disease- related complications.  
+Myeloid/Lymphoid Neoplasms With Eosinophilia and PDGFRA or 
+PDGFRB  Rearrangement  
+Imatinib has resulted in high rates of durable hematologic and molecular  
+responses in the vast majority of patients with MLN E and PDGFRA  or 
+PDGFRB  rearrangement .23,28,38,81- 94 Concurrent administration of 
+cortico steroids for 7  to 10 days and consultation with a  cardiologist is 
+recommended for patients with symptoms/signs of cardiac involvement including troponinemia, elevated NT- proBNP , and/or abnormal ECHO 
+findings.
+84   
+Imatinib 100 mg daily is the recommended dose for induction therapy for 
+chronic phase disease in patients with FIP1L1:: PDGFRA  rearrangement. 
+Imatinib 100 to 400 mg daily is  the recommended  dose for chronic phase 
+disease in patients with PDGFRB  rearrangement , although  400 mg daily is 
+generally used as the induction dose. Reduction to 100 mg daily can be 
+considered after achievement of complete hematologic response ( CHR)  
+and complete cytogenetic response ( CCyR).   Blast phase disease may present either as de novo or as disease 
+progression from chronic phase due to cytogenetic/molecular clonal 
+evolution, including PDGFRA  mutations associated with development of 
+resistance to imatinib  including T674I or D842V .82  
+Imatinib  monotherapy (100–400 mg daily) is recommended for blast phase 
+disease (400 mg daily is generally used as the induction dose in patients 
+with PDGFRB rearrangement) . Durable remissions are only rarely 
+achieved with induction chemotherapy or allogeneic hematopoietic cell transplant ( HCT). In instances when FIP1L1:: PDGFRA  or a PDGFRB 
+rearrangement is identified only after the initiation of induction chemotherapy, imatinib should be added to induction chemotherapy  
+(ALL -type chemotherapy for lymphoid blast phase and AML- type 
+chemotherapy for myeloid blast phase) , or a return to imatinib 
+monotherapy may also be consider ed.
+28,87   
+In some cases, the diagnostic testing may not reveal the PDGFRA  or 
+PDGFRB  rearrangement. Imatinib may be considered for patients with a 
+clinical picture consistent with this diagnostic group.  
+Monitoring Response and Additional Treatment  
+CHR (defined as the normalization of peripheral blood counts and 
+eosinophilia) by 1 month and CCyR by 3 months is achieved in a vast 
+majority of patients.95  
+Monitoring blood counts (CBC and eosinophilia), imaging to document 
+target organ response (as clinically indicated) , and peripheral blood or 
+bone marrow evaluation ( FISH for FIP1L1 ::PDGFRA since standard 
+karyotyping cannot detect the fusion; standard cytogenetics and/or FISH 
+for PDGFRB ) are recommended at 3 months after initiation of imatinib. 
+RT-PCR (if available) can be considered to document molecular response.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-13 Continuation of imatinib at the initial dose is recommended for patients 
+achieving a complete response (CHR, CCyR , or complete molecular 
+response [CMR]). While low doses of 100 to 200 mg daily have been 
+sufficient to maintain molecular remission in the majority of patients with 
+FIP1L1::PDGFRA rearrangement, and in some patients  this dose range 
+has been used only once weekly,83 higher doses (maximum of 400 mg 
+daily) may  be required for some patients.84,85  
+Monitoring hematologic response,  cytogenetic response (FISH) , and 
+molecular response (if RT- qPCR is  available)  every  3 and 6 months is 
+recommended for patients achieving a durable complete response to initial treatment. Clinical trial and/or early referral to allogeneic HCT should be 
+considered for patients with loss of response. Evaluation of patient adherence or drug interactions is recommended prior to initiation of 
+additional treatment for patients with loss of response.  
+Acquired resistance to imatinib mediated by PDGFRA  T674I and D842V 
+mutations has been reported in few patients with primarily blast phase 
+disease.
+82,96 Nilotinib, ponatinib,  and sorafenib have shown limited activity 
+in patients with PDGFRA  T674I and D842V mutations.96-99 PDGFRB  T681I 
+has been shown to confer resistance to imatinib in vitro , but has not yet 
+been identified in patients  treated with imatinib;  acquired resistance to 
+imatinib mediated by other PDGFRB  mutations has been described only in 
+two case reports.100- 102 Evaluation for cytogenetic/molecular clonal 
+evolution can identify PDGFRA  (T674I and D842V) or PDGFRB  mutations 
+conferring resistance to imatinib in patients with loss of response. A n HCT 
+evaluation should also be considered.103 If a resistance mutation is found, 
+referral to a specialized treatment center and enrollment in a clinical trial (if 
+available)  is recommended.  
+Avapritinib is approved for indolent SM, advanced SM (aggressive SM, 
+SM with an associated hematologic neoplasm, and mast cell leukemia) , 
+and also for unresectable or metastatic gastrointestinal stromal tumors (GIST) harboring a PDGFRA exon 18 mutation, including D842V 
+mutations.104- 107 This suggests a possible role for avapritinib in patients 
+with MLN E and PDGFRA  rearrangement  harboring PDGFRA D842V 
+mutation resistant to imatinib. If this mutation is identified, a clinical trial of avapritinib is preferred (if available), rather than off -label use.  
+The feasibility of discontinuation of imatinib in patients with MLN E and 
+PDGFRA  rearrangement  who have achieved CMR has been studied 
+mostly in retrospective studies in a limited number of patients.
+38,81,108,109 
+There is substantial variability in the relapse- free survival rates (57% –91% 
+at 12 months; 42% –65% at 24 months), although molecular remissions 
+have been re- established after restarting imatinib in most patients 
+experiencing relapse after discontinuation of imatinib.109 The feasibility of 
+discontinuation of imatinib in patients with MLN E and a PDGFRB 
+rearrangement has not been evaluated. At the present time, there are no 
+definite criteria to identify patients suitable for discontinuation of imatinib 
+and it is therefore not recommended outside the context of clinical trials.  
+Myeloid/Lymphoid Neoplasms With Eosinophilia and FGFR1 or 
+JAK2 or ABL1 or FLT3  Rearrangement  
+General Approach  
+MLN E with the above- mentioned TK gene fusion s are generally 
+associated with an aggressive clinical course, relapse,  or disease 
+progression to blast phase and allogeneic HCT is the only potentially 
+curative option.9,10,31,35,110  
+ Clinical trial is the preferred treatment option for patients with  chronic 
+phase disease. Pemigatinib is also a preferred treatment option for patients with chronic phase disease and FGFR1  rearrangement. Dasatinib 
+and nilotinib are also preferred treatment options for patients with chronic phase disease and  an ABL1  rearrangement. In the absence of a clinical 
+trial, patients with chronic phase disease can be treated with TKI PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-14 monotherapy. However, early referral to allogeneic HCT should be 
+considered for eligible patients , since TKI therapy alone typically does not 
+result in durable remissions .  
+Clinical trial and early consideration of allogeneic HCT for eligible patients  
+is the preferred treatment approach for patients with blast phase disease. 
+Pemigatinib and early consideration of allogeneic HCT for  eligible patients 
+is also a preferred treatment option for patients with blast phase disease 
+and FGFR1  rearrangement. In the absence of a suitable clinical  trial, TKI ± 
+induction chemotherapy followed by consideration of allogeneic HCT (if 
+eligible)  is the appropriate treatment approa ch.  
+MLN E With FGFR1  Rearrangement  
+Enrollment in a clinical trial and pemigatinib are both preferred options for 
+patients with an FGFR1  rearrangement. Pemigatinib is FDA -approved  for 
+the treatment of adult patients with relapsed or refractory myeloid/lymphoid neoplasms with FGFR1  rearrangement. In the phase 2 
+FIGHT -203 study, which included 45 patients in the efficacy analysis (15 
+of which had ongoing treatment and 13 of which ended treatment to bridge to alloHCT) , treatment with pemigatinib resulted in 73. 8% and 71.1% of 
+patients  achiev ing a complete response and a complete cytogenetic 
+response,  respectively.
+111 These response rates were more pronounced in 
+patients with chronic phase disease compared to any blast phase 
+(complete response: 95.8 % vs. 44.4 %; complete cytogenetic response: 
+87.5% vs. 44.4 %). The complete response rate was 70% in those who 
+received prior treatment, compared to 80% in those with no prior 
+treatment . Stomatitis ( 19.1%) and anemia ( 14.9%) were the most commo n 
+grade 3– 4 treatment -emergent adverse events.   PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-15 The selection of chemotherapy for blast phase disease should be based on the cell lineage (ALL- type chemotherapy for lymphoid blast phase and 
+AML-type chemotherapy for myeloid blast phase;  either of these induction chemotherapy regimens can be considered for mixed phenotype blast phase 
+disease and needs to be evaluated on a case- by-case basis based on immunophenotype of the leukemia and other disease or patient factors).  
+TKIs with activity against  FGFR1 , JAK2 , FLT3 , or ABL1 are listed in the table below. Given the rare nature of this disease, available evidence is mainly 
+from case reports and/or their potential clinical activity is extrapolated from other diseases with the same target. Although TKI ± induction chemotherapy 
+typically does  not result in long- term disease control, it may be of potential benefit when used as a bridge to allogeneic HCT for disease cytoreduction 
+prior to transplantation.30,110,112- 114  
+Other TKIs Besides FDA -
+Approved Pemigatiniba,111 With 
+Activity Against  FGFR1  TKI With Activity Against  JAK2   TKI With Activity Against  FLT3  TKI With Activity Against   
+ABL1 b 
+Midostaurin115 
+Ponatinib30,99,113,116,117  Ruxolitinib114,118 -120 
+Fedratinibc Gilteritinibc 
+Midostaurinc 
+Quizartinibc 
+Sorafenib112,121 
+Sunitinib121 Dasatinib114 
+Nilotinib114 
+Asciminibc 
+Bosutinibc 
+Imatinib114 
+Ponatinibc 
+ 
+a. Pemigatinib (FGFR inhibitor) is  FDA-approved for the treatment of adult patients with relapsed or refractory MLN E with FGFR1  rearrangement .  
+b. Dasatinib or nilotinib are more effective than imatinib to induce durable complete remissions in patients with ETV6 ::ABL1  gene  fusion .114 Among the TKIs with activity against 
+ABL1 , dasatinib and nilotinib are preferred options.  
+c. The inclusion of these TKIs is based on the extrapolation of data from MPN (fedratinib for myelofibrosis ) and other myeloid neoplasms ( gilteritinib , midostaurin, and quizartinib 
+for AML; bosutinib, asciminib,  and ponatinib for CML) . See the NCCN Guidelines for  Acute Myeloid Leukemia  and Chronic Myeloid Leukemia (available at www.NCCN.org ).  
+ 
+Clinically relevant imaging studies to document response in the EMD component and evaluation of peripheral blood or bone marr ow (FISH or 
+cytogenetics) and RT- PCR (if available) for specific TK fusion gene fusion to document response (hematologic, cytogenetic , or molecular response) 
+should be considered for all patients after initiation of treatment. New comprehensive response criteria for MLN E have now been published.122  
+Monitoring MRD after allogeneic HCT and maintenance therapy with TKI (eg,  ponatinib) or hypomethylating agent (eg,  5-azacytidine) has been shown to 
+be effective for MLN E with FGFR1 rearrangement  in single case reports .117,123 The role for TKI as maintenance therapy following allogeneic HCT has not 
+been systematically evaluated but may be considered in patients felt to be at high risk for relapse. Additional studies are needed to confirm the efficacy of 
+this treatment approach. PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-16 Table 1. Classification and Definition of Hypereosinophilia4 
+Proposed Terminology  Proposed 
+Abbreviation  Definition and Criteria  
+Blood eosinophilia  — >0.5 eosinophils × 109/L blood  
+Hypereosinophilia  HE >1.5 x 109/L eosinophils in the blood on 2 examinations (interval ≥1 montha) and/or tissue HE 
+defined by the followingb 
+1. Percentage of eosinophils in bone marrow exceeds 20% of all nucleated cells; and/or  
+2. Pathologist is of the opinion that tissue infiltration by eosinophils is extensive; and/or  
+3. Marked deposition of eosinophil granule proteins is found (in the absence or 
+presence of major tissue infiltration by eosinophils).  
+• Hereditary (familial) HE  HE FA Pathogenesis unknown; familial clustering, no signs or symptoms of hereditary 
+immunodeficiency, and no evidence of a reactive or neoplastic condition/disorder underlying 
+HE 
+• HE of undetermined significance HE US No underlying cause of HE, no family history, no evidence of a reactive or neoplastic 
+condition/disorder underlying HE, and no end- organ damage attributable to HE  
+• Primary (clonal/neoplastic) HEc HE N Underlying stem cell, myeloid, or eosinophilic neoplasm, as classified by WHO criteria; 
+eosinophils considered neoplastic cellsd 
+• Secondary (reactive) HEc HE R Underlying condition/disease in which eosinophils are considered nonclonal cellsd; HE 
+considered cytokine- driven in most casese 
+Eosinophil -associated single -organ diseases   Criteria of HE fulfilled and single -organ disease  
+a. In the case of evolving life-threatening end-organ damage, the diagnosis can be made immediately to avoid delay in therapy.  
+b. Validated quantitative criteria for tissue HE do not exist for most tissues at the present time. Consequently, tissue HES is defined by a combination of qualitative and semiquantitative 
+findings that will require revision as new information becomes availab le. 
+c. HEN and HE R are prediagnostic checkpoints that should guide further diagnostic evaluations but cannot serve as final diagnoses.  
+d. Clonality of eosinophils is often difficult to demonstrate or is not examined. However, if a myeloid or stem cell neoplasm known to present typically with clonal HE is present or a typical 
+molecular defect is demonstrable (eg, PDGFR  or FGFR  mutations or BCR/ABL1 ), eosinophilia should be considered clonal.  
+e. In a group of patients, HE R might be caused/triggered by other as yet unknown processes because no increase in eosinophilopoietic cy tokine levels can be documented.  
+ 
+Reprinted from Valent P, Klion AD, Horny HP, et al. Contemporary consensus proposal on criteria and classification of eosinophilic disorders and related syndromes. J 
+Allergy Clin Immunol 2020;130:607- 612, with permission from Elsevier .PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-17 Table 2. Classification and Definition of Hypereosinophilic S yndrome and Conditions Accompanied  by HE4 
+Proposed Terminology  Proposed 
+Abbreviation  Definition and Criteria  
+Hypereosinophilic syndrome  HES  Defined as blood HE with (plus) end -organ damage attributable to tissue HE:  
+1. Criteria for peripheral blood HE fulfilleda; and  
+2. Organ damage and/or dysfunction attributable to tissue HEb; and 
+3. Exclusion of other disorders or conditions as major reason for organ damage  
+• Idiopathic HES  — No underlying cause of HE, no evidence of a reactive or neoplastic condition/disorder underlying 
+HE and end- organ damage attributable to HE.  
+• Primary (neoplastic) HES  HES N Underlying stem cell, myeloid, or eosinophilic neoplasm classified according to WHO guidelines 
+and end- organ damage attributable to HE, and eosinophils are considered (or shown) neoplastic 
+(clonal) cells.c 
+• Secondary (reactive) HES  HES R Underlying condition/disease in which eosinophils are considered nonclonal cells; HE is 
+considered cytokine driven, and end- organ damage is attributable to HE.  
+Lymphoid variant HESd (clonal T -cells identified as the only potential cause) is a subvariant of 
+secondary (reactive) HES .  
+Other conditions and syndromes    
+Specific syndromes accompanied by HE   Specific syndromes in which the effect of eosinophilia remains unclear  but the clinical 
+presentation is distinct and accompanied by HE  
+Other conditions accompanied by HE   Mostly organ- restricted conditions in which the effect of eosinophilia remains unclear  
+a. In the case of evolving life-threatening end-organ damage, the diagnosis can be made immediately to avoid delay in therapy.  
+b. HE-related organ damage (damage attributable to HE): organ dysfunction with marked tissue eosinophil infiltrates and/or extensiv e deposition of eosinophil -derived proteins (in the 
+presence or absence of marked tissue eosinophils) and 1 or more of the following: (1) fibrosis (lung, heart, digestive tract,  skin, and others); (2) thrombosis with or without 
+thromboembolism; (3) cutaneous (including mucosal) eryt hema, edema/ angioedema, ulceration, pruritus, and eczema; and (4) peripheral or central neuropathy w ith chronic or 
+recurrent neurologic deficit. Less commonly, other organ system involvement (liver, pancreas, kidney, and other organs) and t he resulting organ damage can be judged as HE -related 
+pathology, so that the clinician concludes the clinical situation resembles HES. Note that HES can manifest in 1 or more organ systems.  
+c. Clonality of eosinophils is often difficult to demonstrate or is not examined. However, if a myeloid or stem cell neoplasm known to present typically with clonal HE is present or a typical 
+molecular defect is demonstrable (eg, PDGFR  or FGFR  mutations or BCR/ABL1 ), eosinophilia should be considered clonal.  
+d. The lymphoid variant of HES is regarded as a special form of secondary HES by several experts, although its exact nature and pathogenesis remain controversial.  
+ 
+Reprinted from Valent P, Klion AD, Horny HP, et al. Contemporary consensus proposal on criteria and classification of eosinophilic disorders and related syndromes. J 
+Allergy Clin Immunol 2020;130: 607-612, with permission from Elsevier.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-18 References  
+1. Valent P, Gleich GJ, Reiter A, et al. Pathogenesis and classification of 
+eosinophil disorders: a review of recent developments in the field. Expert 
+Rev Hematol 2012;5:157 -176. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22475285 . 
+2. Valent P, Klion AD, Rosenwasser LJ, et al. ICON: Eosinophil disorders. 
+World Allergy Organ J 2012;5:174 -181. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23282419 . 
+3. Montgomery ND, Dunphy CH, Mooberry M, et al. Diagnostic complexities of eosinophilia. Arch Pathol Lab Med 2013;137:259- 269. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/23368869.  
+4. Valent P, Klion AD, Horny HP, et al. Contemporary consensus proposal on criteria and classification of eosinophilic disorders and related 
+syndromes. J Allergy Clin Immunol 2012;130:607 -612.e609. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22460074 . 
+5. Vega F, Medeiros LJ, Bueso- Ramos CE, et al. Hematolymphoid 
+neoplasms associated with rearrangements of PDGFRA, PDGFRB, and FGFR1. Am J Clin Pathol 2015;144:377 -392. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26276769 . 
+6. Reiter A, Gotlib J. Myeloid neoplasms with eosinophilia. Blood 
+2017;129:704 -714. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28028030 . 
+7. Shomali W, Gotlib J. World Health Organization- defined eosinophilic 
+disorders: 2022 update on diagnosis, risk stratification, and management. 
+Am J Hematol 2022;97:129- 148. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/34533850 . 
+8. Swerdlow SH, Campo E, Harris NL, et al. WHO Classification of 
+Tumours of Haematopoietic and Lymphoid Tissues, Fourth Edition, Lyon, 
+France: IARC 2008.  
+9. Patterer V, Schnittger S, Kern W, et al. Hematologic malignancies with 
+PCM1 -JAK2 gene fusion share characteristics with myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, 
+and FGFR1. Ann Hematol 2013;92:759 -769. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23400675 . 
+10. Bain BJ, Ahmad S. Should myeloid and lymphoid neoplasms with PCM1 -JAK2 and other rearrangements of JAK2 be recognized as specific 
+entities? Br J Haematol 2014;166:809 -817. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24913195 . 
+11. Swerdlow SH, Harris NL, Jaffe ES, et al. WHO Classification of 
+Tumours of Haematopoietic and Lymphoid Tissues. Revised 4th ed. Lyon, 
+France: IARC; 2017.  
+12. Arber DA, Orazi A, Hasserjian RP, et al. International Consensus 
+Classification of myeloid neoplasms and acute leukemias: Integrating 
+morphologic, clinical, and genomic data. Blood 2022;140:1200 -1228. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/35767897.  
+13. Khoury JD, Solary E, Abla O, et al. The 5th edition of the World Health Organization classification of haematolymphoid tumours: Myeloid and 
+histiocytic/dendritic neoplasms. Leukemia 2022;36:1703- 1719. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/35732831.  
+14. WHO Classification of Tumours Editorial Board. Haematolymphoid 
+tumours [Internet]. Lyon (France): International Agency for Research on 
+Cancer; 2024 [cited 2025 January 27]. (WHO classification of tumours 
+series, 5th ed.; vol. 11). Available from: 
+https://tumourclassification.iarc.who.int/chapters/63.  
+15. Gotlib J. Tyrosine kinase inhibitors in the treatment of eosinophilic 
+neoplasms and systemic mastocytosis. Hematol Oncol Clin North Am 
+2017;31:643 -661. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28673393 . 
+16. PubMed Overview. Available at: https://pubmed.ncbi.nlm.nih.gov/about/ . Accessed April 5, 2022.  
+17. Freedman -Cass DA, Fischer T, Alpert AB, et al. The value and 
+process of inclusion: Using sensitive, respectful, and inclusive language PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-19 and images in NCCN content. J Natl Compr Canc Netw 2023;21:434- 441. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/37156485.  
+18. Cools J, DeAngelo DJ, Gotlib J, et al. A tyrosine kinase created by 
+fusion of the PDGFRA and FIP1L1 genes as a therapeutic target of 
+imatinib in idiopathic hypereosinophilic syndrome. N Engl J Med 
+2003;348:1201 -1214. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/12660384 . 
+19. Pardanani A, Ketterling RP, Brockman SR, et al. CHIC2 deletion, a surrogate for FIP1L1 -PDGFRA fusion, occurs in systemic mastocytosis 
+associated with eosinophilia and predicts response to imatinib mesylate therapy. Blood 2003;102:3093- 3096. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/12842979 . 
+20. Gotlib J, Cools J. Five years since the discovery of FIP1L1- PDGFRA: 
+what we have learned about the fusion and other molecularly defined 
+eosinophilias. Leukemia 2008;22:1999 -2010. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18843283 . 
+21. Boyer DF. Blood and bone marrow evaluation for eosinophilia. Arch 
+Pathol Lab Med 2016;140:1060- 1067. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27684977 . 
+22. Metzgeroth G, Walz C, Score J, et al. Recurrent finding of the FIP1L1 -
+PDGFRA fusion gene in eosinophilia- associated acute myeloid leukemia 
+and lymphoblastic T- cell lymphoma. Leukemia 2007;21:1183 -1188. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/17377585.  
+23. Helbig G, Moskwa A, Hus M, et al. Clinical characteristics of patients with chronic eosinophilic leukaemia (CEL) harbouring FIP1L1 -PDGFRA 
+fusion transcript --results of Polish multicentre study. Hematol Oncol 
+2010;28:93 -97. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/19728396 . 
+24. Rapanotti MC, Caruso R, Ammatuna E, et al. Molecular characterization of paediatric idiopathic hypereosinophilia. Br J Haematol 
+2010;151:440 -446. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20955401 . 25. Farruggia P, Giugliano E, Russo D, et al. FIP1L1- PDGFRα -positive 
+hypereosinophilic syndrome in childhood: a case report and review of 
+literature. J Pediatr Hematol Oncol 2014;36:e28- 30. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23337549 . 
+26. Zeng K, Li L, Huang L, Liang YH. Newly identified phenotypes in a FIP1L1/PDGFRA -associated paediatric HES patient: thrombocytosis, 
+mHPA, young stroke and blindness. J Eur Acad Dermatol Venereol 2015;29:614 -616. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24576219 . 
+27. Srinivasan A, Scordino T, Baker A. Myeloid neoplasm with eosinophilia and FIP1L1- PDGFRA rearrangement treated with imatinib mesylate: A 
+pediatric case with long -term follow -up. J Pediatr Hematol Oncol 
+2019;41:334 -335. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/30807397 . 
+28. Jawhar M, Naumann N, Schwaab J, et al. Imatinib in myeloid/lymphoid 
+neoplasms with eosinophilia and rearrangement of PDGFRB in chronic or 
+blast phase. Ann Hematol 2017;96:1463 -1470. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28725989 . 
+29. Xiao S, Nalabolu SR, Aster JC, et al. FGFR1 is fused with a novel 
+zinc-finger gene, ZNF198, in the t(8;13) leukaemia/lymphoma syndrome. 
+Nat Genet 1998;18:84- 87. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/9425908 . 
+30. Strati P, Tang G, Duose DY, et al. Myeloid/lymphoid neoplasms with FGFR1 rearrangement. Leuk Lymphoma 2018;59:1672- 1676. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29119847 . 
+31. Umino K, Fujiwara SI, Ikeda T, et al. Clinical outcomes of myeloid/lymphoid neoplasms with fibroblast growth factor receptor -1 
+(FGFR1) rearrangement. Hematology 2018;23:470- 477. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29486661 . 
+32. Chen M, Wang K, Cai X, et al. Myeloid/lymphoid neoplasm with 
+CEP110 -FGFR1 fusion: An analysis of 16 cases show common features PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-20 and poor prognosis. Hematology 2021;26:153- 159. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/33491601 . 
+33. Jackson CC, Medeiros LJ, Miranda RN. 8p11 myeloproliferative 
+syndrome: a review. Hum Pathol 2010;41:461- 476. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20226962 . 
+34. Vu HA, Xinh PT, Masuda M, et al. FLT3 is fused to ETV6 in a 
+myeloproliferative disorder with hypereosinophilia and a t(12;13)(p13;q12) 
+translocation. Leukemia 2006;20:1414 -1421. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/16761019 . 
+35. Zaliova M, Moorman AV, Cazzaniga G, et al. Characterization of leukemias with ETV6 -ABL1 fusion. Haematologica 2016;101:1082- 1093. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/27229714.  
+36. Wang SA, Orazi A, Gotlib J, et al. The international consensus 
+classification of eosinophilic disorders and systemic mastocytosis. Am J 
+Hematol 2023;98:1286 -1306. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/37283522 . 
+37. Helbig G, Wieczorkiewicz A, Dziaczkowska -Suszek J, et al. T -cell 
+abnormalities are present at high frequencies in patients with 
+hypereosinophilic syndrome. Haematologica 2009;94:1236 -1241. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/19734416.  
+38. Legrand F, Renneville A, MacIntyre E, et al. The spectrum of FIP1L1-
+PDGFRA -associated chronic eosinophilic leukemia: New insights based 
+on a survey of 44 cases. Medicine (Baltimore) 2013;92:e1 -e9. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23982058 . 
+39. Wang SA, Hasserjian RP, Tam W, et al. Bone marrow morphology is a strong discriminator between chronic eosinophilic leukemia, not otherwise 
+specified and reactive idiopathic hypereosinophilic syndrome. 
+Haematologica 2017;102:1352- 1360. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28495918 . 
+40. Steensma DP, Bejar R, Jaiswal S, et al. Clonal hematopoiesis of indeterminate potential and its distinction from myelodysplastic syndromes. Blood 2015;126:9- 16. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25931582 . 
+41. Sperr WR, Jordan JH, Fiegl M, et al. Serum tryptase levels in patients with mastocytosis: correlation with mast cell burden and implication for 
+defining the category of disease. Int Arch Allergy Immunol 2002;128:136 -
+141. Available at: https://www.ncbi.nlm.nih.gov/pubmed/12065914 . 
+42. Bohm A, Fodinger M, Wimazal F, et al. Eosinophilia in systemic 
+mastocytosis: clinical and molecular correlates and prognostic 
+significance. J Allergy Clin Immunol 2007;120:192 -199. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17451799 . 
+43. Kluin- Nelemans HC, Reiter A, Illerhaus A, et al. Prognostic impact of 
+eosinophils in mastocytosis: analysis of 2350 patients collected in the ECNM Registry. Leukemia 2020;34:1090 -1101. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31740811 . 
+44. Walker S, Wang C, Walradt T, et al. Identification of a gain -of-function 
+STAT3 mutation (p.Y640F) in lymphocytic variant hypereosinophilic 
+syndrome. Blood 2016;127:948- 951. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26702067 . 
+45. Take M, Sekiguchi M, Hiroe M, et al. Clinical spectrum and 
+endomyocardial biopsy findings in eosinophilic heart disease. Heart 
+Vessels Suppl 1985;1:243- 249. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/3843586 . 
+46. Ogbogu PU, Rosing DR, Horne MK, 3rd. Cardiovascular 
+manifestations of hypereosinophilic syndromes. Immunol Allergy Clin 
+North Am 2007;27:457- 475. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17868859 . 
+47. Cools J, Stover EH, Gilliland DG. Detection of the FIP1L1- PDGFRA 
+fusion in idiopathic hypereosinophilic syndrome and chronic eosinophilic 
+leukemia. Methods Mol Med 2006;125:177 -187. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/16502585 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-21 48. Score J, Walz C, Jovanovic JV, et al. Detection and molecular 
+monitoring of FIP1L1- PDGFRA -positive disease by analysis of patient -
+specific genomic DNA fusion junctions. Leukemia 2009;23:332- 339. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/18987650.  
+49. Erben P, Gosenca D, Muller MC, et al. Screening for diverse PDGFRA 
+or PDGFRB fusion genes is facilitated by generic quantitative reverse 
+transcriptase polymerase chain reaction analysis. Haematologica 
+2010;95:738 -744. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20107158 . 
+50. Elling C, Erben P, Walz C, et al. Novel imatinib -sensitive PDGFRA -
+activating point mutations in hypereosinophilic syndrome induce growth 
+factor independence and leukemia- like disease. Blood 2011;117:2935 -
+2943. Available at: https://www.ncbi.nlm.nih.gov/pubmed/21224473 . 
+51. Olsson- Arvidsson L, Norberg A, Sjogren H, Johansson B. Frequent 
+false -negative FIP1L1 -PDGFRA FISH analyses of bone marrow samples 
+from clonal eosinophilia at diagnosis. Br J Haematol 2020;188:e76- e79. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/31854104.  
+52. Pongdee T, Berry A, Wetzler L, et al. False- negative testing for 
+FIP1L1::PDGFRA by fluorescence in situ hybridization Is a frequent cause of diagnostic delay. Acta Haematol 2023:1- 6. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/37285821 . 
+53. Walz C, Score J, Mix J, et al. The molecular anatomy of the FIP1L1-
+PDGFRA fusion gene. Leukemia 2009;23:271 -278. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18987651 . 
+54. Golub TR, Barker GF, Lovett M, Gilliland DG. Fusion of PDGF receptor beta to a novel ets -like gene, tel, in chronic myelomonocytic 
+leukemia with t(5;12) chromosomal translocation. Cell 1994;77:307- 316. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/8168137.  
+55. De Luca- Johnson J, Ninfea JI, Pearson L, et al. Myeloid neoplasms 
+with t(5;12) and ETV6- ACSL6 gene fusion, potential mimickers of myeloid 
+neoplasm with PDGFRB rearrangement: Case report with imatinib therapy and review of the literature. Case Rep Med 2016;2016:8324791. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/27746819.  
+56. Jawhar M, Naumann N, Knut M, et al. Cytogenetically cryptic ZMYM2 -
+FLT3 and DIAPH1- PDGFRB gene fusions in myeloid neoplasms with 
+eosinophilia. Leukemia 2017;31:2271 -2273. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28751768 . 
+57. Singh ZN, Richards S, El Chaer F, et al. Cryptic ETV6- PDGFRB fusion 
+in a highly complex rearrangement of chromosomes 1, 5, and 12 due to a 
+chromothripsis -like event in a myelodysplastic 
+syndrome/myeloproliferative neoplasm. Leuk Lymphoma 2019;60:1304 -
+1307. Available at: https://www.ncbi.nlm.nih.gov/pubmed/29992858 . 
+58. Zimmermann N, Nassiri M, Zhou J, et al. Myeloid neoplasm with a 
+novel cryptic PDGFRB rearrangement detected by next -generation 
+sequencing. Cancer Genet 2020;244:55 -59. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32442889 . 
+59. Fang H, Tang G, Loghavi S, et al. Systematic use of fluorescence in-
+situ hybridisation and clinicopathological features in the screening of 
+PDGFRB rearrangements of patients with myeloid/lymphoid neoplasms. 
+Histopathology 2020;76:1042- 1054. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32083752 . 
+60. Bidet A, Chollet C, Gardembas M, et al. Molecular monitoring of 
+patients with ETV6- PDGFRB rearrangement: Implications for therapeutic 
+adaptation. Br J Haematol 2018;182:148 -152. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28485070 . 
+61. Such E, Liquori A, Mora E, et al. RNA sequencing analysis for the 
+identification of a PCM1/PDGFRB fusion gene responsive to imatinib. Acta 
+Haematol 2019;142:92 -97. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31085913 . 
+62. Guasch G, Mack GJ, Popovici C, et al. FGFR1 is fused to the 
+centrosome -associated protein CEP110 in the 8p12 stem cell 
+myeloproliferative disorder with t(8;9)(p12;q33). Blood 2000;95:1788 -1796. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/10688839.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-22 63. Popovici C, Zhang B, Gregoire MJ, et al. The t(6;8)(q27;p11) 
+translocation in a stem cell myeloproliferative disorder fuses a novel gene, 
+FOP, to fibroblast growth factor receptor 1. Blood 1999;93:1381 -1389. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/9949182.  
+64. Bousquet M, Quelen C, De Mas V, et al. The t(8;9)(p22;p24) translocation in atypical chronic myeloid leukaemia yields a new PCM1-
+JAK2 fusion gene. Oncogene 2005;24:7248- 7252. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/16091753 . 
+65. Murati A, Gelsi -Boyer V, Adelaide J, et al. PCM1- JAK2 fusion in 
+myeloproliferative disorders and acute erythroid leukemia with t(8;9) 
+translocation. Leukemia 2005;19:1692 -1696. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/16034466 . 
+66. Reiter A, Walz C, Watmore A, et al. The t(8;9)(p22;p24) is a recurrent 
+abnormality in chronic and acute leukemia that fuses PCM1 to JAK2. 
+Cancer Res 2005;65:2662- 2667. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/15805263 . 
+67. Griesinger F, Hennig H, Hillmer F, et al. A BCR -JAK2 fusion gene as 
+the result of a t(9;22)(p24;q11.2) translocation in a patient with a clinically 
+typical chronic myeloid leukemia. Genes Chromosomes Cancer 
+2005;44:329 -333. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/16001431 . 
+68. Cirmena G, Aliano S, Fugazza G, et al. A BCR -JAK2 fusion gene as 
+the result of a t(9;22)(p24;q11) in a patient with acute myeloid leukemia. 
+Cancer Genet Cytogenet 2008;183:105- 108. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18503828 . 
+69. He R, Greipp PT, Rangan A, et al. BCR -JAK2 fusion in a 
+myeloproliferative neoplasm with associated eosinophilia. Cancer Genet 
+2016;209:223 -228. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27134074 . 
+70. Hosseini N, Craddock KJ, Salehi -rad S, et al. ETV6 /FLT3 fusion in a 
+mixed -phenotype acute leukemia arising in lymph nodes in a patient with myeloproliferative neoplasm with eosinophilia. J Hematop 2014;7:71- 77. 
+Available at: https://doi.org/10.1007/s12308 -014-0203- 6. 
+71. Grand FH, Iqbal S, Zhang L, et al. A constitutively active SPTBN1-
+FLT3 fusion in atypical chronic myeloid leukemia is sensitive to tyrosine 
+kinase inhibitors and immunotherapy. Exp Hematol 2007;35:1723- 1727. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/17764812.  
+72. Chung A, Hou Y, Ohgami RS, et al. A novel TRIP11- FLT3 fusion in a 
+patient with a myeloid/lymphoid neoplasm with eosinophilia. Cancer Genet 
+2017;216- 217:10- 15. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29025582 . 
+73. Troadec E, Dobbelstein S, Bertrand P, et al. A novel t(3;13)(q13;q12) 
+translocation fusing FLT3 with GOLGB1: toward myeloid/lymphoid 
+neoplasms with eosinophilia and rearrangement of FLT3? Leukemia 
+2017;31:514 -517. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27795560 . 
+74. Pardanani A, Lasho T, Wassie E, et al. Predictors of survival in WHO -
+defined hypereosinophilic syndrome and idiopathic hypereosinophilia and 
+the role of next -generation sequencing. Leukemia 2016;30:1924 -1926. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/27125206.  
+75. Wang SA, Tam W, Tsai AG, et al. Targeted next -generation 
+sequencing identifies a subset of idiopathic hypereosinophilic syndrome with features similar to chronic eosinophilic leukemia, not otherwise 
+specified. Mod Pathol 2016;29:854 -864. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27174585 . 
+76. Lee JS, Seo H, Im K, et al. Idiopathic hypereosinophilia is clonal disorder? Clonality identified by targeted sequencing. PLoS One 
+2017;12:e0185602. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29088303 . 
+77. Cross NCP, Hoade Y, Tapper WJ, et al. Recurrent activating STAT5B 
+N642H mutation in myeloid neoplasms with eosinophilia. Leukemia 
+2019;33:415 -425. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/30573779 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-23 78. Baer C, Muehlbacher V, Kern W, et al. Molecular genetic 
+characterization of myeloid/lymphoid neoplasms associated with 
+eosinophilia and rearrangement of PDGFRA, PDGFRB, FGFR1 or PCM1 -
+JAK2 . Haematologica 2018;103:e348 -e350. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29567772 . 
+79. Pardanani A, Lasho T, Barraco D, et al. Next generation sequencing of 
+myeloid neoplasms with eosinophilia harboring the FIP1L1- PDGFRA 
+mutation. Am J Hematol 2016;91:E10 -11. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26663400 . 
+80. Patnaik MM, Lasho TL, Finke CM, et al. Targeted next generation 
+sequencing of PDGFRB rearranged myeloid neoplasms with monocytosis. 
+Am J Hematol 2016;91:E12- 14. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26662677 . 
+81. Klion AD, Robyn J, Akin C, et al. Molecular remission and reversal of 
+myelofibrosis in response to imatinib mesylate treatment in patients with 
+the myeloproliferative variant of hypereosinophilic syndrome. Blood 
+2004;103:473 -478. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/14504092 . 
+82. von Bubnoff N, Sandherr M, Schlimok G, et al. Myeloid blast crisis evolving during imatinib treatment of an FIP1L1- PDGFR alpha- positive 
+chronic myeloproliferative disease with prominent eosinophilia. Leukemia 
+2005;19:286 -287. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/15618966 . 
+83. Helbig G, Stella- Holowiecka B, Majewski M, et al. A single weekly 
+dose of imatinib is sufficient to induce and maintain remission of chronic 
+eosinophilic leukaemia in FIP1L1- PDGFRA -expressing patients. Br J 
+Haematol 2008;141:200 -204. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18307562 . 
+84. Pardanani A, Ketterling RP, Li CY, et al. FIP1L1- PDGFRA in 
+eosinophilic disorders: prevalence in routine clinical practice, long- term 
+experience with imatinib therapy, and a critical review of the literature. Leuk Res 2006;30:965 -970. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/16406016 . 85. Jovanovic JV, Score J, Waghorn K, et al. Low -dose imatinib mesylate 
+leads to rapid induction of major molecular responses and achievement of 
+complete molecular remission in FIP1L1 -PDGFRA -positive chronic 
+eosinophilic leukemia. Blood 2007;109:4635- 4640.  Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17299092 . 
+86. Metzgeroth G, Walz C, Erben P, et al. Safety and efficacy of imatinib in 
+chronic eosinophilic leukaemia and hypereosinophilic syndrome: a phase-
+II study. Br J Haematol 2008;143:707 -715. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18950453 . 
+87. Metzgeroth G, Schwaab J, Gosenca D, et al. Long- term follow- up of 
+treatment with imatinib in eosinophilia- associated myeloid/lymphoid 
+neoplasms with PDGFR rearrangements in blast phase. Leukemia 
+2013;27:2254 -2256. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23615556 . 
+88. Pardanani A, D'Souza A, Knudson RA, et al. Long- term follow- up of 
+FIP1L1- PDGFRA -mutated patients with eosinophilia: survival and clinical 
+outcome. Leukemia 2012;26:2439 -2441. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22705991 . 
+89. Qu SQ, Qin TJ, Xu ZF, et al. Long- term outcomes of imatinib in 
+patients with FIP1L1/ PDGFRA associated chronic eosinophilic leukemia: 
+experience of a single center in China. Oncotarget 2016;7:33229 -33236. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/27120808.  
+90. Apperley JF, Gardembas M, Melo JV, et al. Response to imatinib 
+mesylate in patients with chronic myeloproliferative diseases with 
+rearrangements of the platelet -derived growth factor receptor beta. N Engl 
+J Med 2002;347:481 -487. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/12181402 . 
+91. David M, Cross NC, Burgstaller S, et al. Durable responses to imatinib 
+in patients with PDGFRB fusion gene -positive and BCR -ABL-negative 
+chronic myeloproliferative disorders. Blood 2007;109:61- 64. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/16960151 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-24 92. Arefi M, Garcia JL, Penarrubia MJ, et al. Incidence and clinical 
+characteristics of myeloproliferative neoplasms displaying a PDGFRB 
+rearrangement. Eur J Haematol 2012;89:37- 41. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22587685 . 
+93. Cheah CY, Burbury K, Apperley JF, et al. Patients with myeloid malignancies bearing PDGFRB fusion genes achieve durable long -term 
+remissions with imatinib. Blood 2014;123:3574 -3577. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24687085 . 
+94. Rohmer J, Couteau -Chardon A, Trichereau J, et al. Epidemiology, 
+clinical picture and long -term outcomes of FIP1L1 -PDGFRA -positive 
+myeloid neoplasm with eosinophilia: Data from 151 patients. Am J Hematol 2020;95:1314 -1323. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32720700 . 
+95. Baccarani M, Cilloni D, Rondoni M, et al. The efficacy of imatinib mesylate in patients with FIP1L1- PDGFRalpha- positive hypereosinophilic 
+syndrome. Results of a multicenter prospective study. Haematologica 2007;92:1173 -1179. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17666373 . 
+96. Al -Riyami AZ, Hudoba M, Young S, Forrest D. Sorafenib is effective 
+for imatinib -resistant  FIP1L1/PDGFRA T674I  mutation- positive acute 
+myeloid leukemia with eosinophilia. Leuk Lymphoma 2013;54:1788 -1790. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/23157309.  
+97. Lierman E, Folens C, Stover EH, et al. Sorafenib is a potent inhibitor of FIP1L1- PDGFRalpha and the imatinib- resistant FIP1L1- PDGFRalpha 
+T674I mutant. Blood 2006;108:1374 -1376. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/16645167 . 
+98. Metzgeroth G, Erben P, Martin H, et al. Limited clinical activity of 
+nilotinib and sorafenib in FIP1L1- PDGFRA positive chronic eosinophilic 
+leukemia with imatinib -resistant T674I mutation. Leukemia 2012;26:162 -
+164. Available at: https://www.ncbi.nlm.nih.gov/pubmed/21818111 . 
+99. Lierman E, Smits S, Cools J, et al. Ponatinib is active against imatinib-resistant mutants of FIP1L1- PDGFRA and KIT, and against FGFR1-derived fusion kinases. Leukemia 2012;26:1693 -1695. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22301675 . 
+100. Azam M, Seeliger MA, Gray NS, et al. Activation of tyrosine kinases 
+by mutation of the gatekeeper threonine. Nat Struct Mol Biol 
+2008;15:1109 -1118. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18794843 . 
+101. Bastie JN, Garcia I, Terre C, et al. Lack of response to imatinib 
+mesylate in a patient with accelerated phase myeloproliferative disorder 
+with rearrangement of the platelet -derived growth factor receptor beta-
+gene. Haematologica 2004;89:1263 -1264. Av ailable at: 
+https://www.ncbi.nlm.nih.gov/pubmed/15477214 . 
+102. Zhang Y, Gao Y, Zhang H, et al. PDGFRB  mutation and tyrosine 
+kinase inhibitor resistance in Ph- like acute lymphoblastic leukemia. Blood 
+2018;131:2256 -2261. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29434033 . 
+103. Halaburda K, Prejzner W, Szatkowski D, et al. Allogeneic bone 
+marrow transplantation for hypereosinophilic syndrome: Long -term follow-
+up with eradication of FIP1L1- PDGFRA fusion transcript. Bone Marrow 
+Transplant 2006;38:319- 320. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/16819435 . 
+104. Gotlib J, Castells M, Elberink HO, et al. Avapritinib versus placebo in 
+indolent systemic mastocytosis. NEJM Evid 2023;2:EVIDoa2200339. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/38320129.  
+105. DeAngelo DJ, Radia DH, George TI, et al. Safety and efficacy of 
+avapritinib in advanced systemic mastocytosis: The phase 1 EXPLORER 
+trial. Nat Med 2021;27:2183- 2191. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/34873347 . 
+106. Gotlib J, Reiter A, Radia DH, et al. Efficacy and safety of avapritinib in advanced systemic mastocytosis: interim analysis of the phase 2 
+PATHFINDER trial. Nat Med 2021;27:2192 -2199. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/34873345 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-25 107. Heinrich MC, Jones RL, von Mehren M, et al. Avapritinib in advanced 
+PDGFRA D842V -mutant gastrointestinal stromal tumour (NAVIGATOR): a 
+multicentre, open- label, phase 1 trial. Lancet Oncol 2020;21:935 -946. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/32615108.  
+108. Helbig G, Kyrcz -Krzemien S. Cessation of imatinib mesylate may 
+lead to sustained hematologic and molecular remission in FIP1L1 -
+PDGFRA -mutated hypereosinophilic syndrome. Am J Hematol 
+2014;89:115. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24009127 . 
+109. Metzgeroth G, Schwaab J, Naumann N, et al. Treatment -free 
+remission in FIP1L1- PDGFRA -positive myeloid/lymphoid neoplasms with 
+eosinophilia after imatinib discontinuation. Blood Adv 2020;4:440- 443. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/31995156.  
+110. Chonabayashi K, Hishizawa M, Matsui M, et al. Successful allogeneic 
+stem cell transplantation with long- term remission of ETV6/FLT3 -positive 
+myeloid/lymphoid neoplasm with eosinophilia. Ann Hematol 2014;93:535-537. Available at: https://www.ncbi.nlm.nih.gov/pubmed/23873282 . 
+111. Vannucchi AM, Patel JL, Shomali WE, et al. A phase 2 study of 
+pemigatinib (FIGHT -203; INCB054828) in patients with myeloid/lymphoid 
+neoplasms with fibroblast growth factor receptor 1 ( FGFR1 ) gene 
+rearrangement [abstract]. Clin Lymphoma Myeloma Leuk 2024;24:S430-
+S431. Available at: https://www.clinical- lymphoma -myeloma -
+leukemia.com/article/S2152- 2650(24)01430- 7/abstract . 
+112. Falchi L, Mehrotra M, Newberry KJ, et al. ETV6- FLT3 fusion gene-
+positive, eosinophilia- associated myeloproliferative neoplasm successfully 
+treated with sorafenib and allogeneic stem cell transplant. Leukemia 
+2014;28:2090 -2092. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24854988 . 
+113. Kreil S, Adès L, Bommer M, et al. Limited efficacy of ponatinib in 
+myeloproliferative neoplasms associated with FGFR1 fusion genes 
+[abstract]. Blood 2015;126:Abstract 2812. Available at: 
+https://doi.org/10.1182/blood.V126.23.2812.2812 . 114. Schwaab J, Naumann N, Luebke J, et al. Response to tyrosine 
+kinase inhibitors in myeloid neoplasms associated with PCM1 -JAK2, BCR -
+JAK2 and ETV6- ABL1 fusion genes. Am J Hematol 2020;95:824 -833. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/32279331.  
+115. Chen J, Deangelo DJ, Kutok JL, et al. PKC412 inhibits the zinc finger 
+198-fibroblast growth factor receptor 1 fusion tyrosine kinase and is active 
+in treatment of stem cell myeloproliferative disorder. Proc Natl Acad Sci U S A 2004;101:14479- 14484. Av ailable at: 
+https://www.ncbi.nlm.nih.gov/pubmed/15448205 . 
+116. Chase A, Bryant C, Score J, Cross NC. Ponatinib as targeted therapy for FGFR1 fusions associated with the 8p11 myeloproliferative syndrome. 
+Haematologica 2013;98:103- 106. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22875613 . 
+117. Khodadoust MS, Luo B, Medeiros BC, et al. Clinical activity of 
+ponatinib in a patient with FGFR1 -rearranged mixed- phenotype acute 
+leukemia. Leukemia 2016;30:947 -950. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26055304 . 
+118. Rumi E, Milosevic JD, Casetti I, et al. Efficacy of ruxolitinib in chronic 
+eosinophilic leukemia associated with a PCM1 -JAK2 fusion gene. J Clin 
+Oncol 2013;31:e269 -271. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23630205 . 
+119. Rumi E, Milosevic JD, Selleslag D, et al. Efficacy of ruxolitinib in myeloid neoplasms with PCM1- JAK2 fusion gene. Ann Hematol 
+2015;94:1927 -1928. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26202607 . 
+120. Schwaab J, Knut M, Haferlach C, et al. Limited duration of complete 
+remission on ruxolitinib in myeloid neoplasms with PCM1- JAK2 and BCR -
+JAK2 fusion genes. Ann Hematol 2015;94:233 -238. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25260694 . 
+121. Walz C, Erben P, Ritter M, et al. Response of ETV6- FLT3 -positive 
+myeloid/lymphoid neoplasm with eosinophilia to inhibitors of FMS -like PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 2.2025 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 2.2025 
+Myeloid/Lymphoid Neoplasms with Eosinophilia  and  
+Tyrosine  Kinase Gene Fusions  
+MS-26 tyrosine kinase 3. Blood 2011;118:2239 -2242. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21705501 . 
+122. Shomali W, Colucci P, George TI, et al. Comprehensive response 
+criteria for myeloid/lymphoid neoplasms with eosinophilia and tyrosine 
+kinase gene fusions: A proposal from the MLN International Working 
+Group. Leukemia 2023;37:981- 987. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/37076693 . 
+123. Katagiri S, Umezu T, Azuma K, et al. Maintenance 5- azacytidine 
+therapy by MRD monitoring after allogeneic HSCT in myeloid/lymphoid 
+neoplasms with FGFR1 rearrangement. Bone Marrow Transplant 
+2019;54:1148 -1150. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/30670826 . 
+ PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:50:36 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.

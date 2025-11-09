@@ -1,0 +1,1668 @@
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®)Hairy Cell Leukemia
+Version 1.2025 — September 26, 2024
+ContinueNCCN.org
+NCCN recognizes the importance of clinical trials and encourages participation when applicable and available. 
+Trials should be designed to maximize inclusiveness and broad representative enrollment.
+
+NCCN Guidelines Version 1.2025
+Hairy Cell Leukemia
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Continue
+NCCN Guidelines Panel Disclosuresξ Bone marrow 
+transplantation
+‡ Hematology/
+Hematology oncology
+Þ Internal medicine
+† Medical oncology≠ Pathology/
+Hematopathology
+¥ Patient advocacy
+* Discussion Writing 
+Committee MemberNCCN
+Zeenat Diwan, MS, PhD
+Mary Dwyer, MS
+Hema Sundar, PhDChristopher D. Fletcher, MD ‡ 
+University of Wisconsin  
+Carbone Cancer Center
+Sameh Gaballa, MD ‡ 
+Moffitt Cancer Center
+Muhammad Saad Hamid, MD † 
+St. Jude Children's Research Hospital/The 
+University of Tennessee Health Science Center
+Brian Hill, MD, PhD ‡  
+Case Comprehensive Cancer Center/University 
+Hospitals Seidman Cancer Center and 
+Cleveland Clinic Taussig Cancer Institute
+Paul Kaesberg, MD ‡ Þ 
+UC Davis Comprehensive Cancer Center
+Brad Kahl, MD ‡ 
+Siteman Cancer Center at Barnes-  
+Jewish Hospital and Washington  
+University School of Medicine
+Manali Kamdar, MD ‡ 
+University of Colorado Cancer Center
+Thomas J. Kipps, MD, PhD ‡  
+UC San Diego Moores Cancer Center
+Shuo Ma, MD, PhD †  
+Robert H. Lurie Comprehensive Cancer  
+Center of Northwestern University
+Claudio Mosse, MD, PhD ≠  
+Vanderbilt-Ingram Cancer Center
+Shazia Nakhoda, MD ‡ 
+Fox Chase Cancer Center
+Sameer A. Parikh, MBBS ‡ 
+Mayo Clinic Comprehensive Cancer CenterPeter Riedell, MD ‡ 
+The UChicago Medicine  
+Comprehensive Cancer Center
+Andrew Schorr, MS ¥ 
+Patient advocate
+Stephen Schuster, MD † ‡ 
+Abramson Cancer Center  
+at the University of Pennsylvania
+Madhav Seshadri, MD ‡ 
+UCSF Helen Diller Family  
+Comprehensive Cancer Center
+Tait Shanafelt, MD † ‡ 
+Stanford Cancer Institute
+Tanya Siddiqi, MD ‡  
+City of Hope National Medical Center
+Meghan Thompson, MD † ‡ 
+Memorial Sloan Kettering Cancer Center
+Chaitra Ujjani, MD ‡  
+Fred Hutchinson Cancer Center
+Riccardo Valdez, MD ≠ 
+University of Michigan Rogel Cancer Center
+Nina Wagner-Johnston, MD †  
+Johns Hopkins Kimmel Cancer Center
+Jennifer A. Woyach, MD ‡ 
+The Ohio State University Comprehensive 
+Cancer Center - James Cancer Hospital  
+and Solove Research Institute*William G. Wierda, MD, PhD/Chair † ‡  
+The University of Texas   
+MD Anderson Cancer Center
+*Jennifer Brown, MD, PhD/Vice-Chair ‡ 
+Dana-Farber/Brigham and  
+Women's Cancer Center
+*Jeremy S. Abramson, MD, MMSc † ‡ 
+Mass General Cancer Center
+Farrukh Awan, MD † ‡ Þ  
+UT Southwestern Simmons 
+Comprehensive Cancer Center
+Syed F. Bilgrami, MD ‡  
+Yale Cancer Center/  
+Smilow Cancer Hospital
+Greg Bociek, MD, MSc † ξ 
+Fred & Pamela Buffett Cancer Center
+Danielle Brander, MD ‡  
+Duke Cancer Institute
+Matthew Cortese, MD, MPH † ‡ Þ 
+Roswell Park Comprehensive  
+Cancer Center
+Larry Cripe, MD ‡ 
+Indiana University Melvin and Bren Simon 
+Comprehensive Cancer Center
+Randall S. Davis, MD ‡ 
+O'Neal Comprehensive  
+Cancer Center at UAB
+Herbert Eradat, MD, MS † ‡ 
+UCLA Jonsson  
+Comprehensive Cancer Center 
+Lindsey Fitzgerald, MD ‡ Þ  
+Huntsman Cancer Institute  
+at the University of UtahPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Hairy Cell Leukemia
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+NCCN Hairy Cell Leukemia Panel Members
+Summary of the Guidelines Updates
+Diagnosis and Workup (HCL-1)
+Indications for Treatment, Initial Treatment, and Relapsed/Refractory Therapy (HCL-2)
+Suggested Treatment Regimens (HCL-A)  
+HCL Response Criteria (HCL-B)
+Supportive Care for Patients with HCL (HCL-C)
+Use of Immunophenotyping/Genetic Testing in Differential Diagnosis of Mature B-Cell and NK/T-
+Cell Neoplasms (See NCCN Guidelines for B-Cell Lymphomas)
+Abbreviations (ABBR-1)Find an NCCN Member Institution: 
+https://www.nccn.org/home/member-
+institutions .
+NCCN Categories of Evidence and 
+Consensus: All recommendations 
+are category 2A unless otherwise 
+indicated.
+See NCCN Categories of Evidence  
+and Consensus .
+NCCN Categories of Preference:  
+All recommendations are considered 
+appropriate.
+See NCCN Categories of 
+Preference .
+The NCCN Guidelines® are a statement of evidence and consensus of the authors regarding their views of currently accepted approaches to 
+treatment. Any clinician seeking to apply or consult the NCCN Guidelines is expected to use independent medical judgment in the context of 
+individual clinical circumstances to determine any patient’s care or treatment. The National Comprehensive Cancer Network® (NCCN®) makes no 
+representations or warranties of any kind regarding their content, use or application and disclaims any responsibility for their application or use in 
+any way. The NCCN Guidelines are copyrighted by National Comprehensive Cancer Network®. All rights reserved. The NCCN Guidelines and the 
+illustrations herein may not be reproduced in any form without the express written permission of NCCN. ©2024.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Hairy Cell Leukemia
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+UPDATESUpdates in Version 1.2025 of the NCCN Guidelines for Hairy Cell Leukemia from Version 2.2024 include:
+HCL-2
+• Response to therapy
+Complete response revised as "Full hematologic recovery consistent with complete response."
+<Complete response revised as "Incomplete hematologic recovery."
+• After incomplete hematologic recovery, added: Re-evaluate for indications for treatment
+• After Relapse at <2 years revised: Relapsed/Refractory Therapy (HCL-A) -  Less than complete response  Incomplete hematologic recovery with 
+indications for treatment present after initial treatment  therapy.. 
+HCL-A 1 of 3
+• Initial Therapy 
+Useful in Certain Circumstances revised qualifier: consider for patient who are unable to tolerate  patients who are not candidates  for purine analogs 
+including patients who are  frail patients  and those with active infection
+• Relapsed/Refractory Therapy
+Revised qualifier: Less than complete response  Incomplete hematologic recovery with indications for treatment present after initial treatment  therapy 
+OR Relapse <2 years)
+Relapse ≥2 years, Other recommended added: Vemurafenib ± rituximab (consider for patients who are not candidates for purine analogs including 
+patients who are frail and those with active infection)
+HCL-A 2 of 3
+• Footnote i revised: Peginterferon alfa-2a is the only interferon available for clinical use in the United States and it  may be substituted for other interferon 
+preparations.
+HCL-C
+• Anti-infective Prophylaxis 
+1st bullet added: For patients who have received lymphodepleting treatment or are suspected of being immunosuppressed, monitor CD4 T-cell counts 
+for need for prophylaxis.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Hairy Cell Leukemia
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+HCL-1a This guideline applies to histologically confirmed cHCL, not HCLv (ICC)/
+SBLPN (WHO5).
+b Typical immunophenotype for cHCL: CD5-, CD10-, CD11c+, CD20+ 
+(bright), CD22+, CD25+, CD103+, CD123+, cyclin D1+, annexin A1+, 
+and CD200+ (bright). Monocytopenia is characteristic. 
+c HCLv (ICC)/SBLPN (WHO5) is characteristically CD25-, CD123-, 
+annexin A1-, and negative for BRAF V600E mutations. This helps to 
+distinguish HCLv (ICC)/SBLPN (WHO5) form from cHCL. 
+d See Use of Immunophenotyping/Genetic Testing in Differential Diagnosis 
+of Mature B-Cell and NK/T-Cell Neoplasms in the NCCN Guidelines for 
+B-Cell Lymphomas .DIAGNOSISaWORKUP
+ESSENTIAL:
+• Bone marrow biopsy ± aspirate: 
+Presence of characteristic hairy cells upon 
+morphologic examination of peripheral blood or bone 
+marrow and characteristic infiltrate with increased 
+reticulin in bone marrow biopsy samples. Dry tap is 
+frequent. 
+• Adequate immunophenotyping is essential for 
+establishing the diagnosis and for distinguishing 
+between classical hairy cell leukemia (cHCL) and 
+hairy cell variant (HCLv;ICC)/splenic B-cell lymphoma/
+leukemia with prominent nucleoli (SBLPN;WHO5)b,c,d
+Immunohistochemistry (IHC) or flow cytometry for: 
+CD19, CD20, CD5, CD10, CD11c, CD22, CD25, CD103, 
+CD123, cyclin D1, and CD200
+USEFUL UNDER CERTAIN CIRCUMSTANCES:
+• Molecular analysis to detect: IGHV4-34 rearrangemente
+• IHC or molecular analysis to detect BRAF V600E 
+mutation for cases that do not have cHCL 
+immunophenotypeeESSENTIAL:
+• History and physical exam with attention to node-
+bearing areas and the measurement of size of liver 
+and spleen
+Presence of enlarged spleen and/or liver; 
+presence of peripheral lymphadenopathy 
+(uncommon)
+• Performance status
+• Peripheral blood smear examination
+• Complete blood count (CBC) with differential
+• Comprehensive metabolic panel with particular 
+attention to renal function
+• Lactate dehydrogenase (LDH)
+• Bone marrow biopsy ± aspirate
+• Hepatitis Bf and C testing if treatment contemplated
+USEFUL UNDER CERTAIN CIRCUMSTANCES:
+• CT of chest/abdomen/pelvis with contrast of 
+diagnostic quality
+• Pregnancy testing in patients of childbearing age (if 
+systemic therapy planned)
+• Discussion of fertility preservationgInitial Treatment 
+(HCL-2)
+e Ten percent to 20% of B-cell lymphoproliferative neoplasms with a cHCL phenotype 
+possess IGHV4-34 rearrangements and typically lack BRAF V600E mutations. These 
+diseases behave more like HCLv (ICC)/SBLPN (WHO5) in that they do not respond 
+well to purine analog therapy and generally have a poorer prognosis. There is evidence 
+that HCLv (ICC)/SBLPN (WHO5) and IGHV4-34–mutant HCL often show mutations in 
+MAP2K1.
+f Hepatitis B testing is indicated because of the risk of reactivation during treatment (eg, 
+immunotherapy, chemoimmunotherapy, chemotherapy, targeted therapy). See Treatment 
+and Viral Reactivation in the NCCN Guidelines for CLL/SLL . Tests include hepatitis B 
+surface antigen and core antibody for a patient with no risk factors. For patients with risk 
+factors or previous history of hepatitis B, add e-antigen. If positive, check viral load and 
+consult with gastroenterologist.
+g Fertility preservation options include: sperm banking, semen cryopreservation, in vitro 
+fertilization (IVF), or ovarian tissue or oocyte cryopreservation.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Hairy Cell Leukemia
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+HCL-2h Grever MR, et al. Blood 2017;129:553-560.
+i Supportive Care for Patients with HCL (HCL-C).
+j HCL Response Criteria (HCL-B) .INDICATIONS FOR 
+TREATMENThINITIAL 
+TREATMENTiRELAPSED/ 
+REFRACTORY 
+THERAPYi
+Evaluate for indications 
+for treatment:
+• Systemic symptoms
+Unexplained weight 
+loss (>10% within 
+prior 6 months)
+Excessive fatigue
+• Recurrent infection
+• Hemoglobin <11 g/dL
+• Platelets <100,000/mcL
+• Absolute neutrophil 
+count (ANC) <1000/mcL
+• Symptomatic 
+organomegaly 
+• Progressive 
+lymphocytosis or 
+lymphadenopathyNo 
+indicationObserve
+Indication 
+presentInitial Therapy 
+(HCL-A)Full 
+hematologic 
+recovery 
+consistent 
+with complete 
+responsej
+Incomplete 
+hematologic 
+recoveryj Observe until 
+indication for 
+treatmentRelapse at 
+≥2 yearsh
+Relapse at 
+<2 yearshRelapsed/
+Refractory Therapy 
+(HCL-A) - Relapse 
+≥2 years
+Progressionj
+Progressive 
+Disease After 
+Relapsed/
+Refractory 
+Therapy 
+(HCL-A)Relapsed/
+Refractory 
+Therapy (HCL-A) 
+- Incomplete 
+hematologic 
+recovery with 
+indications for 
+treatment present 
+after initial therapy 
+OR 
+Relapse <2 yearsRESPONSE 
+TO THERAPY
+Re-evaluate for 
+indications for 
+treatmentPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Hairy Cell Leukemia
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+SUGGESTED TREATMENT REGIMENSa,b
+RELAPSED/REFRACTORY  THERAPYc,e,f
+Preferred Regimens Other Recommended Regimens Useful in Certain Circumstances
+Incomplete 
+hematologic recovery 
+with indications for 
+treatment present after 
+initial therapy
+OR 
+Relapse <2 years• Clinical trial
+• Dabrafenib* + trametinib (if not 
+previously treated with BRAF inhibitor)
+• Vemurafenibh,* ± rituximab (if not 
+previously given)• Peginterferon-alfa 2ai
+• Alternative purine analog ± rituximab• Rituximab, if unable to receive 
+purine analog
+Relapse ≥2 years • Retreatment with initial purine analog + 
+rituximab
+• Alternative purine analog + rituximab• Vemurafenibh,* ± rituximab ( consider 
+for patients who are not candidates 
+for purine analogs including patients 
+who are frail and those with active 
+infection)• Rituximab, if unable to receive 
+purine analogINITIAL THERAPYc,d,e,f
+Preferred Regimens
+• Purine analogs
+Cladribine ± rituximab
+PentostatinUseful in Certain Circumstances 
+(consider for patients who are not candidates for purine analogs 
+including patients who are frail and those with active infection)
+• Vemurafenib* ± anti-CD20 monoclonal antibody (mAb)g
+PROGRESSIVE DISEASE AFTER RELAPSED/REFRACTORY  THERAPYe,f
+Preferred Regimens Other Recommended Regimens Useful in Certain Circumstances
+• Clinical trial 
+• Dabrafenib* + trametinib (if not previously  
+treated with BRAF inhibitor)
+• Vemurafenib* ± rituximab• Ibrutinib
+• Zanubrutinib(for patients with disease resistant to 
+BRAF inhibitor therapy):
+• Venetoclax ± rituximab
+HCL-A  
+1 OF 3References on 
+HCL-A 3 of 3* BRAF inhibitor Footnotes on 
+HCL-A 2 of 3PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Hairy Cell Leukemia
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+SUGGESTED TREATMENT REGIMENS
+FOOTNOTES
+a Treatment recommendations apply to histologically confirmed cHCL, not HCLv (ICC)/SBLPN (WHO5). See Suggested Treatment Regimen References (HCL-A 3 of 3).
+b Please refer to package insert for full prescribing information, dose modifications, and monitoring for adverse reactions: https://www.accessdata.fda.gov/scripts/cder/
+daf/index.cfm.
+c Standard-dose purine analogs should not be administered to patients with active life-threatening or chronic infection. Treat active infection prior to initiating treatment 
+with standard-dose purine analogs. If it is not possible to control infection, consider initiating treatment with low-dose pentostatin before using standard-dose purine 
+analogs to secure a durable response. 
+d Cladribine and pentostatin have not been compared head-to-head in clinical trials, but appear to show comparable therapeutic activity . 
+e Rituximab and hyaluronidase human injection for subcutaneous use may be used in patients who have received at least one full dose of a rituximab product by 
+intravenous route. An FDA-approved biosimilar is an appropriate substitute for rituximab.
+f Supportive Care for Patients with HCL (HCL-C).
+g Anti-CD20 mAbs include: rituximab or obinutuzumab.
+h Studied for primary refractory disease and early relapse (1–2 y) after first course of purine analogue. 
+i Peginterferon alfa-2a may be substituted for other interferon preparations.
+HCL-A  
+2 OF 3PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Hairy Cell Leukemia
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+HCL-A  
+3 OF 3REFERENCES
+Purine analog monotherapy
+Flinn IW, Kopecky KJ, Foucar MK, et al. Long-term follow-up of remission duration, 
+mortality, and second malignancies in hairy cell leukemia patients treated with pentostatin. 
+Blood 2000;96:2981-2986.
+Goodman GR, Burian C, Koziol JA, Saven A. Extended follow-up of patients with hairy cell 
+leukemia after treatment with cladribine. J Clin Oncol 2003;21:891-896.
+Zinzani PL, Tani M, Marchi E, et al. Long-term follow-up of front-line treatment of hairy cell 
+leukemia with 2-chlorodeoxyadenosine. Haematologica 2004;89:309-313.
+Chadha P, Rademaker AW, Mendiratta P, et al. Treatment of hairy cell leukemia with 
+2-chlorodeoxyadenosine (2-CdA): long-term follow-up of the Northwestern University 
+experience. Blood 2005;106:241-246.
+Robak T, Jamroziak K, Gora-Tybor J, et al. Cladribine in a weekly versus daily schedule 
+for untreated active hairy cell leukemia: final report from the Polish Adult Leukemia Group 
+(PALG) of a prospective, randomized, multicenter trial. Blood 2007;109:3672-3675.
+Else M, Dearden CE, Matutes E, et al. Long-term follow-up of 233 patients with hairy cell 
+leukaemia, treated initially with pentostatin or cladribine, at a median of 16 years from 
+diagnosis. Br J Haematol 2009;145:733-740.
+Zenhausern R, Schmitz SF, Solenthaler M, et al. Randomized trial of daily versus weekly 
+administration of 2-chlorodeoxyadenosine in patients with hairy cell leukemia:  
+a multicenter phase III trial (SAKK 32/98). Leuk Lymphoma 2009;50:1501-1511.
+Dearden CE, Else M, Catovsky D. Long-term results for pentostatin and cladribine treatment 
+of hairy cell leukemia. Leuk Lymphoma 2011;52 Suppl 2:21-24.
+Grever M, Kopecky K, Foucar MK, et al. Randomized comparison of pentostatin versus 
+interferon alfa-2a in previously untreated patients with hairy cell leukemia: an intergroup 
+study. J Clin Oncol 1995;13:974-982.
+Tallman MS, Hakimian D, Variakojis D, et al. A single cycle of 2-chlorodeoxyadenosine 
+results in complete remission in the majority of patients with hairy cell leukemia. Blood 
+1992;80:2203-2209.
+Kraut EH, Grever MR, Bouroncle BA. Long-term follow-up of patients with hairy cell 
+leukemia after treatment with 2'-deoxycoformycin. Blood 1994;84:4061-4063. 
+Purine analogs with rituximab
+Else M, Osuji N, Forconi F, et al. The role of rituximab in combination with pentostatin 
+or cladribine for the treatment of recurrent/refractory hairy cell leukemia. Cancer 
+2007;110:2240-2247.
+Else M, Dearden CE, Matutes E, et al. Rituximab with pentostatin or cladribine: an effective 
+combination treatment for hairy cell leukemia after disease recurrence. Leuk Lymphoma 
+2011;52 Suppl 2:75-78.
+Chihara D, Kantarjian H, O'Brien S, et al. Long-term durable remission by cladribine 
+followed by rituximab in patients with hairy cell leukaemia: update of a phase II trial. Br J 
+Haematol 2016;174:760-766. 
+Chihara D, Arons E, Stetler-Stevenson M, et al. Randomized phase II study of first-line 
+cladribine with concurrent or delayed rituximab in patients with hairy cell leukemia. J Clin 
+Oncol 2020;38:1527-1538.Dabrafenib + trametinib
+Kreitman R, Moreau P, Ravandi F, et al. Dabrafenib plus trametinib in patients with relapsed/
+refractory BRAF V600E mutation-positive hairy cell leukemia. Blood 2023;141:996-1006.
+Ibrutinib
+Rogers KA, Andritsos LA, Wei L, et al. Phase 2 study of ibrutinib in classic and variant hairy 
+cell leukemia. Blood 2021;137:3473-3483.
+Rituximab
+Lauria F, Lenoci M, Annino L, et al. Efficacy of anti-CD20 monoclonal antibodies (Mabthera) 
+in patients with progressed hairy cell leukemia. Haematologica 2001;86:1046-1050.
+Nieva J, Bethel K, Saven A. Phase 2 study of rituximab in the treatment of cladribine-failed 
+patients with hairy cell leukemia. Blood 2003;102:810-813.
+Thomas DA, O'Brien S, Bueso-Ramos C, et al. Rituximab in relapsed or refractory hairy cell 
+leukemia. Blood 2003;102:3906-3911.
+Zenhausern R, Simcock M, Gratwohl A, et al. Rituximab in patients with hairy cell leukemia 
+relapsing after treatment with 2-chlorodeoxyadenosine (SAKK 31/98). Haematologica 
+2008;93:1426-1428.
+Vemurafenib ± obinutuzumab or rituximab
+Park JH, Winer ES, Huntington SF, et al. First line chemo-free therapy with the BRAF 
+inhibitor vemurafenib combined with obinutuzumab is effective in patients with HCL 
+[abstract]. Blood 2021;138:Abstract 43.
+Dietrich S, Pircher A, Endris V, et al. BRAF inhibition in hairy cell leukemia with low-dose 
+vemurafenib. Blood 2016;127:2847-2855.
+Handa S, Lee JO, Derkach A, et al. Long-term outcomes in patients with relapsed 
+or refractory hairy cell leukemia treated with vemurafenib monotherapy . Blood 
+2022;140:2663-2671.
+Tiacci E, Park JH, De Carolis L, et al. Targeting mutant BRAF in relapsed or refractory hairy-
+cell leukemia. N Engl J Med 2015;373:1733-1747.
+Troussard X, Montané L, Tiab M, et al. Vemurafenib in advanced patients with hairy cell 
+leukemia (HCL): Results of the Acsé phase II trial [abstract]. Blood 2017;130:Abstract 156.
+Tiacci E, Carolis LD, Simonetti E, et al. Vemurafenib plus rituximab in refractory or relapsed 
+hairy-cell leukemia. N Engl J Med 2021;384:1810-1823.
+Venetoclax ± rituximab
+Tiacci E, De Carolis L, Santi A, Falini B. Venetoclax in relapsed or refractory hairy-cell 
+leukemia. N Engl J Med 2023;388:952-954.
+Zanubrutinib
+Tam C, Dimopoulos M, Garcia-Sanz R, et al. Pooled safety analysis of zanubrutinib 
+monotherapy in patients with B-cell malignancies. Blood Adv 2022;64:1296-1308.
+Tam C, Trotman J, Opat S, et al. Zanubrutinib for the treatment of relapsed/refractory hairy 
+cell leukemia. Blood Adv 2023;7:2884-2887.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Hairy Cell Leukemia
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+Timing of response 
+assessmentThe bone marrow examination for evaluating response in patients treated with cladribine should not be done before 
+4 months after therapy. In those patients being treated with pentostatin, the bone marrow can be evaluated after the 
+blood counts have nearly normalized and the physical examination shows no splenomegaly.
+Complete response 
+(CR)Near normalization of peripheral blood counts: hemoglobin >11 g/dL (without transfusion); platelets >100,000/mcL; 
+ANC >1500/mcL. Regression of splenomegaly on physical examination. Absence of morphologic evidence of HCL on 
+both the peripheral blood smear and the bone marrow examination.
+CR with or without 
+minimal residual 
+disease (MRD)If CR is achieved, an IHC assessment of the percentage of MRD will be useful to stratify patients based on level of 
+CR (with or without evidence of MRD ). 
+Partial response 
+(PR)A PR requires near normalization of the peripheral blood count (as in CR) with a minimum of 50% improvement in
+organomegaly and bone marrow biopsy infiltration with HCL.
+Stable disease (SD) Patients whose disease has not met the criteria for an objective remission after therapy are considered to have SD. 
+Because patients with HCL are treated for specific reasons, including disease-related symptoms or decline in their 
+hematologic parameters, SD is not an acceptable response.
+Progressive 
+disease (PD)Patients who have an increase in symptoms related to disease, a 25% increase in organomegaly, or a 25% decline in 
+their hematologic parameters qualify for PD. An effort must be made to differentiate a decline in blood counts related 
+to myelosuppression effects of therapy versus PD.
+HCL in relapse Morphologic relapse is defined as the reappearance of HCL in the peripheral blood, the bone marrow biopsy, or 
+both by morphologic stains in the absence of hematologic relapse. Hematologic relapse is defined as reappearance 
+of cytopenia(s) below the thresholds defined above for CR and PR. Whereas no treatment is necessarily needed in 
+case of morphologic relapse, treatment decisions for a hematologic relapse are based on several parameters (eg, 
+hematologic parameters warranting intervention, reoccurrence of disease-related symptoms).HCL RESPONSE CRITERIAa
+a Grever MR, Abdel-Wahab O, Andritsos LA, et al. Consensus guidelines for the diagnosis and management of patients with classical hairy cell leukemia. Blood 
+2017;129:553-560. 
+HCL-BPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Hairy Cell Leukemia
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+a An FDA-approved biosimilar is an appropriate substitute for filgrastim.
+HCL-CSUPPORTIVE CARE FOR PATIENTS WITH HCL
+For other immunosuppressive situations, see NCCN Guidelines for Prevention and Treatment of Cancer-Related Infections .Anti-infective Prophylaxis
+• For patients who have received lymphodepleting treatment or are suspected of being immunosuppressed, monitor CD4 T-cell counts for 
+need for prophylaxis. 
+• Consider herpes virus prophylaxis with acyclovir or equivalent for a minimum of 3 months and until CD4+ T-cell counts ≥200 cells/μL.
+• Consider pneumocystis jirovecii pn eumonia (PJP) prophylaxis with sulfamethoxazole/trimethoprim or equivalent for a minimum of 3 months 
+AND until CD4+ T-cell counts ≥200 cells/μL.
+• Consider broad-spectrum prophylactic antibacterial coverage during period of neutropenia.
+• Hepatitis B virus (HBV) prophylaxis and monitoring is recommended for patients at high risk . See Treatment and Viral Reactivation in the 
+NCCN Guidelines for CLL/SLL (CSLL-C 1 of 5) .
+Rare Complications of Monoclonal Antibody Therapy
+• Rare complications such as mucocutaneous reactions including paraneoplastic pemphigus, Stevens-Johnson syndrome, lichenoid 
+dermatitis, vesiculobullous dermatitis, and toxic epidermal necrolysis can occur. Consultation with a dermatologist is recommended for 
+management of these complications. Re-challenge with the same monoclonal antibody in such settings is not recommended.
+Rituximab Rapid Infusion and Subcutaneous Administration
+• If no severe infusion  reactions were experienced with prior cycle of rituximab, a rapid infusion over 90 minutes can be used.
+• Rituximab and hyaluronidase human injection for subcutaneous use is a reasonable alternative for patients who have received at least one 
+full dose of intravenous rituximab.
+Growth Factors
+• Neutrophil growth factor ( eg, filgrastima) is indicated for patients with neutropenic fever following systemic therapy .
+Blood Product Support
+• Transfuse according to institutional or published standards.
+• Irradiate all blood products to avoid transfusion-associated graft-versus-host disease (GVHD).PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Hairy Cell Leukemia
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+ANC absolute neutrophil count 
+CBC complete blood count 
+cHCL classical hairy cell leukemia
+CR complete response 
+GVHD graft-versus-host disease 
+HBV hepatitis B virus
+HCL hairy cell leukemia
+HCLv hairy cell leukemia variant
+ICC International Consensus Classification
+IHC immunohistochemistry 
+IVF in vitro fertilization
+LDH lactate dehydrogenase 
+mAb monoclonal antibody
+MRD minimal residual disease
+PD progressive disease
+PJP pneumocystis jirovecii pneumonia 
+PR partial response
+SBLPN splenic B-cell lymphoma/leukemia with 
+prominent nucleoli
+SD  stable disease
+ABBR-1ABBREVIATIONSPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Hairy Cell Leukemia
+Version 1.2025, 09/26/24 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+CAT-1NCCN Categories of Evidence and Consensus
+Category 1 Based upon high-level evidence (≥1 randomized phase 3 trials or high-quality , robust meta-analyses), there is 
+uniform NCCN consensus (≥85% support of the Panel) that the intervention is appropriate.
+Category 2A Based upon lower-level evidence, there is uniform NCCN consensus (≥85% support of the Panel) that the 
+intervention is appropriate.
+Category 2B Based upon lower-level evidence, there is NCCN consensus (≥50%, but <85% support of the Panel) that the 
+intervention is appropriate.
+Category 3 Based upon any level of evidence, there is major NCCN disagreement that the intervention is appropriate. 
+All recommendations are category 2A unless otherwise indicated.
+NCCN Categories of Preference
+Preferred interventionInterventions that are based on superior efficacy, safety, and evidence; and, when appropriate, 
+affordability.
+Other recommended 
+interventionOther interventions that may be somewhat less efficacious, more toxic, or based on less mature data; 
+or significantly less affordable for similar outcomes.
+Useful in certain 
+circumstancesOther interventions that may be used for selected patient populations (defined with recommendation).
+All recommendations are considered appropriate.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-1 Discussion  
+Table of Contents  
+Table of Contents  ................................ ................................ ................................ ................................ ................................ ................................ . MS-1 
+Overview  ................................ ................................ ................................ ................................ ................................ ................................ ..............  MS-2 
+Guidelines Update Methodology  ................................ ................................ ................................ ................................ ................................ ...........  MS-2 
+Literature Search Criteria................................ ................................ ................................ ................................ ................................ ......................  MS-2 
+Sensitive/Inclusive Language Usage  ................................ ................................ ................................ ................................ ................................ .... MS-2 
+Diagnosis  ................................ ................................ ................................ ................................ ................................ ................................ .............  MS-2 
+Workup  ................................ ................................ ................................ ................................ ................................ ................................ ................  MS-4 
+Treatment Guidelines  ................................ ................................ ................................ ................................ ................................ ...........................  MS-4 
+Supportive Care  ................................ ................................ ................................ ................................ ................................ ................................ . MS-10 
+References  ................................ ................................ ................................ ................................ ................................ ................................ .........  MS-12 
+ 
+ 
+ 
+ This discussion corresponds to the NCCN Guidelines for Hairy Cell Leukemia . Last updated : April 22, 2024.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-2 Overview 
+Hairy cell leukemia (HCL) is a rare type of indolent B -cell leukemia 
+comprising about 2% of all lymphoid leukemias.1 Leukemic cells typically 
+infiltrate the bone marrow and spleen, and may also be found in the liver, 
+lymph nodes , and rarely in the skin. Small numbers of circulating hairy 
+cells may be present. Clinically, HCL is characterized by symptoms of 
+fatigue and weakness, and most patients will present with splenomegaly 
+(symptomatic or asymptomatic) and/or hepatomegaly, pancytopenia, and 
+uncommonly peripheral lymphadenopathy.2 In addition, patients may 
+also present with infection, including opportunistic  infection .  
+Guidelines Update Methodology  
+The complete details of the Development and Update of the NCCN 
+Guidelines Clinical Practice Guidelines in Oncology (NCCN Guidelines®) 
+are available at www.NCCN.org .  
+Literature Search Criteria  
+Prior to the update of this version of the NCCN Guidelines® for Hairy Cell 
+Leukemia, an electronic search of the PubMed database was performed to obtain key literature in Hairy Cell Leukemia  published since the 
+previous Guidelines update. The PubMed database was chosen as it remains the most widely used resource for medical literature and indexes 
+peer-reviewed biomedical literature.
+3 
+The search results were narrowed by selecting studies in humans 
+published in English. Results were confined to the following article types: 
+Clinical Trial, Phase II; Clinical Trial, Phase III; Clinical Trial, Phase IV; 
+Guideline; Randomized Controlled Trial; Meta -Analysis; Systematic 
+Reviews; and Validation Studies.  
+The data from key PubMed articles selected by the panel for review during 
+the Guidelines update as well as articles from additional sources deemed as relevant to these Guidelines have been included in this version of the Discussion section. Recommendations for which high- level evidence is 
+lacking are based on the panel’s review of lower -level evidence and expert 
+opinion. 
+ 
+Sensitive/Inclusive Language Usage  
+NCCN Guidelines strive to use language that advances the goals of equity, inclusion, and representation. NCCN Guidelines endeavor to use 
+language that is person- first; not stigmatizing; anti -racist, anti -classist, 
+anti-misogynist, anti -ageist, anti -ableist , and anti -weight -biased; and 
+inclusive of individuals of all sexual orientations and gender identities. 
+NCCN Guidelines incorporate non -gendered language, instead focusing 
+on organ -specific recommendations. This language is both more 
+accurate and more inclusive and can help fully address the needs of 
+individuals of all sexual orientations and gender identities. NCCN 
+Guidelines will continue to use the terms men , women , female, and male  
+when citing statistics, recommendations, or data from organizations or sources that do not use inclusive terms. Most studies do not report how 
+sex and gender data are collected and use these terms interchangeably 
+or inconsistently. If sources do not diffe rentiate gender from sex 
+assigned at birth or organs present, the inform ation is presumed to 
+predominantly represent cisgender individuals. NCCN encourages 
+researchers to collect more specific data in future studies and 
+organizations to use more inclusive and accurate language in their future 
+analyses.  
+Diagnosis 
+Morphologic evaluation of peripheral blood smear, bone marrow biopsy 
+with or without aspirate , and adequate immunophenotyping by 
+immunohistochemistry (IHC) or flow cytometry are essential to establish 
+the diagnosis of HCL.2 Leukemic cells in HCL are small to medium in 
+size, and show a round, oval , or indented nucleus with a well -defined PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-3 nuclear border. The presence of a cytoplasm with prominent hair -like 
+projections of the cytoplasmic membrane is characteristic of HCL.2 
+Examination of bone marrow biopsy samples shows hairy cell infiltrates 
+with increased reticulin fibrosis, which frequently results in a “dry” tap. In 
+some patients with HCL, bone marrow may show hypocellularity . This  is 
+important to recognize to  avoid an erroneous diagnosis of aplastic 
+anemia .2 
+In the 2017 WHO classification, classic HCL  (cHCL)  is considered as a 
+distinct clinical entity, separate from HCL variant ( HCLv ).4 In the updated 
+2022 WHO classification (WHO5), HCLv  has been renamed splenic B -
+cell lymphoma/leukemia with prominent nucleoli (S BLPN) .5 The 2022 
+International Consensus Classification (ICC) continues to list HCLv as a 
+subtype of s plenic B -cell lymphoma/leukemia, unclassifiable.6 HCLv 
+(ICC)/S BLPN (WHO5) tends to be associated with a more aggressive 
+disease course and may not respond to standard HCL therapies.7 
+Therefore, it is necessary to distinguish HCLv  (ICC)/S BLPN (WHO5)  
+from cHCL . 
+Somatic hypermutation in  the IGHV  gene is present in the large majority 
+of patients with HCL (80% –90%)8,9 The frequency of unmutated IGHV  is 
+much lower in cHCL  than in HCLv  (ICC)/S BLPN (WHO5)  (17% vs . 54%; 
+P < .001).9 About 40% of all patients diagnosed with HCLv  (ICC)/S BLPN 
+(WHO5)  also express an unmutated IGHV4 -34, which typically results in 
+higher disease burden at initial diagnosis, poor response to single -agent 
+therapy , and shorter overall survival (OS).10,11 Unmutated IGHV  may 
+serve as a prognostic marker for poorer outcomes with conventional 
+therapies since it is associated with primary refractoriness to purine 
+analog monotherapy , more rapid disease progression , and poor 
+survival .12 
+The BRAF  V600E kinase- activating mutation was identified in the 
+majority of patients with cHCL and is now regarded as the main source of pathogenesis .13-18 Additionally,  targeted sequencing has also identified 
+recurrent mutations in several other genes (eg , CDKN1B  in cHCL; 
+MAP2K1  and CCND3  in HCL v).19-21 Unlike cHCL, HCLv  (ICC)/S BLPN 
+(WHO5)  and B-cell lymphoproliferative neoplasms with a cHCL 
+phenotype expressing IGHV4 -34 rearrangement lack BRAF  V600E 
+mutation .11,16,22 A high frequency of MAP2K1  mutations were reported in 
+HCLv (approximately 30% express a mutated MAP2K1  gene)  and in 
+cHCL  with IGHV4 -34 rearrangement.23 
+Immunophenotyping is the primary methodology used to distinguish 
+cHCL and HCLv  (ICC)/S BLPN (WHO5) , though the role of molecular 
+analysis is rapidly expanding.  BRAF  V600E mutation serves  as a reliable 
+molecular marker to distinguish cHCL  from HCLv  (ICC)/S BLPN (WHO5)  
+and other B -cell leukemias or lymphomas , and MAPK1 mutation analysis 
+may be useful to distinguish HCLv  (ICC)/S BLPN (WHO5)  from cHCL  in 
+the absence of BRAF  V600E mutation.11,16,23   
+IHC or flow cytometry panel for immunophenotyping should include CD5, 
+CD10, CD11c, CD19, CD20, CD22, CD25, CD103, CD123, cyclin D1 , 
+and CD200. The typical immunophenotype for cHCL shows CD5 -, 
+CD10 -, CD11c+, CD20+(bright), CD22+, CD25+, CD103+, CD123+, 
+cyclin D1+, annexin A1+ , and CD200+ (bright).16 In contrast, HCLv  
+(ICC)/S BLPN (WHO5)  is characteristically CD25 -, CD123 -, annexin A1- , 
+and negative for BRAF  V600E mutation.16  
+IHC or molecular studies for BRAF  V600E mutation are useful for the 
+distinction of cHCL  from HCLv  (ICC)/S BLPN (WHO5)  and other splenic 
+B-cell lymphomas.16,17,24 HCL expressing  IGHV4 -34 rearrangement  has a 
+less favorable prognosis than cHCL and does not respond well to purine 
+analog- based therapy.25 Molecular analysis to identify the IGHV4 -34 
+rearrangement may be useful to distinguish cHCL from HCL with 
+IGHV4 -34 rearrangement.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-4 Workup  
+The initial workup should include a thorough physical examination with 
+attention to node- bearing areas (although presence of peripheral 
+lymphadenopathy is uncommon), measurement of size of liver and 
+spleen , and evaluation of performance status. A bone marrow biopsy, 
+with or without aspirate, should be obtained. Laboratory assessments 
+should include complete blood count ( CBC)  with differential, 
+measurements of serum lactate dehydrogenase (LDH) levels , and a 
+comprehensive metabolic panel. Close  evaluation of renal function is 
+advised considering the renal route of drug excretion used in the 
+treatment of HCL. Hepatitis B virus (HBV) testing is recommended due to 
+the increased risk of viral reactivation associated with the use of 
+immunotherapy and chemotherapy. CT scans (with contrast of diagnostic 
+quality) of the chest, abdomen , and/or pelvis may be useful under certain 
+circumstances.  
+Treatment Guidelines  
+The current NCCN Guidelines apply to patients with cHCL. Regimens are 
+stratified into three  categories (based on the evidence, efficacy, toxicity, 
+preexisting comorbidities, and in some instances  access to certain 
+agents): preferred regimens, other recommended regimens, and useful 
+under certain circumstances.  
+At the present time, there are no established treatment options for  the 
+optimal frontline or subsequent treatment  of patients with HCLv  
+(ICC)/S BLPN (WHO5) . However, cladribine  + rituximab26-28 and 
+ibrutinib29-31 have been shown to be effective in small cohorts of patients 
+with HCLv  (ICC)/S BLPN (WHO5) . Participation in a clinical trial and 
+referral to a medical center with expertise in the management of HCL is  
+recommended.   Initial Treatment   
+Clinical judgment is required in the decision to initiate therapy, since not all newly diagnosed patients with HCL will require immediate treatment. 
+Asymptomatic disease is best managed by close observation (“watch 
+and wait” approach), until indications develop.  
+Indications for treatment initiation may include symptomatic disease with excessive fatigue, physical discomfort due to splenomegaly or 
+hepatomegaly, unexplained weight loss (>10% within prior 6 months), 
+cytopenias (hemoglobin <11  g/dL, platelets <100,000/mcL , and/or 
+absolute neutrophil count <1000/mcL),  progressive  lymphocytosis , or 
+lymphadenopathy.
+2  
+Purine Analogs ± Rituximab  
+Cladribine  and pentostatin  have not been compared head to head in 
+randomized controlled trials but appear to have significant monotherapy 
+activity, resulting in durable remissions in patients with previously 
+untreated HCL.32-47  
+In a study of 358 patients with untreated HCL, cladribine resulted in a 
+complete response ( CR) rate of 91% with a median response duration of 
+52 months and an OS rate of 96% at 48 months.35 Extended follow -up 
+confirmed the durability of responses with cladribine.38 After 7 years of 
+follow- up, of the 207 evaluable patients, 95% achieved CR and 5% 
+achieved partial response (PR), with median response duration of 98 
+months for all patients with responding disease . The most common 
+toxicities with cladribine were grade 3– 4 neutropenia (occurring in about 
+65%–85% of patients), febrile neutropenia (40%), grade 3– 4 
+thrombocytopenia (20%) , and infection (10%).  
+In a phase III intergroup study ( 319 patients with previously untreated 
+HCL randomized to pentostatin versus interferon alpha; median follow -up 
+was 57 months ), pentostatin resulted in significantly higher CR rate (76% PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-5 vs. 11%; P < .0001) and longer median relapse -free survival (RFS; not 
+reached vs. 20 months; P < .0001) compared with interferon alpha.33 
+After a median follow -up of 9 years, the estimated 5- year and 10 -year 
+OS rate s for patients initially treated with pentostatin were 89% and 80%, 
+respectively.36 The corresponding RFS rate s were 86% and 66%, 
+respectively. Survival outcomes were not significantly different between 
+treatment arms, although this analysis was complicated by the crossover 
+study design. The most common toxicities were grade 3– 4 neutropenia 
+(20%) and infections (any grade; 53%), including those requiring 
+intravenous antibiotics (27%).  
+Standard -dose purine analogs should not be administered to patients 
+with active life -threatening or chronic infection. Active infection should be 
+treated prior to initiating treatment with standard- dose purine analogs. If 
+it is not possible to control infection, initiating treatment with 
+reduced -dose pentostatin should be considered to secure a durable 
+response before using standard -dose purine analogs.48  
+Rituximab  (anti-CD20 monoclonal antibody [mAb])  in combination with 
+purine analogs has also been shown to be effective in previously 
+untreated HCL ; however, it has not been evaluated extensively in this 
+patient population.27 In a phase II study that included 59 patients with 
+previously untreated patients with HCL, cladribine followed by rituximab 
+resulted in a CR rate of 100%.27 After a median follow -up of 60 months, 
+the 5-year failure- free survival (FFS) and OS rates were 95% and 97%, 
+respectively.  
+Initial treatment with purine analog monotherapy (cladribine or 
+pentostatin) or cladribine + rituximab are included as preferred treatment 
+options for untreated HCL in patients with an indication for treatment.  Routes  of Administration  of Purine Analogs    
+Subcutaneous and intravenous administration of cladribine resulted in 
+similar response rates ; however, subcutaneous cladribine was 
+associated with a lower rate of viral infections and mucositis despite having a higher rate of neutropenia.
+49-53  
+In a prospective study, reduced -dose subcutaneous cladribine (total 
+dose of 0.5 mg/kg given as 0.1 mg/kg/d ay x 5 days)  had similar efficacy 
+but lower toxicity than standard- dose subcutaneous cladribine (total dose 
+of 0.7 mg/kg; given as 0.1 mg/kg/d ay x 7 days).51 After a median 
+follow- up of 36 months, the CR rate was 64% and 73%, respectively , for 
+reduced -dose and standard -dose cladribine with no difference in RFS 
+and OS rates.  
+In a retrospective analysis that compared the efficacy and safety of 
+subcutaneous and intravenous injection of cladribine in 49 patients with 
+HCL (18 patients were treated with intravenous cladribine and 31 
+patients were treated with subcutaneous cladribine), the CR rate s were  
+94% and 97%, respectively, for intravenous and subcutaneous cladribine.
+52 After a median follow -up of 3 4 months, subcutaneous 
+cladribine was associated with a more favorable 3 -year event -free 
+survival  (EFS)  rate (60% and 96%, respectively; P = .104) and better 
+(although non -significant) 3 -year OS rate (81% and 100%, respectively; 
+P = .277). Neutropenia (grade 3 or 4; 67% vs. 87%), mucositis (grades 1 
+or 2; 67% vs . 32%) , and viral infections (78% vs. 34%) were the most 
+frequent complications in the two treatment groups, respectively.  
+A study  that evaluated the long -term outcomes of patients treated with 
+subcutaneous cladribine in three prospective multicenter clinical trials 
+showed that subcutaneous cladribine (0.14 mg/kg/day  x 5 days) was 
+associated with excellent long- term survival.53 After a median follow -up 
+of 13 years, the median OS was not reached and the estimated 10- year 
+and 20- year OS rates were 80% and 67%, respectively.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-6 Dosing Schedules of P urine Analogs  
+Weekly infusion of cladribine was also shown to have similar safety and 
+efficacy to daily continuous infusion.54-57  
+In a randomized study that evaluated the efficacy and safety of daily 
+versus weekly infusion of cladribine (100 patients were randomized to 
+receive cladribine at standard daily dosing [0.14 mg/kg/day for 5 days] or 
+once weekly dosing [0.14 mg/kg/day once a week for 5 weeks]), the 
+overall response  rate (ORR) after 10 weeks was 78% for patients who 
+received daily dosing and 68% for those who received once weekly dosing.
+57 There were no significant differences in the toxicity profile 
+between the two  treatment arms after 10 weeks (grade 3 or 4 
+neutropenia, 90% vs. 80%; acute infection, 44% vs. 40%; and 
+erythrocyte support, 22% vs. 30%).  
+Vemurafenib ± Anti -CD20 mAb  
+Vemurafenib (a BRAF  V600E inhibitor with demonstrated activity in 
+relapsed/refractory HCL) was also evaluated in patients with treatment -
+naïve HCL, either alone or in combination with anti-CD20 mA b 
+(obinutuzumab or rituximab ). 58-61 
+A 2016 study assessed vemurafenib monotherapy in patients with 
+treatment -naïve HCL (21 patients were treated with vemurafenib outside 
+of trials with individual dosing regimens; 240– 1920 mg/day ; median 
+treatment duration, 90 days).58 Blood count improvements were 
+observed in all patients with a CR rate of 40% (6/15 of evaluable patients) and the median EFS was 17 months. Similar response patterns 
+were achieved upon retreatment with vemurafenib (n = 6). Typical side 
+effects at low dosi ng regimens included development of acute myeloid 
+lymphoma (AML) subtype M6 in 1 patient, and potential disease 
+acceleration triggered by vemurafenib.
+58 In a phase II multicenter trial of 30 patients with newly diagnosed HCL, 
+27 patients completed 4 months of study treatment with vemurafenib + 
+obinutuzumab and the CR rate was 96% at 4 months. At 10 months, with 
+no further treatment, the CR rate increased to 100%.59 The most 
+common adverse events were rash (61%; grade 1–2 14%, grade 3 46%), 
+arthralgia (46%; grade 1–2 36%, grade 3 11%), fatigue (29%, all g rade 
+1), alopecia (25%, all grade 1), and pruritis (21%, grade 1– 2).59 
+In another study, the combination of vemurafenib + rituximab was 
+evaluated as a treatment option for treatment -naïve HCL in patients with 
+severe neutropenia, infection , and purine analogue intolerance, or as a 
+treatment option for purine analogue -resistant HCL. The combination 
+therapy was tolerable with no severe adverse events, and all patients ’ 
+disease  responded with rapid blood count recovery. However, median 
+progression- free survival (PFS) and OS were not reached at a median 
+follow- up of 18 months.60 
+The guidelines recommend consideration of vemurafenib ± anti -CD20 
+mAb (obinutuzumab or rituximab)  as an option for initial treatment for 
+patients who are unable to tolerate purine analogs including frail patients 
+and those with active infection.  
+Response Assessment  
+CR is defined as normalization  of blood counts (hemoglobin >11 g/dL 
+without transfusion, absolute neutrophil count >1,500/mcL, platelets 
+>100,000/mcL), absence of HCL cells by morphologic examination of 
+bone marrow biopsy and peripheral blood sample, regression of 
+splenomegaly by physi cal examination, and absence of disease 
+symptoms.2 Available evidence suggests that achievement of CR is 
+associated with longer duration of remission.44,45 Observation until there 
+is an indication for additional treatment is recommended for patients who 
+achieve a CR after initial treatment with purine analog.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-7 Few studies have evaluated the clinical relevance of minimal residual 
+disease (MRD ) status in patients with disease responding to 
+therapy.27,29,59,61 -66  
+In a phase II study that evaluated cladribine followed by rituximab in 
+patients with previously untreated  or relapsed HCL, undetectable MRD  
+(uMRD)  status was achieved in 94% of patients at the end of treatment  
+but MRD positivity during follow- up did not necessarily result in clinically 
+relevant risk for relapse.27 
+Other studies have shown that uMRD  in peripheral blood at 6 months 
+after initial treatment with purine analogs is associated with a low 
+likelihood of disease relapse.64,65 In the phase II  study that evaluated 
+cladribine in combination with concurrent versus delayed rituximab in 68 
+patients with previously untreated HCL , the probability of achieving CR 
+with uMRD was higher with the use of concurrent rituximab.66 After a 
+median follow -up of 96 months, the uMRD status (94% vs.  12%), CR 
+(100% vs. 88%), and MRD -free CR rates (97% vs. 24%; P < .0001) were 
+substantially higher with the use of concurrent rituximab versus delayed 
+rituximab . In the 2021  phase II trial that assessed the safety and efficacy 
+of vemurafenib plus concurrent and sequential rituximab , MRD negativity 
+and no previous BRAF inhibitor treatment correlated with longer RFS in 
+patients with relapsed /refractory HCL .61 Vemurafenib + obinutuzumab 
+also resulted in a uMRD of 96% in patients with newly diagnosed HCL 
+and all patients remained in remission, with a median follow -up of 17 
+months.59 While no relapse was observed at a median follow -up of 17 
+months , a longer follow -up is needed to assess durability of remission  
+and relationship  between MRD status and rate of relapse.   
+In summary , the prognostic significance of uMRD after the end of first -
+line therapy remains uncertain at this time . In contrast , a number of  
+studies in patients with relapsed HCL have demonstrated  that CR with 
+uMRD improves the  duration of response, further suggesting the utility of this approach. Thus, it has been suggested  that MRD monitoring as a 
+component of response assessment  should be incorporated in all clinical 
+trials for relapsed HCL .67 Moreover, f uture cooperative multicenter 
+studies will be essential to establish the value of MRD testing after the 
+end of first -line therapy.67 MRD assessment is not recommended 
+(outside of clinical trials) as part of response evaluation.    
+Relapsed/ Refractory or Progressive Disease  
+Dabrafenib + T rametinib  
+An open- label, phase 2 study assessed d abrafenib + trametinib  (BRAF  
+V600E inhibitors) combination therapy in  55 patients with BRAF V600E 
+mutation –positive HCL refractory to first -line treatment with a purine 
+analog or disease relapse after two or more  prior lines of treatment .68 
+The investigator -assessed ORR was 89%; CR was achieved in 66 % of 
+patients  and PR in 24 %. The 24 -month PFS and OS rates were 94% and 
+95%, respectively. The most common treatment -related adverse events 
+(TEAEs) were pyrexia (58%), chills (47%), and hyperglycemia (40%). 
+These results are consistent with previous observations in other 
+indications . Thus, d abrafenib + trametinib represents a rituximab -free 
+treatment  option for patients with relapsed/refractory BRAF  V600E 
+mutation –positive HCL.68 
+Vemurafenib ± Rituximab   
+Vemurafenib monotherapy (960 mg twice daily) was evaluated in two 
+separate phase II multicenter studies in patients with HCL refractory to 
+purine analogs or those with relapsed disease after treatment with a 
+purine analog.69 In the Italian phase II multicenter trial (n  = 28), the ORR 
+was 96% (35% CR) after a median of 8 weeks of therapy , and the 
+median RFS was longer for patients who se disease  achieved CR versus 
+PR (19 months and 6 months, respectively).  The median follow -up was 
+23 months. In a U.S. phase II multicenter trial (26 out of the planned 36 patients), the ORR was 100% (42% CR) after a median of 12 weeks of PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-8 therapy and the 1 -year PFS and OS rates were 73% and 91%, 
+respectively. Grade 1 or 2 rash and arthralgia or arthritis were the most 
+common adverse events leading to dose reductions of vemurafenib. 
+Long- term follow -up of 36 enrolled patients confirmed these findings as 
+well as the efficacy of retreatment with vemurafenib at relapse.70 After a 
+median follow -up of 24 months, the ORR was 86% (33% CR and 53% 
+PR). Among 18 patients with disease relapse, 13 received retreatment 
+with vemurafenib resulting in a PR rate of 85% with complete 
+hematologic recovery.  
+Vemurafenib + rituximab also induced durable responses  with uMRD in 
+most patients with relapsed/refractory HCL and the CR rates were higher 
+than that observed with vemurafenib monotherapy .61,71 In a phase II 
+study of 30 patients with relapsed/refractory HCL, vemurafenib in 
+combination with concurrent and sequential rituximab resulted in a CR 
+rate of 87%.61 After a median follow -up of 37 months, the PFS rate was 
+78%. The RFS at 34 months was 85% for patients achieving a CR.61 
+In a phase II trial of 31 patients with relapsed/refractory HCL after 
+treatment with purine analogs (25 evaluable patients), the CR rate was 
+96% and t he PFS rate was 83%  after a median of 30 months of treatment  
+with vemurafenib + rituximab.71 In addition, MRD  as measured by 
+allele -specific oligonucleotide polymerase chain reaction (ASO -PCR) was 
+undetectable (10-4 sensitivity) in the bone marrow in 65% of patients. The 
+median PFS was significantly longer ( P = .001) in patients with CR and 
+uMRD (100% at a median of 31 months) than in patients with CR and 
+detectable MRD (44% at a median of 25 months).  
+A single -center , phase II , academic trial assessed the  safety and efficacy 
+of vemurafenib (960 mg, twice daily for 8 weeks) in combination with 
+simultaneous and sequential rituximab (375 mg/m2, 8 doses over 18 
+weeks) in refractory or relapsed HCL and mutated BRAF  V600E in 
+patients with indications for treatment (n = 30).61 Vemurafenib in combination with rituximab resulted in a CR rate of 87% ( P = .005). uMRD 
+was observed  in 65% (17 out of 26) of patients with a CR. At a median 
+follow- up of 37 months, the PFS rate was 78%  for the overall study 
+population. The RFS rate was 85% for the 26 patients with CR , at median 
+follow- up of 34 months.61 MRD as measured by PCR for BRAF  V600E 
+mutation was undetectable in the bone marrow aspirate and peripheral 
+blood in 65% of patients with CR (17 of 26).  
+Purine Analog ± Rituximab  
+Pentostatin and cladribine are also effective for the treatment of 
+relapsed/refractory HCL.36,39,72 In the long -term follow -up of the phase III 
+randomized study that evaluated pentostatin and interferon alpha, among the 87 patients who crossed over to pentostatin after progression 
+on initial interferon treatment, the 5 -year and 10 -year OS rates were 93% 
+and 85%, respectively.
+36 The corresponding RFS rate s were 84% and 
+69%, respectively.  
+Retreatment with the same purine analog may yield a reasonable 
+duration of disease control in patients with relapsed HCL after an initial 
+durable remission to purine analog therapy.38,41,46 In the long -term 
+follow- up of a study that evaluated cladribine as initial treatment, relapse 
+occurred in 37% of  patients  with an initial responding disease , with a 
+median time to relapse of 42 months.38 Among the patients with relapsed 
+disease who received retreatment with cladribine, the CR rate after first 
+relapse was 75% (median response duration of 35 months) and the CR 
+rate after subsequent relapse was 60% (median response duration of 20 
+months).  
+Given the observation that retreatment with purine analogs resulted in 
+shorter remission durations with each successive treatment, the use of 
+rituximab in combination with purine analogs was evaluated in patients 
+with relapsed/refractory HCL.27,66,73 In a retrospective study of 18 patients 
+with previously treated HCL relapsing after purine analog monotherapy PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-9 (median two prior therapies), rituximab in combination with pentostatin or 
+cladribine resulted in a CR rate of 89%.73 CR was maintained in all 
+patients after a median follow -up of 36 months and the estimated 3- year 
+recurrence rate was 7%. In a phase II study that included 14 patients with 
+relapsed HCL, cladribine followed by rituximab resulted in a CR rate of 
+100%. After a median follow -up of 60 months, the  5-year FFS and OS 
+rates  were  each 100%.  
+Moxetumomab Pasudotox  
+Moxetumomab pasudotox (CD22 -directed recombinant immunotoxin) 
+was initially approved for the treatment of relapsed or refractory HCL 
+after at least two prior lines of therapy in September 2018.74,75 However, 
+the manufacturer decided to permanently discontinue moxetumomab 
+pasudotox in the U nited States  in July 2023 due to very low clinical 
+uptake since FDA approval , possibly due to the specialized complexity of 
+administration, toxicity prophylaxis, and safety monitoring needs for 
+patients . Accordingly, moxetumomab pasudotox is no longer 
+recommended in the NCCN Guidelines for the treatment of relapsed or 
+refractory HCL.   
+Ibrutinib  
+Ibrutinib is a covalent Bruton tyrosine kinase (BTK) inhibitor  approved for 
+the treatment of patients with CLL/SLL. In a phase II , multicenter , open -
+label study of 37 patients with relapsed HCL (cHCL, n = 28 ; HCLv  
+[ICC]/SBLPN [WHO5 ]), ibrutinib was evaluated at two dose levels (420 mg  
+once daily, n =  24; and 840 mg once daily , n = 13).29 The ORR (CR and 
+PR) was 24% at 32 weeks ( improved to 36% at 48 weeks ). Additionally, 
+three patients with CR had  uMRD. The ORRs  were not significantly 
+different between cHCL and HCLv  (ICC)/S BLPN (WHO5)  (54% and 56% 
+respectively).29 At a median follow -up of 3.5 years, the estimated 36 -
+month PFS and OS rates were 73% and 85%, respectively.  Diarrhea (59%), fatigue (54%), myalgia (54%), and nausea (51%) were 
+the most common grade 1– 2 nonhematologic adverse events.29 Anemia 
+(5%), thrombocytopenia (22%) , and neutropenia (22%) were the most 
+common grade ≥3 hematologic adverse events. Hypertension (11%), atrial 
+flutter (3%), and heart failure (3%) were the most common grade ≥3 
+cardiovascular adverse events . There was no grade ≥3 atrial fibrillation or 
+bleeding and no significant  differences in the safety profile between the 
+two dose levels. The benefit and risk of ibrutinib should be evaluated in patients requiring anti -platelet or anticoagulant therapies.   
+Zanubrutinib  
+A pooled safety analysis  evaluated zanubrutinib- associated TEAEs  and 
+treatment -limiting toxicities  in patients with relapsed/refractory or 
+treatment -naïve hematologic malignancies, including HCL (779 patients 
+from 6 studies ; median treatment duration was 26 months ).76 Common 
+nonhematologic TEAEs included upper respiratory tract infection (URI, 
+39%), rash (27%), bruising (25%), musculoskeletal pain (24%), diarrhea 
+(23%), cough (21%), pneumonia (21%), urinary tract infection (UTI), and 
+fatigue (15% each). Atrial fibrillation and major hemorrhage were observed 
+in 3% and 4% of patients, respectively. Atrial fibrillation, hypertension, and 
+diarrhea occurred at lower rates than those reported historically for 
+ibrutinib. Serious TEAE s included pneumonia (11%), sepsis (2%), and  
+pyrexia (2%). Thirty -nine patients (4%) had fatal TEAE s, including 
+pneumonia (n = 9), sepsis (n = 4), unspecified cause (n = 4), and multiple 
+organ dysfunction syndrome (n = 5). This analysis demonstrates that 
+zanubrutinib is generally well tolerated with a safety profile consistent with 
+known BTK inhibitor toxicities .76 
+A phase I/II open- label study  evaluated zanubrutinib monotherapy in 12 
+patients with relapsed/refractory HCL.77 The ORR was 58% (17% CR) . 
+The median PFS and OS were not reached. At 36 months, PFS and OS rates were 80% and 82 %, respectively.  The PFS rate  at 48 months was PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-10 100%  for all patients with disease responding to therapy . Eleven (92%) 
+patients had baseline cytopenias. Eight (67%) patients experienced 
+TEAEs of infections  (including grade 3 pneumonia and grade 3 cerebral 
+aspergillosis ). Five (42%) patients experienced minor hemorrhage events . 
+Other TEAEs included hypertension (8%), basal cell carcinoma (17%), 
+grade 3 or 4 neutropenia (42%), thrombocytopenia (25%), and grade 3 
+anemia (8%). Thus, z anubrutinib results in clinically significant and durable 
+responses in relapsed/refractory HCL with a safety profile cons istent with 
+its known safety profile in other indications.77   
+Venetoclax ± Rituximab  
+A 2023 study evaluated venetoclax ± rituximab for the treatment of 
+patients with relapsed/refractory HCL.78 Out of 6 patients  who received 
+venetoclax , 2 showed CR with MRD, 1 showed PR, and 3 had a minor 
+response, no response, or progressive disease. The main toxic effect of 
+this drug involved worsening of baseline neutropenia,  which was 
+sometimes complicated by infections or febrile neutropenia. Addition of 
+rituximab to the treatment regimen of 3 patients improved both the 
+response as well as  MRD  compared to venetoclax alone.78 Another study 
+assessing venetoclax monotherapy for the treatment of refractory HCL in a 
+male patient observed CR within 5 weeks of treatment initiation with a 
+reduction in spleen size and number of leukemic cells in bone marrow 
+over a period of 36 months and with no hematologic toxic effects .79 
+Treatment Options for Relapsed /Refractory Disease 
+Treatment options for relapsed HCL depend upon the quality and 
+duration of remission with initial therapy .  
+Clinical trial (if available), or dabrafenib + trametinib (if not previously 
+treated with BRAF  inhibitors)68 or vemurafenib ± rituximab  (if not 
+previously given) 58,61,69,70,80  are preferred treatment options  for patients 
+with primary refractory disease (less than CR to initial treatment)  or 
+disease relapse within 2 years after achieving CR to initial therapy.  Alternat ive purine analog ± rituximab  are included as the other 
+recommended treatment options.27,36,39,66,72,73 Retreatment with the same 
+purine analog or treatment with an alternative purine analog + rituximab  
+is the preferred option for patients with disease relapse after ≥2 years 
+after achieving CR to initial therapy .27,66,73 Rituximab monotherapy has 
+modest activity in patients with relapsed HCL after initial treatment with 
+purine analogs,  resulting in an ORR of 25% to 80% ( 10%–53% CR), and 
+the median duration of response was 32 to 34 months .81-84 Rituximab 
+monotherapy is included as an option for patients unable to receive 
+purine analogs .  
+Long- term clinical trial follow- up data suggest that interferon alpha 
+results in durable disease control and may be useful for the management 
+of relapsed or refractory disease.85-87 The manufacturing of i nterferon 
+alfa has been discontinued. Peginterferon alfa -2a may be substituted for 
+other interferon preparations for the treatment of relapsed/refractory 
+disease.  
+Treatment Options for Progressive Disease  
+Clinical trial (if available), vemurafenib (with or without rituximab) ,61,69,70 
+or dabrafenib + trametinib (if not previously treated with BRAF 
+inhibitors)68 are the preferred treatment options for progressive disease 
+following second- line therapy . Ibrutinib and zanubrutinib are included as  
+other recommended regimens.29,76 Venetoclax ± rituximab  is included as 
+an option for patients with disease resistant to  BRAF  inhibitor therapy .78 
+Supportive Care 
+Infections 
+Patients with HCL are susceptible to infectious complications due to 
+treatment with purine analogs.88 Acyclovir or equivalent is recommended 
+for herpes virus prophylaxis , and sulfamethoxazole trimethoprim or 
+equivalent is recommended for pneumocystis jirovecii  pneumonia (PJP) PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-11 prophylaxis.89 Anti-infective prophylaxis for a minimum of 3 months and 
+until CD4+ T -cell count is ≥200 cells/mm3 is recommended for all 
+patients requiring treatment. Broad -spectrum antibacterial prophylaxis 
+should be considered for patients with neutropenia.  
+Available evidence suggests that the use of use granulocyte  
+colony -stimulating factors (G -CSFs) shortens the duration of severe 
+neutropenia after treatment with cladribine; however, it has no clinically 
+significant impact on infection -related outcomes.90 The use of G -CSFs 
+either as primary prophylaxis or based on the absolute neutrophil count 
+have been shown to be effective for the management of neutropenia.91 
+The use of G -CSF might be considered in patients with severe 
+neutropenic fever following chemotherapy.   
+Hepatitis B Virus Reactivation  
+HBV reactivation leading to fulminant hepatitis, hepatic failure,  and death 
+have been reported in patients receiving  chemotherapy and 
+immunosuppressive therapy.92 HBV prophylaxis and monitoring is 
+recommended in patients at high  risk when receiving rituximab and 
+purine analogs. Hepatitis B surface antigen (HBsAg), hepatitis B core antibody (HBcAb) testing,  and hepatitis B e -antigen (in patients with risk 
+factors or previous history of hepatitis B) are recommended for all 
+patients receiving immunotherapy and/or chemotherapy. In patients who 
+test positive for HBsAg and/or HBcAb, baseline quantitative PCR  for 
+HBV DNA should be obtained to determine viral load and consultation with a gastroenterologist is recommended. A negative baseline PCR, 
+however, does not preclude the possibility of reactivation.  
+Monitoring hepatitis B viral load with PCR monthly during treatment and 
+every 3 months thereafter is recommended. Entecavir is more effective 
+than lamivudine for the prevention of HBV reactivation associated with 
+rituximab -based chemoimmunotherapy.
+93 Lamivudine prophylaxis should be avoided due to the risks for the development of resistance. Prophylactic antiviral therapy is recommended for patients who are 
+HBsAg positive. Prophylactic antiviral therapy is preferred for patients 
+who are HBcAb positive. However, if there is a concur rent high -level 
+hepatitis B surface antibody, these patients may be monitored for serial 
+hepatitis B viral load.  
+Management of Intolerance to anti -CD20 Monoclonal Antibody 
+Therapy  
+ 
+Rare complications such as mucocutaneous reactions including 
+paraneoplastic pemphigus, Stevens -Johnson syndrome, lichenoid 
+dermatitis, vesiculobullous dermatitis, and toxic epidermal necrolysis can occur in patients treated with rituximab.  Consultation with a dermatologist 
+is recommended for management of these complications.  Rechallenge 
+with the same anti -CD20 mAb is not recommended in patients 
+experiencing aforementioned severe reactions . There are some data 
+(based on clinical experience) showing that substitution with an alternative 
+anti-CD20 mAb is tolerated in patients experiencing severe reacti ons to a 
+specific anti -CD20 mAb; however, it is unclear if such a substitution poses 
+the same risk of recurrence.
+94,95  
+Rituximab and hyaluronidase human injection for subcutaneous use is 
+approved by the FDA for the treatment of patients with chronic lymphocytic 
+leukemia, follicular lymphoma,  and diffuse large B -cell lymphoma.96-98 
+Rituximab and hyaluronidase human injection for subcutaneous use may be substituted for intravenous rituximab in patients who have received at 
+least one full dose of intravenous rituximab without experiencing severe 
+adverse reactions.  Switching to subcutaneous rituximab is not 
+recommended until a full intravenous dose of rituximab is successfully 
+administered  without experiencing severe adverse reactions.  A rapid 
+infusion over 90 minutes can be used if no severe infusion- related 
+reactions were experienced with the prior cycle of rituximab.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-12 References  
+1. Teras LR, DeSantis CE, Cerhan JR, et al. 2016 US lymphoid 
+malignancy statistics by World Health Organization subtypes. CA Cancer J 
+Clin 2016;66:443- 459. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27618563 . 
+2. Grever MR, Abdel -Wahab O, Andritsos LA, et al. Consensus guidelines 
+for the diagnosis and management of patients with classic hairy cell leukemia. Blood 2017;129:553- 560. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27903528
+. 
+3. MEDLINE PubMed Production Statistics. Available at: https://www.nlm.nih.gov/bsd/medline_pubmed_production_stats.html
+. 
+Accessed March 21, 2024.  
+4. Swerdlow SH, Harris NL, Jaffe ES, et al. WHO classification of tumours of haematopoietic and lymphoid tissues. revised 4th ed. Lyon, France: 
+IARC; 2017.  
+5. Alaggio R, Amador C, Anagnostopoulos I, et al. The 5th edition of the 
+World Health Organization Classification of Haematolymphoid Tumours: Lymphoid Neoplasms. Leukemia 2022;36:1720 -1748. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/35732829
+. 
+6. Campo E, Jaffe ES, Cook JR, et al. The International Consensus Classification of Mature Lymphoid Neoplasms: a report from the Clinical 
+Advisory Committee. Blood 2022;140:1229- 1253. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/35653592
+. 
+7. Robak T. Hairy -cell leukemia variant: recent view on diagnosis, biology 
+and treatment. Cancer Treat Rev 2011;37:3 -10. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20558005 . 
+8. Arons E, Sunshine J, Suntum T, Kreitman RJ. Somatic hypermutation and VH gene usage in hairy cell leukaemia. Br J Haematol 2006;133:504 -
+512. Available at: https://www.ncbi.nlm.nih.gov/pubmed/16681637
+. 9. Arons E, Roth L, Sapolsky J, et al. Evidence of canonical somatic 
+hypermutation in hairy cell leukemia. Blood 2011;117:4844 -4851. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/21368287 . 
+10. Arons E, Kreitman RJ. Molecular variant of hairy cell leukemia with 
+poor prognosis. Leuk Lymphoma 2011;52 Suppl 2:99- 102. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21599610 . 
+11. Xi L, Arons E, Navarro W, et al. Both variant and IGHV4- 34-expressing 
+hairy cell leukemia lack the BRAF V600E mutation. Blood 2012;119:3330 -
+3332. Available at: https://www.ncbi.nlm.nih.gov/pubmed/22210875 . 
+12. Forconi F, Sozzi E, Cencini E, et al. Hairy cell leukemias with unmutated IGHV genes define the minor subset refractory to single- agent 
+cladribine and with more aggressive behavior. Blood 2009;114:4696- 4702. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/19667403
+. 
+13. Boyd EM, Bench AJ, van 't Veer MB, et al. High resolution melting 
+analysis for detection of BRAF exon 15 mutations in hairy cell leukaemia and other lymphoid malignancies. Br J Haematol 2011;155:609- 612. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/21910720
+. 
+14. Tiacci E, Trifonov V, Schiavoni G, et al. BRAF mutations in hairy -cell 
+leukemia. N Engl J Med 2011;364:2305 -2315. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21663470 . 
+15. Andrulis M, Penzel R, Weichert W, et al. Application of a BRAF V600E mutation- specific antibody for the diagnosis of hairy cell leukemia. Am J 
+Surg Pathol 2012;36:1796- 1800. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/22531170
+. 
+16. Shao H, Calvo KR, Gronborg M, et al. Distinguishing hairy cell leukemia variant from hairy cell leukemia: development and validation of 
+diagnostic criteria. Leuk Res 2013;37:401- 409. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23347903
+. 
+17. Wang XJ, Kim A, Li S. Immunohistochemical analysis using a BRAF V600E mutation specific antibody is highly sensitive and specific for the PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-13 diagnosis of hairy cell leukemia. Int J Clin Exp Pathol 2014;7:4323- 4328. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/25120816 . 
+18. Parry -Jones N, Joshi A, Forconi F, et al. Guideline for diagnosis and 
+management of hairy cell leukaemia (HCL) and hairy cell variant (HCL- V). 
+Br J Haematol 2020;191:730- 737. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/33053222 . 
+19. Dietrich S, Hullein J, Lee SC, et al. Recurrent CDKN1B (p27) 
+mutations in hairy cell leukemia. Blood 2015;126:1005- 1008. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26065650 . 
+20. Durham BH, Getta B, Dietrich S, et al. Genomic analysis of hairy cell leukemia identifies novel recurrent genetic alterations. Blood 
+2017;130:1644 -1648. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28801450
+. 
+21. Maitre E, Bertrand P, Maingonnat C, et al. New generation sequencing of targeted genes in the classical and the variant form of hairy cell leukemia highlights mutations in epigenetic regulation genes. Oncotarget 
+2018;9:28866 -28876. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29989027
+. 
+22. Arcaini L, Zibellini S, Boveri E, et al. The BRAF V600E mutation in hairy cell leukemia and other mature B- cell neoplasms. Blood 
+2012;119:188 -191. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22072557
+. 
+23. Waterfall JJ, Arons E, Walker RL, et al. High prevalence of MAP2K1 
+mutations in variant and IGHV4- 34-expressing hairy -cell leukemias. Nat 
+Genet 2014;46:8- 10. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24241536 . 
+24. Turakhia S, Lanigan C, Hamadeh F, et al. Immunohistochemistry for BRAF V600E in the differential diagnosis of hairy cell leukemia vs other 
+splenic B -cell lymphomas. Am J Clin Pathol 2015;144:87 -93. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26071465
+. 25. Arons E, Suntum T, Stetler -Stevenson M, Kreitman RJ. VH4 -34+ hairy 
+cell leukemia, a new variant with poor prognosis despite standard therapy. 
+Blood 2009;114:4687 -4695. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/19745070 . 
+26. Kreitman RJ, Wilson W, Calvo KR, et al. Cladribine with immediate rituximab for the treatment of patients with variant hairy cell leukemia. Clin 
+Cancer Res 2013;19:6873- 6881. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24277451
+. 
+27. Chihara D, Kantarjian H, O'Brien S, et al. Long- term durable remission 
+by cladribine followed by rituximab in patients with hairy cell leukaemia: 
+update of a phase II trial. Br J Haematol 2016;174:760- 766. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27301277 . 
+28. Hu Z, Sun Y, Wang W, et al. Refractory hairy cell leukemia- variant. Am 
+J Hematol 2017;92:1398 -1399. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27727469 . 
+29. Rogers KA, Andritsos LA, Wei L, et al. Phase 2 study of ibrutinib in 
+classic and variant hairy cell leukemia. Blood 2021;137:3473 -3483. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/33754642 . 
+30. Bohn JP, Wanner D, Steurer M. Ibrutinib for relapsed refractory hairy cell leukemia variant. Leuk Lymphoma 2017;58:1224- 1226. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27733095
+. 
+31. Visentin A, Imbergamo S, Trimarco V, et al. Ibrutinib in relapsed hairy cell leukemia variant: A case report and review of the literature. Hematol 
+Oncol 2020;38:823 -826. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32979282
+. 
+32. Kraut EH, Grever MR, Bouroncle BA. Long -term follow -up of patients 
+with hairy cell leukemia after treatment with 2' -deoxycoformycin. Blood 
+1994;84:4061 -4063. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/7994024 . 
+33. Grever M, Kopecky K, Foucar MK, et al. Randomized comparison of pentostatin versus interferon alfa -2a in previously untreated patients with PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-14 hairy cell leukemia: an intergroup study. J Clin Oncol 1995;13:974- 982. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/7707126 . 
+34. Cheson BD, Sorensen JM, Vena DA, et al. Treatment of hairy cell 
+leukemia with 2 -chlorodeoxyadenosine via the Group C protocol 
+mechanism of the National Cancer Institute: a report of 979 patients. J Clin Oncol 1998;16:3007 -3015. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/9738569
+. 
+35. Saven A, Burian C, Koziol JA, Piro LD. Long- term follow -up of patients 
+with hairy cell leukemia after cladribine treatment. Blood 1998;92:1918 -
+1926. Available at: https://www.ncbi.nlm.nih.gov/pubmed/9731048 . 
+36. Flinn IW, Kopecky KJ, Foucar MK, et al. Long- term follow- up of 
+remission duration, mortality, and second malignancies in hairy cell leukemia patients treated with pentostatin. Blood 2000;96:2981- 2986. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/11049974
+. 
+37. Johnston JB, Eisenhauer E, Wainman N, et al. Long- term outcome 
+following treatment of hairy cell leukemia with pentostatin (Nipent): a 
+National Cancer Institute of Canada study. Semin Oncol 2000;27:32- 36. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/10877049 . 
+38. Goodman GR, Burian C, Koziol JA, Saven A. Extended follow -up of 
+patients with hairy cell leukemia after treatment with cladribine. J Clin 
+Oncol 2003;21:891 -896. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/12610190 . 
+39. Maloisel F, Benboubker L, Gardembas M, et al. Long- term outcome 
+with pentostatin treatment in hairy cell leukemia patients. A French retrospective study of 238 patients. Leukemia 2003;17:45 -51. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/12529659
+. 
+40. Jehn U, Bartl R, Dietzfelbinger H, et al. An update: 12- year follow -up of 
+patients with hairy cell leukemia following treatment with 2-
+chlorodeoxyadenosine. Leukemia 2004;18:1476 -1481. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/15229616 . 41. Chadha P, Rademaker AW, Mendiratta P, et al. Treatment of hairy cell 
+leukemia with 2 -chlorodeoxyadenosine (2 -CdA): long- term follow- up of the 
+Northwestern University experience. Blood 2005;106:241- 246. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/15761021 . 
+42. Dearden CE, Else M, Catovsky D. Long- term results for pentostatin 
+and cladribine treatment of hairy cell leukemia. Leuk Lymphoma 2011;52 
+Suppl 2:21- 24. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21599603 . 
+43. Zinzani PL, Pellegrini C, Stefoni V, et al. Hairy cell leukemia: evaluation of the long- term outcome in 121 patients. Cancer 
+2010;116:4788 -4792. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20597132
+. 
+44. Rosenberg JD, Burian C, Waalen J, Saven A. Clinical characteristics and long- term outcome of young hairy cell leukemia patients treated with 
+cladribine: a single- institution series. Blood 2014;123:177- 183. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/24192579
+. 
+45. Else M, Dearden CE, Catovsky D. Long- term follow -up after purine 
+analogue therapy in hairy cell leukaemia. Best Pract Res Clin Haematol 2015;28:217 -229. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26614900
+. 
+46. Madanat YF, Rybicki L, Radivoyevitch T, et al. Long -term outcomes of 
+hairy cell leukemia treated with purine analogs: a comparison with the general population. Clin Lymphoma Myeloma Leuk 2017;17:857- 862. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/28778620
+. 
+47. Paillassa J, Cornet E, Noel S, et al. Analysis of a cohort of 279 patients with hairy -cell leukemia (HCL): 10 years of follow -up. Blood 
+Cancer J 2020;10:62. Available at: https://www.ncbi.nlm.nih.gov/pubmed/32461544
+. 
+48. Andritsos LA, Dunavin N, Lozanski G, et al. Reduced dose pentostatin 
+for initial management of hairy cell leukemia patients who have active infection or risk of hemorrhage is safe and effective. Haematologica PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-15 2015;100:e18 -20. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25361945 . 
+49. Juliusson G, Heldal D, Hippe E, et al. Subcutaneous injections of 2 -
+chlorodeoxyadenosine for symptomatic hairy cell leukemia. J Clin Oncol 
+1995;13:989 -995. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/7707128 . 
+50. von Rohr A, Schmitz SF, Tichelli A, et al. Treatment of hairy cell leukemia with cladribine (2- chlorodeoxyadenosine) by subcutaneous bolus 
+injection: a phase II study. Ann Oncol 2002;13:1641- 1649. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/12377655
+. 
+51. Forconi F, Cencini E, Zaja F, et al. Analysis of toxicity and efficacy of 
+subcutaneous cladribine at reduced or standard doses (five versus seven consecutive days) in patients with hairy cell leukemia (HCL) in the 
+ICGHCL2004 Protocol by the Italian Cooperative Group on HCL [abstract]. 
+Blood 2010;116:Abstract 701. Available at: 
+http://www.bloodjournal.org/content/116/21/701.abstract
+. 
+52. Khorshid O, Namour AE, El -Gammal MM, et al. Efficacy and safety of 
+cladribine: subcutaneous versus intravenous administration in hairy cell leukemia patients. Mediterr J Hematol Infect Dis 2015;7:e2015058. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/26543527
+. 
+53. Benz R, Arn K, Andres M, et al. Prospective long- term follow- up after 
+first-line subcutaneous cladribine in hairy cell leukemia: a SAKK trial. 
+Blood Adv 2020;4:3699- 3707. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32777066 . 
+54. Tallman MS, Hakimian D, Variakojis D, et al. A single cycle of 2 -
+chlorodeoxyadenosine results in complete remission in the majority of patients with hairy cell leukemia. Blood 1992;80:2203- 2209. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/1358262
+. 
+55. Lauria F, Bocchia M, Marotta G, et al. Weekly administration of 2-chlorodeoxyadenosine in patients with hairy -cell leukemia is effective and 
+reduces infectious complications. Haematologica 1999;84:22 -25. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/10091389
+. 56. Robak T, Jamroziak K, Gora -Tybor J, et al. Cladribine in a weekly 
+versus daily schedule for untreated active hairy cell leukemia: final report from the Polish Adult Leukemia Group (PALG) of a prospective, 
+randomized, multicenter trial. Blood 2007;109:3672 -3675. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17209059
+. 
+57. Zenhausern R, Schmitz SF, Solenthaler M, et al. Randomized trial of daily versus weekly administration of 2- chlorodeoxyadenosine in patients 
+with hairy cell leukemia: a multicenter phase III trial (SAKK 32/98). Leuk Lymphoma 2009;50:1501- 1511. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/19672771
+. 
+58. Dietrich S, Pircher A, Endris V, et al. BRAF inhibition in hairy cell 
+leukemia with low -dose vemurafenib. Blood 2016;127:2847- 2855. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/26941398 . 
+59. Park JH, Winer ES, Huntington SF, et al. First line chemo- free therapy 
+with the BRAF inhibitor vemurafenib combined with obinutuzumab is 
+effective in patients with HCL [abstract]. Blood 2021;138:Abstract 43. 
+Available at: https://doi.org/10.1182/blood- 2021 -151074 . 
+60. Moore JE, Delibert K, Baran AM, et al. Targeted therapy for treatment 
+of patients with classical hairy cell leukemia. Leuk Res 2021;102:106522. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/33582427 . 
+61. Tiacci E, De Carolis L, Simonetti E, et al. Vemurafenib plus rituximab in refractory or relapsed hairy -cell leukemia. N Engl J Med 2021;384:1810 -
+1823. Available at: https://www.ncbi.nlm.nih.gov/pubmed/33979489
+. 
+62. Sigal DS, Sharpe R, Burian C, Saven A. Very long- term eradication of 
+minimal residual disease in patients with hairy cell leukemia after a single 
+course of cladribine. Blood 2010;115:1893- 1896. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20056789 . 
+63. Lopez Rubio M, Da Silva C, Loscertales J, et al. Hairy cell leukemia treated initially with purine analogs: a retrospective study of 107 patients 
+from the Spanish Cooperative Group on Chronic Lymphocytic Leukemia (GELLC). Leuk Lymphoma 2014;55:1007 -1012. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23885799
+. PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-16 64. Garnache Ottou F, Chandesris MO, Lhermitte L, et al. Peripheral blood 
+8 colour flow cytometry monitoring of hairy cell leukaemia allows detection of high- risk patients. Br J Haematol 2014;166:50- 59. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24661013
+. 
+65. Ortiz -Maldonado V, Villamor N, Baumann T, et al. Is there a role for 
+minimal residual disease monitoring in the management of patients with 
+hairy -cell leukaemia? Br J Haematol 2018;183:127- 129. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28832940 . 
+66. Chihara D, Arons E, Stetler -Stevenson M, et al. Randomized phase II 
+study of first- line cladribine with concurrent or delayed rituximab in patients 
+with hairy cell leukemia. J Clin Oncol 2020;38:1527- 1538. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32109194 . 
+67. Ravandi F, Kreitman RJ, Tiacci E, et al. Consensus opinion from an international group of experts on measurable residual disease in hairy cell 
+leukemia. Blood Cancer J 2022;12:165. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/36509740
+. 
+68. Kreitman RJ, Moreau P, Ravandi F, et al. Dabrafenib plus trametinib in 
+patients with relapsed/refractory BRAF V600E mutation– positive hairy cell 
+leukemia. Blood 2023;141:996- 1006. Available at: 
+https://doi.org/10.1182/blood.2021013658 . 
+69. Tiacci E, Park JH, De Carolis L, et al. Targeting mutant BRAF in relapsed or refractory hairy -cell leukemia. N Engl J Med 2015;373:1733 -
+1747. Available at: https://www.ncbi.nlm.nih.gov/pubmed/26352686
+. 
+70. Park JH, Lee J -O, Stone RM, et al. Acquired resistance to BRAF 
+inhibition in HCL is rare and retreatment with vemurafenib at relapse can 
+induce high response rates: final results of a phase II trial of vemurafenib 
+in relapsed HCL. Blood 2018;132:392 -392. Available at: 
+http://www.bloodjournal.org/content/132/Suppl_1/392.abstract . 
+71. Tiacci E, De Carolis L, Simonetti E, et al. The BRAF inhibitor vemurafenib plus rituximab produces a high rate of deep and durable responses in relapsed/refractory hairy cell leukemia: updated results of a phase- 2 trial. Hematol Oncol 2019;37:110- 111. Available at: 
+https://onlinelibrary.wiley.com/doi/abs/10.1002/hon.72_2629
+. 
+72. Else M, Dearden CE, Matutes E, et al. Long- term follow -up of 233 
+patients with hairy cell leukaemia, treated initially with pentostatin or 
+cladribine, at a median of 16 years from diagnosis. Br J Haematol 
+2009;145:733 -740. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/19344416 . 
+73. Else M, Dearden CE, Matutes E, et al. Rituximab with pentostatin or cladribine: an effective combination treatment for hairy cell leukemia after 
+disease recurrence. Leuk Lymphoma 2011;52 Suppl 2:75- 78. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21504288
+. 
+74. Kreitman RJ, Dearden C, Zinzani PL, et al. Moxetumomab pasudotox 
+in relapsed/refractory hairy cell leukemia. Leukemia 2018;32:1768 -1777. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/30030507 . 
+75. Kreitman RJ, Dearden C, Zinzani PL, et al. Moxetumomab pasudotox in heavily pre- treated patients with relapsed/refractory hairy cell leukemia 
+(HCL): long -term follow- up from the pivotal trial. J Hematol Oncol 
+2021;14:35. Available at: https://www.ncbi.nlm.nih.gov/pubmed/33627164
+. 
+76. Tam CS, Dimopoulos M, Garcia- Sanz R, et al. Pooled safety analysis 
+of zanubrutinib monotherapy in patients with B -cell malignancies. Blood 
+Adv 2022;6:1296- 1308. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/34724705 . 
+77. Tam CS, Trotman J, Opat S, et al. Zanubrutinib for the treatment of relapsed/refractory hairy cell leukemia. Blood Adv 2023;7:2884- 2887. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/36753605
+. 
+78. Tiacci E, De Carolis L, Santi A, Falini B. Venetoclax in relapsed or 
+refractory hairy -cell leukemia. N Engl J Med 2023;388:952 -954. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/36884329 . 
+79. Forconi F, Ashton- Key M, Meakin N. BCL2 Inhibition in Refractory 
+Hairy -Cell Leukemia. N Engl J Med 2023;388:2010- 2012. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/37224205 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-17 80. Handa S, Lee J -O, Derkach A, et al. Long -term outcomes in patients 
+with relapsed or  refractory hairy cell leukemia treated with vemurafenib 
+monotherapy. Blood 2022;140:2663 -2671. Available at: 
+https://doi.org/10.1182/blood.2022016183 . 
+81. Lauria F, Lenoci M, Annino L, et al. Efficacy of anti -CD20 monoclonal 
+antibodies (Mabthera) in patients with progressed hairy cell leukemia. 
+Haematologica 2001;86:1046- 1050. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/11602410 . 
+82. Nieva J, Bethel K, Saven A. Phase 2 study of rituximab in the treatment of cladribine- failed patients with hairy cell leukemia. Blood 
+2003;102:810 -813. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/12663446
+. 
+83. Thomas DA, O'Brien S, Bueso- Ramos C, et al. Rituximab in relapsed 
+or refractory hairy cell leukemia. Blood 2003;102:3906- 3911. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/12816862 . 
+84. Zenhausern R, Simcock M, Gratwohl A, et al. Rituximab in patients with hairy cell leukemia relapsing after treatment with 2-
+chlorodeoxyadenosine (SAKK 31/98). Haematologica 2008;93:1426- 1428. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/18603561
+. 
+85. Federico M, Frassoldati A, Lamparelli T, et al. Long- term results of 
+alpha interferon as initial therapy and splenectomy as consolidation therapy in patients with hairy cell leukemia. Final report from the Italian 
+Cooperative Group for HCL. Ann Oncol 1994;5:725- 731. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/7826905
+. 
+86. Damasio EE, Clavio M, Masoudi B, et al. Alpha- interferon as induction 
+and maintenance therapy in hairy cell leukemia: a long- term follow- up 
+analysis. Eur J Haematol 2000;64:47- 52. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/10680705 . 
+87. Benz R, Siciliano RD, Stussi G, Fehr J. Long- term follow -up of 
+interferon- alpha induction and low -dose maintenance therapy in hairy cell 
+leukemia. Eur J Haematol 2009;82:194 -200. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/19077050 . 88. Tadmor T. Purine analog toxicity in patients with hairy cell leukemia. 
+Leuk Lymphoma 2011;52 Suppl 2:38 -42. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21463124 . 
+89. Cooley L, Dendle C, Wolf J, et al. Consensus guidelines for diagnosis, 
+prophylaxis and management of Pneumocystis jirovecii pneumonia in 
+patients with haematological and solid malignancies, 2014. Intern Med J 
+2014;44:1350 -1363. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25482745 . 
+90. Saven A, Burian C, Adusumalli J, Koziol JA. Filgrastim for cladribine-induced neutropenic fever in patients with hairy cell leukemia. Blood 
+1999;93:2471 -2477. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/10194424
+. 
+91. Tadmor T, Levy I, Herishanu Y, et al. Primary peg- filgrastim 
+prophylaxis versus filgrastim given "on demand" for neutropenia during therapy with cladribine for hairy cell leukemia. Leuk Res 2019;82:24 -28. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/31152919
+. 
+92. Di Bisceglie AM, Lok AS, Martin P, et al. Recent US Food and Drug Administration warnings on hepatitis B reactivation with immune-
+suppressing and anticancer drugs: just the tip of the iceberg? Hepatology 
+2015;61:703 -711. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25412906
+. 
+93. Huang H, Li X, Zhu J, et al. Entecavir vs lamivudine for prevention of 
+hepatitis B virus reactivation among patients with untreated diffuse large 
+B-cell lymphoma receiving R -CHOP chemotherapy: a randomized clinical 
+trial. JAMA 2014;312:2521- 2530. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25514302 . 
+94. Castillo JJ, Kanan S, Meid K, et al. Rituximab intolerance in patients 
+with Waldenstrom macroglobulinaemia. Br J Haematol 2016;174:645- 648. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/26523929 . 
+95. Chen LY, Shah R, Cwynarski K, et al. Ofatumumab is a feasible 
+alternative anti -CD20 therapy in patients intolerant of rituximab. Br J PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2025  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Hairy Cell Leukemia  
+MS-18 Haematol 2019;184:462 -465. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29363752 . 
+96. Assouline S, Buccheri V, Delmer A, et al. Pharmacokinetics, safety, 
+and efficacy of subcutaneous versus intravenous rituximab plus 
+chemotherapy as treatment for chronic lymphocytic leukaemia (SAWYER): 
+a phase 1b, open -label, randomised controlled non-i nferiority trial. Lancet 
+Haematol 2016;3:e128 -138. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26947201 . 
+97. Davies A, Merli F, Mihaljevic B, et al. Efficacy and safety of 
+subcutaneous rituximab versus intravenous rituximab for first -line 
+treatment of follicular lymphoma (SABRINA): a randomised, open- label, 
+phase 3 trial. Lancet Haematol 2017;4:e272- e282. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28476440 . 
+98. Lugtenburg P, Avivi I, Berenschot H, et al. Efficacy and safety of 
+subcutaneous and intravenous rituximab plus cyclophosphamide, 
+doxorubicin, vincristine, and prednisone in first -line diffuse large B -cell 
+lymphoma: the randomized MabEase study. Haematologica 2017;102:1913 -1922. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28935843
+. 
+ PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:40:29 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.

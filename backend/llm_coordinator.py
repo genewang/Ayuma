@@ -40,26 +40,28 @@ class LLMCoordinator:
             ModelType.GPT_OSS_20B: {
                 "client": "ollama",
                 "model": "gpt-oss:20b",  # Using the exact model name from Ollama
-                "max_tokens": 4000,
-                "temperature": 0.2,
-                "top_p": 0.9,
+                "max_tokens": 10000,      # Increased from 4000
+                "temperature": 0.1,      # Increased from 0.2 (range: 0-1, higher = more creative)
+                "top_p": 0.85,           # Increased from 0.9 (range: 0-1, higher = more diverse)
                 "frequency_penalty": 0.0,
                 "presence_penalty": 0.0,
-                "cost_per_token": 0.0  # Local model, no cost
+                "cost_per_token": 0.0    # Local model, no cost
             },
             ModelType.GPT4_MEDICAL: {
                 "client": "ollama",
                 "model": "gpt-oss:20b",  # Using the exact model name from Ollama
-                "max_tokens": 4000,
-                "temperature": 0.1,
-                "cost_per_token": 0.0  # Local model, no cost
+                "max_tokens": 5000,      # Increased from 4000
+                "temperature": 0.3,       # Increased from 0.1, but kept lower for medical accuracy
+                "top_p": 0.92,            # Added top_p for better control
+                "cost_per_token": 0.0     # Local model, no cost
             },
             ModelType.GPT4_TURBO: {
                 "client": "ollama",
                 "model": "gpt-oss:20b",  # Using the exact model name from Ollama
-                "max_tokens": 2000,
-                "temperature": 0.2,
-                "cost_per_token": 0.0  # Local model, no cost
+                "max_tokens": 4000,      # Increased from 2000
+                "temperature": 0.4,       # Increased from 0.2
+                "top_p": 0.92,            # Added top_p for better control
+                "cost_per_token": 0.0     # Local model, no cost
             },
             ModelType.CLAUDE3: {
                 "client": "anthropic",

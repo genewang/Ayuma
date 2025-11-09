@@ -1,0 +1,98 @@
+version: '3.8'
+
+services:
+  # Backend service
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data/chroma:/data/chroma
+      - ./backend:/app
+      - .env:/app/.env
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONDONTWRITEBYTECODE=1
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - CHROMA_DB_PATH=/data/chroma
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+    networks:
+      - ayuma-network
+
+  # Frontend service
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    ports:
+      - "80:80"
+    environment:
+      - VITE_API_URL=http://localhost:8000
+      - VITE_OLLAMA_URL=http://localhost:11434
+      - VITE_DEFAULT_MODEL=gpt-oss:20b
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost/healthz"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    networks:
+      - ayuma-network
+
+  # ChromaDB service
+  chromadb:
+    image: chromadb/chroma:latest
+    ports:
+      - "8001:8000"
+    volumes:
+      - chroma_data:/data
+    environment:
+      - CHROMA_SERVER_AUTH_CREDENTIALS=admin:admin
+      - CHROMA_SERVER_AUTH_CREDENTIALS_PROVIDER=chromadb.auth.basic.BasicAuthzServerProvider
+      - CHROMA_SERVER_AUTH_PROVIDER=chromadb.auth.basic.BasicAuthServerProvider
+      - ALLOW_RESET=TRUE
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 2G
+    networks:
+      - ayuma-network
+
+# Networks
+networks:
+  ayuma-network:
+    driver: bridge
+    driver_opts:
+      com.docker.network.driver.mtu: 1400
+
+# Volumes
+volumes:
+  chroma_data:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/data/chroma

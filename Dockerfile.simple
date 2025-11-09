@@ -1,0 +1,41 @@
+FROM python:3.11-slim
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    gcc \
+    python3-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+# Install system build dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    g++ \
+    gcc \
+    python3-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy requirements first to leverage Docker cache
+COPY backend/requirements-arm64.txt /tmp/requirements.txt
+
+# Install Python dependencies with specific versions
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r /tmp/requirements.txt
+
+# Copy the rest of the application
+COPY . .
+
+# Set environment variables
+ENV PYTHONPATH=/app
+ENV PYTHONUNBUFFERED=1
+ENV CHROMA_DB_DIR=/data/chroma
+
+# Create volume for ChromaDB data
+VOLUME /data/chroma
+
+# Expose the port the app runs on
+EXPOSE 8000
+
+# Command to run the application
+WORKDIR /app/backend
+CMD ["uvicorn", "startup:app", "--host", "0.0.0.0", "--port", "8000"]

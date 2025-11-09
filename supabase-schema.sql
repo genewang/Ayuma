@@ -1,4 +1,4 @@
-# Comprehensive Database Schema for GuidePath AI Medical Platform
+# Comprehensive Database Schema for PathLink Medical Platform
 # Based on professional architecture specifications
 
 -- Enable UUID extension

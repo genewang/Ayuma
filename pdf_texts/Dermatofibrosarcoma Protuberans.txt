@@ -1,0 +1,1002 @@
+Version 1.2025, 10/11/2024 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®)Dermatofibrosarcoma
+Protuberans
+Version 1.2025 — October 11, 2024
+ContinueNCCN.org
+NCCN recognizes the importance of clinical trials and encourages participation when applicable and available. 
+Trials should be designed to maximize inclusiveness and broad representative enrollment.
+
+NCCN Guidelines Version 1.2025
+Dermatofibrosarcoma Protuberans
+Version 1.2025, 10/11/2024 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Continue NCCN Guidelines Panel DisclosuresNCCN  
+Sara Espinosa, PhD
+Beth McCullough, RN, BS*Jeremy Bordeaux, MD, MPH/Chair ϖ 
+Case Comprehensive Cancer Center/  
+University Hospitals Seidman Cancer Center  
+and Cleveland Clinic Taussig Cancer Institute
+*Rachel Blitzblau, MD, PhD/Vice Chair §  
+Duke Cancer Institute
+Sumaira Z. Aasi, MD ϖ 
+Stanford Cancer Institute
+Murad Alam, MD, MBA, MSCI ϖ ¶ ζ 
+Robert H. Lurie Comprehensive Cancer  
+Center of Northwestern University
+Arya Amini, MD § 
+City of Hope National Medical Center
+Kristin Bibee, MD, PhD ϖ  
+Johns Hopkins Kimmel Cancer Center
+Diana Bolotin, MD, PhD ϖ  
+The UChicago Medicine  
+Comprehensive Cancer Center
+Pei-Ling Chen, MD, PhD ≠  
+Moffitt Cancer Center
+Carlo M. Contreras, MD ¶ 
+The Ohio State University Comprehensive  
+Cancer Center - James Cancer Hospital  
+and Solove Research Institute
+Dominick DiMaio, MD ≠  
+Fred & Pamela Buffett Cancer Center
+Jessica M. Donigan, MD ϖ ¶  
+Huntsman Cancer Institute  
+at the University of Utah
+Jeffrey M. Farma, MD ¶  
+Fox Chase Cancer CenterKarthik Ghosh, MD Þ  
+Mayo Clinic Comprehensive Cancer Center
+Kelly Harms, MD, PhD ϖ 
+University of Michigan Rogel Cancer Center
+Nicole LeBoeuf, MD, MPH ϖ  
+Dana-Farber/Brigham and Women’s Cancer  
+Center | Mass General Cancer Center
+John Nicholas Lukens, MD §  
+Abramson Cancer Center  
+at the University of Pennsylvania
+Susan Manber ¥ 
+Publicis Health
+Lawrence Mark, MD, PhD ϖ 
+Indiana University Melvin and Bren Simon  
+Comprehensive Cancer Center
+Theresa Medina, MD † 
+University of Colorado Cancer Center
+Kishwer S. Nehal, MD ϖ   
+Memorial Sloan Kettering Cancer Center
+Paul Nghiem, MD, PhD ϖ  
+Fred Hutchinson Cancer Center
+Kelly Olino, MD ¶  
+Yale Cancer Center/Smilow Cancer Hospital
+Gyorgy Paragh, MD, PhD, FAAD ϖ 
+Rosewell Park Comprehensive Cancer Center
+Soo Park, MD † 
+UC San Diego Moores Cancer Center
+Tejesh Patel, MD ϖ  
+The University of Tennessee Health Science CenterJason Rich, MD ζ 
+Siteman Cancer Center at Barnes-Jewish Hospital  
+and Washington University School of Medicine
+Ashok R. Shaha, MD ¶  
+Memorial Sloan Kettering Cancer Center
+Bhavina Sharma, MD, MPH ‡ 
+Fred & Pamela Buffett Cancer Center
+Olayemi Sokumbi, MD ϖ ≠  
+Mayo Clinic Comprehensive Cancer Center
+Divya Srivastava, MD ϖ  
+UT Southwestern Simmons Comprehensive Cancer Center
+Valencia Thomas, MD ϖ ≠  
+The University of Texas MD Anderson Cancer Center
+Courtney Tomblinson, MD ф 
+Vanderbilt-Ingram Cancer Center
+Puja Venkat, MD § 
+UCLA Jonsson Comprehensive Cancer Center
+Yaohui Gloria Xu, MD, PhD ϖ Ÿ 
+University of Wisconsin  
+Carbone Cancer Center
+Siegrid Yu, MD ϖ  
+UCSF Helen Diller Family Comprehensive Cancer Center
+Mehran Yusuf, MD § 
+O’Neal Comprehensive Cancer Center at UAB
+ϖ Dermatology
+ф  Diagnostic/Interventional 
+radiology
+‡ Hematology/Hematology 
+oncology
+Þ Internal medicine
+† Medical oncology
+ζ Otolaryngology≠ Pathology/
+Dermatopathology
+¥ Patient advocacy
+Ÿ Reconstructive surgery
+§ Radiotherapy/Radiation 
+oncology
+¶ Surgery/Surgical oncology
+* Discussion Section Writing 
+CommitteePLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Dermatofibrosarcoma Protuberans
+Version 1.2025, 10/11/2024 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+NCCN Dermatofibrosarcoma Protuberans Panel Members
+Summary of the Guidelines Updates
+Clinical Presentation and Workup (DFSP-1)
+Treatment and Follow-up (DFSP-2)
+Therapy for Recurrence/Metastasis (DFSP-3)
+Principles of Pathology (DFSP-A)
+Principles of Surgery (DFSP-B)
+Principles of Radiation Therapy (DFSP-C)
+Abbreviations (ABBR-1)
+The NCCN Guidelines® are a statement of evidence and consensus of the authors regarding their views of currently accepted approaches to 
+treatment. Any clinician seeking to apply or consult the NCCN Guidelines is expected to use independent medical judgment in the context of individual 
+clinical circumstances to determine any patient’s care or treatment. The National Comprehensive Cancer Network® (NCCN®) makes no representations 
+or warranties of any kind regarding their content, use or application and disclaims any responsibility for their application or use in any way . The NCCN 
+Guidelines are copyrighted by National Comprehensive Cancer Network®. All rights reserved. The NCCN Guidelines and the illustrations herein may not 
+be reproduced in any form without the express written permission of NCCN. © 2024 .Find an NCCN Member Institution: 
+https://www.nccn.org/home/member-
+institutions .
+NCCN Categories of Evidence and 
+Consensus: All recommendations 
+are category 2A unless otherwise 
+indicated.
+See NCCN Categories of Evidence  
+and Consensus .
+NCCN Categories of Preference:  
+All recommendations are considered 
+appropriate.
+See NCCN Categories of Preference .PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Dermatofibrosarcoma Protuberans
+Version 1.2025, 10/11/2024 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+UPDATESUpdates in Version 1.2025 of the NCCN Guidelines for Dermatofibrosarcoma Protuberans from Version 1.2024 include:  
+DFSP-1
+• Footnote c revised: . . .FS-DFSP is associated with a higher  metastasis risk of 15%–20% . The patient should be referred to a center with expertise in 
+management of soft tissue sarcomas. See NCCN Guidelines for Soft Tissue Sarcoma for multimodal therapy and surveillance considerations including 
+CT of draining nodal basin and chest. (Also page DFSP-2)
+DFSP-2
+• Footnotes revised: 
+Footnote d: The most commonly used form of PDEMA is Mohs. See NCCN Guidelines for Squamous Cell Skin Cancer - Principles of PDEMA 
+Technique. When anatomic structures at the deep margin (eg, major vessels, nerves, bone) preclude complete histologic evaluation of the marginal 
+surface via Mohs or other forms of PDEMA , Mohs or other forms of PDEMA should be used to evaluate as much of the marginal surface as feasible. 
+Treatment considerations for non-visualized areas may be the subject of multidisciplinary discussion. (Also page DFSP-3)
+Footnote e: If PDEMA is unavailable, consider wide excision. Wide undermining is discouraged prior to confirmation of clear margins due to the 
+difficulty of interpreting subsequent re-excised margins, and the risk of concealing residual tumor below mobilized tissue. See Principles of Surgery 
+(DFSP-B). Curtis KK, et al. J Natl Compr Canc Netw doi: 10.6004/jnccn.2024.7036 . (Also page DFSP-3)
+Footnote h: When Mohs or other forms of PDEMA are utilized and margins are negative, RT is not recommended. When Mohs or other forms of 
+PDEMA are not utilized, consider RT if margins are considered narrow by the treating physicians. RT can be considered for treatment of positive 
+margins if not given previously and further resection is not feasible. (Also page DFSP-3)
+DFSP-A
+• Footnote 2 revised: If areas of transformation to fibrosarcoma or other sarcoma subtypes are identified, multidisciplinary consultation for consideration 
+of further treatment and surveillance is recommended. FS-DFSP is associated with a higher  metastasis risk of 15%–20% . The patient should be 
+referred to a center with expertise in management of soft tissue sarcomas. See NCCN Guidelines for Soft Tissue Sarcoma for multimodal therapy and 
+surveillance considerations including CT of draining nodal basin and chest.
+DFSP-C
+• General Treatment Information, Adjuvant RT, second sub-bullet:
+First tertiary bullet revised: When Mohs or other forms of PDEMA are utilized and margins are negative , RT is not recommended.
+Second tertiary bullet revised: When Mohs or other forms of PDEMA are not utilized, consider RT if margins are considered narrow  <1 cm by the 
+treating physicians, RT not given previously, and further resection is not feasible .PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Dermatofibrosarcoma Protuberans
+Version 1.2025, 10/11/2024 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+DFSP-1CLINICAL 
+PRESENTATIONPRELIMINARY WORKUP
+Lesion suspicious 
+for skin cancerTreatment 
+(DFSP-2)
+a This tumor is frequently misdiagnosed due to inadequate tissue sampling/superficial biopsy. Punch, incisional, or core biopsy, preferably including the deeper 
+subcutaneous layer, is strongly recommended for sufficient tissue sampling and accurate pathologic assessment. If biopsy is indeterminate or clinical suspicion 
+remains, rebiopsy is recommended. Wide undermining is discouraged due to the difficulty of interpreting subsequent re-excisions pathologically.
+b Principles of Pathology (DFSP-A) .
+c If areas of transformation to fibrosarcoma or other sarcoma subtypes are identified, multidisciplinary consultation for consideration of further treatment and surveillance 
+is recommended. FS-DFSP is associated with a higher metastasis risk. The patient should be referred to a center with expertise in management of soft tissue 
+sarcomas. See NCCN Guidelines for Soft Tissue Sarcoma  for multimodal therapy and surveillance considerations including CT of draining nodal basin and chest.• History and physical (H&P)
+• Biopsya,b
+Hematoxylin and eosin (H&E)
+Immunopanel (eg, CD34, factor XIIIa)
+Debulking specimens from all 
+excisions should be examined 
+to identify fibrosarcomatous 
+transformation of dermatofibrosarcoma 
+protuberans (FS-DFSP)c• Complete skin exam
+• Multidisciplinary consultation 
+at a center with specialized 
+expertise should be strongly 
+considered, especially for 
+large or recurrent DFSP, as 
+decisions about diagnosis and 
+resection may be complex
+• Consider preoperative MRI 
+with contrast for treatment 
+planning if extensive 
+subcutaneous extension is 
+suspectedDFSP
+confirmedADDITIONAL WORKUP DIAGNOSISPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Dermatofibrosarcoma Protuberans
+Version 1.2025, 10/11/2024 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+DFSP-2TREATMENT ADJUVANT 
+TREATMENTFOLLOW-UP
+Negative 
+surgical 
+margins
+Positive 
+surgical 
+marginsRe-resectiond,e 
+until margins 
+clear or surgery 
+is not possibleNegative 
+margins
+Positive 
+marginsMultidisciplinary 
+consultation for 
+consideration of 
+radiation therapy 
+(RT)g,h or other 
+therapy• Physical exam with 
+focus on primary site 
+every 6–12 months
+• Patient education about 
+regular self-exam
+• Consider MRI 
+surveillance for deeply 
+invasive disease or 
+other concerns for 
+recurrenceTherapy for 
+Recurrence/
+Metastasis 
+(DFSP-3)ObservationExcision with Mohs or 
+other forms of peripheral 
+and deep en face margin 
+assessment (PDEMA)c,d,e
+• For unresectable/
+borderline resectable 
+disease, consider tumor 
+mutation analysis and 
+neoadjuvant imatinibf
+c If areas of transformation to fibrosarcoma or other sarcoma subtypes are identified, multidisciplinary consultation for consideration of further treatment and surveillance 
+is recommended. FS-DFSP is associated with a higher  metastasis risk. The patient should be referred to a center with expertise in management of soft tissue 
+sarcomas. See NCCN Guidelines for Soft Tissue Sarcoma  for multimodal therapy and surveillance considerations including CT of draining nodal basin and chest.
+d The most commonly used form of PDEMA is Mohs. See NCCN Guidelines for Squamous Cell Skin Cancer - Principles of PDEMA Technique . When anatomic 
+structures at the deep margin (eg, major vessels, nerves, bone) preclude complete histologic evaluation of the marginal surface, Mohs or other forms of PDEMA  should 
+be used to evaluate as much of the marginal surface as feasible. Treatment considerations for non-visualized areas may be the subject of multidisciplinary discussion.
+e If PDEMA  is unavailable, consider wide excision. Wide undermining is discouraged prior to confirmation of clear margins due to the difficulty of interpreting subsequent 
+re-excised margins, and the risk of concealing residual tumor below mobilized tissue. See Principles of Surgery (DFSP-B). Curtis KK, et al. J Natl Compr Canc Netw 
+doi: 10.6004/jnccn.2024.7036.
+f Consider neoadjuvant imatinib for patients in whom resection with negative margins may result in unacceptable functional or cosmetic outcomes. Ugurel S, et al. Clin 
+Cancer Res 2014;20:499-510.
+g Principles of Radiation Therapy (DFSP-C).
+h When Mohs or other forms of PDEMA  are utilized and margins are negative, RT is not recommended. When Mohs or other forms of PDEMA  are not utilized, consider 
+RT if margins are considered narrow  by the treating physicians.  RT if not given previously and further resection is not feasible.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Dermatofibrosarcoma Protuberans
+Version 1.2025, 10/11/2024 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+THERAPY FOR RECURRENCE/METASTASIS
+Recurrence
+MetastasisRe-resection if feasible (preferred)d,e
+or 
+RTg,h if not given previously and resection is not feasible
+or
+Consider imatinibi in cases where disease is unresectable, 
+or unacceptable functional or cosmetic outcomes will 
+occur with resection
+Multidisciplinary consultationj
+DFSP-3d The most commonly used form of PDEMA is Mohs. See NCCN Guidelines for Squamous Cell Skin Cancer - Principles of PDEMA Technique . When anatomic 
+structures at the deep margin (eg, major vessels, nerves, bone) preclude complete histologic evaluation of the marginal surface, Mohs or other forms of PDEMA  
+should be used to evaluate as much of the marginal surface as feasible. Treatment considerations for non-visualized areas may be the subject of multidisciplinary 
+discussion.
+e If PDEMA  is unavailable, consider wide excision. Wide undermining is discouraged prior to confirmation of clear margins due to the difficulty of interpreting subsequent 
+re-excised margins, and the risk of concealing residual tumor below mobilized tissue. See Principles of Surgery (DFSP-B). Curtis KK, et al. J Natl Compr Canc 
+Netwdoi: 10.6004/jnccn.2024.7036.
+g Principles of Radiation Therapy (DFSP-C).
+h When Mohs or other forms of PDEMA  are utilized and margins are negative, RT is not recommended. When Mohs or other forms of PDEMA  are not utilized, consider 
+RT if margins are considered narrow  by the treating physicians. RT if not given previously and further resection is not feasible.
+i Confirm tumor mutation with fluorescence in situ hybridization (FISH) for the translocation of PDGRF. Navarrete-Dechent C, et al. JAMA Dermatol 2019;155:361-369.
+j NCCN Guidelines for Soft Tissue Sarcoma (Synchronous STAGE IV [EXTSARC-5]).PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Dermatofibrosarcoma Protuberans
+Version 1.2025, 10/11/2024 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+• Evaluation by a qualified physician with specific expertise in sarcoma/soft tissue pathology or dermatopathology is preferred (if available).
+• The spindled cells arranged in a storiform or fascicular pattern are typically bland with minimal cytologic atypia.
+ 
+• Immunohistochemistry for CD34 is mostly positive, and factor XIIIa negative. 
+ 
+• FS-DFSP2 is characterized by transition from storiform to a herringbone pattern, with a higher degree of cellularity, cytologic atypia, mitotic 
+activity (>5/10 high-power fields [HPFs]), and frequent loss of CD34 immunostaining. When CD34 is negative, other markers such as S100 
+should also be negative to rule out other spindle cell tumors.
+• For equivocal lesions, consider fluorescence in situ hybridization (FISH), polymerase chain reaction (PCR), or conventional cytogenetics  to 
+detect t(17;22)(q22;q13), which is a hallmark of DFSP. Fusion of the collagen type I alpha 1 gene ( COL1A1) at 17q22, with the platelet-derived 
+growth factor Beta gene (PDGFβ ) at 22q13, form the oncogenic chimeric fusion gene COL1A1::PDGFβ. 
+• Margin control during excision ( see Principles of Surgery [DFSP-B]) may occasionally be aided by H&E sections supplemented by CD34 
+immunohistochemistry.
+1 Currently, no American Joint Committee on Cancer (AJCC) or College of American Pathologists (CAP) synoptic reporting is defined.
+2 If areas of transformation to fibrosarcoma or other sarcoma subtypes are identified, multidisciplinary consultation for consideration of further treatment and surveillance 
+is recommended. FS-DFSP is associated with a higher  metastasis risk. The patient should be referred to a center with expertise in management of soft tissue 
+sarcomas. See NCCN Guidelines for Soft Tissue Sarcoma  for multimodal therapy and surveillance considerations including CT of draining nodal basin and chest.
+DFSP-APRINCIPLES OF PATHOLOGY1PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Dermatofibrosarcoma Protuberans
+Version 1.2025, 10/11/2024 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+DFSP-BPRINCIPLES OF SURGERY
+Goal:
+• Every effort should be made to achieve clear surgical margins. Complete histologic surgical margin examination to include the entire 
+excised peripheral and deep margin is recommended, whenever possible. Tumor characteristics include long, irregular, subclinical 
+extensions. Debulking specimens from all excisions should be examined to identify FS-DFSP  since this is associated with metastatic 
+potential.
+  
+Surgical Approach: Mohs or Other Forms of PDEMA
+• NCCN Guidelines for Squamous Cell Skin Cancer - Principles of PDEMA  Technique
+• If Mohs or other forms of PDEMA  are unavailable, consider wide excision.1
+Reconstruction should be delayed until clear margins have been verified to avoid the risk of translocating the tumor within the resection 
+bed, thus making further margin assessments inaccurate.
+1 Farma JM, Ammori JB, Zager JS, et al. Dermatofibrosarcoma protuberans: how wide should we resect? Ann Surg Oncol 2010;17:2112-2118.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Dermatofibrosarcoma Protuberans
+Version 1.2025, 10/11/2024 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+Note: All recommendations are category 2A unless otherwise indicated.NCCN Guidelines Index
+Table of Contents
+Discussion
+DFSP-CPRINCIPLES OF RADIATION THERAPY
+General Treatment Information 
+• Adjuvant RT:
+Positive Margins/Gross Disease 
+ ◊50–60 Gy for indeterminate or positive margins, and up to 66 Gy for positive margins or gross tumor (2-Gy fractions per day). 
+ ◊Fields to extend widely beyond surgical margins (eg, 3–5 cm) when clinically feasible.
+Negative Margins
+ ◊When Mohs or other forms of PDEMA  are utilized and margins are negative, RT is not recommended.
+ ◊When Mohs or other forms of PDEMA  are not utilized, consider RT if margins are considered narrow by the treating physicians, RT not 
+given previously, and further resection is not feasible.  
+• Recurrence/Metastasis:
+RT if not given previously and further resection is not feasible; 50–60 Gy for indeterminate or positive margins, and up to 66 Gy for positive 
+margins or gross tumor (2-Gy fractions per day). 
+Fields to extend widely beyond surgical margins (eg, 3–5 cm) when clinically feasible.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Dermatofibrosarcoma Protuberans
+Version 1.2025, 10/11/2024 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+ABBREVIATIONS
+ABBR-1
+CAP College of American Pathologists
+DFSP dermatofibrosarcoma protuberans 
+FISH fluorescence in situ hybridization
+FS-DFSP fibrosarcomatous transformation of 
+DFSP
+H&E hematoxylin and eosin
+H&P history and physical
+HPF high-power field
+PCR polymerase chain reaction
+PDEMA peripheral and deep en face margin 
+assessmentPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2025
+Dermatofibrosarcoma Protuberans
+Version 1.2025, 10/11/2024 © 2024 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+CAT-1NCCN Categories of Evidence and Consensus
+Category 1 Based upon high-level evidence (≥1 randomized phase 3 trials or high-quality , robust meta-analyses), there is 
+uniform NCCN consensus (≥85% support of the Panel) that the intervention is appropriate.
+Category 2A Based upon lower-level evidence, there is uniform NCCN consensus (≥85% support of the Panel) that the 
+intervention is appropriate.
+Category 2B Based upon lower-level evidence, there is NCCN consensus (≥50%, but <85% support of the Panel) that the 
+intervention is appropriate.
+Category 3 Based upon any level of evidence, there is major NCCN disagreement that the intervention is appropriate. 
+All recommendations are category 2A unless otherwise indicated.
+NCCN Categories of Preference
+Preferred interventionInterventions that are based on superior efficacy, safety, and evidence; and, when appropriate, 
+affordability.
+Other recommended 
+interventionOther interventions that may be somewhat less efficacious, more toxic, or based on less mature data; 
+or significantly less affordable for similar outcomes.
+Useful in certain 
+circumstancesOther interventions that may be used for selected patient populations (defined with recommendation).
+All recommendations are considered appropriate.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.202 5  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Version 1.2025 
+Dermatofibrosarcoma Protuberans  
+ 
+MS-1 
+Discussion 
+Table of Contents  
+Overview  ...................................................................................................................................................................................................... MS-2 
+Guidelines Update Methodology  .................................................................................................................................................................... MS-2 
+Literature Search Criteria and Guidelines Update Methodology  ...................................................................................................................... MS-2 
+Sensitive/Inclusive Language  ......................................................................................................................................................................... MS-2 
+Evaluation  .................................................................................................................................................................................................... MS-3 
+Treatment  ..................................................................................................................................................................................................... MS-3 
+Follow -up ...................................................................................................................................................................................................... MS-5 
+References  .................................................................................................................................................................................................... MS-6 This discussion corresponds to the NCCN Guidelines for Dermatofibrosarcoma Protuberans . Last updated : October  10, 2024  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.202 5  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Dermatofibrosarcoma Protuberans  
+ 
+MS-2 
+ 
+Overview 
+Dermatofibrosarcoma protuberans (DFSP) is an uncommon, low -grade 
+sarcoma of fibroblast origin with an incidence rate of 4. 1 to 4.5 cases 
+per million persons per year in the United States.1-4 A predilection for 
+occurring in African Americans has been reported in one study.3 Initial 
+misdiagnosis, prolonged time to accurate diagnosis, and large tumor 
+size at the time of diagnosis are common.  However, DFSP  rarely 
+metastasizes.5 When metastasis occurs, it is typically in the lung, bone, 
+or regional lymph nodes. Three -dimensional reconstruction of DFSP6 
+has revealed tumors with highly irregular shapes and frequent 
+finger -like extensions.7 As a result, incomplete removal and subsequent 
+recurrence are common without attention to full assessment of the 
+peripheral and deep margin. The local recurrence rate for  wide local 
+excision (WLE) of  DFSP in studies ranges from 10% to 60%, whereas 
+the rate of development of regional or distant metastatic disease is only 
+1% and 4- 7.4%, respectively.8,9  
+Guidelines Update Methodology  
+The complete details of the Development and Update of the NCCN 
+Guidelines are available at www.NCCN.org . 
+Literature Search Criteria and Guidelines Update 
+Methodology  
+Prior to the update of this version of the NCCN Clinical Practice 
+Guidelines in Oncology (NCCN Guidelines®) for Dermatofibrosarcoma  
+Protuberans , an electronic search of the PubMed database was 
+performed to obtain key literature using  the following search term: 
+dermatofibrosarcoma  protuberans . The PubMed database was chosen 
+as it remains the most widely used resource for medical literature and 
+indexes peer -reviewed biomedical literature.10  The search  results were  narrowed by selecting studies in humans 
+published in English. Results were confined to the following article 
+types: Clinical Trial; Guideline; Meta- Analysis; Practice Guideline; 
+Randomized Controlled Trial; Systematic Reviews; and Validation Studies.  
+The data from key PubMed articles as well as articles from additional sources deemed as relevant to these guidelines as discussed by the 
+panel during the Guidelines update have been included in this version 
+of the Discussion section. Recommendations for which high- level 
+evidence is lacking are based on the panel’s review of lower -level 
+evidence and expert opinion. 
+ 
+Sensitive/Inclusive Language 
+NCCN Guidelines strive to use language that advances the goals of equity, inclusion, and representation.
+11 NCCN Guidelines endeavor to 
+use language that is person- first; not stigmatizing; anti -racist, anti -
+classist, anti -misogynist, anti -ageist, anti -ableist, and anti -weight biased; 
+and inclusive of individuals of all sexual orientations and gender 
+identities.  NCCN Guidelines incorporate non- gendered language, 
+instead focusing on organ- specific recommendations. This language is 
+both more accurate and more inclusive and can help fully address the 
+needs of individuals of all sexual orientations and gender identit ies. 
+NCCN Guidelines will continue to use the terms men, women, female, and male when citing statistics, recommendations, or data from 
+organizations or sources that do not use inclusive terms. Most studies 
+do not report how sex and gender data are collected and use these 
+terms interchangeably or inconsistently. If sources do not differentiate 
+gender from sex assigned at birth or organs present, the information is 
+presumed to predominantly represent cisgender individuals. NCCN 
+encourages researchers to collect more specific data in future studies PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.202 5  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Dermatofibrosarcoma Protuberans  
+ 
+MS-3 
+ 
+and organizations to use more inclusive and accurate language in their 
+future analyses.  
+Evaluation 
+Histologically, DFSP typically presents as a storiform or fascicular 
+proliferation of bland spindled cells that extends from the dermis into the 
+subcutis.12,13 Virtually all cases are CD34 -positive and factor XIIIa-
+negative with rare exceptions.14,15 Currently, no synoptic reporting is 
+recommended. Preliminary workup for DFSP consists of history and 
+physical (H&P) examination, and biopsy. It should be noted that this 
+tumor is frequently misdiagnosed due to inadequate tissue sampling 
+resulting from shallow biopsy. As the superficial aspect of a DFSP may not be distinct from  benign lesions , a punch or incisional biopsy that 
+samples the subcutaneous layer  is strongly recommended. If a biopsy is 
+indeterminate or clinical suspicion remains, rebiopsy is recommended.  
+In most cases, examination of hematoxylin and eosin- stained 
+specimens by light microscopy results in an unequivocal diagnosis. 
+However, differentiation of DFSP from dermatofibroma can be difficult at 
+times. Staining with CD34,
+15,16 factor XIIIa ,14,17  and other  
+immunomarkers such as stromelysins 3,  nestin, apolipoprotein D, and 
+cathepsin K ,18-21 might be useful  in such instances . The NCCN Panel 
+recommends that appropriate and confirmatory immunostaining be 
+performed in all cases of suspected DFSP.   
+It is unclear whether the histologic features of a high mitotic rate or 
+evidence of fibrosarcomatous  (FS-DFSP ) change have prognostic 
+significance in DFSP.22,23 Studies in the biomedical literature both 
+support24-32 the connection between FS -DFSP and an increased risk of 
+local recurrence, lower time to recurrence, and increased risk of 
+metastasis,  and refute33,34 this notion.  A systematic review of 225 
+patients with FS -DFSP and 1422with DFSP   reported risks of local recurrence (29.8% vs. 13.7%), metastasis (14.4% vs. 1.1%), and death 
+(14.7% vs. 0.8%) from the disease to be significantly higher in FS -
+DFSP.35 Overall, FS-DFSP is associated with a metastatic risk range of 
+10 - 23.5%.23,26,36 The NCCN Panel recommends that  the debulking 
+specimens from all excisions should be examined to identify  
+fibrosarcomatous (FS) transformation of DFSP . If FS transformation  or 
+other sarcoma subtypes  are found, multidisciplinary consultation for 
+consideration of further treatment and surveillance is recommended. 
+Clinicians should consult the NCCN Guidelines for Soft Tissue Sarcoma  
+for multimodal therapy and surveillance considerations including CT of 
+draining nodal basin and chest .  
+After DFSP confirmation , additional  workup may include a complete 
+skin examination as well as consideration of preoperative MRI with contrast for treatment planning if there is suspicion of extensive 
+subcutaneous extension. As  decisions about diagnosis and resection 
+may be complex, multidisciplinary consultation at a center with 
+specialized expertise should be strongly considered, especially for large 
+or recurrent DFSP as it may optimize clinical and reconstructive 
+outcomes.
+37,38 
+Treatment  
+Initial treatment of DFSP is surgical. Because of its proclivity for 
+irregular and frequently deep subclinical extensions, every effort should 
+be made to completely remove this tumor at the time of initial therapy. 
+Excision with Mohs micrographic surgery (Mohs) or other forms of 
+peripheral and deep en face margin assessment (PDEMA) is 
+recommended over WLE. En face sectioning is preferred to prevent 
+missing small foci of tumor. The most commonly used form of PDEMA 
+is Mohs (Refer to NCCN Guidelines for Squamous Cell Skin Cancer  – 
+Principles of PDEMA Technique).39 When anatomic structures at the 
+deep margin (eg, major vessels, nerves, bone) preclude complete PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.202 5  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Dermatofibrosarcoma Protuberans  
+ 
+MS-4 
+ 
+histologic evaluation of the marginal surface via Mohs or other forms of 
+PDEMA, these surgical techniques should be used to evaluate as much 
+of the marginal surface as feasible. A combination of PDEMA and WLE for the deep margin has been reported in the literature.
+38 Treatment 
+considerations for non- visualized areas may be the subject  of 
+multidisciplinary discussion. If PDEMA is unavailable, WLE can be considered. Wide undermining is discouraged prior to confirmation of 
+clear margins due to the difficulty of interpreting subsequent re- excised 
+margins, and the risk of concealing residual tumor below mobilized tissue. Additionally, tumor mutation analysis and neoadjuvant imatinib 
+can be considered options for unresectable or borderline resectable 
+disease. Consider neoadj uvant imatinib for patients in whom DFSP 
+resection with negative margins may result in unacceptable functional or 
+cosmetic outcomes .
+40 The NCCN Panel recommends that if a negative 
+margin is achieved, no adjuvant treatment is necessary. When Mohs or 
+other forms of PDEMA are used, Radiation therapy ( RT) is not 
+recommended.  
+If initial surgery yields positive margins, re -resection is recommended 
+whenever possible, with the goal of achieving clear margins.  Mohs or 
+modified Mohs surgery, and traditional WLE with wider margins, which 
+has been associated with higher tumor clearance and lower rates of 
+recurrence,41-43 are all methods to achieve complete histologic 
+assessment.  Studies examining outcomes of both Mohs and WLE have 
+consistently reported lower recurrence rates for the former (0% –6.6% 
+vs. 1.7% –30.8%).44-53A large retrospective series of 204 patients with 
+DFSP showed a very low local recurrence rate (1%) using WLE with total peripheral margin pathologic evaluation, underscoring the 
+importance of meticulous pathologic margin evaluation with any surgical 
+technique.
+54 This notion was also supported by more studies.55,56 It is 
+recommended that any reconstruction involving extensive undermining 
+be avoided. Tissue rearrangement , if necessary, should be delayed until negative histologic margins are verified to prevent displacing a potentially positive margin or hampering interpretation of re -excisions . If 
+there is concern that the surgical margins are not clear  when Mohs or 
+PDEMA is not available, split -thickness skin grafting should be 
+considered to monitor for recurrence.  
+Radiation has occasionally been used as a primary therapeutic modality 
+for DFSP  along with other therapies ,
+57-59 but it is most beneficial  as 
+adjuvant therapy after surgery.57-64 In a single- institution retrospective 
+review of 53 patients  with DFSP  treated with surgery and preoperative 
+or postoperative RT, local control was 93% and actuarial overall survival 
+was 98% at  10 years.34 Another small patient series reported that 86% 
+of patients DFSP was treated with postoperative RT remained disease-
+free at a median follow -up of 10.5 years.63 In a systematic review and 
+meta -analysis of adjuvant RT for DFSP after WLE, the overall 
+recurrence rate was reported to be 11.74%. Patients with positive/close margins had a recurrence rate of 14.23% whereas those with negative 
+margins had no recurrence.
+65 The NCCN Panel recommends that w hen 
+Mohs or other forms of PDEMA are not used, RT can be considered if 
+margins are deem ed narrow by the treating physicians . RT can be 
+considered for the treatment of positive margins if not given previously and further resection is not feasible.  
+DFSP can be treated by targeted platelet -derived growth factor receptor  
+(PDGFRs) . DFSP is characterized by a translocation between 
+chromosomes 17 and 22 [t(17;22)(q22;q13)] resulting in the overexpression of PDGFR  β.
+66-68 These findings suggest that targeting 
+PDGF Rs may be an effective treatment for DFSP . In published results, 
+imatinib mesylate, a protein tyrosine kinase inhibitor, has shown clinical 
+activity against DFSP,40,69- 73 which has led to its approval by the U.S. 
+Food and Drug Administration ( FDA) for the treatment of unresectable, 
+recurrent, and/or metastatic DFSP in adult patients.  It is still unclear PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.202 5  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Dermatofibrosarcoma Protuberans  
+ 
+MS-5 
+ 
+whether or not and the extent to which the COL1A1- PDGFB fusion 
+gene dictates imatinib response.70 In a systematic review that included 
+patients receiving imatinib as monotherapy, adjuvant, or neoadjuvant 
+therapy, complete response, partial response, stable disease, and 
+progressive disease were reported in 5.2%, 55.2%, 27.6%, and 9.2% of 
+patients, respectively.70 In the neoadjuvant setting, complete response, 
+partial response, stable disease, and progressive disease rates were 
+reported to be 7.1%, 50%, 35.7%, and 7.1%, respectively.40   
+Follow -up 
+Given the historically high local recurrence rates for DFSP, ongoing 
+clinical follow- up with focus on the primary site every 6 to 12 months is 
+indicated, with re -biopsy of any suspicious regions. Although metastatic 
+disease is rare, a guided H&P and patient education about regular self -
+examination are recommended. Consider MRI surveillance for deeply 
+invasive disease or other concerns related to recurrence.  Recurrent tumors should be resected whenever possible. Adjuvant RT  
+may be considered after surgery. For patients who are not surgical 
+candidates, RT alone is an option if not given previously. Imatinib 
+mesylate should be considered in cases where the disease is unresectable following multiple resections, or if unacceptable functional 
+or cosmetic outcomes will occur with further resection.  It is 
+recommended that the tumor mutation is confirmed with fluorescence in-situ hybridization (FISH) for PDGRF  transloc ation.  
+In the rare event of metastatic disease, multidisciplinary consultation is 
+recommended to coordinate treatment ( Refer to NCCN Guidelines for 
+Soft Tissue Sarcoma ).  
+ 
+  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.202 5  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Dermatofibrosarcoma Protuberans  
+ 
+MS-6 
+ 
+References  
+1. Criscione VD, Weinstock MA. Descriptive epidemiology of 
+dermatofibrosarcoma protuberans in the United States, 1973 to 2002. 
+J Am Acad Dermatol 2007;56:968- 973. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17141362 . 
+2. Rouhani P, Fletcher CD, Devesa SS, Toro JR. Cutaneous soft 
+tissue sarcoma incidence patterns in the U.S. : an analysis of 12,114 
+cases. Cancer 2008;113:616 -627. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18618615 . 
+3. Kreicher KL, Kurlander DE, Gittleman HR, et al. Incidence and Survival of Primary Dermatofibrosarcoma Protuberans in the United 
+States. Dermatol Surg 2016;42 Suppl 1:S24- 31. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/26730971 . 
+4. Criscito MC, Martires KJ, Stein JA. Prognostic Factors, Treatment, and Survival in Dermatofibrosarcoma Protuberans. JAMA Dermatol 
+2016;152:1365 -1371. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27262160 . 
+5. Martin L, Piette F, Blanc P, et al. Clinical variants of the 
+preprotuberant stage of dermatofibrosarcoma protuberans. Br J 
+Dermatol 2005;153:932 -936. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/16225602 . 
+6. Haycox CL, Odland PB, Olbricht SM, Casey B. 
+Dermatofibrosarcoma protuberans (DFSP): growth characteristics 
+based on tumor modeling and a review of cases treated with Mohs 
+micrographic surgery. Ann Plast Surg 1997;38:246- 251. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/9088462.  
+7. Ratner D, Thomas CO, Johnson TM, et al. Mohs micrographic surgery for the treatment of dermatofibrosarcoma protuberans. 
+Results of a multiinstitutional series with an analysis of the extent of 
+microscopic spread. J Am Acad Dermatol 1997;37:600- 613. Avai lable 
+at: https://www.ncbi.nlm.nih.gov/pubmed/9344201.  
+8. Hayakawa K, Matsumoto S, Ae K, et al. Risk factors for distant metastasis of dermatofibrosarcoma protuberans. J Orthop Traumatol 
+2016;17:261 -266. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27289468 . 
+9. Vidimos AT, Helm TN, Papay FA. Dermatofibrosarcoma protuberans. In: Cutaneous Oncology: Pathophysiology, Diagnosis, 
+and Management. Malden, MA: Blackwell Scientific; 1998.  10. PubMed Overview. Available at: 
+https://pubmed.ncbi.nlm.nih.gov/about/ . 
+11. Freedman -Cass DA, Fischer T, Alpert AB, et al. The Value and 
+Process of Inclusion: Using Sensitive, Respectful, and Inclusive 
+Language and Images in NCCN Content. J Natl Compr Canc Netw 
+2023;21:434 -441. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/37156485 . 
+12. Mentzel T, Pedeutour F, Lazar A, Coindre JM, eds. Dermatofibrosarcoma Protuberans in WHO Classification of Tumors of 
+Soft Tissue and Bone. In: Fletcher CD, Bridge JA, Hogendoorn PCW, 
+Mertens F, eds (ed 4): IARC Press; 2013.  
+13. Connective Tissue Tumors. In: Calonje E, Brenn T, Lazar A, 
+McKee PH, eds. McKee’s Pathology of the Skin with Clinical 
+Correlations (ed 4): Elsevier Saunders; 2012:1630- 1635.  
+14. Abenoza P, Lillemoe T. CD34 and factor XIIIa in the differential diagnosis of dermatofibroma and dermatofibrosarcoma protuberans. 
+Am J Dermatopathol 1993;15:429- 434. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/7694515.  
+15. Aiba S, Tabata N, Ishii H, et al. Dermatofibrosarcoma protuberans 
+is a unique fibrohistiocytic tumour expressing CD34. Br J Dermatol 
+1992;127:79 -84. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/1382538.  
+16. Kutzner H. Expression of the human progenitor cell antigen CD34 
+(HPCA -1) distinguishes dermatofibrosarcoma protuberans from fibrous 
+histiocytoma in formalin -fixed, paraffin -embedded tissue. J Am Acad 
+Dermatol 1993;28:613 -617. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/7681857.  
+17. Goldblum JR, Tuthill RJ. CD34 and factor -XIIIa immunoreactivity in 
+dermatofibrosarcoma protuberans and dermatofibroma. Am J 
+Dermatopathol 1997;19:147- 153. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/9129699.  
+18. Sellheyer K, Nelson P, Krahl D. Dermatofibrosarcoma 
+protuberans: a tumour of nestin -positive cutaneous mesenchymal 
+stem cells? Br J Dermatol 2009;161:1317 -1322. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/19659472 . 
+19. Cribier B, Noacco G, Peltre B, Grosshans E. Stromelysin 3 
+expression: a useful marker for the differential diagnosis 
+dermatofibroma versus dermatofibrosarcoma protuberans. J Am Acad PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.202 5  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Dermatofibrosarcoma Protuberans  
+ 
+MS-7 
+ 
+Dermatol 2002;46:408 -413. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/11862177 . 
+20. Lisovsky M, Hoang MP, Dresser KA, et al. Apolipoprotein D in 
+CD34 -positive and CD34 -negative cutaneous neoplasms: a useful 
+marker in differentiating superficial acral fibromyxoma from 
+dermatofibrosarcoma protuberans. Mod Pathol 2008;21:31 -38. 
+Available  at: https://www.ncbi.nlm.nih.gov/pubmed/17885669 . 
+21. Yan X, Takahara M, Xie L, et al. Cathepsin K expression: a useful marker for the differential diagnosis of dermatofibroma and 
+dermatofibrosarcoma protuberans. Histopathology 2010;57:486 -488. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/20727023 . 
+22. Connelly JH, Evans HL. Dermatofibrosarcoma protuberans. A 
+clinicopathologic review with emphasis on fibrosarcomatous areas. 
+Am J Surg Pathol 1992;16:921- 925. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/1415902.  
+23. Szollosi Z, Nemes Z. Transformed dermatofibrosarcoma 
+protuberans: a clinicopathological study of eight cases. J Clin Pathol 
+2005;58:751 -756. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/15976346 . 
+24. Mentzel T, Beham A, Katenkamp D, et al. Fibrosarcomatous 
+("high -grade") dermatofibrosarcoma protuberans: clinicopathologic 
+and immunohistochemical study of a series of 41 cases with emphasis 
+on prognostic significance. Am J Surg Pathol 1998;22:576- 587. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/9591728 . 
+25. Bowne WB, Antonescu CR, Leung DH, et al. Dermatofibrosarcoma 
+protuberans: A clinicopathologic analysis of patients treated and 
+followed at a single institution. Cancer 2000;88:2711- 2720. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/10870053.  
+26. Abbott JJ, Oliveira AM, Nascimento AG. The prognostic 
+significance of fibrosarcomatous transformation in 
+dermatofibrosarcoma protuberans. Am J Surg Pathol 2006;30:436-
+443. Available at: https://www.ncbi.nlm.nih.gov/pubmed/16625088.  
+27. Ding J, Hashimoto H, Enjoji M. Dermatofibrosarcoma protuberans 
+with fibrosarcomatous areas. A clinicopathologic study of nine cases 
+and a comparison with allied tumors. Cancer 1989;64:721 -729. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/2545326 . 
+28. Hoesly PM, Lowe GC, Lohse CM, et al. Prognostic impact of 
+fibrosarcomatous transformation in dermatofibrosarcoma protuberans: a cohort study. J Am Acad Dermatol 2015;72:419- 425. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25582537 . 
+29. Lyu A, Wang Q. Dermatofibrosarcoma protuberans: A clinical 
+analysis. Oncol Lett 2018;16:1855- 1862. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/30008876 . 
+30. Erdem O, Wyatt AJ, Lin E, et al. Dermatofibrosarcoma 
+protuberans treated with wide local excision and followed at a cancer 
+hospital: prognostic significance of clinicopathologic variables. Am J 
+Dermatopathol 2012;34:24- 34. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21785324 . 
+31. Jing C, Zhang H, Zhang X, Yu S. Dermatofibrosarcoma 
+Protuberans: A Clinicopathologic and Therapeutic Analysis of 254 
+Cases at a Single Institution. Dermatol Surg 2021;47:e26 -e30. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/32769521 . 
+32. Li Y, Wang C, Xiang B, et al. Clinical Features, Pathological 
+Findings and Treatment of Recurrent Dermatofibrosarcoma 
+Protuberans. J Cancer 2017;8:1319- 1323. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28607608 . 
+33. Goldblum JR, Reith JD, Weiss SW. Sarcomas arising in 
+dermatofibrosarcoma protuberans: a reappraisal of biologic behavior 
+in eighteen cases treated by wide local excision with extended clinical 
+follow up. Am J Surg Pathol 2000;24:1125- 1130. Available at : 
+https://www.ncbi.nlm.nih.gov/pubmed/10935653 . 
+34. Castle KO, Guadagnolo BA, Tsai CJ, et al. Dermatofibrosarcoma protuberans: long -term outcomes of 53 patients treated with 
+conservative surgery and radiation therapy. Int J Radiat Oncol Biol Phys 2013;86:585- 590. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23628134 . 
+35. Liang CA, Jambusaria- Pahlajani A, Karia PS, et al. A systematic 
+review of outcome data for dermatofibrosarcoma protuberans with and 
+without fibrosarcomatous change. J Am Acad Dermatol 2014;71:781 -
+786. Available at: https://www.ncbi.nlm.nih.gov/pubmed/24755121.  
+36. Cai H, Wang Y, Wu J, Shi Y. Dermatofibrosarcoma protuberans: 
+clinical diagnoses and treatment results of 260 cases in China. J Surg 
+Oncol 2012;105:142 -148. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21815146 . 
+37. Buck DW, 2nd, Kim JY, Alam M, et al. Multidisciplinary approach 
+to the management of dermatofibrosarcoma protuberans. J Am Acad PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.202 5  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Dermatofibrosarcoma Protuberans  
+ 
+MS-8 
+ 
+Dermatol 2012;67:861 -866. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22387033 . 
+38. Chappell AG, Doe SC, Worley B, et al. Multidisciplinary surgical 
+treatment approach for dermatofibrosarcoma protuberans: an update. 
+Arch Dermatol Res 2021;313:367 -372. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32770258 . 
+39. Curtis KK, Fakult NJ, Strunck JL, et al. Establishing Consensus for Mohs Micrographic Surgical Techniques in the Treatment of 
+Melanoma in Situ for Future Clinical Trials: A Modified Delphi Study. J 
+Natl Compr Canc Netw 2024:1- 6. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/39079545 . 
+40. Ugurel S, Mentzel T, Utikal J, et al. Neoadjuvant imatinib in advanced primary or locally recurrent dermatofibrosarcoma 
+protuberans: a multicenter phase II DeCOG trial with long- term follow -
+up. Clin Cancer Res 2014;20:499 -510. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24173542 . 
+41. Zhou X, Sun D, Liu Y, et al. Dermatofibrosarcoma protuberans: 
+our 10 -year experience on 80 patients. J Dermatolog Treat 
+2020;31:554 -558. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31116621 . 
+42. Kimmel Z, Ratner D, Kim JY, et al. Peripheral excision margins for dermatofibrosarcoma protuberans: a meta- analysis of spatial data. 
+Ann Surg Oncol 2007;14:2113 -2120. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17468914 . 
+43. Chen Y, Jiang G. Association between surgical excision margins 
+and outcomes in patients with dermatofibrosarcoma protuberans: A 
+meta -analysis. Dermatol Ther 2021;34:e14954. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/33835635 . 
+44. Gloster HM, Jr., Harris KR, Roenigk RK. A comparison between 
+Mohs micrographic surgery and wide surgical excision for the 
+treatment of dermatofibrosarcoma protuberans. J Am Acad Dermatol 
+1996;35:82- 87. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/8682970.  
+45. DuBay D, Cimmino V, Lowe L, et al. Low recurrence rate after surgery for dermatofibrosarcoma protuberans: a multidisciplinary 
+approach from a single institution. Cancer 2004;100:1008 -1016. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/14983497 . 46. Meguerditchian AN, Wang J, Lema B, et al. Wide excision or Mohs 
+micrographic surgery for the treatment of primary 
+dermatofibrosarcoma protuberans. Am J Clin Oncol 2010;33:300 -303. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/19858696 . 
+47. Foroozan M, Sei JF, Amini M, et al. Efficacy of Mohs micrographic 
+surgery for the treatment of dermatofibrosarcoma protuberans: 
+systematic review. Arch Dermatol 2012;148:1055- 1063. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22986859 . 
+48. Bogucki B, Neuhaus I, Hurst EA. Dermatofibrosarcoma 
+protuberans: a review of the literature. Dermatol Surg 2012;38:537-
+551. Available at: https://www.ncbi.nlm.nih.gov/pubmed/22288484.  
+49. Paradisi A, Abeni D, Rusciani A, et al. Dermatofibrosarcoma 
+protuberans: wide local excision vs. Mohs micrographic surgery. 
+Cancer Treat Rev 2008;34:728- 736. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18684568 . 
+50. Lowe GC, Onajin O, Baum CL, et al. A Comparison of Mohs 
+Micrographic Surgery and Wide Local Excision for Treatment of 
+Dermatofibrosarcoma Protuberans With Long -Term Follow -up: The 
+Mayo Clinic Experience. Dermatol Surg 2017;43:98- 106. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27749444 . 
+51. Veronese F, Boggio P, Tiberio R, et al. Wide local excision vs. 
+Mohs Tubingen technique in the treatment of dermatofibrosarcoma 
+protuberans: a two -centre retrospective study and literature review. J 
+Eur Acad Dermatol Venereol 2017;31:2069 -2076. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28573714 . 
+52. Malan M, Xuejingzi W, Quan SJ. The efficacy of Mohs 
+micrographic surgery over the traditional wide local excision surgery in 
+the cure of dermatofibrosarcoma protuberans. Pan Afr Med J 
+2019;33:297. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31692830 . 
+53. Durack A, Gran S, Gardiner MD, et al. A 10- year review of surgical 
+management of dermatofibrosarcoma protuberans. Br J Dermatol 
+2021;184:731 -739. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32599647 . 
+54. Farma JM, Ammori JB, Zager JS, et al. Dermatofibrosarcoma 
+protuberans: how wide should we resect? Ann Surg Oncol 
+2010;17:2112 -2118. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20354798 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.202 5  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Dermatofibrosarcoma Protuberans  
+ 
+MS-9 
+ 
+55. Snow H, Davies E, Strauss DC, et al. Conservative Re -excision is 
+a Safe and Simple Alternative to Radical Resection in Revision 
+Surgery for Dermatofibrosarcoma Protuberans. Ann Surg Oncol 
+2020;27:919 -923. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31664620 . 
+56. Harati K, Lange K, Goertz O, et al. A single -institutional review of 
+68 patients with dermatofibrosarcoma protuberans: wide re- excision 
+after inadequate previous surgery results in a high rate of local control. 
+World J Surg Oncol 2017;15:5. Available a t: 
+https://www.ncbi.nlm.nih.gov/pubmed/28056985 . 
+57. Suit H, Spiro I, Mankin HJ, et al. Radiation in management of 
+patients with dermatofibrosarcoma protuberans. J Clin Oncol 
+1996;14:2365 -2369. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/8708729.  
+58. Uysal B, Sager O, Gamsiz H, et al. Evaluation of the role of 
+radiotherapy in the management of dermatofibrosarcoma protuberans. 
+J BUON 2013;18:268- 273. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23613415 . 
+59. Hamid R, Hafeez A, Darzi MA, et al. Outcome of wide local 
+excision in dermatofibrosarcoma protuberans and use of radiotherapy 
+for margin -positive disease. Indian Dermatol Online J 2013;4:93- 96. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/23741663 . 
+60. Ballo MT, Zagars GK, Pisters P, Pollack A. The role of radiation 
+therapy in the management of dermatofibrosarcoma protuberans. Int J 
+Radiat Oncol Biol Phys 1998;40:823 -827. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/9531366.  
+61. Dagan R, Morris CG, Zlotecki RA, et al. Radiotherapy in the 
+treatment of dermatofibrosarcoma protuberans. Am J Clin Oncol 
+2005;28:537 -539. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/16317260 . 
+62. Sun LM, Wang CJ, Huang CC, et al. Dermatofibrosarcoma 
+protuberans: treatment results of 35 cases. Radiother Oncol 
+2000;57:175 -181. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/11054521 . 
+63. Williams N, Morris CG, Kirwan JM, et al. Radiotherapy for 
+dermatofibrosarcoma protuberans. Am J Clin Oncol 2014;37:430 -432. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/23388563 . 64. Haas RL, Keus RB, Loftus BM, et al. The role of radiotherapy in 
+the local management of dermatofibrosarcoma protuberans. Soft 
+Tissue Tumours Working Group. Eur J Cancer 1997;33:1055 -1060. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/9376187 . 
+65. Chen YT, Tu WT, Lee WR, Huang YC. The efficacy of adjuvant 
+radiotherapy in dermatofibrosarcoma protuberans: a systemic review 
+and meta -analysis. J Eur Acad Dermatol Venereol 2016;30:1107 -
+1114. Available at: https://www.ncbi.nlm.nih.gov/pubmed/26879523 . 
+66. Takahira T, Oda Y, Tamiya S, et al. Detection of COL1A1- PDGFB 
+fusion transcripts and PDGFB/PDGFRB mRNA expression in 
+dermatofibrosarcoma protuberans. Mod Pathol 2007;20:668- 675. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/17431412 . 
+67. Patel KU, Szabo SS, Hernandez VS, et al. Dermatofibrosarcoma 
+protuberans COL1A1- PDGFB fusion is identified in virtually all 
+dermatofibrosarcoma protuberans cases when investigated by newly developed multiplex reverse transcription polymerase chain reac tion 
+and fluorescence in situ hybridization assays. Hum Pathol 
+2008;39:184 -193. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17950782 . 
+68. Simon MP, Pedeutour F, Sirvent N, et al. Deregulation of the 
+platelet -derived growth factor B -chain gene via fusion with collagen 
+gene COL1A1 in dermatofibrosarcoma protuberans and giant -cell 
+fibroblastoma. Nat Genet 1997;15:95 -98. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/8988177.  
+69. Rutkowski P, Van Glabbeke M, Rankin CJ, et al. Imatinib mesylate in advanced dermatofibrosarcoma protuberans: pooled analysis of two 
+phase II clinical trials. J Clin Oncol 2010;28:1772- 1779. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20194851 . 
+70. Navarrete- Dechent C, Mori S, Barker CA, et al. Imatinib Treatment 
+for Locally Advanced or Metastatic Dermatofibrosarcoma Protuberans: 
+A Systematic Review. JAMA Dermatol 2019;155:361 -369. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/30601909.  
+71. Kerob D, Porcher R, Verola O, et al. Imatinib mesylate as a 
+preoperative therapy in dermatofibrosarcoma: results of a multicenter 
+phase II study on 25 patients. Clin Cancer Res 2010;16:3288 -3295. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/20439456 . 
+72. McArthur GA, Demetri GD, van Oosterom A, et al. Molecular and 
+clinical analysis of locally advanced dermatofibrosarcoma protuberans PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.202 5  © 2024 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2025 
+Dermatofibrosarcoma Protuberans  
+ 
+MS-10 
+ 
+treated with imatinib: Imatinib Target Exploration Consortium Study 
+B2225. J Clin Oncol 2005;23:866 -873. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/15681532 . 
+73. Rutkowski P, Debiec -Rychter M, Nowecki Z, et al. Treatment of 
+advanced dermatofibrosarcoma protuberans with imatinib mesylate with or without surgical resection. J Eur Acad Dermatol Venereol 
+2011;25:264 -270. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20569296 . 
+ PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 5:36:22 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.

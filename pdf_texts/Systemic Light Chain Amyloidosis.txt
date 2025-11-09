@@ -1,0 +1,2328 @@
+Version 1.2026 06/11/25  © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®)Systemic Light Chain 
+Amyloidosis
+Version 1.2026 — June 11, 2025
+ContinueNCCN recognizes the importance of clinical trials and encourages participation when applicable and available. 
+Trials should be designed to maximize inclusiveness and broad representative enrollment.NCCN.org
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+NCCN Guidelines Panel DisclosuresContinueξ Bone marrow transplantation
+‡ Hematology/Hematology 
+oncology
+Þ Internal medicine
+† Medical oncology¥ Patient advocacy
+§ Radiation oncology
+*  Discussion section writing 
+committee *Shaji K. Kumar, MD/Chair ‡  
+Mayo Clinic Comprehensive Cancer Center
+*Natalie S. Callander, MD/Vice Chair ‡ ξ 
+University of Wisconsin  
+Carbone Cancer Center 
+Kehinde Adekola, MD, MSCI ‡  
+Robert H. Lurie Comprehensive Cancer  
+Center of Northwestern University
+Larry D. Anderson, Jr., MD, PhD ‡  
+UT Southwestern Simmons  
+Comprehensive Cancer Center
+*Muhamed Baljevic, MD ‡ Þ ξ 
+Vanderbilt-Ingram Cancer Center
+Rachid Baz, MD ‡ 
+Moffitt Cancer Center
+Erica Campagnaro, MD ‡ 
+University of Michigan Rogel Cancer Center
+Caitlin Costello, MD ‡ Þ ξ 
+UC San Diego Moores Cancer Center
+Christopher D'Angelo, MD ‡  
+Fred & Pamela Buffett Cancer Center
+  Benjamin Derman, MD † ‡
+  The UChicago Medicine  
+  Comprehensive Cancer Center
+Srinivas Devarakonda, MD ‡  
+The Ohio State University Comprehensive 
+Cancer Center - James Cancer Hospital  
+and Solove Research Institute 
+Noura Elsedawy, MD † 
+St. Jude Children's Research Hospital/  
+The University of Tennessee  
+Health Science CenterAmandeep Godara, MD ‡ 
+Huntsman Cancer Institute  
+at the University of Utah
+Kelly Godby, MD ‡ 
+O'Neal Comprehensive  
+Cancer Center at UAB
+Jens Hillengass, MD, PhD ‡ 
+Roswell Park Comprehensive Cancer Center
+Leona Holmberg, MD, PhD ‡ ξ  
+Fred Hutchinson Cancer Center
+Myo Htut, MD ‡ Þ  
+City of Hope National Medical Center
+Carol Ann Huff, MD † ‡  
+Johns Hopkins  
+Kimmel Cancer Center
+Malin Hultcrantz, MD, PhD ‡  
+Memorial Sloan Kettering Cancer Center
+Yubin Kang, MD ‡ † ξ 
+Duke Cancer Institute
+Sarah Larson, MD † ‡ 
+UCLA Jonsson Comprehensive Cancer Center
+Hans C. Lee, MD ‡ ‡ 
+The University of Texas  
+MD Anderson Cancer Center
+Michaela Liedtke, MD ‡ 
+Stanford Cancer Institute
+Thomas Martin, MD ‡ 
+UCSF Helen Diller Family  
+Comprehensive Cancer Center 
+James Omel, MD ¥ 
+Patient AdvocateTimothy J. Robinson, MD, PhD §  
+Yale Cancer Center/Smilow Cancer Hospital 
+Aaron Rosenberg, MD ‡ ξ 
+UC Davis Comprehensive Cancer Center
+Shayna Sarosiek, MD ‡ 
+Dana-Farber/Brigham and  
+Women's Cancer Center
+Mark A. Schroeder, MD ‡ 
+Siteman Cancer Center at Barnes-  
+Jewish Hospital and Washington  
+University School of Medicine
+Daniel Sherbenou, MD, PhD †  
+University of Colorado Cancer Center
+Attaya Suvannasankha, MD ‡ 
+Indiana University Melvin and Bren Simon 
+Comprehensive Cancer Center
+Jason Valent, MD ‡ 
+Case Comprehensive Cancer Center/  
+University Hospitals Seidman Cancer Center 
+and Cleveland Clinic Taussig Cancer Institute
+Asya Nina Varshavsky-Yanovsky, MD, PhD  † ‡ 
+Fox Chase Cancer Center
+Dan Vogl, MD ‡  
+Abramson Cancer Center  
+at the University of Pennsylvania
+NCCN
+Emily Kovach 
+Rashmi Kumar, PhDPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.The NCCN Guidelines® are a statement of evidence and consensus of the authors regarding their views of currently accepted approaches to 
+treatment. Any clinician seeking to apply or consult the NCCN Guidelines is expected to use independent medical judgment in the context of individual 
+clinical circumstances to determine any patient’s care or treatment. The National Comprehensive Cancer Network® (NCCN®) makes no representations 
+or warranties of any kind regarding their content, use or application and disclaims any responsibility for their application or use in any way . The NCCN 
+Guidelines are copyrighted by National Comprehensive Cancer Network®. All rights reserved. The NCCN Guidelines and the illustrations herein may not 
+be reproduced in any form without the express written permission of NCCN. ©2025.NCCN Guidelines Index
+Table of Contents
+Discussion
+NCCN Systemic Light Chain Amyloidosis Panel Members
+Summary of the Guidelines Updates
+Initial Diagnostic Workup (AMYL-1)
+Diagnostic Workup and Clinical Findings for Organ Involvement (AMYL-2)
+Diagnostic Workup and Clinical Findings for Localized Amyloidosis (AMYL-3)
+Clinical Suspicion for Cardiac Amyloidosis (AMYL-4)
+Staging Systems for Light Chain Amyloidosis (AMYL-A)
+Systemic Light Chain Amyloidosis Therapy (AMYL-B)
+Definition of Organ Involvement Based on Amyloidosis Consensus Criteria (AMYL-C)
+Definition of Organ and Hematologic Response and Progression Criteria (AMYL-D)Find an NCCN Member Institution: 
+https://www.nccn.org/home/member-
+institutions .
+NCCN Categories of Evidence and 
+Consensus: All recommendations 
+are category 2A unless otherwise 
+indicated.
+See NCCN Categories of Evidence  
+and Consensus .
+NCCN Categories of Preference:  
+All recommendations are considered 
+appropriate.
+See NCCN Categories of 
+Preference .
+Abbreviations (ABBR-1)PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+AMYL-1
+• Clinical and amyloid-related assessment, bullet 6 added: 6-minute walk test.
+• Footnote c added: The 6-minute walk test is used to assess aerobic capacity and endurance and serves as a predictor of cardiac function. Cohen OC, 
+et al. Heart 2022;108:1616-1622.
+• Footnote d modified: It is essential to confirm that patients have primary SLCA  rather than hereditary amyloidosis, wild-type transthyretin-related 
+(amyloid transthyretin [ATTR]) cardiac amyloidosis, or secondary amyloidosis. The amyloid deposits should be confirmed to be composed of light 
+chains using immunohistochemistry or MS. Immunohistochemistry for transthyretin or serum amyloid A component should be performed if kappa 
+and lambda stains are negative. In the absence of monoclonal protein or elevated light chains , 99mTc-pyrophosphate (PYP) scan can help diagnose  
+distinguish cardiac involvement with SLCA from ATTR.
+• Footnote e modified: Identification of light chains in the serum or urine without confirmation of the amyloid deposition  composition  in tissue is not 
+adequate, as patients with other forms of amyloidosis may have an unrelated monoclonal gammopathy of undetermined significance (MGUS). 
+Lachmann HJ, et al. N Engl J Med 2002;346:1786-1791.
+AMYL-4
+• Column 4, clinical finding added: ...protein or elevated FLC with abnormal ratio present.
+• Footnote v added: Previous tissue biopsy (within last 1-2 years) can be stained with Congo red.
+AMYL-B (1 of 6)
+• Bullet 3 modified: Modification of treatment should be considered Iif hematologic (biochemical) response  is < very good partial response (VGPR) by 
+cycle 3 or < partial response (PR) by cycle 2 of initial therapy , or and  no complete response (CR) and persistent organ dysfunction. eventually organ 
+response, consider treatment modification.
+• Bullet 4 added: Typically, light-chain normalization precedes organ response.
+• Sub-header added: Supportive Care.
+• Supportive Care, bullet added: There are several supportive care measures that should be considered. See Table 1 in Maroun BZ, et al. Blood Res 
+2022;57:106-116.
+AMYL-B (2 of 6)
+• Significant neuropathy, All stages, Melphalan/Dexamethasone (if ineligible for HCT) moved from Preferred to Useful in Certain Circumstances.
+• Footnote c added: Patients with IgM paraprotein may require different therapy . If there is underlying plasma cell clone, follow suggested therapies. For 
+lymphoma or LPL, see NCCN Guidelines for Waldenström Macroglobulinemia/Lymphoplasmacytic Lymphoma.
+AMYL-B (4 of 6)
+• Useful in Certain Circumstances, regimen added: Venetoclax t(11;14) + Daratumumab.
+AMYL-B (6 of 6)
+• Reference added for Venetoclax/Daratumumab.
+UPDATESUpdates in Version 1.2026 of the NCCN Guidelines for Systemic Light Chain Amyloidosis from Version 2.2025 include:PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+AMYL-1 INITIAL DIAGNOSTIC WORKUPa
+Clinical and amyloid-related assessment
+• History and physical (H&P)
+• Orthostatic vital signs
+• Whole-body low-dose CTb or FDG-PET/CT
+• Electrocardiogram (ECG) 
+• Echocardiogram with global longitudinal 
+strain assessment
+• 6-minute walk testc
+Pathologic evaluationd,e
+• Bone marrow aspirate + biopsyf
+• Plasma cell fluorescence in situ hybridization 
+(FISH) on bone marrow aspirate
+• Abdominal fat pad samplingg and/or involved 
+organ biopsy as clinically indicated
+• Amyloid tissue subtyping with mass 
+spectrometry (MS)
+• If lymphoplasmacytic clone is present, then 
+test for MYD88 L265P mutationOrgan 
+involvement 
+(AMYL-2)
+a Frailty assessment should be considered in older adults. See NCCN Guidelines for Older Adult Oncology .
+b Skeletal survey is acceptable in certain circumstances. However, it is significantly less sensitive than whole-body low-dose CT and FDG-PET/CT. If FDG-PET/CT or whole-body low-dose 
+CT has been performed, then skeletal survey is not needed. Refer to NCCN Guidelines for Multiple Myeloma  for Principles of Imaging.
+c The 6-minute walk test is used to assess aerobic capacity and endurance and serves as a predictor of cardiac function. Cohen OC, et al. Heart 2022;108:1616-1622.
+d It is essential to confirm that patients have primary SLCA rather than hereditary amyloidosis, wild-type transthyretin-related (amyloid transthyretin [ATTR]) cardiac amyloidosis, or 
+secondary amyloidosis. The amyloid deposits should be confirmed to be composed of light chains using immunohistochemistry or MS. Immunohistochemistry for transthyretin or serum 
+amyloid A component should be performed if kappa and lambda stains are negative. In the absence of monoclonal protein or elevated light chains, 99mTc-pyrophosphate (pyrophosphate 
+scintigraphy [ PYP]) scan can help diagnose ATTR. 
+e Identification of light chains in the serum or urine without confirmation of the amyloid deposition in tissue is not adequate, as patients with other forms of amyloidosis may have an 
+unrelated monoclonal gammopathy of undetermined significance (MGUS). Lachmann HJ, et al. N Engl J Med 2002;346:1786-1791.
+f Congo red staining for amyloid. Congo stain does not differentiate between types of amyloid.
+g Alternate sites could include rectal or minor salivary gland biopsy.
+h If N-terminal prohormone of B-type natriuretic peptide (NT-proBNP) is not available, B-type natriuretic peptide (BNP) can be performed. If TnT is not available, then troponin I is acceptable. Clinical suspicion of isolated cardiac amyloidosisClinical suspicion of localized amyloidosis
+AMYL-4AMYL-3Laboratory evaluation for systemic light chain amyloidosis (SLCA)
+• To assess plasma cell markers:
+Complete blood count (CBC), differential, platelet count
+Peripheral blood smear
+Serum quantitative immunoglobulins, serum protein electrophoresis 
+(SPEP), and serum immunofixation electrophoresis (SIFE)
+Serum free light chain (FLC) assay
+• To assess organ involvement: 
+Heart
+ ◊NT-proBNP/BNP,h troponin T (TnT)h
+ ◊Lipid panel
+Kidney
+ ◊24-h urine for total protein, urine protein electrophoresis (UPEP), and 
+urine immunofixation electrophoresis (UIFE)
+ ◊Serum blood urea nitrogen (BUN)/creatinine, electrolytes, albumin, 
+calcium, serum uric acid, serum lactate dehydrogenase (LDH), and 
+beta-2 microglobulin
+ ◊Creatinine clearance (calculated or measured directly)
+Liver 
+ ◊Alkaline phosphatase (ALP), aspartate aminotransferase (AST), alanine 
+aminotransferase (ALT), and bilirubin
+Coagulation system
+ ◊Comprehensive coagulation studies if indicated
+ ◊Prothrombin time (PT), partial thromboplastin time (PTT), and Factor XPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+AMYL-2CLINICAL FINDINGS TREATMENT OF NEWLY 
+DIAGNOSED SLCAi,l,o
+i Frailty assessment should be considered in older adults. See NCCN Guidelines 
+for Older Adult Oncology .
+j Transthoracic echocardiogram with global longitudinal strain imaging in patients 
+where CMR is not feasible/optimal. 
+k Characteristic findings on cardiac MRI: global subendocardial late gadolinium 
+enhancement (subendocardial or transmural involvement) with abnormal 
+myocardial and blood-pool gadolinium kinetics. When appropriate, imaging should 
+be done with contrast unless contraindicated.l Definition of Organ Involvement Based on Amyloidosis Consensus Criteria 
+(AMYL-C). 
+m In those patients with very low tumor burden, induction therapy may not be 
+required. If not a candidate for HCT at initial diagnosis, reassess after initiating 
+systemic therapy.
+n Patients eligible for HCT can elect to collect stem cells and delay transplant to a 
+later line of therapy.
+o Definition of Organ and Hematologic Response and Progression Criteria  
+(AMYL-D).
+p Organ transplant, as clinically indicated.RELAPSED/
+REFRACTORY 
+SLCA
+Therapy for relapsed/
+refractory disease 
+(AMYL-B)
+and
+Best supportive care  
+(See NCCN Guidelines 
+for Palliative Care)Clinical trial
+or 
+Therapy for newly diagnosed 
+diseasep (AMYL-B)
+and
+Best supportive care  
+(See NCCN Guidelines for 
+Palliative Care and
+NCCN Guidelines for 
+Survivorship)Special testing based on organ system involvement
+• Cardiac
+Cardiovascular magnetic resonance (CMR)j 
+imaging (in certain circumstances)k
+ ◊Cardiac MRI with and without contrast
+• Liver and gastrointestinal (GI) tract
+Gastric emptying scan (if gastroparesis present)
+Abdominal ultrasound or abdominal CT to 
+document craniocaudal liver span as clinically 
+indicated
+Upper and lower endoscopies if symptoms 
+suggestive of GI involvement
+• Peripheral nervous system
+Electromyography (EMG) (if clinically significant 
+peripheral neuropathy)/nerve conduction studies
+• Other
+Endocrine testing: thyroid-stimulating hormone 
+(TSH), cortisol
+Pulmonary testing: pulmonary function tests
+Chest CT without contrast as indicatedIf there is organ 
+involvement based 
+on amyloidosis 
+consensus criterial
+• Evaluate for 
+hematopoietic cell 
+transplant (HCT) 
+candidacym,nDIAGNOSTIC WORKUPiPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+AMYL-3INITIAL DIAGNOSTIC WORKUP
+Monoclonal protein 
+or isotypic light chain 
+predominance present 
+and/or 
+Suspicion of other organ 
+involvement 
+Lymph node involvementMonoclonal protein 
+or isotypic light chain 
+predominance absent
+and 
+No suspicion of other organ 
+involvement• Bone marrow and 
+tissue (may include 
+fat pad) biopsy 
+with congo red 
+staining and liquid 
+chromatography-MS 
+(LC-MS)s
+• Other organ biopsy as 
+clinically indicated  
+(AMYL-2)
+Low risk of progression, follow as clinically indicated
+• Long-term follow-up
+• Consider evaluation for low grade B-cell 
+lymphoma (MZL/MALT/WM/LPL) 
+(See NCCN Guidelines for B-Cell 
+Lymphomas and NCCN Guidelines 
+for Waldenström Macroglobulinemia/
+Lymphoplasmacytic Lymphoma)Systemic disease 
+confirmed: 
+manage as systemic 
+disease (AMYL-B)No systemic disease: 
+long-term follow-upt
+q Confirmed by MS. 
+r Screening for monoclonal protein must include immunofixation studies in both urine and serum for greatest sensitivity. Using electrophoresis alone without 
+immunofixation or testing in serum alone has low sensitivity. 
+s Immunohistochemistry or immunofluorescence can be considered if MS is not available.
+t Surgical approaches may be appropriate for symptomatic or cosmetic reasons (eg, skin lesions).CLINICAL FINDINGS
+• SPEP and SIFEr
+• UPEP and UIFEr 
+with 24-h urine 
+collection
+• Serum FLC assayr
+• ECG
+• Echocardiogram 
+• NT-proBNP, TnT
+• Liver function test 
+(LFT)
+• Renal function and 
+urine analysis
+• Organ evaluation 
+and imaging as 
+clinically indicated 
+(AMYL-1)Clinical 
+suspicion 
+for localized 
+light chain 
+amyloidosis 
+(AL)qPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+CARDIAC AMYLOIDOSIS 
+Cardiac 
+scintigraphy 
+with either 
+pyrophosphate 
+scintigraphy (PYP), 
+123I-MIBG, or 
+99mTC-DPDGrade 0–1: tissue 
+diagnosis needed; cardiac 
+or non-cardiac biopsy 
+according to presentation 
+j Transthoracic echocardiogram with global longitudinal strain imaging in patients where CMR is not feasible/optimal.
+r Screening for monoclonal protein must include immunofixation studies in both urine and serum for greatest sensitivity. Using electrophoresis alone without 
+immunofixation or testing in serum alone has low sensitivity.
+s Immunohistochemistry or immunofluorescence can be considered if MS is not available.
+u Syncope/presyncope/arrhythmia, unexplained left ventricular hypertrophy, voltage complex lower than expected for the left ventricular thickness, thick ventricular 
+septum, persistent or unexplained elevation of NT-proBNP or TnT, and right heart failure symptoms.  
+v Previous tissue biopsy (within last 1–2 years) can be stained with Congo red.CLINICAL FINDINGS
+AMYL-4Clinical 
+suspicion 
+for cardiac 
+amyloidosisu • CMRj imaging
+• Serum FLC assayr
+• SPEP and SIFEr
+• UPEP and UIFEr 
+with 24-h urine 
+collection
+• Echocardiogram
+• ECG 
+• NT-proBNP, TnT
+• Other investigations 
+as clinically 
+indicated (AMYL-1)CMR suspicious 
+for cardiac 
+amyloidosis
+No 
+monoclonal 
+protein or 
+elevated 
+FLC with 
+abnormal 
+ratio present Bone marrow and tissue 
+(may include fat pad) 
+biopsy, ± other organ 
+biopsy with congo red 
+staining and LC-MSs
+No monoclonal protein or 
+elevated FLC with abnormal 
+ratio presentLook for other causes of cardiac diseaseIf positive, treat 
+according to results 
+If negative, proceed 
+with cardiac biopsy
+Grade 2–3: proceed 
+with treating as amyloid 
+transthyretin (ATTR); 
+biopsy not needed
+Monoclonal 
+protein or 
+elevated FLC 
+with abnormal 
+ratio present Possible MGUS, SMM, or 
+MM diagnosis 
+(See NCCN Guidelines 
+for Multiple Myeloma )Other systemic 
+signs of 
+amyloidosis 
+present
+Systemic signs 
+of amyloidosis 
+NOT presentBone marrow and fat pad 
+biopsy, ± other organ biopsyv 
+with congo red staining and 
+LC-MS (AMYL-1)Monoclonal 
+protein or 
+elevated 
+FLC with 
+abnormal 
+ratio present
+CMR not 
+suspicious 
+for cardiac 
+amyloidosis PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+AMYL-Aa High-sensitivity, troponin assays are increasingly used and replacing cTnl and cTNT in practice.
+1 Kumar S, Dispenzieri A, Lacy MQ, et al. Revised prognostic staging system for light chain amyloidosis incorporating cardiac biomarkers and serum free light chain 
+measurements. J Clin Oncol 2012;30:989-995.
+2 Palladini G, Sachchithanantham S, Milani P, et al. A European collaborative study of cyclophosphamide, bortezomib, and dexamethasone in upfront treatment of 
+systemic AL amyloidosis. Blood 2015;126:612-615.STAGING SYSTEMS FOR LIGHT CHAIN AMYLOIDOSIS
+Prognostic Risk 
+VariablesValue Prognostic 
+Variable Risk 
+ScoreStage Based on the Prognostic Variable Risk 
+Scores
+TroponinacTnT ≥0.025 µg/L
+1Stage I (Risk Score = 0) 
+hs-cTnT ≥40 pg/mL
+Stage II (Risk Score = 1)cTnI ≥0.1 µg/L
+BNP NT-ProBNP ≥1800 ng/L 1
+Stage III (Risk Score = 2) BNP ≥400 ng/L
+dFLC dFLC ≥18 mg/dL (180 mg/L) 1Stage IV (Risk Score = 3) Mayo 2012 Staging System1
+Risk Factors Value Stage Based on Risk Factors
+TroponinacTnT ≥0.035 µg/LStage I (No risk factors) 
+hs-cTnT ≥50 ng/L
+Stage II (1 risk factor)cTnI ≥0.1 µg/L
+BNP NT-ProBNP ≥332 ng/LStage IIIA (2 risk factors: NT-proBNP 332 to <8500 ng/L or BNP 
+81 to <700 ng/L) BNP ≥400 ng/L
+Stage IIIB (2 risk factors: NT-proBNP ≥8500 ng/L or 
+BNP ≥700 ng/L ) Mayo 2004 Staging System with European Modifications2PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+AMYL-B
+1 OF 6General Considerations
+• The goal of treatment is to achieve a complete hematologic response.
+• Frailty assessment should be considered in older adults. See NCCN Guidelines for Older Adult Oncology .
+• Modification of treatment should be considered if hematologic (biochemical) response is < very good partial response (VGPR) by cycle 3 or < 
+partial response (PR) by cycle 2 of initial therapy, or no complete response (CR) and persistent organ dysfunction.1
+• Typically, light-chain normalization precedes organ response. 
+• For SLCA with an underlying lymphoplasmacytic clone, treat underlying Waldenström macroglobulinemia (WM)/lymphoplasmacytic 
+lymphoma (LPL) as outlined in the NCCN Guidelines for Waldenström Macroglobulinemia/Lymphoplasmacytic Lymphoma.
+Supportive Care
+• There are several supportive care measures that should be considered. See Table 1 in Maroun BZ, et al. Blood Res 2022;57:106-116.
+Screening and Prophylaxis Recommendations  
+• Screen for HIV, hepatitis B, and hepatitis C, as clinically indicated.
+• Recommend herpes zoster prophylaxis for patients treated with proteasome inhibitors or Daratumumab.
+Side Effects and Lab Tests
+• Regimens containing Bortezomib are associated with a higher risk of treatment-related peripheral and autonomic neuropathy, especially in 
+those with disease-related baseline neuropathy. Close monitoring or alternative therapies should be considered in some patients.
+• Carfilzomib can potentially cause cardiac and pulmonary toxicity, especially in older patients.
+• Treatment with immunomodulatory drugs is associated with transient elevation of cardiac biomarkers. Patients with cardiac amyloid should 
+be carefully monitored while on therapy with immunomodulatory drugs.  
+• For patients with cardiac amyloidosis or nephrotic syndrome who are taking corticosteroids, close monitoring for volume overload is 
+necessary. A dose reduction or elimination may be required.
+• Renal function should be continuously monitored while on Lenalidomide to ensure appropriate dosing.
+• Type and screen should be performed before using Daratumumab. Daratumumab may interfere with serologic testing and cause a false-
+positive indirect Coombs test.
+• Daratumumab can produce a false-positive serum immunofixation if the monoclonal protein is IgG kappa and special interference testing or 
+MS-based assessment can differentiate between the two.
+Dosing and Administration 
+• Proteasome inhibitors: 
+Subcutaneous Bortezomib is the preferred method of administration.
+Weekly dosing schedules of Bortezomib are recommended. 
+Carfilzomib may be used once (preferred) or twice weekly and at different doses.
+For any regimen that includes Daratumumab, this could be Daratumumab for intravenous infusion or Daratumumab and Hyaluronidase-
+fihj for subcutaneous injection. Daratumumab and Hyaluronidase-fihj for subcutaneous injection has different dosing and administration 
+instructions compared to Daratumumab for intravenous injection.GENERAL CONSIDERATIONS FOR SYSTEMIC THERAPY FOR SLCA  
+ReferencesPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+AMYL-B 
+2 OF 6PRIMARY THERAPY FOR HCT-ELIGIBLE AND NON-ELIGIBLE PATIENTS WITH SLCA1,2,a,b,c
+(Note: If not a candidate for HCT at initial diagnosis, reassess after initiating systemic therapy  
+based on improvements in functional status and/or organ response.)
+Patient Characteristics Mayo 2004 
+StagingPreferred Useful in Certain Circumstances
+No significant 
+neuropathyStage I–IIIa• Daratumumab/Bortezomib/Cyclophosphamide/
+Dexamethasonef,g,h (category 1) 
+• Autologous HCT (if eligiblei) • Bortezomib/Cyclophosphamide/Dexamethasonef,g
+• Bortezomib/Melphalan/Dexamethasone  
+(if ineligible for HCT)g
+Stage IIIbd• Dose-modified Daratumumab/Bortezomib/
+Cyclophosphamide/Dexamethasonef,g,h
+• Single-agent Daratumumab• Dose-modified Bortezomib/Cyclophosphamide/
+Dexamethasoneg
+• Bortezomib/Melphalan/Dexamethasone  
+(if ineligible for HCT)g
+Significant neuropathy All stagese • Daratumumab/Bortezomib/Cyclophosphamide/
+Dexemathasonef,g,h• Lenalidomidej/Dexamethasone
+• Carfilzomib/Dexamethasone
+• Melphalan/Dexamethasone (if ineligible for HCT)
+a General Considerations for Systemic Therapy for SLCA (AMYL-B 1 of 6).
+b For autologous HCT eligibility and Melphalan dosing, see (AMYL-B 3 of 6).
+c Patients with IgM paraprotein may require different therapy. If there is underlying 
+plasma cell clone, follow suggested therapies. For lymphoma or LPL, see NCCN 
+Guidelines for Waldenström  Macroglobulinemia /Lymphoplasmacytic Lymphoma .
+d Stage IIIB patients were excluded at screening from the ANDROMEDA trial 
+according to the protocol. Retrospective trials have demonstrated acceptable 
+efficacy and safety profile of Daratumumab/Cyclophosphamide/Bortezomib/
+Dexamethasone in stage IIIb SLCA.
+e Dose modification and adjustments are mandatory in patients with advanced end 
+organ damage (cardiac or other).
+f Dexamethasone dosing can be considered at the 20 mg weekly dose, per 
+physician discretion, in those who are >70 years of age, had underweight (body 
+mass index <18.5), or had hypervolemia, poorly controlled diabetes mellitus, 
+or previous unacceptable side effects associated with glucocorticoid therapy. 
+Cyclophosphamide is capped at a 500 mg maximum weekly dose.
+g Dose reduce or discontinue Bortezomib if significant neuropathy. h Single-agent Daratumumab was given as maintenance therapy in the 
+ANDROMEDA trial.
+i Patients with single organ involvement, <10% marrow plasma cell involvement, 
+and good performance status.
+j Lenalidomide therapy is associated with increased toxicities, particularly in newly 
+diagnosed patients with untested cardiac functional impairment. Lenalidomide 
+should not be used in patients with advanced heart or autonomic nerve 
+involvement. Consider a lower starting dose (10–15 mg) of Lenalidomide in 
+patients with SLCA than is used in multiple myeloma (MM) even in those with 
+normal renal function. See NCCN Guidelines for Multiple Myeloma . 
+1 Wechalekar AD, Cibeira MT, Gibbs SD, et al. Guidelines for non-transplant 
+chemotherapy for treatment of systemic AL amyloidosis: EHA-ISA working group. 
+Amyloid 2023;30:3-17.
+2 Sanchorawala V, Boccadoro M, Gertz M, et al. Guidelines for high dose 
+chemotherapy and stem cell transplantation for systemic AL amyloidosis: EHA-
+ISA working group guidelines. Amyloid 2022;29:1-7. PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+AMYL-B
+3 OF 6TREATMENT CONSIDERATIONS FOR NEWLY DIAGNOSED SLCA  
+Considerations for Autologous HCT2,3  
+• Careful patient selection is critical for the success of autologous 
+HCT in AL amyloidosis. Enrollment of patient in a clinical trial is 
+encouraged.
+• Autologous HCT could be deferred if complete hematologic 
+response is achieved with induction therapy.
+• Prior to HCT: Consider induction therapy ( AMYL-B [2 of 6])
+• Post HCT: Consolidation and maintenance therapy are not routinely 
+recommended in SLCA.kDefinite Exclusions for Autologous HCT2
+• Symptomatic and/or medically refractory:
+Ventricular and atrial arrhythmias
+Pleural effusions
+• Uncompensated heart failure
+• Orthostatic hypotension refractory to medical therapy
+• Factor X deficiency with factor X level of <25% and/or evidence of 
+active bleeding
+• Extensive GI involvement with evidence of active GI bleeding or risk 
+of bleeding
+Melphalan 200lMelphalan 200mMelphalan 140
+Age ≤65 >65
+Cardiac stage I or II II or III
+eGFR (mL/min/m2) >50 30–50 <30n
+k In patients with overt concurrent MM, bone marrow plasma cells ≥20%, or high-
+risk FISH changes [del(17p), t(4;14), t(14;16), and t(14;20), 1q gain/amplification], 
+consideration can be given to extended duration therapy, including forms of 
+maintenance used in myeloma. Also, consolidation treatment may be considered 
+for patients with VGPR or complete hematologic response with persistent minimal 
+residual disease and no organ response.
+l Patient must meet all criteria to receive Melphalan 200.m Multidisciplinary discussion of using Melphalan 200 for autologous HCT versus 
+Daratumumab and Bortezomib-based induction regimen is recommended for this 
+patient group.
+n Increased risk of acute kidney injury and end-stage renal disease during peri-
+autologous HCT period, can consider if on a stable chronic dialysis schedule.
+2 Sanchorawala V, Boccadoro M, Gertz M, et al. Guidelines for high dose 
+chemotherapy and stem cell transplantation for systemic AL amyloidosis: EHA-
+ISA working group guidelines. Amyloid 2022;29:1-7.
+3 Baljevic M. Evolving role of autologous stem cell transplantation for light chain 
+amyloidosis in the modern era. Oncology (Williston Park) 2021;35:474-475.Melphalan Dosing Considerations : 
+The dose of Melphalan can be adjusted based on factors such as age, renal function, presence/absence of cardiac involvement, and 
+number of organs involved (see table below). These risk-adapted approaches have not been evaluated in randomized studies.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+AMYL-B
+4 OF 6a General Considerations for Systemic Therapy for SLCA (AMYL-B 1 of 6).
+o Consider collection of hematopoietic stem cells, if appropriate.
+p Recommend Daratumumab-based therapy for those who did not receive it as primary therapy.
+q Recommended starting dose of Lenalidomide is 10–15 mg.
+r Since a majority of patients with AL have t(11;14), consideration for BCL-2 targeting agents eg, Venetoclax should be a strong consideration in the relapse setting. 
+ReferencesTHERAPY FOR PREVIOUSLY TREATED DISEASEa,o
+Consider repeating initial therapy, especially if relapse-free for several yearsp
+• Bortezomib 
+• Bortezomib/Dexamethasone
+• Bortezomib/Cyclophosphamide/Dexamethasone
+• Bortezomib/Melphalan/Dexamethasone
+• Daratumumab
+• Ixazomib/Cyclophosphamide/Dexamethasone
+• Ixazomib/Dexamethasone
+• Ixazomib/Lenalidomide/Dexamethasoneq
+• Lenalidomide/Cyclophosphamide/Dexamethasoneq
+• Lenalidomide/Dexamethasoneq
+• High-dose Melphalan with HCT 
+• Melphalan/Dexamethasone
+• Pomalidomide/Dexamethasone
+Useful in Certain Circumstances
+• Bendamustine/Dexamethasone
+• For non-cardiac amyloidosis
+Carfilzomib
+Carfilzomib/Dexamethasone
+• Daratumumab/Lenalidomide/Dexamethasoneq
+• Venetoclax t(11;14)r
+• Venetoclax t(11;14)r/Dexamethasone
+• Venetoclax t(11;14)r + DaratumumabPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+AMYL-B
+5 OF 6• Bendamustine/Dexamethasone
+Lentzsch S, Lagos GG, Comenzo RL, et al. Bendamustine with dexamethasone in 
+relapsed/refractory systemic light-chain amyloidosis: Results of a phase II study. J Clin 
+Oncol 2020;38:1455-1462. 
+• Bortezomib/Cyclophosphamide/Dexamethasone
+Venner CP, Lane T, Foard D, et al. Cyclophosphamide, bortezomib, and dexamethasone 
+therapy in AL amyloidosis is associated with high clonal response rates and prolonged 
+progression-free survival. Blood 2012;119:4387-4390.
+Mikhael JR, Schuster SR, Jimenez-Zepeda VH, et al. Cyclophosphamide-bortezomib-
+dexamethasone (CyBorD) produces rapid and complete hematologic response in 
+patients with AL amyloidosis. Blood 2012;119:4391-4394.
+• Bortezomib ± Dexamethasone
+Reece DE, Hegenbart U, Sanchorawala V, et al. Efficacy and safety of once-weekly and 
+twice-weekly bortezomib in patients with relapsed systemic AL amyloidosis: Results of a 
+phase 1/2 study. Blood 2011;118:865-873.
+Kastritis E, Wechalekar AD, Dimopoulos MA, et al. Bortezomib with or without 
+dexamethasone in primary systemic (light chain) amyloidosis. J Clin Oncol 
+2010;28:1031-1037.
+Singh V, Saad A, Palmer J, et al. Response to bortezomib based induction therapy 
+in newly diagnosed light chain (AL) amyloidosis [abstract]. Blood 2009;1 14 
+(Suppl):Abstract 1867.
+Lamm W, Willenbacher W, Lang A, et al. Efficacy of the combination of bortezomib and 
+dexamethasone in systemic AL amyloidosis. Ann Hematol 2011;90:201-206.
+Reece DE, Sanchorawala V, Hegenbart U, et al. Weekly and twice-weekly bortezomib in 
+patients with systemic AL amyloidosis: results of a phase 1 dose-escalation study. Blood 
+2009;114:1489-1497.
+• Bortezomib/Lenalidomide/Dexamethasone
+Kastritis E, Dialoupi I, Gavriatopoulou M, et al. Primary treatment of light-chain 
+amyloidosis with bortezomib, lenalidomide, and dexamethasone. Blood Adv 
+2019;3:3002-3009.
+• Bortezomib/Melphalan/Dexamethasone
+Gasparetto C, Sanchorawala V, Snyder RM, et al. Use of melphalan (M)/dexamethasone 
+(D)/bortezomib in AL amyloidosis [abstract]. J Clin Oncol 2010;28 (Suppl):Abstract 8024.
+• Carfilzomib/Dexamethasone
+Manwani R, Mahmood S, Sachchithanantham S, et al. Carfilzomib is an effective upfront 
+treatment in AL amyloidosis patients with peripheral and autonomic neuropathy. Br J 
+Haematol 2019;187:638-641.• Daratumumab
+Kaufman GP, Schrier SL, Lafayette RA, et al. Daratumumab yields rapid and deep 
+hematologic responses in patients with heavily pretreated AL amyloidosis. Blood 
+2017;130:900-902.
+Kastritis E, Palladini G, Minnema MC, et al. Daratumumab-based treatment for 
+immunoglobulin light-chain amyloidosis. N Engl J Med 2021;385:46-58.
+• Daratumumab/Bortezomib/Cyclophosphamide/Dexamethasone
+Palladini G, Kastritis E, Maurer MS, et al. Daratumumab plus CyBorD for patients 
+with newly diagnosed AL amyloidosis: safety run-in results of ANDROMEDA. Blood 
+2020;136:71-80. 
+Chakraborty R, Rosenbaum C, Kaur G, et al. First report of outcomes in patients with 
+stage IIIb AL amyloidosis treated with Dara-VCD front-line therapy. Br J Haematol 
+2023;201:913-916.
+• Daratumumab/Lenalidomide/Dexamethasone
+Kawano Y, Hata H, Takashio S, et al. Daratumumab, lenalidomide and dexamethasone 
+in newly diagnosed systemic light chain amyloidosis patients associated with multiple 
+myeloma. B J Haematol 2022;198:e38-e41.
+• High-dose Melphalan with HCT
+Skinner M, Sanchorawala V, Seldin D, et al. High-dose melphalan and autologous stem-
+cell transplantation in patients with AL amyloidosis: an 8-year study. Ann Intern Med 
+2004;140:85-93.
+Gertz MA, Lacy MQ, Dispenzieri A, et al. Risk-adjusted manipulation of melphalan dose 
+before stem cell transplantation in patients with amyloidosis is associated with a lower 
+response rate. Bone Marrow Transplant 2004;34:1025-1031.
+Perfetti V, Siena S, Palladini G, et al. Long-term results of a risk-adapted approach to 
+melphalan conditioning in autologous peripheral blood stem cell transplantation for 
+primary (AL) amyloidosis. Haematologica 2006;91:1635-1643.
+D’Souza A, Dispenzieri A, Wirk B, et al. Improved outcomes after autologous 
+hematopoietic cell transplantation for light chain amyloidosis: A center for international 
+blood and marrow transplant research study. J Clin Oncol 2015;33:3741-3749.
+Dispenzieri A, Seenithamby K, Lacy MQ, et al. Patients with immunoglobulin light chain 
+amyloidosis undergoing autologous stem cell transplantation have superior outcomes 
+compared with patients with multiple myeloma: a retrospective review from a tertiary 
+referral center. Bone Marrow Transplant 2013;48:1302-1307.
+• Ixazomib/Dexamethasone
+Sanchorawala V, Palladini G, Kukreti V, et al. A phase 1/2 study of the oral proteasome 
+inhibitor ixazomib in relapsed or refractory AL amyloidosis. Blood 2017;130:597-605.SYSTEMIC LIGHT CHAIN AMYLOIDOSIS THERAPY: REFERENCES FOR TREATMENT OPTIONS
+ContinuedPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+AMYL-B
+6 OF 6• Ixazomib/Cyclophosphamide/Dexamethasone
+Muchtar E, Gertz MA, LaPlant BR, et al. Phase 2 trial of ixazomib, cyclophosphamide, 
+and dexamethasone for previously untreated light chain amyloidosis. Blood Adv 
+2022;6:5429-5435. 
+• Ixazomib/Lenalidomide/Dexamethasone
+Cohen OC, Sharpley F, Gilmore JD, et al. Use of ixazomib, lenalidomide and 
+dexamethasone in patients with relapsed amyloid light-chain amyloidosis. Br J Haematol 
+2020;189:643-649.
+• Lenalidomide/Cyclophosphamide/Dexamethasone
+Kumar SK, Hayman SR, Buadi FK, et al. Lenalidomide, cyclophosphamide, and 
+dexamethasone (CRd) for light-chain amyloidosis: long-term results from a phase 2 trial. 
+Blood 2012;119:4860-4867.
+Palladini G, Russo P, Milani P, et al. A phase II trial of cyclophosphamide, lenalidomide 
+and dexamethasone in previously treated patients with AL amyloidosis. Haematologica 
+2013;98:433-436.
+• Lenalidomide/Dexamethasone
+Sanchorawala V, Wright D, Rosenzweig M, et al. Lenalidomide and dexamethasone in 
+the treatment of AL amyloidosis: results of a phase 2 trial. Blood 2007;109:492-496.
+Dispenzieri A, Lacy M, Zeldenrust S, et al. The activity of lenalidomide with or without 
+dexamethasone in patients with primary systemic amyloidosis. Blood 2007;109:465-470.
+Dispenzieri A, Lacy M, Zeldenrust S, et al. Long term follow-up of patients with 
+immunoglobulin light chain amyloidosis treated with lenalidomide and dexamethasone 
+[abstract] Blood 2008;112: Abstract 1737.• Oral Melphalan/Dexamethasone
+Palladini G, Russo P, Nuvolone M, et al. Treatment with oral melphalan plus 
+dexamethasone produces long-term remissions in AL amyloidosis. Blood 2007;110:787-
+788.
+Jaccard A, Leblond V, Royer B, et al. Autologous stem cell transplantation (ASCT) 
+versus oral melphalan and high-dose dexamethasone in patients with AL (primary) 
+amyloidosis: long term follow-up of the French multicentric randomized trial [abstract]. 
+Blood 2010;116: Abstract 1344.
+• Pomalidomide/Dexamethasone
+Dispenzieri A, Buadi F, Laumann K, et al. Activity of pomalidomide in patients with 
+immunoglobulin light-chain amyloidosis. Blood 2012;119:5397-5404.
+Sanchorawala V, Shelton A, Lo S, et al. Pomalidomide and dexamethasone in the 
+treatment of AL amyloidosis: Results of a phase 1 and 2 trial. Blood 2016;128:1059-
+1062.
+• Venetoclax ± Dexamethasone
+Premkumar VJ, Lentzsch, Pan S, et al. Venetoclax induces deep hematologic remissions 
+in t(11;14) relapsed/refractory AL amyloidosis. Blood Cancer J 2021;11:10. 
+• Venetoclax/Daratumumab
+Lebel E, Kastritis E, Palladini G, et al. Venetoclax in relapse/refractory AL amyloidosis-a 
+multicenter international retrospective real-world study. Cancers (Basel) 2023;15:1710. SYSTEMIC LIGHT CHAIN AMYLOIDOSIS THERAPY: REFERENCES FOR TREATMENT OPTIONSPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+AMYL-Ca Characteristic findings on cardiac MRI: global subendocardial late gadolinium enhancement (subendocardial or transmural involvement) with abnormal myocardial and blood-pool 
+gadolinium kinetics . Transthoracic echocardiogram with global abnormal strain imaging in patients where CMR is not feasible/optimal.  Note: This is not part of the consensus criteria.
+1 Adapted with permission from John Wiley and Sons, Inc. Gertz M, Comenzo R, Fermand JP, et al. Definition of organ involvement and treatment response in immunoglobulin light chain 
+amyloidosis (AL): a consensus opinion from the 10th International Symposium on Amyloid and Amyloidosis, Tours, France,18-22 April 2004. Am J Hematol 2005;79:319-328. Copyright 
+(2005).
+2 Gertz MA, Merlini G. Definition of organ involvement and response to treatment in AL amyloidosis: an updated consensus opinion. Amyloid 2010;17(Suppl 1):48-49.DEFINITION OF ORGAN INVOLVEMENT BASED ON AMYLOIDOSIS CONSENSUS CRITERIA1,2 
+Organ Involvement
+Kidney • 24-h urine protein >0.5 g/d, predominantly albumin
+Hearta• Echo: 
+Mean wall thickness >12 mm 
+No other cardiac cause or an elevated NT-proBNP (>332 ng/L) in the absence of renal failure or atrial fibrillation
+Liver • Total liver span >15 cm in the absence of heart failure or alkaline phosphatase >1.5 times institutional upper limit of normal
+Nerve• Peripheral: clinical; 
+Symmetric lower extremity sensorimotor peripheral neuropathy
+• Autonomic: 
+Gastric-emptying disorder, 
+Pseudo-obstruction, 
+Voiding dysfunction not related to direct organ infiltration
+Gastrointestinal tract • Direct biopsy verification when GI tract specific symptoms are present
+Lung• Direct biopsy verification when lung specific symptoms are present
+• Interstitial radiographic pattern
+Soft tissue• Tongue enlargement, clinical
+• Arthropathy
+• Claudication, presumed vascular amyloid
+• Skin
+• Myopathy by biopsy or pseudohypertrophy
+• Lymph node (may be localized)
+• Carpal tunnel syndromePLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+Hematologic Response and Progression Criteria1
+Response Category Criteria
+Complete Normalization of the FLC levels and ratio,a negative serum and urine immunofixation
+Very good partial Reduction in the dFLC to <40 mg/L
+Partial A greater than 50% reduction in the dFLC
+No response Less than a PR
+Progression• From CR, any detectable monoclonal protein or abnormal FLC ratio (light chain must double)
+• From PR, 50% increase in serum M protein to >0.5 g/dL or 50% increase in urine M protein to >200 mg/d (a visible peak must be 
+present) 
+• Serum FLC increase of 50% to >100 mg/L
+Organ Response and Progression Criteria
+Organ Response Progression
+Heart1NT-proBNP response (>30% and >300 ng/L decrease in patients with 
+baseline NT-proBNP ≥650 ng/L) or NYHA class response (≥2 class 
+decrease in subjects with baseline NYHA class 3 or 4)NT-proBNP progression (>30% and >300 ng/L increase)b 
+or cTnT progression (≥33% increase) or ejection fraction 
+progression (≥10% decrease)
+Kidney2 ≥30% decrease in proteinuria or drop of proteinuria below 0.5 g/24 h in 
+the absence of renal progression≥25% decrease in eGFR
+Liver1 • 50% decrease in abnormal alkaline phosphatase value
+• Decrease in liver size radiographically at least 2 cm50% increase of alkaline phosphatase above the lowest value
+Peripheral 
+nervous systemaImprovement in electromyogram nerve conduction velocity
+(rare)Progressive neuropathy by electromyography or nerve
+conduction velocity
+a When FLC ratio is not within the reference range, the uninvolved FLC concentration must be greater than the involved FLC concentration. Palladini G, Schonland SO, 
+Sanchorawala, et al. Clarification on the definition of complete haematologic response in light-chain (AL) amyloidosis. Amyloid 2021;28:1-2. 
+b Patients with progressively worsening renal function cannot be scored for NT-proBNP progressi on. 
+1 Reproduced with permission from Springer Nature: Comenzo RL, Reece D, Palladini G, et al. Consensus guidelines for the conduct and reporting of clinical trials in 
+systemic light-chain amyloidosis. Leukemia 2012;26:2317-2325. Copyright (2012).
+2 Adapted with permission from the American Society of Hematology: Palladini G, Hegenbart U, Milani P, et al. A staging system for renal outcome and early markers of 
+renal response to chemotherapy in AL amyloidosis. Blood 2014;124:2325-2332.DEFINITION OF ORGAN AND HEMATOLOGIC RESPONSE AND PROGRESSION CRITERIA
+AMYL-DPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+GI gastrointestinal 
+H&P history and physical
+HCT hematopoietic cell transplant 
+HIV human immunodeficiency virus 
+hs-cTnT high sensitivity cardiac troponin 
+T
+LC-MS liquid chromatography-mass 
+spectrometry
+LDH lactate dehydrogenase 
+LFT liver function test
+LPL Lymphoplasmacytic Lymphoma
+MALT mucosa-associated lymphoid 
+tissue
+MGUS monoclonal gammopathy of 
+undetermined significance
+MM multiple myeloma
+MS mass spectrometry
+MZL marginal zone lymphoma
+NT-
+proBNPN-terminal prohormone of B-type 
+natriuretic peptidePR partial response 
+PT prothrombin time
+PTT partial thromboplastin time
+PYP pyrophosphate scintigraphy
+SIFE serum immunofixation 
+electrophoresis
+SLCA systemic light chain amyloidosis
+SMM smoldering multiple myeloma
+SPEP serum protein electrophoresis
+TnT troponin T
+TSH thyroid-stimulating hormone
+UIFE urine immunofixation 
+electrophoresis
+UPEP urine protein electrophoresis
+VGPR very good partial response
+WM Waldenström macroglobulinemia
+99mTc technetium-99mABBREVIATIONS
+ABBR-1AL light chain amyloidosis
+ALP alkaline phosphatase
+ALT alanine aminotransferase
+AST aspartate aminotransferase
+ATTR amyloid transthyretin 
+BNP B-type natriuretic peptide
+BUN blood urea nitrogen 
+CBC complete blood count 
+CR complete response
+CMR cardiovascular magnetic 
+resonance 
+cTnl cardiac troponin l
+cTnT cardiac troponin T
+dFLC difference between involved FLC 
+and uninvolved FLC
+ECG electrocardiogram 
+eGFR estimated glomerular filtration 
+rate
+EMG electromyogram
+FDG fluorodeoxyglucose
+FISH fluorescence in situ hybridization
+FLC free light chainPLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+NCCN Guidelines Version 1.2026
+Systemic Light Chain Amyloidosis
+Version 1.2026 06/11/25 © 2025 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.NCCN Guidelines Index
+Table of Contents
+Discussion
+Note: All recommendations are category 2A unless otherwise indicated.
+CAT-1NCCN Categories of Evidence and Consensus
+Category 1 Based upon high-level evidence (≥1 randomized phase 3 trials or high-quality , robust meta-analyses), there is 
+uniform NCCN consensus (≥85% support of the Panel) that the intervention is appropriate.
+Category 2A Based upon lower-level evidence, there is uniform NCCN consensus (≥85% support of the Panel) that the 
+intervention is appropriate.
+Category 2B Based upon lower-level evidence, there is NCCN consensus (≥50%, but <85% support of the Panel) that the 
+intervention is appropriate.
+Category 3 Based upon any level of evidence, there is major NCCN disagreement that the intervention is appropriate. 
+All recommendations are category 2A unless otherwise indicated.
+NCCN Categories of Preference
+PreferredInterventions that are based on superior efficacy, safety, and evidence; and, when appropriate, 
+affordability.
+Other recommendedOther interventions that may be somewhat less efficacious, more toxic, or based on less mature data; 
+or significantly less affordable for similar outcomes.
+Useful in certain 
+circumstancesOther interventions that may be used for selected patient populations (defined with recommendation).
+All recommendations are considered appropriate.PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-1 
+Discussion     
+Table of Contents  
+ 
+Overview  .............................................................................................................................................................................................. MS-2 
+Literature Search Criteria  ..................................................................................................................................................................... MS-2 
+Sensitive/Inclusive Language Usage .................................................................................................................................................... MS-2 
+Initial Diagnostic Workup  ...................................................................................................................................................................... MS-3 
+Localized Amyloidosis  .......................................................................................................................................................................... MS-5 
+Cardiac Amyloidosis  ............................................................................................................................................................................. MS-6 
+Staging .................................................................................................................................................................................................  MS-6 
+Organ Involvement and Response to Treatment  ................................................................................................................................... MS-7 
+Treatment of Newly Diagnosed SLCA  .................................................................................................................................................. MS-7 
+Therapy for Previously Treated SLCA  ................................................................................................................................................ MS-10 
+Summary  ............................................................................................................................................................................................ MS-15 
+References  ......................................................................................................................................................................................... MS-16 
+  
+ 
+  
+ This discussion corresponds to the NCCN Guidelines for Systemic Light Chain Amyloidosis  (Last updated : March 12 , 2025 ) PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-2 
+Overview 
+Primary systemic light chain amyloidosis (SLCA) , in contrast to multiple 
+myeloma , is typically character ized by a low burden of monoclonal 
+plasma cells in the bone marrow. The abnormal plasma cells produce  
+light chains that get converted to  amyloid fibrils  with an affinity for 
+visceral organs (such as the kidney, heart, g astrointestinal [GI] tract, 
+liver, spleen, and nervous system) and cause end -organ dysfunction.1  
+Major principles of management in SLCA are  to rapidly and sustainably 
+reduce the production,  as well as harmful deposition,  of causative 
+amyloidogeni c amyloid fibrils through individualiz ed therapy bas ed on  
+the extent of disease and organ involvement , type and the extent of 
+symptom burden , as well as anticipated treatment -related toxicity. 
+Throughout the management, organ- specific  supportive care  is 
+extended, preferentially in the context of experienced multidisciplinary 
+subspecialty care team s, to maximize  treatment efficacy, minimiz e 
+disease and treatment -related complications,  optimiz e quality of life , 
+and ultimately recover the function of the affected organs  and reduc e 
+the risk of death.  
+Around 69% of newly diagnosed patients have more than one organ 
+involved at the time of diagnosis.2 According to data from the U.S. 
+claims database, the incidence of amyloidosis seems to range from 9 to 14 cases per million person- years .
+3 Due to earlier diagnosis, newer 
+therapies that provide deeper responses, and better selection of candidate patients for autologous hematopoietic cell transplant (HCT) 
+consolidation, the early mortality rates (including transplant -related 
+mortality) of patients  with SLCA have decreased , and survival has 
+improved.  Literature Search Criteria  
+Prior to the update of this version of the NCCN Clinical Practice 
+Guidelines (NCCN Guidelines®) for Systemic Light Chain Amyloidosis , 
+an electronic search of the PubMed database was performed to obtain key literature in SLCA,  using the following search terms: Systemic Light 
+Chain Amyloidosis and Amyloidosis. The PubMed database was chosen as it is the most widely used resource for medical literature and 
+indexes peer -reviewed biomedical literature .
+4 
+The search  results were  narrowed by selecting studies in humans 
+published in English. Results were confined to th e following article 
+types:  Clinical Trial,  Phase II; Clinical Trial , Phase III ; Clinical Trial,  
+Phase IV;  Guideline;  Practice Guideline, Randomized Controlled Trial ; 
+Meta -Analysis ; Systematic Reviews ; and Validation S tudies.   
+The results of the PubMed search were examined for their potential 
+relevance. The data from key PubMed articles as well as articles from 
+additional sources deemed as relevant to these g uidelines  and 
+discussed by the P anel have been included in this version of the 
+Discussion section  (eg, e -publications ahead of print, meeting 
+abstracts) . Any r ecommendations for which high- level evidence is  
+lacking are based on the P anel’s review of lower -level evidence and 
+expert opinion.  
+The complete details of the D evelopment and Update of the NCCN 
+Guidelines are available at www.NCCN.org .  
+Sensitive/Inclusive Language Usage  
+NCCN Guidelines strive to use language that advances the goals of equity, inclusion, and representation.
+5 NCCN Guidelines endeavor to 
+use language that is person- first; not stigmatizing; anti -racist, anti -
+classist, anti -misogynist, anti -ageist, anti -ableist, and ant i-weight -PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-3 
+biased; and inclusive of individuals of all sexual orientations and gender 
+identities. NCCN Guidelines incorporate non- gendered language, 
+instead focusing on organ- specific recommendations. This language is 
+both more accurate and more inclusive and can hel p fully address the 
+needs of individuals of all sexual orientations and gender identities. NCCN Guidelines will continue to use the terms men, women, female, 
+and male when citing statistics, recommendations, or data from 
+organizations or sources that do not use inclusive terms. Most studies 
+do not report how sex and gender data are collected and use these 
+terms interchangeably or inconsistently. If sources do not differentiate 
+gender from sex assigned at birth or organs present, the information is 
+presumed to predominantly represent cisgender individuals. NCCN 
+encourages researchers to collect more specific data in future studies and organizations to use more inclusive and accurate language in their 
+future analyses.  
+Initial Diagnostic Workup  
+The workup of patients with suspected amyloidosis is geared towards 
+demonstration of the amyloid fibrils in tissue, identification of the protein 
+of origin, and in the setting of light chain amyloidosis demonstration of the monoclonal plasma cell disorder. Subsequent workup is geared 
+towards identifying the organs involved and the severity of organ 
+involvement and assessment of the feasibility and safety of different 
+treatment approaches.  
+Clinical and Amyloid -Related Assessment  
+The initial diagnostic workup includes a detailed history and physical (H&P) examination, evaluation of orthostatic vital signs, and careful 
+evaluation for the pathognomonic signs of amyloidosis.  In the setting of 
+a monoclonal process, imaging with whole- body low -dose CT scan or 
+FDG -PET/CT  can detect  osteolytic bone lesions . A skeletal survey is 
+acceptable in certain circumstances (ie, limited access to health care resources), but it is significantly less sensitive than whole- body low -
+dose CT and FDG -PET/CT. If FDG -PET/CT or whole- body low -dose CT 
+has been performed, then a skeletal survey is not needed. 
+Electrocardiogram (ECG)  may demonstrate low voltages and rhythm 
+abnormalities , especially in the setting of cardiac amyloidosis . 
+Laboratory Evaluation 
+The laboratory evaluation begins with a complete blood count (CBC) 
+with differential , including platelet counts , and peripheral blood smear . 
+Screening for monoclonal protein by serum and urine protein 
+electrophoresis (SPEP and UPEP) alone may not be adequate, as it 
+does not show a monoclonal spike in nearly 50% of cases. Therefore, 
+serum immunofixation electrophoresis (SIPE) and 24- hour urine 
+immunofixation electrophoresis (UIPE) is essential along with s erum 
+free light chain (FLC) analysis . The measurement  of serum FLC is a 
+diagnostic necessity, as the majority of patients with light chain 
+amyloidosis will have abnormalities of the kappa or lambda chains with 
+an abnormal  kappa/lambda ratio.6,7 
+To assess organ involvement, t he workup should include urinalysis with 
+quantification of proteinuria by 24 -hour urine collection and 
+measurement of creatinine clearance  (calculated or measured directly) . 
+FLCs are cleared by the kidney; therefore, renal insufficiency increases the concentrations of FLC. In that case, the kappa/lambda ratio or the 
+difference between involved and uninvolved FLCs should be monitored.
+6 Tests to assess renal function such as serum blood urea 
+nitrogen (BUN) content  and serum creatinine, electrolytes, albumin, 
+calcium, serum uric acid, serum lactate dehydrogenase ( LDH) , and 
+beta- 2 microglobulin are also recommended by the NCCN P anel.  
+Recommended l iver function evaluation tests  (LFTs)  include alkaline 
+phosphatase (ALP), aspartate aminotransferase (AST), alanine 
+aminotransferase (ALT), and bilirubin.  Cardiac biomarkers in the serum PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-4 
+provide a quantitative assessment of cardiac dysfunction (troponin I or 
+T), and cardiac stress brain natriuretic peptide (BNP) or N -terminal 
+prohormone of brain natriuretic peptide (NT -proBNP) are important 
+predictors of outcome in amyloidosis as well as part of the cardiac 
+response criteria.8,9 BNP evaluation can be performed if NT -proBNP 
+assessment is unavailable. Similar ly, if troponin T (TnT)  is unavailable, 
+then troponin I is acceptable.  A lipid panel is also recommended.  
+The Panel recommends comprehensive coagulation studies if  indicated , 
+including prothrombin time (PT), partial thromboplastin (PTT), and 
+Factor X.  Patients with SLCA  are at risk of developing acquired factor X 
+deficiency due to binding of factor  X to amyloid fibrils.10-12 This 
+deficiency typically responds to treatment of the underlying amyloidosis. 
+To determine if factor X is involved, prolonged thromboplastin time (PT) and activated prolonged partial thromboplastin time (PTT) tests may be 
+performed. The amyloid deposits should be confirmed to be composed 
+of light chains using immunohistochemistry or mass spectrometry. Immunohistochemistry for transthyretin or serum amyloid A component 
+should be performed if kappa and lambda stains are negative.  
+Pathologic Evaluation  
+The diagnosis of amyloidosis requires the identification of amyloid 
+deposits in tissues either by aspiration of abdominal subcutaneous fat 
+and/or  biopsy of the organs involved. C haracterization of amyloidosis as 
+a systemic light chain type requires the demonstration of the underlying 
+plasma cell clone
+. Therefore, i dentification of FLCs  in the serum or urine 
+must be followed by confirmation of amyloid in the tissue by pathologic evaluation.  
+Congo red staining of the subcutaneous fat aspirate is a reliable and 
+noninvasive test reported to identify amyloid deposits in approximately 
+85% of patients.
+12-14 Amyloid deposits can be identified by bone marrow 
+aspiration and biopsy followed by Congo red staining. The monoclonal plasma cell population can be detected in bone marrow aspirates by 
+immunohistochemical staining of kappa and lambda chains. 
+Immunohistochemistry for transthyretin or the serum  amyloid A 
+component should be performed if kappa and lambda stains are negative.  The stroma or blood vessels have been reported to be 
+positive for amyloid in  60% of patients.
+15 Plasma cell fluorescence in 
+situ hybridization (FISH) studies can be performed on bone marrow 
+aspirates . FISH studies can be used to identify genetic aberrations, 
+which can be prognostic in SCLA.16  
+Identification of FLCs  in the serum or urine without confirmation of the 
+amyloid composition in tissue is not adequate,  as patients with other 
+forms of amyloidosis may have an unrelated monoclonal gammopathy 
+of undetermined significance ( MGUS ).17 Therefore , it is essential to 
+confirm that the amyloid deposits are composed of light chains by 
+immunohistochemical methods, electron microscopy, or mass 
+spectrometry.18-20 Mass spectroscopy has a higher diagnostic accuracy 
+compared to immunohistochemistry in identifying the protein subunit  
+and is considered the gold standard to confirm light chain amyloid (AL) 
+subtype.21  
+If fat pad aspirate and bone marrow biopsy are negative and 
+amyloidosis is still suspected, then the affected organs ( eg, kidney, 
+liver, heart) should be evaluated.  
+A non- invasive nuclear imaging test, 99mTc -pyrophosphate (PYP) 
+scan s can help distinguish cardiac involvement with AL from amyloid 
+transthyretin (ATTR ). In individuals with cardiac involvement from AL, a 
+PYP scan is much less likely to be abnormal when compared to 
+individuals with ATTR.22,23 
+Since the treatment is different in the various types of amyloidosis, it is 
+essential to confirm that patients have light chain amyloidosis (AL) PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-5 
+rather than hereditary amyloidosis, senile amyloidosis, or secondary 
+amyloidosis.  
+Specialized Test ing Based on Organ Involvement  
+The m ajority of patients present with one or more organs  affected by 
+amyloidosis .  
+Cardiac involvement is diagnosed by imaging techniques such as 
+cardi ovascular  magnetic resonance (CMR) imaging in certain 
+circumstances . Transthoracic echocardiogram with global longitudinal 
+strain imaging is also an option in patients where CMR is not 
+feasible/optimal.  Low voltages and rhythm abnormalities can also be 
+captured on ECG in individuals with cardiac amyloid involvement.  
+Cardiovascular MRI has been successfully used for the diagnosis and 
+prognosis of amyloid cardiomyopathy.24,25 Characteristic findings on 
+cardiac MRI include global subendocardial late gadolinium 
+enhancement (subendocardial or transmural involvement) with 
+abnormal myocardial and blood- pool gadolinium kinetics.  When 
+appropriate, imaging should be done with contrast unless contraindicated.  
+Liver and GI involvement may be confirmed by performing a gastric 
+emptying scan if gastroparesis is present; and abdominal ultrasound or 
+CT scan as clinically indicated to determine craniocaudal liver span . 
+Upper and lower endoscopies  with random biopsies of suspected 
+affected portions to confirm AL involvement of the GI tract can be 
+extremely helpful in establishing the presence of deposits.  
+An electromyogram (EMG) or nerve conduction testing can be 
+performed if the patient has significant peripheral neuropathy to confirm peripheral nervous system involvement.  Endocrine tests (thyroid- stimulating hormone and cortisol levels) and 
+pulmonary function tests may be performed if involvement of the 
+endocrine system or lungs is suspected. Chest CT without contrast may 
+be performed,  if clinically  indicated.  
+Localized Amyloidosis 
+Localized amyloidosis (LA) is a rare, self -limiting disorder , caused by 
+the production of immunoglobulin- free light chains locally from plasma 
+cells or plasmacytic B -cells, typically affecting a single organ.26 Unlike 
+SLCA, LA frequently has no circulating monoclonal immunoglobulin light 
+chains. The m ost common organs affected in LA are the larynx, 
+trachea, lung, skin , or urinary tract, and account for  approximately  7% to 
+12% of all amyloidosis diagnoses .26,27 Because of the confined nature of 
+this disorder, and low propensity to develop generalized involvement , 
+individuals with LA typically have an excellent prognosis  and overall 
+survival (OS) comparabl e to that of the general population.26  
+If LA is suspected, it should first be  confirmed by mass spectrometry . 
+Once confirmed, SPEP and SIFE, and UPEP and UIFE with 24 -hour 
+urine collection are recommended as part of the workup. Serum FLC 
+assay, ECG, echocardiogram, NT- proBNP, TnT, LFTs, renal function 
+and urinalysis, and organ evaluation and imaging as clinically indicated 
+(see Laboratory Evaluation above)  are also included as part of the initial 
+diagnostic workup.           
+If monoclonal protein or isotypic light chain predominance is present 
+and/or there is suspicion of other organ involvement, bone marrow and 
+tissue biopsy with congo red staining and any identified amyloid deposit 
+be subjected to liquid chromatography -mass spectrometry (LC -MS). 
+Immunohistochemistry or immunofluorescence can be considered if mass spectrometry is not available. If clinically indicated,  biopsy of other 
+organs can be considered. If SLCA is confirmed, see Treatment of PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-6 
+Newly Diagnosed SCLA below. If no systemic disease is found, long-
+term follow -up is recommended. Surgical approaches can be 
+considered for symptomatic or cosmetic reasons.  A retrospective case 
+series evaluated the efficacy of surgical management in localized 
+laryngeal amyloidosis in 18 patients.28 Eleven patients (61.1%) required 
+surgical intervention due to progression, dysphonia/aphonia, dyspnea, 
+dysphagia,  and to rule out malignancy . No patients developed systemic 
+amyloidosis.   
+If monoclonal protein or isotypic light chain predominance is absent and 
+there is no suspicion of other organ involvement, patients can be 
+followed as clinically indicated due to low risk of progression. However, 
+if there is lymph node involvement, evaluation for low grade B -cell 
+lymphoma can be considered (marginal zone lymphoma,  mucosa -
+associated lymphoid tissue [MALT ] lymphoma, Waldenström 
+macroglobulinemia, or l ymphoplasmacytic lymphoma) . See the NCCN 
+Guidelines for B -Cell Lymphomas  and NCCN Guidelines for 
+Waldenström Macroglobulinemia/Lymphoplasmacytic Lymphoma 
+(available at www.NCCN.org ). Long- term follow -up is also required.     
+Cardiac Amyloidosis 
+If cardiac amyloidosis is suspected, workup includes SPEP and SIFE, 
+UPEP and UIFE with 24- hour urine collection. Imaging techniques for 
+cardiac involvement should also be included as well as cardiac 
+biomarkers discussed in the Laboratory Evaluation section above.   
+If CMR is suspicious for cardiac amyloidosis and monoclonal protein is  
+present, bone marrow and tissue biopsy with or without other organ 
+biopsy with congo red staining and LC -MS on any identified amyloid 
+deposit should be performed. If results indicate SLCA , treat accordingly. 
+If results are negative for SLCA , a cardiac biopsy is warranted.29 If no 
+monoclonal protein is  present, the NCCN Panel recommends cardiac scintigraphy with either PYP  scintigraphy 123I -MIBG, or 99mTC -DPD 
+followed by treatment according to  semiquantitative grade.30  
+If CMR is not suspicious for cardiac amyloidosis  and monoclonal protein 
+is present with other signs of SLCA, a bone marrow and fat pad biopsy 
+with or without other organ biopsy with congo red staining and LC -MS 
+should be performed. If systemic signs of amyloidosis are not present, the patient should be worked up for other diagnoses such as 
+monoclonal gammopathy of undetermined significance (MGUS), 
+smoldering multiple myeloma (SMM) , or multiple myeloma (MM) . See 
+the NCCN Guidelines for Multiple Myeloma  (avai lable at 
+www.NCCN.org ). If no monoclonal protein is present, other causes of 
+cardiac disease should be investigated.                                                                     
+Staging 
+While multiple prognostic models have been proposed for patients with 
+amyloidosis, the NCCN Panel recommends us ing the Mayo 2012 
+Staging System or the Mayo 2004 Staging System with European Modifications.
+31,32 The Mayo 2012 Staging System  incorporates NT-
+proBNP ≥1800 ng/L (or BNP ≥400 ng/L), cTnT ≥0.025 µ/L (or cardiac 
+troponin I  [cTnI] ≥ 0.1 µ/L  or high- sensitivity cTnT [hs -cTnT] ≥40 pg/mL ), 
+and the difference between involved and uninvolved serum free light chains (dFLC) ≥18 mg/dL as risk factors.
+31,33  
+Patients with no risk factors are classified as stage I, those with one 
+elevated risk factor as s tage II, those with two elevated risk factors as 
+stage III , and those with three elevated risk factors as stage IV. For 
+patients classified as having stage I, II, III, or IV disease, the median OS 
+from diagnosis i s 94, 40, 14, and 6 months, respectively.31   
+The Mayo 2004 Staging System with European Modifications is similar 
+to the Mayo 2012 Staging System, however, does not include dFLC.32 
+Some of the risk factor values also vary slightly, including cTNT ≥0.035 PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-7 
+μg/L, hs -cTnT ≥50 ng/L, and NT- ProBNP ≥332 ng/L, while the cutoff for 
+cTnl and BNP are the same.   
+Patients with no, or one risk factor are  classified as stage I or II, 
+respectively.32 Stage IIIA and IIIB  include two risk factors are divided 
+based on NT-proBNP and BNP levels (Stage IIIA: NT -proBNP 332 to 
+<8500 ng/L or BNP 81 to <700 ng/dL and Stage IIIB: NT -proBNP ≥8500 
+ng/L or  BNP ≥700 ng/dL.  
+Organ Involvement and Response to Treatment  
+The first international consensus opinion for the definition of organ 
+involvement and response to treatment for SLCA was published in 
+2005.34 These criteria have since been updated,35,36 and the tables with 
+definitions for hematologic and organ involvement and criteria for response to treatment are included in the NCCN Guidelines algorithms. 
+It is important to note that the definition of complete response (CR) has 
+been updated to highlight that beyond the need for having negative 
+amyloidogenic light chains (either free and/or as part of a complete 
+immunoglobulin) in immunofixation electrophoresis of both serum and 
+urine, e ither a n FLC ratio within the reference range or the  uninvolved 
+FLC concentration greater than involved FLC concentration with or 
+without an abnormal FLC ratio  is acceptable.
+37  
+Treatment of Newly Diagnosed SLCA 
+All patients with newly diagnosed SLCA with organ involvement should 
+be assessed to determine eligibility for autologous HCT.38-40 Only a 
+small proportion of patients with AL are  typically considered eligible for  
+autologous HCT based on the number and severity of organs involved. 
+Those with low tumor burden can proceed to receive HCT immediately. 
+Those who are not eligible for HCT due to high tumor burden may 
+receive systemic therapy  first, and their eligibility for transplant may be 
+assessed after initiating systemic therapy based on improvements in functional status and/or organ response.  The NCCN P anel members 
+recommend that treatm ent of SLCA should be in the context of a clinical 
+trial when possible because data are insufficient to identify optimal 
+treatment of the underlying plasma cell disorder.  
+All current strategies include systemic therapy to destroy the plasma 
+cells responsible for the synthesis of immunoglobulin light chains. 
+Several active regimens are available for the treatment of SLCA.  Most 
+are derived from the treatment of multiple myeloma. The goals of 
+therapy include eliminating the misfolded amyloid light chains as 
+promptly as possible, minimizing treatment toxicity, and supporting the 
+function of the damaged organs.  The consensus criteria for hematologic 
+and organ response were  updated at the 12th International Symposium 
+on Amyloidosis.35  
+The preferred primary treatment for patients with SLCA is in a clinical 
+trial, and participation in clinical trials should be encouraged.  
+Primary Therapy for SLCA  
+Preferred Regimen s for Primary Treatment of SLCA  
+Daratumumab in Combination with 
+Bortezomib/ Cyclophosphamide/ Dexamethasone  
+For Mayo 2004  stages I –IIIa, with no significant neuropathy, data 
+supporting the use of this regimen come from a phase 3 trial 
+(ANDROMEDA) in which patients (n = 388) with newly diagnosed 
+amyloidosis were randomized to receive six cycles of 
+cyclophosphamide, bortezomib, and dexamethasone ( CyBorD) with or 
+without  subcutaneous daratumumab (daratumumab and 
+hyaluronidase).41,42 
+Those receiving subcutaneous daratumumab as part of their regimen 
+received single- agent daratumumab monthly as maintenance therapy PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-8 
+for up to 2 years. After a median follow -up of 11.4 months, the addition 
+of daratumumab to CyBorD resulted in higher rates of hematologic CR 
+(53% vs. 18%), cardiac response (42% vs . 22%), and renal response 
+(53% vs . 24%). The addition of daratumumab also delayed major organ 
+deterioration, hematologic progression, and death (hazard ratio [ HR], 
+0.58; 95% CI , 0.36–0.93).42 The most common grade 3 or 4 adverse 
+events in the daratumumab arm compared with the control arm were 
+lymphopenia (13.0% vs. 10.1%), pneumonia (7.8% vs . 4.3%), cardiac 
+failure (6.2% vs.  4.8%), and diarrhea (5.7% vs.  3.7%).42 The U .S. Food 
+and Drug Administration (FDA) has approved this regimen for patients 
+with SLCA.  
+The NCCN P anel has included  daratumumab in combination with 
+CyBorD as a category 1, preferred therapy option for patients with stage 
+I-IIIa SLCA  and no significant neuropathy . For patients with significant 
+neuropathy, regardless of stage, this regimen is a category 2A, 
+preferred option.  
+For patients with no significant neuropathy and Mayo 2004 stage IIIb 
+disease, dose -modified daratumumab + CyBorD is a preferred regimen. 
+Because the ANDROMEDA trial excluded those with IIIb disease during the screening process, only retrospective trials are available for review. 
+A multicenter retrospective cohort study evaluated the  outcomes of 19 
+individuals with stage IIIb SLCA.
+43 Overall response rate was 100%, 
+with 17 patients achieving a very good partial response (VGPR) . At a 
+median follow -up of 12 months , estimated overall survival was 67.5% 
+(95% CI, 43.8– 84.7). 
+Autologous Hematopoietic Stem Cell Transplant  
+The role and timing of HCT for patients with AL amyloidosis is evolving, 
+especially with the availability of new systemic therapy options, 
+including daratumumab -containing regimens. Careful patient selection 
+is critical for the success of HCT in AL amyloidosis  due to the increased risk of treatment -related mortality from compromised organs from 
+amyloid deposits . Autologous HCT is a preferred option for  only 
+carefully selected patients  who meet all the following criteria: single 
+vital organ involvement , <10% marrow plasma cell involvement, and 
+good performance status (PS).40 It is important to keep in mind notable 
+exclusions for autologous HCT candidacy (see AMYL -B).40 Of note, the 
+SWOG phase III, randomized study comparing CyBorD induction, 
+followed by autologous HCT or CyBorD consolidation with daratumumab maintenance in individuals with newly diagnosed AL is 
+currently recruiting participants. ( NCT06022939)  
+Daratumumab 
+Single agent daratumumab is a preferred option for patients with no 
+significant neuropathy and stage IIIb disease.  Daratumumab may be 
+administered subcutaneously (daratumumab 1800 mg with 
+hyaluronidase 30,000 units) or intravenously (daratumumab 16 mg/kg). 
+Subcutaneous administration has fewer infusion- related reactions and a 
+faster administration time. S ingle -agent daratumumab has been  
+associated with high rates of overall hematologic response (66.6% – 
+90%).44-46 The t oxicity profile is similar to that seen in patients with 
+multiple myeloma ; however, the rates of  infection are more common in 
+patients with SLCA.47  
+Oral Melphalan/Dexamethasone (if ineligible for HCT)  
+The melphalan/dexamethasone regimen has also been used in the 
+management of SLCA. It has shown promising results in patients with 
+primary amyloidosis who are ineligible for HCT. A small study reported 
+hematologic response in 67% (n = 31) , and complete remission in 33% 
+(n = 15) of patients treated with melphalan and high- dose 
+dexamethasone in a median of 4.5 months.48 Improvement in organ 
+function was seen in 48% (n = 22) of patients. The updated results reported that the CR induced by melphalan and high- dose PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-9 
+dexamethasone was maintained in 70% of patients for up to 3 years, 
+and survival at a median follow -up of 5 years was about 50%.49  
+A long- term follow- up study evaluated the hematologic response rates 
+of oral melphalan with full -dose dexamethasone and an attenuated 
+dexamethasone schedule.50 Of the 259 patients, 76% in the full -dose 
+group (n = 119) had a hematologic response rate versus 51% in the 
+attenuated- dose group. Median OS was 7.4 years and 20 months in the 
+full-dose and attenuated dose, respectively.  
+The French Myeloma Collaborative Group compared melphalan and 
+dexamethasone to high- dose melphalan followed by HCT in a 
+randomized trial and found no significant differences for hematologic or organ responses.
+51 With a longer follow -up, the authors found that 
+neither survival nor remission duration were statistically different 
+between melphalan and dexamethasone versus high- dose melphalan 
+followed by HCT even after eliminating treatment -related mortality from 
+the HCT arm.50,52 The NCCN P anel has included oral 
+melphalan/dexamethasone as a preferred option for patients  with SLCA 
+of all stages, and with significant neuropathy , who are not candidates 
+for HCT.  
+Regimens Useful in Certain Circumstances for Primary Treatment of 
+SLCA  
+Bortezomib/Cyclophosphamide/Dexamethasone  
+The CyBorD  regimen was reported to have high hematologic response 
+rates and CR in two independent studies.53,54 In one study, 17 patients 
+(including 10 who received  no prior therapy) treated with CyBorD 
+achieved a hematologic response of 94% and a CR rate of 71%.53 The 
+median duration of response was 22 months. Organ response was observed in 50% of the patients with renal involvement. Three patients 
+originally ineligible for autologous HCT became eligible after treatment with CyBorD.
+53 In another study, 43 patients (including 20 who received  
+no prior therapy) were treated with biweekly administration of CyBorD.54 
+The hematologic response rate was 81.4% with a CR rate of 41.9%. A 
+small retrospective study of patients newly diagnosed with systemic 
+amyloidosis and multiple myeloma treated with the CyBorD regimen 
+containing subcutaneous bortezomib  reported a high response rate and 
+minimal toxicity .55  
+A European collaborative study evaluated the efficacy of CyBorD as a 
+first-line treatment for systemic amyloidosis in 230 patients using the 
+Mayo 2004 Staging System with European Modifications.32 Of the 201 
+patients with measurable disease, overall response was 77% in stage I 
+(n = 30), 64% in stage II (n = 67), 69% in Stage IIIA (n = 61), and 42% 
+in stage IIIB (n = 43). There was no significant difference in cumulative 
+proportion survival between stage II and stage IIIA ( P = .613), however, 
+average survival of patients with stage IIIA disease was 7 months ( P < 
+.001 when compared to stage I, II , and IIIA).  
+The NCCN Panel has included CyBorD as a treatment option for individuals with no significant neuropathy and stages I –IIIa. Dose-
+modified cyclophosphamide, bortezomib and  dexamethasone is an 
+option for patients with no significant neuropathy and stage IIIb disease.  
+This regimen is also an option if daratumumab is not available.  
+Bortezomib/Melphalan/Dexamethasone (if ineligible for HCT)  
+Combining weekly bortezomib with melphalan in a small series of 
+patients has yielded hematologic response rates of 94%.
+56 Bortezomib 
+in combination with melphalan and dexamethasone was evaluated in a 
+small phase II trial, and resulted in a best -response rate of over 80% 
+and a CR rate of 42%.57  
+Data supporting the use of this regimen are from a phase III trial of 
+patients ineligible for transplant (n  = 109) with SLCA who were PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-10 
+randomly assigned to receive primary therapy with 
+bortezomib/melphalan/dexamethasone versus 
+melphalan/dexamethasone.58 Hematologic response at 3 months w as 
+79% versus  52%; VGPR plus CR rate ( 64% vs . 39%) and superior OS 
+(median OS not reached vs . 34 months; HR , 0.50; 95% CI , 0.27– 0.90). 
+The rates of peripheral neuropathy were lower with subcutaneous 
+bortezomib compared with intravenous bortezomib.58 
+The NCCN P anel has included bortezomib/melphalan/dexamethasone 
+as an option for those  with no significant neuropathy and all stages,  and 
+ineligible for HCT.  
+Lenalidomide/Dexamethasone  
+A pooled analysis of three phase II trials evaluated the efficacy of 
+immunomodulatory  agents in SLCA , which included dexamethasone 
+with either lenalidomide (Len- Dex), cyclophosphamide and 
+lenalidomide, or pomalidomide (n = 101) .59 The Len-Dex cohort (n  = 37) 
+included individuals who were newly diagnosed or had 
+relapsed/refractory disease. Five -year OS was 32% (95% CI , 11.7–
+59.6)  and 3 participants (8%) died.  
+A phase 2 trial evaluated the efficacy and toxicity of lenalidomide in 
+newly diagnosed,  and previously treated,  patients  (n = 23)  with SLCA . 60 
+Dexamethasone was added if no hematologic response was seen. Of 
+the patients who received lenalidomide/dexamethasone, a hematologic 
+response rate of 75%  was achieved. The NCCN Panel recommends 
+lenalidomide with dexamethasone as a primary treatment option in 
+patients with SLCA  and significant neuropathy, regardless of stage. 
+Dose modification and adjustments are mandatory in patients with 
+advanced end organ damage (cardiac or renal ). Carfilzomib/Dexamethasone  
+Carfilzomib, a second- generation proteasome inhibitor (PI) may be used 
+in combination with dexamethasone as a primary treatment option in 
+patients with SLCA, regardless of stage, and in those with significant 
+neuropathy. However, d ata on the use of carfilzomib as a primary 
+treatment option in SLCA is limited  and prospective data  is needed . A 
+small cohort study of five patients with newly diagnosed SLCA , all of 
+whom had cardiac involvement and neuropathy, received IV carfilzomib 
+and corticosteroids (methylpr ednisolone or dexamethasone) for a 
+median number of three cycles.61 After one cycle, rapid hematological 
+response was reported with an 80.6% reduction in median dFLC. Three 
+patients achieved CR and VGPR was induced in the remaining two 
+patients. No decline in cardiac function or worsening neuropathy was 
+reported in any of the five patients.  
+Therapy for Previously Treated SLCA  
+There are no clinical trial data to determine the appropriate regimens for 
+previously treated SLCA. T reatment depend s on prior therapy received, 
+patient preferences, and toxicity profile. The NCCN P anel recommends 
+considering repeating the initial therapy, especially if the patient has no 
+relapse of disease for several years.  
+Bortezomib with or without Dexamethasone 
+Clinical studies have reported  bortezomib with or without 
+dexamethasone to be active as primary treatment as well as for 
+relapsed amyloidosis .13,62- 64 
+In a study comparing two doses of bortezomib, it was seen that 
+bortezomib is well tolerated at doses up to 1.6 mg/m2 on a once- weekly 
+schedule and 1.3 mg/m2 on a twice- weekly schedule.65 Although once-
+weekly and twice -weekly bortezomib were seen to be generally well 
+tolerated , those on the once- weekly bortezomib regimen had lower PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-11 
+neurotoxicity.65 After 51.8 months of median follow -up, the median OS 
+for all patients was 62.7 months,66 suggesting that achievement of 
+organ response has a positive impact on OS.  
+Data from three international centers from 94 patients (18 previously 
+untreated) treated with bortezomib reported a 71% (67 out of 93 
+patients) overall response rate with CR in 25% of patients (47% CR was 
+in previously untreated patients).13 In another study, 26 patients (18 
+who received  no prior therapy)  were treated  with the combination of 
+bortezomib/dexamethasone. The overall response rate was 54%, with 
+a 31% CR rate .63  
+The c ombination of bortezomib and dexamethasone was studied as 
+consolidation therapy in patients after HCT to see whether depth of response can be improved. At 24 months, greater than 60% had  a 
+partial response ( PR), 40% had  a CR, and organ responses were seen 
+in 70% of patients .
+67 The OS at 12 months was 88% and 82% at 24 
+months.67 
+ 
+In the relapsed setting only, a small study of patients (n = 18) with 
+relapsed or progressive amyloidosis on prior therapies showed 
+hematologic  response in 94% (n = 14) including CR in 44% (n = 7)68 
+when treated with bortezomib/dexamethasone. The  National 
+Amyloidosis Center in Britain conducted a study of  patients (n = 20) with 
+relapsed or refractory SLCA treated with  bortezomib, and reported a 
+hematologic response in 80% (n = 16) , of which 15% (n = 3) achieved a 
+CR and 65% (n =  13) achieved a PR .62 In another  multicenter phase I/II 
+dose- escalation study of bortezomib,  hematologic responses were seen 
+in 50% of patients (15 out of 30 evaluable pretreated patients) with a 
+CR rate of 20% (n = 6).69 
+ The NCCN Panel recommends bortezomib with or without 
+dexamethasone as a therapy option for previously treated disease.  
+Bortezomib/ Cyclophosphamide/ Dexamethasone  
+Studies of CyBorD in patients with SLCA have included newly 
+diagnosed and relapsed/refractory patients.32,53,54  
+ 
+The NCCN P anel notes that patients on regimens containing 
+bortezomib are associated with a higher risk of treatment -related 
+peripheral and autonomic neuropathy, especially in those with disease-
+related baseline neuropathy. Therefore, close monitoring, judicious 
+dosing,  or alternative therapies should be considered in some patients . 
+Bortezomib/ Melphalan/ Dexamethasone  
+While bortezomib, melphalan and dexamethasone is recommended by 
+the NCCN Panel as a primary therapy option regardless of stage, it is 
+also included as a therapy option for previously treated disease.58 See 
+Primary Therapy for SLCA.  
+Daratumumab 
+While s ingle -agent daratumumab is a preferred primary therapy option 
+for certain patients, the NCCN Panel also recommends it as an option 
+for patients  with previously treated disease  (if they have not received 
+daratumumab -based therapy as a primary treatment) . A retrospective 
+analysis evaluated the efficacy of daratumumab in 25 patients with 
+SLCA who had received a median of 3 prior lines of therapy.44 Overall 
+hematologic response rate was 76%, which included a CR and VGPR 
+of 36% and 24%, respectively . Results also showed that daratumumab 
+was well tolerated, as only grade 1 and 2 infusion reactions were 
+observed.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-12 
+Ixazomib/ Cyclophosphamide/ Dexamethasone  
+A single -arm, phase II trial evaluated the efficacy of ixazomib, 
+cyclophosphamide, and dexamethasone, followed by ixazomib 
+maintenance therapy  in newly diagnosed patients with AL .70 Thirty -five 
+patients were included in the study, with a median age of 67 years. The 
+primary objective was hematologic response, which was induced in 
+63% of patients . Complete response and VGPR was achieved in 11.4%  
+and 37.1% of patients, respectively . Two-year PFS was 74% and OS 
+was 78% at median follow -up of 29.7 months. (NCT01864018)   
+Ixazomib /Dexamethasone  
+A phase III trial (TOURMALINE -AL1) studied patients (n = 168) with 
+relapsed or refractory SLCA random ized to either 
+ixazomib/dexamethasone or to physician's choice of a non -proteasome 
+inhibitor -containing regimen following 1 to 2 prior lines of therapy.71 
+Hematologic response rate was the same, and occurred  in 53% of 
+patients treated with ixazomib/dexamethasone and in 51% with 
+physician's choice ( P = .76). The CR rate was 26% with ixazomib 
+versus 18% ( P = .22). Median time to vital organ deterioration or 
+mortality was longer with ixazomib at 34.8 versus 26.1 months (HR , 
+0.53; 95% CI, 0.32– 0.87; P = .01). Importantly, m edian treatment 
+duration of patients treated with ixazomib was longer at 11.7 versus 5.0 
+months. Adverse events included diarrhea (34% vs. 30 %), rash (33% 
+vs. 20%), cardiac arrhythmias (26% vs. 15%), and nausea (24% vs. 
+14%).  
+Ixazomib/ Lenalidomide/ Dexamethasone  
+A phase I/II trial evaluated the outcomes of patients (n = 40) with 
+relapsed SLCA treated with ixazomib/lenalidomide/dexamethasone. 
+Hematologic responses were seen at 3 months in 57.9% of patients. 
+Median progression- free survival (PFS) was 17 months in the overall 
+study patients. In those achieving CR/VGPR, the PFS was further improved to 28.8 months. Serious adverse events were infection (40%), 
+fluid overload (33.3%), cardiac arrhythmia (13.3%), renal dysfunction 
+(6.6%), and anemia (6.6%).72 
+Lenalidomide/ Cyclophosphamide/ Dexamethasone  
+In previously treated patients with relapsed SLCA , treatment with 
+lenalidomide/ cyclophosphamide/ dexamethasone has been shown to 
+produce a response rate of 62%.73-75  
+Lenalidomide/Dexamethasone  
+A retrospective analysis investigated the efficacy and toxicity  of 
+lenalidomide and dexamethasone in a large cohort of patients (n = 260) 
+with relapsed/refractory SLCA.76 Participants had received an average 
+of two prior lines of therapy  and after 3 months of treatment, 
+hematological response rate was 31%. Median OS and hematologic event -free survival was 32 months and 9 months, respectively after 
+follow- up at 56.5 months.  
+The results of another phase 2 trial (n = 34 and 91% of patients had 
+prior therapy) demonstrated that the reduced dose of lenalidomide at 15 
+mg per day had acceptable toxicity and good hematologic 
+responses.77 Of the 24 evaluable patients, reduced dose of 
+lenalidomide along with dexamethasone showed an overall hematologic 
+response rate of 67% (29% CR and 38% PR).77   
+In a more recent study, p atients (n = 84) previously treated with 
+thalidomide and/or bortezomib  were treated with lenalidomide and 
+dexamethasone. The overall hematologic response rate was 61%, 
+including a 20% CR rate . The 2 -year OS and PFS rates were reported 
+as 84% and 73%, respectively.78 PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-13 
+High -Dose Melphalan Followed by HCT  
+High-dose melphalan followed by HCT is one of the therapeutic options 
+listed in the NCCN Guidelines for Systemic Light Chain Amyloidosis® 
+(available at www.NCCN.org ). This treatment modality is associated 
+with significant treatment -related mortality79-85; therefore , careful 
+evaluation of patients who are potential candidates is key. The extent of 
+organ involvement is considered a predictor of outcome.82,83,86 
+In eligible patients, high- dose chemotherapy along with HCT  has been 
+associated with higher response rates and improved OS than standard chemotherapy.
+86 The best outcomes following HCT have been reported 
+in patients who achieve a CR to high- dose primary chemotherapy ,87 
+including improvement of organ -related disease.88 The most significant 
+indicator of treatment benefit is the depth of the response to therapy measured by the lowest  level of serum FLCs  post-transplantation .
+89 
+A number of groups have evaluated dose adjustment of high- dose 
+melphalan during a transplant based on factors such as age, number of organs involved,  and presence or absence of cardiac involvement.
+88,90,91 
+The reported toxicity of reduced- dose melphalan is substantially less 
+than that of high- dose  melphalan.90 Older studies indicated that higher 
+doses of melphalan were  associated with a higher CR rate, and 
+improved OS and event -free survival , but these publications occurred 
+during an era where patients received transplant as primary therapy, and those receiving lower doses of melphalan typically had more 
+advanced AL, and thus were destined for inferior outcomes.
+92 Over the 
+past decade, transplant -related mortality rates have decreased from 
+40% to about 7%.93-95 
+A long- term single -center study of the outcomes of patients who 
+underwent treatment with high- dose melphalan followed by H CT 
+reported survival of up to 20 years in 28.6% of patients.94 While the 
+survival was strongly dependent on achievement of a hematologic CR, those who do not achieve a CR and /or who relapsed after CR also had 
+a survival benefit with HCT.77 
+Melphalan/Dexamethasone  
+The NCCN Panel recommends melphalan and dexamethasone a s a 
+therapeutic option for previously treated disease. Data has shown CR 
+rates ranging from 13% to 33% and average OS from 10.5 to 61.2 
+months.96 See Primary Therapy for SLCA .  
+Pomalidomide/Dexamethasone  
+The safety and efficacy of pomalidomide and dexamethasone w ere 
+studied in a  prospective phase II study .97 Patients with previously 
+treated SLCA (n = 33) were enrolled in the trial and upon treatment with 
+pomalidomide and dexamethasone, confirmed response was reported 
+in 48% (n = 16) with a median time to response of 1.9 months . The 
+median OS rate  was 28 months and PFS  rate was 14 months; the OS 
+and PFS rates at 1 year were 76% and 59%, respectively.  
+Useful in Certain Circumstances for Previously Treated SLCA  
+Bendamustine/Dexamethasone  
+Bendamustine/dexamethasone is an option for patients who have 
+received multiple prior regimens. A multicenter phase 2 trial 
+evaluated this regimen in patients with persistent or progressive SLCA 
+after at least one prior therapy.98 Responses (PR or better) were seen in 
+57% of patients. Seven out of 24 patients with organ involvement had 
+overall organ response. The median PFS and OS were 11.3 months 
+and 18.2 months, respectively. OS was better among those with a 
+hematologic response.  The most common adverse events were 
+myelosuppression, fatigue, nausea, and vomiting.98  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-14 
+Carfilzomib for Non-cardiac Amyloidosis with or without  
+Dexamethasone  
+Data from a phase 1/2 study of carfilzomib with patients with 
+relapsed/refractory SLCA showed the maximum tolerated dose to be 36 
+mg/m2 twice weekly (after initial 20 mg/m2 dosing).99 
+Patients in this trial had a hematologic response rate of 63%. Grade 3 
+or 4 adverse events occurred in 71% of patients with multiple cardiac 
+events, including hypotension, hypertension, decreased ejection 
+fraction, and symptomatic ventricular tachycardia. Eleven patients had 
+worsening of NT- proBNP on carfilzomib, with five  of those patients 
+developing progressive cardiac dysfunction. Therefore, the NCCN 
+Panel has listed carfilzomib as an option for treatment of 
+relapsed/refractory SLCA in select patients wi th no cardiac involvement.  
+Daratumumab/Lenalidomide/Dexamethasone  
+A retrospective cohort study investigated the hematological and organ 
+response of daratumumab, lenalidomide, and dexamethasone (DRd) in 
+10 patients with multiple myeloma and concurrent SLCA.100 Eight 
+patients were considered stage III or IV according to the Mayo 2012 staging system . Nine  patients had cardiac involvement , and three 
+patients had renal amyloidosis . At 6 months, overall hematological 
+response was 90%, with >50% achieving a VGPR.  Four of eight 
+patients with a baseline BNP of ≥150 pg/ml  saw a >30% decrease. 
+Renal response was induced in two of the three patients with 
+amyloidosis and kidney involvement . The NCCN Panel recommends 
+DRd as a “Useful in Certain Circumstances” option for prev iously 
+treated disease and for those who did not receive a daratumumab -
+based regimen as a primary therapy.  
+Venetoclax t(11;14) with or without  Dexamethasone  
+Given the high prevalence of t(11;14) (~50%) and the efficacy of the 
+bcl2 inhibitor venetoclax in t(11;14) myeloma, there has been interest in exploring this drug in AL. A multicenter, international, retrospective 
+cohort study reported on outcomes of patients (n =  43) with 
+relapsed/refractory SLCA treated with venetoclax -containing 
+regimens.101 The overall PFS and OS at 12 months w ere 78% and 93%, 
+respectively. However, in patients (n =  30) harboring t(11;14), median 
+PFS and OS were not reached and 12 -month PFS and OS were 90% 
+and 97%, respectively. In comparison, among  patients without  t(11;14)  
+(n = 11), 12- month PFS and OS were 45% and 82% , respectively. Also,  
+81% (22 out of 27) of patients with t(11;14) achieved at least a PR and 
+78% (21 out of 27) achieved a VGPR/CR.101   
+Treatments Targeting Amyloid Fibrils  
+While prior  small studies demonstrated a potential role doxycycline  may 
+have in reducing early mortality in cardiac patients when used  
+prophylactically  in combination with plasma cell -directed therapy,102,103 a 
+recent randomized controlled study in China  failed to demonstrate a 
+benefit of doxycycline with  standard- of-care therapy.104 A trial of 
+doxycycline versus standard supportive therapy in newly diagnosed 
+cardiac AL a myloidosis patients undergoing bortezomib- based therapy 
+has also recently been terminated due to difficulty in recruitment  
+(NCT03474458) . Therefore, the Panel at present  cannot recommend 
+the use of amyloid- targeting agents  outside the setting of clinical 
+trials.105 
+Data on a  definitive impact of several anti-fibril monoclonal antibodies  
+added to the standard of care anti -plasma c ell therapy  is currently the 
+subject of ongoing,  phase 3,  multicenter, global, randomized, double-
+blind, placebo- controlled trials  in patients with  newly diagnosed SLCA  
+Mayo 2004 stage IIIa (NCT04512235) , Mayo 2004 stage IIIb  
+(NCT04504825) , and Mayo 2012 stage IV (NCT04973137) disease .   PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-15 
+Summary  
+Successful management of SLCA remains a challenge due to delayed 
+recognition of patients who often experience significant lag  in timely 
+diagnosis. The clinical manifestations are diverse and diagnosing it 
+accurately and at an early stage are key to improved outcomes. 
+Treatment of patients with SLCA has improved significantly over the 
+years, and therapeutic options have expanded significantly with newer 
+therapies , which have demonstrated capability in inducing rapid and 
+deep responses , that in turn translate  into high rates of organ response. 
+Whenever possible, patients should be evaluated in the context of 
+experienced amyloid multidisciplinary program s, and considered for  
+participation and  treatment  on clinical trials.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-16 
+References  
+1. Falk RH, Comenzo RL, Skinner M. The systemic amyloidoses. N 
+Engl J Med 1997;337:898- 909. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/9302305 . 
+2. Al Hamed R, Bazarbachi AH, Bazarbachi A, et al. Comprehensive 
+Review of AL amyloidosis: some practical recommendations. Blood 
+Cancer J 2021;11:97. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/34006856 . 
+3. Quock TP, Yan T, Chang E, et al. Epidemiology of AL amyloidosis: a 
+real-world study using US claims data. Blood Adv 2018;2:1046- 1053. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/29748430.  
+4. U.S. National Library of Medicine- Key MEDLINE® Indicators. 
+Available at: http://www.nlm.nih.gov/bsd/bsd_key.html . 
+5. Freedman -Cass DA, Fischer T, Alpert AB, et al. The Value and 
+Process of Inclusion: Using Sensitive, Respectful, and Inclusive 
+Language and Images in NCCN Content. J Natl Compr Canc Netw 
+2023;21:434 -441. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/37156485 . 
+6. Dispenzieri A, Kyle R, Merlini G, et al. International Myeloma Working 
+Group guidelines for serum -free light chain analysis in multiple myeloma 
+and related disorders. Leukemia 2009;23:215 -224. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/19020545 . 
+7. Baker KR. Light Chain Amyloidosis: Epidemiology, Staging, and 
+Prognostication. Methodist Debakey Cardiovasc J 2022;18:27- 35. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/35414848.  
+8. Dispenzieri A, Gertz MA, Kyle RA, et al. Serum cardiac troponins and N-terminal pro -brain natriuretic peptide: a staging system for primary 
+systemic amyloidosis. J Clin Oncol 2004;22:3751 -3757. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/15365071 . 
+9. Palladini G, Campana C, Klersy C, et al. Serum N -terminal pro -brain 
+natriuretic peptide is a sensitive marker of myocardial dysfunction in AL amyloidosis. Circulation 2003;107:2440 -2445. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/12719281 . 
+10. Choufani EB, Sanchorawala V, Ernst T, et al. Acquired factor X deficiency in patients with amyloid light -chain amyloidosis: incidence, 
+bleeding manifestations, and response to high- dose chemotherapy. 
+Blood 2001;97:1885 -1887. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/11238135 . 
+11. Thompson CA, Kyle R, Gertz M, et al. Systemic AL amyloidosis with acquired factor X deficiency: A study of perioperative bleeding risk and 
+treatment outcomes in 60 patients. Am J Hematol 2010;85:171 -173. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/20052750.  
+12. Abdallah N, Muchtar E, Dispenzieri A, et al. Coagulation 
+Abnormalities in Light Chain Amyloidosis. Mayo Clin Proc 2021;96:377 -
+387. Available at: https://www.ncbi.nlm.nih.gov/pubmed/33549257 . 
+13. Kastritis E, Wechalekar AD, Dimopoulos MA, et al. Bortezomib with or without dexamethasone in primary systemic (light chain) amyloidosis. 
+J Clin Oncol 2010;28:1031- 1037. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20085941 . 
+14. Yakupova EI, Bobyleva LG, Vikhlyantsev IM, Bobylev AG. Congo 
+Red and amyloids: history and relationship. Biosci Rep 2019;39. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/30567726.  
+15. Swan N, Skinner M, O'Hara CJ. Bone marrow core biopsy 
+specimens in AL (primary) amyloidosis. A morphologic and 
+immunohistochemical study of 100 cases. Am J Clin Pathol 
+2003;120:610 -616. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/14560572 . 
+16. Gertz MA, Dispenzieri A, Muchtar E. Importance of FISH genetics in light chain amyloidosis. Oncotarget 2017;8:81735- 81736. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29137218 . 
+17. Lachmann HJ, Wechalekar AD, Gillmore JD. High- dose melphalan 
+versus melphalan plus dexamethasone for AL amyloidosis. N Engl J PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-17 
+Med 2008;358:91 -92; author reply 92 -93. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18175386 . 
+18. Lavatelli F, Perlman DH, Spencer B, et al. Amyloidogenic and 
+associated proteins in systemic amyloidosis proteome of adipose tissue. 
+Mol Cell Proteomics 2008;7:1570 -1583. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18474516 . 
+19. Vrana JA, Gamez JD, Madden BJ, et al. Classification of 
+amyloidosis by laser microdissection and mass spectrometry -based 
+proteomic analysis in clinical biopsy specimens. Blood 2009;114:4957 -
+4959. Available at: https://www.ncbi.nlm.nih.gov/pubmed/19797517 . 
+20. Brambilla F, Lavatelli F, Di Silvestre D, et al. Reliable typing of 
+systemic amyloidoses through proteomic analysis of subcutaneous 
+adipose tissue. Blood 2012;119:1844 -1847. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/21917755 . 
+21. Gilbertson JA, Theis JD, Vrana JA, et al. A comparison of 
+immunohistochemistry and mass spectrometry for determining the 
+amyloid fibril protein from formalin- fixed biopsy tissue. J Clin Pathol 
+2015;68:314 -317. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25637636 . 
+22. Dorbala S, Falk R. Imaging cardiac amyloidosis: Patient page. J 
+Nucl Cardiol 2019;26:217- 221. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/30515743 . 
+23. Dower J, Dima D, Lalla M, et al. The use of PYP scan for evaluation 
+of ATTR cardiac amyloidosis at a tertiary medical centre. Br J Cardiol 
+2022;29:19. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/36212788 . 
+24. Maceira AM, Joshi J, Prasad SK, et al. Cardiovascular magnetic 
+resonance in cardiac amyloidosis. Circulation 2005;111:186 -193. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/15630027.  
+25. Martinez -Naharro A, Patel R, Kotecha T, et al. Cardiovascular 
+magnetic resonance in light -chain amyloidosis to guide treatment. Eur Heart J 2022;43:4722 -4735. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/36239754 . 
+26. Martinez JC, Lichtman EI. Localized light chain amyloidosis: A self -
+limited plasmacytic B -cell lymphoproliferative disorder. Front Oncol 
+2022;12:1002253. Available at: https://www.ncbi.nlm.nih.gov/pubmed/36457485 . 
+27. Schmid SE, Nesbitt NB, Snitchler AN, et al. Localized Amyloidosis 
+Involving Palatine Tonsils: A Case Report and Literature Review. Head 
+Neck Pathol 2020;14:1036- 1040. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32451875 . 
+28. Hazenberg AJ, Hazenberg BP, Dikkers FG. Long- term follow- up 
+after surgery in localized laryngeal amyloidosis. Eur Arch Otorhinolaryngol 2016;273:2613- 2620. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/27156084 . 
+29. Aguilera C, Oteo Dominguez JFOD, Garcia Izquierdo Jaen EGIJ, et 
+al. Patients with suspected cardiac amyloidosis. Role of endomyocardial 
+biopsy. European Heart Journal 2021;42. Available at: 
+https://doi.org/10.1093/eurheartj/ehab724.0857 . 
+30. Schockling EJ, Farrell MB, Embry -Dierson M, et al. Cardiac 
+Amyloidosis Imaging, Part 2: Quantification and Technical 
+Considerations. J Nucl Med Technol 2023;51:90 -98. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/37268318 . 
+31. Kumar S, Dispenzieri A, Lacy MQ, et al. Revised Prognostic Staging 
+System for Light Chain Amyloidosis Incorporating Cardiac Biomarkers 
+and Serum Free Light Chain Measurements. Journal of Clinical 
+Oncology 2012;30:989 -995. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22331953 . 
+32. Palladini G, Sachchithanantham S, Milani P, et al. A European 
+collaborative study of cyclophosphamide, bortezomib, and 
+dexamethasone in upfront treatment of systemic AL amyloidosis. Blood 
+2015;126:612 -615. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25987656 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-18 
+33. Muchtar E, Kumar SK, Gertz MA, et al. Staging systems use for risk 
+stratification of systemic amyloidosis in the era of high- sensitivity 
+troponin T assay. Blood 2019;133:763 -766. Available at: 
+https://www.sciencedirect.com/science/article/pii/S0006497120428009.  
+34. Gertz MA, Comenzo R, Falk RH, et al. Definition of organ 
+involvement and treatment response in immunoglobulin light chain 
+amyloidosis (AL): a consensus opinion from the 10th International 
+Symposium on Amyloid and Amyloidosis, Tours, France, 18- 22 April  
+2004. Am J Hematol 2005;79:319 -328. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/16044444 . 
+35. Gertz M, Merlini G. Definition of organ involvement and response to treatment in AL amyloidosis: an updated consensus opinion [abstract]. 
+Amyloid 2010 17(Suppl 1):48 -49.   
+36. Palladini G, Dispenzieri A, Gertz MA, et al. New criteria for response 
+to treatment in immunoglobulin light chain amyloidosis based on free 
+light chain measurement and cardiac biomarkers: impact on survival 
+outcomes. J Clin Oncol 2012;30:4541 -4549. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23091105 . 
+37. Palladini G, Schönland SO, Sanchorawala V, et al. Clarification on 
+the definition of complete haematologic response in light -chain (AL) 
+amyloidosis. Amyloid 2021;28:1 -2. Available at: 
+https://www.tandfonline.com/doi/full/10.1080/13506129.2020.1868810 . 
+38. Sidiqi MH, Aljama MA, Muchtar E, et al. Autologous stem cell transplant for immunoglobulin light chain amyloidosis patients aged 70 
+to 75. Biol Blood Marrow Transplant 2018;24:2157- 2159. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/29933071 . 
+39. Al Saleh AS, Sidiqi MH, Muchtar E, et al. Outcomes of patients with 
+light chain amyloidosis who had autologous stem cell transplantation 
+with 3 or more organs involved. Biol Blood Marrow Transplant 
+2019;25:1520 -1525. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31054986 . 40. Sanchorawala V, Boccadoro M, Gertz M, et al. Guidelines for high 
+dose chemotherapy and stem cell transplantation for systemic AL 
+amyloidosis: EHA -ISA working group guidelines. Amyloid 2022;29:1- 7. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/34783272.  
+41. Palladini G, Kastritis E, Maurer MS, et al. Daratumumab plus CyBorD for patients with newly diagnosed AL amyloidosis: safety run- in 
+results of ANDROMEDA. Blood 2020;136:71- 80. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32244252 . 
+42. Kastritis E, Palladini G, Minnema MC, et al. Daratumumab -based 
+treatment for immunoglobulin light -chain amyloidosis. N Engl J Med 
+2021;385:46 -58. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/34192431 . 
+43. Chakraborty R, Rosenbaum C, Kaur G, et al. First report of 
+outcomes in patients with stage IIIb AL amyloidosis treated with Dara -
+VCD front -line therapy. Br J Haematol 2023;201:913- 916. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/36896578 . 
+44. Kaufman GP, Schrier SL, Lafayette RA, et al. Daratumumab yields 
+rapid and deep hematologic responses in patients with heavily 
+pretreated AL amyloidosis. Blood 2017;130:900- 902. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28615223 . 
+45. Schwotzer R, Manz MG, Pederiva S, et al. Daratumumab for 
+relapsed or refractory AL amyloidosis with high plasma cell burden. 
+Hematol Oncol 2019;37:595- 600. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31486522 . 
+46. Roussel M, Merlini G, Chevret S, et al. A prospective phase 2 trial of 
+daratumumab in patients with previously treated systemic light -chain 
+amyloidosis. Blood 2020;135:1531- 1540. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/32108228 . 
+47. Van de Wyngaert Z, Carpentier B, Pascal L, et al. Daratumumab is 
+effective in the relapsed or refractory systemic light -chain amyloidosis 
+but associated with high infection burden in a frail real -life population. Br PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-19 
+J Haematol 2020;188:e24- e27. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31742668 . 
+48. Palladini G, Perfetti V, Obici L, et al. Association of melphalan and 
+high- dose dexamethasone is effective and well tolerated in patients with 
+AL (primary) amyloidosis who are ineligible for stem cell transplantation. Blood 2004;103:2936 -2938. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/15070667 . 
+49. Palladini G, Russo P, Nuvolone M, et al. Treatment with oral melphalan plus dexamethasone produces long- term remissions in AL 
+amyloidosis. Blood 2007;110:787- 788. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/17606766 . 
+50. Palladini G, Milani P, Foli A, et al. Oral melphalan and dexamethasone grants extended survival with minimal toxicity in AL 
+amyloidosis: long- term results of a risk -adapted approach. 
+Haematologica 2014;99:743- 750. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/24213149 . 
+51. Jaccard A, Moreau P, Leblond V, et al. High- dose melphalan versus 
+melphalan plus dexamethasone for AL amyloidosis. N Engl J Med 2007;357:1083 -1093. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/17855669 . 
+52. Jaccard A, Leblond V, Royer B, et al. Autologous stem cell 
+transplantation (ASCT) versus oral melphalan and high- dose 
+dexamethasone in patients with AL (primary) amyloidosis: long term follow- up of the French multicentric randomized trial [abstract]. B lood 
+2010;116:Abstract 1344. Available at: http://abstracts.hematologylibrary.org/cgi/content/abstract/116/21/1344.  
+53. Mikhael JR, Schuster SR, Jimenez -Zepeda VH, et al. 
+Cyclophosphamide- bortezomib- dexamethasone (CyBorD) produces 
+rapid and complete hematologic response in patients with AL amyloidosis. Blood 2012;119:4391- 4394. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/22331188 . 54. Venner CP, Lane T, Foard D, et al. Cyclophosphamide, bortezomib, 
+and dexamethasone therapy in AL amyloidosis is associated with high 
+clonal response rates and prolonged progression- free survival. Blood 
+2012;119:4387 -4390. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/22331187 . 
+55. Shah GL, Kaul E, Fallo S, et al. Subcutaneous bortezomib in 
+combination regimens in newly diagnosed patients with myeloma or 
+systemic AL amyloidosis: High response rates and minimal toxicity 
+[abstract]. Blood 2012;120:Abstract 2968. Available at: 
+http://abstracts.hematologylibrary.org/cgi/content/abstract/ashmtg;120/2
+1/2968.  
+56. Gasparetto C, Sanchorawala V, Snyder RM, et al. Use of melphalan 
+(M)/dexamethasone (D)/bortezomib in AL amyloidosis [abstract]. j Clin 
+Oncol 2010;28:Abstract 8024. Available at: 
+http://meeting.ascopubs.org/cgi/content/abstract/28/15_suppl/8024 . 
+57. Zonder J, Sanchorawala V, Snyder R. Rapid haematologic and 
+organ responses in patients with AL amyloid treated with bortezomib 
+plus melphalan and dexamethasone [abstract]. Amyloid 2010;17(s1):86.   
+58. Kastritis E, Leleu X, Arnulf B, et al. Bortezomib, melphalan, and 
+dexamethasone for light -chain amyloidosis. J Clin Oncol 2020;38:3252-
+3260. Available at: https://www.ncbi.nlm.nih.gov/pubmed/32730181 . 
+59. Warsame R, LaPlant B, Kumar SK, et al. Long- term outcomes of 
+IMiD- based trials in patients with immunoglobulin light -chain 
+amyloidosis: a pooled analysis. Blood Cancer J 2020;10:4. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31913261 . 
+60. Dispenzieri A, Lacy M, Zeldenrust S, et al. The activity of 
+lenalidomide with or without dexamethasone in patients with primary 
+systemic amyloidosis. Blood 2007;109:465- 470. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/17008538 . 
+61. Manwani R, Mahmood S, Sachchithanantham S, et al. Carfilzomib 
+is an effective upfront treatment in AL amyloidosis patients with PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-20 
+peripheral and autonomic neuropathy. Br J Haematol 2019;187:638-
+641. Available at: https://www.ncbi.nlm.nih.gov/pubmed/31388995 . 
+62. Wechalekar AD, Lachmann HJ, Offer M, et al. Efficacy of 
+bortezomib in systemic AL amyloidosis with relapsed/refractory clonal 
+disease. Haematologica 2008;93:295 -298. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/18245653 . 
+63. Lamm W, Willenbacher W, Lang A, et al. Efficacy of the combination 
+of bortezomib and dexamethasone in systemic AL amyloidosis. Ann 
+Hematol 2011;90:201 -206. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20821326 . 
+64. Singh V, Saad A, Palmer J, et al. Response to bortezomib based 
+induction therapy in newly diagnosed light chain (AL) amyloidosis 
+[abstract]. Blood 2009;114:Asbtract 1867. Available at: 
+http://abstracts.hematologylibrary.org/cgi/content/abstract/114/22/1867.  
+65. Reece DE, Hegenbart U, Sanchorawala V, et al. Efficacy and safety 
+of once -weekly and twice -weekly bortezomib in patients with relapsed 
+systemic AL amyloidosis: results of a phase 1/2 study. Blood 2011;118:865 -873. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21562045 . 
+66. Reece DE, Hegenbart U, Sanchorawala V, et al. Long- term follow -
+up from a phase 1/2 study of single- agent bortezomib in relapsed 
+systemic AL amyloidosis. Blood 2014;124:2498 -2506. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/25202139 . 
+67. Landau H, Hassoun H, Rosenzweig MA, et al. Bortezomib and dexamethasone consolidation following risk -adapted melphalan and 
+stem cell transplantation for patients with newly diagnosed light -chain 
+amyloidosis. Leukemia 2013;27:823 -828. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23014566 . 
+68. Kastritis E, Anagnostopoulos A, Roussou M, et al. Treatment of light chain (AL) amyloidosis with the combination of bortezomib and 
+dexamethasone. Haematologica 2007;92:1351- 1358. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/18024372 . 69. Reece DE, Sanchorawala V, Hegenbart U, et al. Weekly and twice-
+weekly bortezomib in patients with systemic AL amyloidosis: results of a 
+phase 1 dose- escalation study. Blood 2009;114:1489- 1497. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/19498019.  
+70. Muchtar E, Gertz MA, LaPlant BR, et al. Phase 2 trial of ixazomib, cyclophosphamide, and dexamethasone for previously untreated light 
+chain amyloidosis. Blood Adv 2022;6:5429 -5435. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/35737873 . 
+71. Dispenzieri A, Kastritis E, Wechalekar AD, et al. Primary results 
+from the phase 3 Tourmaline- AL1 trial of ixazomib -dexamethasone 
+versus physician's choice of therapy in patients (Pts) with 
+relapsed/refractory primary systemic AL amyloidosis (RRAL). Bl ood 
+2019;134:139 -139. Available at: https://doi.org/10.1182/blood- 2019 -
+124409.  
+72. Cohen OC, Sharpley F, Gillmore JD, et al. Use of ixazomib, 
+lenalidomide and dexamethasone in patients with relapsed amyloid 
+light-chain amyloidosis. Br J Haematol 2020;189:643- 649. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/31984481 . 
+73. Kastritis E, Terpos E, Roussou M, et al. A phase 1/2 study of 
+lenalidomide with low -dose oral cyclophosphamide and low -dose 
+dexamethasone (RdC) in AL amyloidosis. Blood 2012;119:5384 -5390. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/22517904.  
+74. Kumar SK, Hayman SR, Buadi FK, et al. Lenalidomide, cyclophosphamide, and dexamethasone (CRd) for light -chain 
+amyloidosis: long- term results from a phase 2 trial. Blood 
+2012;119:4860 -4867. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22504925 . 
+75. Palladini G, Russo P, Milani P, et al. A phase II trial of cyclophosphamide, lenalidomide and dexamethasone in previously 
+treated patients with AL amyloidosis. Haematologica 2013;98:433- 436. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/22983583.  PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-21 
+76. Basset M, Kimmich CR, Schreck N, et al. Lenalidomide and 
+dexamethasone in relapsed/refractory immunoglobulin light chain (AL) 
+amyloidosis: results from a large cohort of patients with long follow -up. 
+Br J Haematol 2021;195:230- 243. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/34341985 . 
+77. Sanchorawala V, Wright D, Rosenzweig M, et al. Lenalidomide and 
+dexamethasone in the treatment of AL amyloidosis: results of a phase 2 
+trial. Blood 2007;109:492 -496. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/16960148 . 
+78. Mahmood S, Venner CP, Sachchithanantham S, et al. Lenalidomide 
+and dexamethasone for systemic AL amyloidosis following prior 
+treatment with thalidomide or bortezomib regimens. Br J Haematol 
+2014;166:842 -848. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/24930361 . 
+79. Comenzo RL, Gertz MA. Autologous stem cell transplantation for primary systemic amyloidosis. Blood 2002;99:4276- 4282. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/12036853 . 
+80. Gertz MA, Lacy MQ, Dispenzieri A, et al. Stem cell transplantation for the management of primary systemic amyloidosis. Am J Med 
+2002;113:549 -555. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/12459400 . 
+81. Goodman HJ, Gillmore JD, Lachmann HJ, et al. Outcome of 
+autologous stem cell transplantation for AL amyloidosis in the UK. Br J 
+Haematol 2006;134:417 -425. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/16822290 . 
+82. Jimenez -Zepeda VH, Franke N, Delgado D, et al. High- dose 
+melphalan for AL amyloidosis: The importance of case selection to 
+improve clinical outcomes [abstract]. Blood 2010;116:Abstract 2403. 
+Available at: 
+http://abstracts.hematologylibrary.org/cgi/content/abstract/116/21/2403.  
+83. Wechalekar AD, Schonland SO, Kastritis E, et al. A European 
+collaborative study of treatment outcomes in 346 patients with cardiac stage III AL amyloidosis. Blood 2013;121:3420 -3427. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23479568 . 
+84. Sanchorawala V. Role of high- dose melphalan and autologous 
+peripheral blood stem cell transplantation in AL amyloidosis. Am J 
+Blood Res 2012;2:9- 17. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/22432083 . 
+85. Cordes S, Dispenzieri A, Lacy MQ, et al. Ten -year survival after 
+autologous stem cell transplantation for immunoglobulin light chain 
+amyloidosis. Cancer 2012;118:6105 -6109. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22707405 . 
+86. Dispenzieri A, Kyle RA, Lacy MQ, et al. Superior survival in primary 
+systemic amyloidosis patients undergoing peripheral blood stem cell 
+transplantation: a case- control study. Blood 2004;103:3960- 3963. 
+Available at: http://www.ncbi.nlm.nih.gov/pubmed/14739213.  
+87. Gertz MA, Lacy MQ, Dispenzieri A, et al. Effect of hematologic 
+response on outcome of patients undergoing transplantation for primary 
+amyloidosis: importance of achieving a complete response. 
+Haematologica 2007;92:1415- 1418. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/17768110 . 
+88. Skinner M, Sanchorawala V, Seldin DC, et al. High- dose melphalan 
+and autologous stem -cell transplantation in patients with AL 
+amyloidosis: an 8- year study. Ann Intern Med 2004;140:85 -93. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/14734330.  
+89. Kumar SK, Dispenzieri A, Lacy MQ, et al. Changes in serum -free 
+light chain rather than intact monoclonal immunoglobulin levels predicts 
+outcome following therapy in primary amyloidosis. Am J Hematol 
+2011;86:251 -255. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/21328431 . 
+90. Gertz MA, Lacy MQ, Dispenzieri A, et al. Risk -adjusted manipulation 
+of melphalan dose before stem cell transplantation in patients with 
+amyloidosis is associated with a lower response rate. Bone Marrow PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-22 
+Transplant 2004;34:1025 -1031. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/15516945 . 
+91. Perfetti V, Siena S, Palladini G, et al. Long- term results of a risk -
+adapted approach to melphalan conditioning in autologous peripheral 
+blood stem cell transplantation for primary (AL) amyloidosis. 
+Haematologica 2006;91:1635- 1643. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/17145600 . 
+92. Cibeira MT, Sanchorawala V, Seldin DC, et al. Outcome of AL amyloidosis after high- dose melphalan and autologous stem cell 
+transplantation: long- term results in a series of 421 patients. Blood 
+2011;118:4346 -4352. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/21828140 . 
+93. Gertz MA, Lacy MQ, Dispenzieri A, et al. Trends in day 100 and 2-
+year survival after auto -SCT for AL amyloidosis: outcomes before and 
+after 2006. Bone Marrow Transplant 2011;46:970 -975. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/20935685 . 
+94. Sanchorawala V, Sun F, Quillen K, et al. Long- term outcome of 
+patients with AL amyloidosis treated with high- dose melphalan and 
+stem cell transplantation: 20- year experience. Blood 2015;126:2345-
+2347. Available at: https://www.ncbi.nlm.nih.gov/pubmed/26443620 . 
+95. Tsai SB, Seldin DC, Quillen K, et al. High- dose melphalan and stem 
+cell transplantation for patients with AL amyloidosis: trends in treatment -
+related mortality over the past 17 years at a single referral center. Blood 
+2012;120:4445 -4446. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/23175664 . 
+96. Sanchorawala V, Patel JM, Sloan JM, et al. Melphalan, lenalidomide and dexamethasone for the treatment of immunoglobulin light chain 
+amyloidosis: results of a phase II trial. Haematologica 2013;98:789- 792. 
+Available at: https://www.ncbi.nlm.nih.gov/pubmed/23144200.  
+97. Dispenzieri A, Buadi F, Laumann K, et al. Activity of pomalidomide 
+in patients with immunoglobulin light -chain amyloidosis. Blood 2012;119:5397 -5404. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/22493299 . 
+98. Lentzsch S, Lagos GG, Comenzo RL, et al. Bendamustine with 
+dexamethasone in relapsed/refractory systemic light -chain amyloidosis: 
+Results of a phase II study. J Clin Oncol 2020;38:1455- 1462. Available 
+at: https://www.ncbi.nlm.nih.gov/pubmed/32083996.  
+99. Cohen AD, Landau H, Scott EC, et al. Safety and efficacy of 
+carfilzomib (CFZ) in previously -treated systemic light -chain (AL) 
+amyloidosis. Blood 2016;128:645- 645. Available at: 
+https://www.sciencedirect.com/science/article/pii/S0006497119306469.  
+100. Kawano Y, Hata H, Takashio S, et al. Daratumumab, lenalidomide 
+and dexamethasone in newly diagnosed systemic light chain 
+amyloidosis patients associated with multiple myeloma. Br J Haematol 
+2022;198:e38 -e41. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/35524546 . 
+101. Premkumar VJ, Lentzsch S, Pan S, et al. Venetoclax induces deep hematologic remissions in t(11;14) relapsed/refractory AL amyloidosis. 
+Blood Cancer Journal 2021;11:10. Available at: 
+https://doi.org/10.1038/s41408- 020-00397 -w 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7801694/pdf/41408_202
+0_Article_397.pdf . 
+102. Wechalekar AD, Whelan C. Encouraging impact of doxycycline on 
+early mortality in cardiac light chain (AL) amyloidosis. Blood Cancer J 
+2017;7:e546. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/28338670 . 
+103. D'Souza A, Flynn K, Chhabra S, et al. Rationale and design of 
+DUAL study: Doxycycline to Upgrade response in light chain (AL) 
+amyloidosis (DUAL): A phase 2 pilot study of a two- pronged approach 
+of prolonged doxycycline with plasma cell -directed therapy in the 
+treatment of AL amyloidosis. Contemp Clin Trials Commun 2017;8:33-
+38. Available at: https://www.ncbi.nlm.nih.gov/pubmed/29696194 . PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.
+
+   
+Version 1.2026 © 2025 National Comprehensive Cancer Network© (NCCN©), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.  NCCN Guidelines Version 1.2026 
+Systemic Light Chain Amyloidosis  
+ 
+MS-23 
+104. Shen KN, Fu WJ, Wu Y, et al. Doxycycline combined with 
+bortezomib- cyclophosphamide- dexamethasone chemotherapy for newly 
+diagnosed cardiac light -chain amyloidosis: A multicenter randomized 
+controlled trial. Circulation 2022;145:8- 17. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/34503349 . 
+105. Wechalekar AD, Cibeira MT, Gibbs SD, et al. Guidelines for non-
+transplant chemotherapy for treatment of systemic AL amyloidosis: 
+EHA-ISA working group. Amyloid 2023;30:3- 17. Available at: 
+https://www.ncbi.nlm.nih.gov/pubmed/35838162 . 
+ PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement, and you MAY NOT distribute this Content or use it with any artificial intelligence model or tool.
+Printed by Kevin Luo on 7/21/2025 6:08:02 PM. Copyright © 2025 National Comprehensive Cancer Network, Inc. All Rights Reserved.

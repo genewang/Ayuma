@@ -21,7 +21,7 @@ const Navigation: React.FC<NavigationProps> = ({ showAuth = true }) => {
               <div className="h-8 w-8 bg-indigo-600 rounded-lg flex items-center justify-center mr-3">
                 <span className="text-white font-bold text-sm">GP</span>
               </div>
-              <span className="text-xl font-bold text-gray-900">GuidePath AI</span>
+              <span className="text-xl font-bold text-gray-900">PathLink</span>
             </Link>
 
             <nav className="hidden md:ml-6 md:flex md:space-x-8">
