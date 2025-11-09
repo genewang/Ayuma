@@ -44,3 +44,8 @@ venv/
 backend/venv/
 *.dylib
 backend/chroma_data/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.class
