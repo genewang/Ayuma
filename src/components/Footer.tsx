@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center mb-4">
               <div className="h-8 w-8 bg-indigo-600 rounded-lg flex items-center justify-center mr-3">
-                <span className="text-white font-bold text-sm">GP</span>
+                <span className="text-white font-bold text-sm">PL</span>
               </div>
               <span className="text-xl font-bold">PathLink</span>
             </div>

@@ -19,7 +19,7 @@ const Navigation: React.FC<NavigationProps> = ({ showAuth = true }) => {
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center">
               <div className="h-8 w-8 bg-indigo-600 rounded-lg flex items-center justify-center mr-3">
-                <span className="text-white font-bold text-sm">GP</span>
+                <span className="text-white font-bold text-sm">PL</span>
               </div>
               <span className="text-xl font-bold text-gray-900">PathLink</span>
             </Link>
