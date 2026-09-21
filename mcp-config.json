@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "medical-guidedpath-ai": {
+      "command": "python",
+      "args": [
+        "-m",
+        "backend.mcp_server"
+      ],
+      "cwd": "/Users/jingwenwang/CascadeProjects/Ayuma",
+      "env": {
+        "PYTHONPATH": "/Users/jingwenwang/CascadeProjects/Ayuma/backend"
+      }
+    }
+  }
+}

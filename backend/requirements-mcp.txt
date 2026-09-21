@@ -1,0 +1,15 @@
+# MCP (Model Context Protocol) dependencies
+mcp>=0.9.0
+
+# Existing dependencies maintained for compatibility
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+aiohttp>=3.9.0
+sentence-transformers>=2.2.0
+chromadb>=0.4.0
+numpy>=1.24.0
+pandas>=2.0.0
+PyPDF2>=3.0.0
+tqdm>=4.65.0

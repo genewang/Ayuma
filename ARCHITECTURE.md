@@ -8,11 +8,12 @@ This document outlines the comprehensive architecture and implementation specifi
 2. [Component Architecture Diagram](#2-component-architecture-diagram)
 3. [Data Flow Architecture](#3-data-flow-architecture)
 4. [User Workflow Sequence](#4-user-workflow-sequence)
-5. [Database Schema Architecture](#5-database-schema-architecture)
-6. [Authentication & Security Flow](#6-authentication--security-flow)
-7. [Clinical Trial Matching Engine](#7-clinical-trial-matching-engine)
-8. [Deployment & CI/CD Pipeline](#8-deployment--cicd-pipeline)
-9. [Implementation Roadmap](#9-implementation-roadmap)
+5. [MCP Architecture](#5-mcp-architecture)
+6. [Database Schema Architecture](#6-database-schema-architecture)
+7. [Authentication & Security Flow](#7-authentication--security-flow)
+8. [Clinical Trial Matching Engine](#8-clinical-trial-matching-engine)
+9. [Deployment & CI/CD Pipeline](#9-deployment--cicd-pipeline)
+10. [Implementation Roadmap](#10-implementation-roadmap)
 
 ---
 
@@ -25,13 +26,22 @@ graph TB
         B[React Flow Visualization]
         C[Zustand State Management]
         D[Tailwind CSS Styling]
+        AC[MCP Client]
+    end
+
+    subgraph MCP Layer
+        AH[MCP Host - Port 8001]
+        AS[MCP Server - Tools & Resources]
     end
 
     subgraph Backend Services
         E[Supabase Backend]
         F[PostgreSQL Database]
         G[Authentication Service]
-        H[Serverless Functions]
+        H[FastAPI REST Server - Port 8000]
+        MC[Medical AI Controller]
+        MR[RAG System]
+        LC[LLM Coordinator]
     end
 
     subgraph External APIs
@@ -46,16 +56,21 @@ graph TB
         N[CDN & Edge Network]
         O[Serverless Runtime]
     end
-    
-    class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O lightFill
 
     A --> B
     A --> C
     A --> D
+    A --> AC
+    AC --> AH
+    AH --> AS
+    AS --> MC
+    MC --> MR
+    MC --> LC
+    A --> H
+    H --> MC
     A --> E
     E --> F
     E --> G
-    E --> H
     H --> I
     H --> J
     H --> K
@@ -101,11 +116,31 @@ graph TB
         T[useAssistancePrograms]
     end
 
+    subgraph MCP Client Layer
+        AC[MCP Client]
+        AD[MCP Tool Executor]
+        AE[MCP Resource Reader]
+    end
+
+    subgraph MCP Server Layer
+        AF[MCP Host - HTTP Transport]
+        AG[MCP Server - Tool Registry]
+        AH[MCP Server - Resource Registry]
+    end
+
+    subgraph AI Services Layer
+        AI[Medical AI Controller]
+        AJ[RAG System]
+        AK[LLM Coordinator]
+        AL[Evidence Ranker]
+    end
+
     subgraph API Layer
         U[Supabase Client]
         V[Clinical Trials Service]
         W[Guidelines Service]
         X[Medication Service]
+        Y[FastAPI REST Client]
     end
 
     A --> B
@@ -127,8 +162,34 @@ graph TB
     H --> T
     I --> S
 
+    Q --> AC
+    R --> AC
+    S --> AC
+    T --> AC
+
+    AC --> AD
+    AC --> AE
+    AD --> AF
+    AE --> AF
+
+    AF --> AG
+    AF --> AH
+    AG --> AI
+    AH --> AI
+
+    AI --> AJ
+    AI --> AK
+    AI --> AL
+
     M --> U
     N --> U
+    O --> U
+    P --> U
+
+    Q --> Y
+    R --> Y
+    S --> Y
+    T --> Y
     O --> U
     P --> U
 
@@ -156,48 +217,79 @@ flowchart TB
         H[Medication Store]
     end
 
+    subgraph MCP Client Layer
+        I[MCP Client]
+        J[Tool Execution]
+        K[Resource Reading]
+    end
+
+    subgraph MCP Server Layer
+        L[MCP Host]
+        M[MCP Server]
+    end
+
+    subgraph AI Processing
+        N[Medical AI Controller]
+        O[RAG System]
+        P[LLM Coordinator]
+        Q[Evidence Ranker]
+    end
+
     subgraph Data Processing
-        I[Eligibility Engine]
-        J[Guideline Matcher]
-        K[Trial Recommender]
-        L[Interaction Checker]
+        R[Eligibility Engine]
+        S[Guideline Matcher]
+        T[Trial Recommender]
+        U[Interaction Checker]
     end
 
     subgraph Data Sources
-        M[ASCO Guidelines DB]
-        N[ClinicalTrials.gov]
-        O[Medication Database]
-        P[Assistance Programs DB]
+        V[ASCO Guidelines DB]
+        W[ClinicalTrials.gov]
+        X[Medication Database]
+        Y[Assistance Programs DB]
+        Z[Vector Database]
     end
 
     subgraph Data Storage
-        Q[Patient Care Plans]
-        R[User Preferences]
-        S[Saved Trials]
-        T[Medication History]
+        AA[Patient Care Plans]
+        AB[User Preferences]
+        AC[Saved Trials]
+        AD[Medication History]
     end
 
     A --> B --> E
     C --> D
     E --> I
-    E --> J
-    E --> K
-    E --> L
+    I --> J
+    I --> K
+    J --> L
+    K --> L
+    L --> M
+    M --> N
+    N --> O
+    N --> P
+    N --> Q
+    O --> Z
 
-    I --> G
-    J --> F
-    K --> G
-    L --> H
+    E --> R
+    E --> S
+    E --> T
+    E --> U
 
-    F --> M
-    G --> N
-    H --> O
-    H --> P
+    R --> G
+    S --> F
+    T --> G
+    U --> H
 
-    E --> Q
-    F --> R
-    G --> S
-    H --> T
+    F --> V
+    G --> W
+    H --> X
+    H --> Y
+
+    E --> AA
+    F --> AB
+    G --> AC
+    H --> AD
 
 ```
 
@@ -208,6 +300,10 @@ sequenceDiagram
     participant U as User
     participant UI as React Interface
     participant SF as State Store
+    participant MC as MCP Client
+    participant MH as MCP Host
+    participant MS as MCP Server
+    participant AI as Medical AI Controller
     participant BE as Backend API
     participant DB as Database
     participant EXT as External APIs
@@ -227,27 +323,45 @@ sequenceDiagram
 
     U->>UI: Click Treatment Node
     UI->>SF: Set Selected Guideline
-    SF->>BE: Fetch Guideline Details
-    BE->>EXT: Request ASCO/EULAR Data
-    EXT-->>BE: Return Guidelines
-    BE-->>SF: Update Guidelines Store
+    SF->>MC: Request Treatment Info via MCP
+    MC->>MH: Call MCP Tool (process_medical_query)
+    MH->>MS: Execute Tool
+    MS->>AI: Process Query with RAG
+    AI->>AI: Retrieve from Vector DB
+    AI->>AI: Generate Response with LLM
+    AI-->>MS: Return AI Response
+    MS-->>MH: Return Tool Result
+    MH-->>MC: Return MCP Response
+    MC-->>SF: Update Guidelines Store
     SF-->>UI: Display Treatment Panel
 
     U->>UI: Open Clinical Trials
     UI->>SF: Trigger Trial Matching
-    SF->>BE: Request Trial Recommendations
-    BE->>EXT: Query ClinicalTrials.gov
-    EXT-->>BE: Return Trial Data
-    BE->>BE: Run Eligibility Algorithm
-    BE-->>SF: Return Filtered Trials
+    SF->>MC: Request Trial Matching via MCP
+    MC->>MH: Call MCP Tool (process_medical_query)
+    MH->>MS: Execute Tool
+    MS->>AI: Process Query with RAG
+    AI->>EXT: Query ClinicalTrials.gov
+    EXT-->>AI: Return Trial Data
+    AI->>AI: Run Eligibility Algorithm
+    AI-->>MS: Return Filtered Trials
+    MS-->>MH: Return Tool Result
+    MH-->>MC: Return MCP Response
+    MC-->>SF: Update Trials Store
     SF-->>UI: Display Matching Trials
 
     U->>UI: Add Medications
     UI->>SF: Update Medication List
-    SF->>BE: Check Drug Interactions
-    BE->>EXT: Verify with Drug DB
-    EXT-->>BE: Return Interactions
-    BE-->>SF: Update Interaction Alerts
+    SF->>MC: Check Drug Interactions via MCP
+    MC->>MH: Call MCP Tool (extract_medical_entities)
+    MH->>MS: Execute Tool
+    MS->>AI: Extract Entities & Check Interactions
+    AI->>EXT: Verify with Drug DB
+    EXT-->>AI: Return Interactions
+    AI-->>MS: Return Interaction Data
+    MS-->>MH: Return Tool Result
+    MH-->>MC: Return MCP Response
+    MC-->>SF: Update Interaction Alerts
     SF-->>UI: Show Safety Warnings
 
     U->>UI: Save Care Plan
@@ -259,7 +373,122 @@ sequenceDiagram
     SF-->>UI: Show Success Message
 ```
 
-## 5. Database Schema Architecture
+## 5. MCP Architecture
+
+The Model Context Protocol (MCP) provides a standardized protocol for tool-based communication between the React frontend and the medical AI backend.
+
+### MCP Components
+
+```mermaid
+graph TB
+    subgraph Frontend
+        FC[React Components]
+        MC[MCP Client]
+    end
+
+    subgraph MCP Transport
+        MH[MCP Host - HTTP]
+        MS[MCP Server - stdio]
+    end
+
+    subgraph AI Backend
+        AC[Medical AI Controller]
+        RG[RAG System]
+        LC[LLM Coordinator]
+        ER[Evidence Ranker]
+    end
+
+    subgraph Data Layer
+        VDB[Vector Database]
+        MDB[Medical Documents]
+    end
+
+    FC --> MC
+    MC --> MH
+    MH --> MS
+    MS --> AC
+    AC --> RG
+    AC --> LC
+    AC --> ER
+    RG --> VDB
+    RG --> MDB
+```
+
+### MCP Tools
+
+The MCP server exposes the following tools:
+
+| Tool Name | Description | Input Schema |
+|-----------|-------------|--------------|
+| `process_medical_query` | Process medical queries with RAG and evidence-based responses | `{query: string, patient_context?: object}` |
+| `validate_medical_query` | Validate and analyze medical queries for entities | `{query: string}` |
+| `extract_medical_entities` | Extract medical entities from text | `{text: string}` |
+| `ingest_medical_documents` | Ingest medical documents into knowledge base | `{documents: array}` |
+| `get_system_status` | Get system status and performance metrics | `{}` |
+
+### MCP Resources
+
+The MCP server provides the following resources:
+
+| Resource URI | Name | Description |
+|--------------|------|-------------|
+| `medical://guidelines/status` | System Status | Current status of the medical AI system |
+| `medical://guidelines/capabilities` | AI Capabilities | Available AI capabilities and models |
+
+### MCP Communication Flow
+
+```mermaid
+sequenceDiagram
+    participant RC as React Component
+    participant MC as MCP Client
+    participant MH as MCP Host
+    participant MS as MCP Server
+    participant AI as Medical AI Controller
+
+    RC->>MC: Call convenience method
+    MC->>MH: HTTP POST /mcp
+    Note over MH: JSON-RPC 2.0 Request
+    MH->>MS: Execute tool via stdio
+    MS->>AI: Process request
+    AI->>AI: RAG retrieval + LLM generation
+    AI-->>MS: Return result
+    MS-->>MH: Return tool result
+    MH-->>MC: JSON-RPC 2.0 Response
+    MC-->>RC: Parsed result
+```
+
+### MCP vs REST API
+
+The system supports both MCP and REST API communication:
+
+| Aspect | MCP | REST API |
+|--------|-----|----------|
+| Protocol | JSON-RPC 2.0 | HTTP/REST |
+| Transport | stdio + HTTP bridge | HTTP |
+| Discovery | Built-in tool/resource listing | Manual API documentation |
+| Type Safety | JSON schemas for inputs/outputs | OpenAPI/Swagger |
+| Use Case | AI tool interactions | General API operations |
+| Port | 8001 | 8000 |
+
+### MCP Configuration
+
+The MCP system is configured via `mcp-config.json`:
+
+```json
+{
+  "mcpServers": {
+    "medical-guidedpath-ai": {
+      "command": "python",
+      "args": ["-m", "backend.mcp_server"],
+      "cwd": "/Users/jingwenwang/CascadeProjects/Ayuma"
+    }
+  }
+}
+```
+
+For detailed MCP implementation information, see `MCP_ARCHITECTURE.md`.
+
+## 7. Database Schema Architecture
 
 ```mermaid
 erDiagram
@@ -358,7 +587,7 @@ erDiagram
     }
 ```
 
-## 6. Authentication & Security Flow
+## 8. Authentication & Security Flow
 
 ```mermaid
 flowchart TB
@@ -400,7 +629,7 @@ flowchart TB
 
 ```
 
-## 7. Clinical Trial Matching Engine
+## 9. Clinical Trial Matching Engine
 
 ```mermaid
 flowchart LR
@@ -445,7 +674,7 @@ flowchart LR
 
 ```
 
-## 8. Deployment & CI/CD Pipeline
+## 10. Deployment & CI/CD Pipeline
 
 ```mermaid
 flowchart TB
